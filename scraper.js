@@ -6,11 +6,10 @@ async function scrapeJobs() {
   try {
     const BASE_URL = 'https://www.tourmag.com/welcometothetravel/';
     const allOffers = [];
-    const maxPages = 30; // Charger jusqu'à 30 pages (300 offres)
+    const maxPages = 30;
     
     console.log('🚀 Début du scraping...');
     
-    // Charger toutes les pages en parallèle pour plus de rapidité
     const pagesToFetch = Array.from({ length: maxPages }, (_, i) => i);
     
     const fetchPromises = pagesToFetch.map(async (pageNum) => {
@@ -34,24 +33,24 @@ async function scrapeJobs() {
         const html = await response.text();
         const root = parse(html);
         
-        // Cibler uniquement les offres dans le bloc avec l'ID spécifique
         const offerBlock = root.querySelector('#mod_38716852');
         if (!offerBlock) {
           console.warn(`⚠️ Page ${pageNum} : Bloc #mod_38716852 non trouvé`);
           return [];
         }
         
-        const offerElements = offerBlock.querySelectorAll('div.cel1');
+        // Récupérer tous les éléments d'offre
+        const offerRows = offerBlock.querySelectorAll('div.cel1');
         const pageOffers = [];
         
-        offerElements.forEach(element => {
+        offerRows.forEach(element => {
           const link = element.querySelector('a');
           
           if (link) {
             const href = link.getAttribute('href');
-            const title = link.text.trim();
+            const titleText = link.text.trim();
             
-            if (href && title) {
+            if (href && titleText) {
               let fullUrl = href;
               if (!href.startsWith('http')) {
                 fullUrl = href.startsWith('/') 
@@ -59,18 +58,38 @@ async function scrapeJobs() {
                   : `https://www.tourmag.com/${href}`;
               }
               
+              // Extraire la localisation du titre
+              let location = 'Non précisée';
+              const locationMatch = titleText.match(/\((.*?)\)/);
+              if (locationMatch) {
+                location = locationMatch[1].trim();
+              }
+              
+              // Récupérer la date dans le parent
               let date = '';
-              const parentElement = element.parentNode;
-              if (parentElement) {
-                const dateElement = parentElement.querySelector('.date, .cel2, [class*="date"]');
+              const parentRow = element.parentNode;
+              if (parentRow) {
+                // Chercher la date dans les éléments frères
+                const dateElement = parentRow.querySelector('.cel2, .date');
                 if (dateElement) {
                   date = dateElement.text.trim();
                 }
               }
               
+              // Si pas de date trouvée, chercher autrement
+              if (!date) {
+                const allText = parentRow ? parentRow.text : '';
+                const dateRegex = /(\d{1,2}\s+(?:janvier|février|mars|avril|mai|juin|juillet|août|septembre|octobre|novembre|décembre)\s+\d{4}|NEW)/i;
+                const dateMatch = allText.match(dateRegex);
+                if (dateMatch) {
+                  date = dateMatch[0].trim();
+                }
+              }
+              
               pageOffers.push({
-                title: title,
+                title: titleText,
                 link: fullUrl,
+                location: location,
                 description: '',
                 pubDate: date || 'Non précisée'
               });
@@ -89,7 +108,6 @@ async function scrapeJobs() {
     
     const results = await Promise.all(fetchPromises);
     
-    // Fusionner tous les résultats et dédupliquer
     results.forEach(pageOffers => {
       pageOffers.forEach(offer => {
         if (!allOffers.find(o => o.link === offer.link)) {
@@ -100,13 +118,11 @@ async function scrapeJobs() {
     
     console.log(`\n📊 Total: ${allOffers.length} offres récupérées`);
     
-    // Créer le répertoire data s'il n'existe pas
     const dataDir = path.join(process.cwd(), 'data');
     if (!fs.existsSync(dataDir)) {
       fs.mkdirSync(dataDir, { recursive: true });
     }
     
-    // Sauvegarder les données dans un fichier JSON
     const outputData = {
       success: true,
       total: allOffers.length,
@@ -125,7 +141,6 @@ async function scrapeJobs() {
   } catch (error) {
     console.error('❌ Erreur lors du scraping:', error);
     
-    // En cas d'erreur, créer un fichier JSON avec erreur
     const errorData = {
       success: false,
       total: 0,
@@ -146,7 +161,6 @@ async function scrapeJobs() {
   }
 }
 
-// Exécuter le scraper
 scrapeJobs()
   .then(data => {
     console.log('\n🎉 Scraping terminé avec succès !');
