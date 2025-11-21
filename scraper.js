@@ -33,24 +33,27 @@ async function scrapeJobs() {
         const html = await response.text();
         const root = parse(html);
         
+        // Cibler uniquement les offres dans le bloc avec l'ID spécifique
         const offerBlock = root.querySelector('#mod_38716852');
         if (!offerBlock) {
           console.warn(`⚠️ Page ${pageNum} : Bloc #mod_38716852 non trouvé`);
           return [];
         }
         
-        // Récupérer tous les éléments d'offre
-        const offerRows = offerBlock.querySelectorAll('div.cel1');
+        const offerElements = offerBlock.querySelectorAll('div.cel1');
         const pageOffers = [];
         
-        offerRows.forEach(element => {
-          const link = element.querySelector('a');
+        offerElements.forEach(element => {
+          const descBlock = element.querySelector('.desc');
+          if (!descBlock) return;
+          
+          const link = descBlock.querySelector('.titre a');
           
           if (link) {
             const href = link.getAttribute('href');
-            const titleText = link.text.trim();
+            const title = link.text.trim();
             
-            if (href && titleText) {
+            if (href && title) {
               let fullUrl = href;
               if (!href.startsWith('http')) {
                 fullUrl = href.startsWith('/') 
@@ -58,36 +61,26 @@ async function scrapeJobs() {
                   : `https://www.tourmag.com/${href}`;
               }
               
-              // Extraire la localisation du titre
-              let location = 'Non précisée';
-              const locationMatch = titleText.match(/\((.*?)\)/);
-              if (locationMatch) {
-                location = locationMatch[1].trim();
-              }
-              
-              // Récupérer la date dans le parent
+              // Extraction de la date
               let date = '';
-              const parentRow = element.parentNode;
-              if (parentRow) {
-                // Chercher la date dans les éléments frères
-                const dateElement = parentRow.querySelector('.cel2, .date');
-                if (dateElement) {
-                  date = dateElement.text.trim();
-                }
+              const dateElement = element.querySelector('.date_new');
+              if (dateElement) {
+                date = dateElement.text.trim();
               }
               
-              // Si pas de date trouvée, chercher autrement
-              if (!date) {
-                const allText = parentRow ? parentRow.text : '';
-                const dateRegex = /(\d{1,2}\s+(?:janvier|février|mars|avril|mai|juin|juillet|août|septembre|octobre|novembre|décembre)\s+\d{4}|NEW)/i;
-                const dateMatch = allText.match(dateRegex);
-                if (dateMatch) {
-                  date = dateMatch[0].trim();
+              // Extraction de la localisation depuis le dernier div.description
+              let location = 'Non précisée';
+              const descriptionDivs = descBlock.querySelectorAll('.description');
+              // Le dernier div.description contient la localisation (ex: "75 Paris")
+              if (descriptionDivs.length > 1) {
+                const locationElement = descriptionDivs[descriptionDivs.length - 1];
+                if (locationElement && !locationElement.querySelector('.reference')) {
+                  location = locationElement.text.trim();
                 }
               }
               
               pageOffers.push({
-                title: titleText,
+                title: title,
                 link: fullUrl,
                 location: location,
                 description: '',
@@ -108,6 +101,7 @@ async function scrapeJobs() {
     
     const results = await Promise.all(fetchPromises);
     
+    // Fusionner tous les résultats et dédupliquer
     results.forEach(pageOffers => {
       pageOffers.forEach(offer => {
         if (!allOffers.find(o => o.link === offer.link)) {
@@ -118,11 +112,13 @@ async function scrapeJobs() {
     
     console.log(`\n📊 Total: ${allOffers.length} offres récupérées`);
     
+    // Créer le répertoire data s'il n'existe pas
     const dataDir = path.join(process.cwd(), 'data');
     if (!fs.existsSync(dataDir)) {
       fs.mkdirSync(dataDir, { recursive: true });
     }
     
+    // Sauvegarder les données dans un fichier JSON
     const outputData = {
       success: true,
       total: allOffers.length,
@@ -161,6 +157,7 @@ async function scrapeJobs() {
   }
 }
 
+// Exécuter le scraper
 scrapeJobs()
   .then(data => {
     console.log('\n🎉 Scraping terminé avec succès !');
