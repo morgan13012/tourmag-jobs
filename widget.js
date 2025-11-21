@@ -5,7 +5,7 @@
   const WIDGET_CONFIG = {
     // ⚠️ IMPORTANT : Remplacer "VOTRE-USERNAME" par votre nom d'utilisateur GitHub
     // et "VOTRE-REPO" par le nom de votre repository
-    apiUrl: 'https://VOTRE-USERNAME.github.io/VOTRE-REPO/data/jobs.json',
+    apiUrl: 'https://morgan13012.github.io/tourmag-jobs/data/jobs.json',
     containerId: 'tourmag-jobs-widget',
     styles: `
       .tmg-widget-container {
