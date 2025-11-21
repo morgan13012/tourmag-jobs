@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 133,
+  "total": 134,
   "offers": [
     {
       "title": "ORSUD - Chargé(e) d’implémentation Online H/F - CDI - (Marseille 9e)",
@@ -15,6 +15,13 @@
       "location": "Non précisée",
       "description": "",
       "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Responsable d'Unité Technique H/F - CDI - (Orléans (45))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Responsable-d-Unite-Technique-H-F-CDI-Orleans-45_pa266550.html",
+      "location": "Orléans",
+      "description": "",
+      "pubDate": "NEW 00:00"
     },
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Claye Souilly (77))",
@@ -934,5 +941,5 @@
       "pubDate": "28 Août"
     }
   ],
-  "scrapedAt": "2025-11-21T19:16:21.712Z"
+  "scrapedAt": "2025-11-21T20:21:30.316Z"
 }
