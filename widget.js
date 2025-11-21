@@ -432,70 +432,85 @@
     }
     
     parseFrenchDate(dateStr) {
-      if (!dateStr || dateStr === 'Non précisée' || dateStr.includes('NEW')) {
-        return null;
-      }
-      
-      const months = {
-        'janvier': 0, 'février': 1, 'mars': 2, 'avril': 3,
-        'mai': 4, 'juin': 5, 'juillet': 6, 'août': 7,
-        'septembre': 8, 'octobre': 9, 'novembre': 10, 'décembre': 11
-      };
-      
-      const match = dateStr.match(/(\d{1,2})\s+(\w+)\s+(\d{4})/);
-      if (match) {
-        const day = parseInt(match[1]);
-        const month = months[match[2].toLowerCase()];
-        const year = parseInt(match[3]);
-        
-        if (month !== undefined) {
-          return new Date(year, month, day);
-        }
-      }
-      
-      return null;
-    }
+  // Si c'est "NEW", c'est aujourd'hui
+  if (dateStr.includes('NEW')) {
+    return new Date();
+  }
+
+  // Parse "14 Octobre" (format sans année)
+  const match = dateStr.match(/(\d+)\s+(\w+)/i);
+  if (!match) {
+    return null;
+  }
+
+  const day = parseInt(match[1], 10);
+  const monthName = match[2].toLowerCase();
+  
+  const months = {
+    'janvier': 0, 'février': 1, 'fevrier': 1, 'mars': 2, 'avril': 3,
+    'mai': 4, 'juin': 5, 'juillet': 6, 'août': 7, 'aout': 7,
+    'septembre': 8, 'octobre': 9, 'novembre': 10, 'décembre': 11, 'decembre': 11
+  };
+  
+  const monthIndex = months[monthName];
+
+  if (monthIndex === undefined) {
+    return null;
+  }
+
+  const now = new Date();
+  let year = now.getFullYear();
+
+  // Créer la date avec l'année courante
+  let date = new Date(year, monthIndex, day);
+
+  // Si la date est dans le futur, c'est l'année précédente
+  if (date > now) {
+    date.setFullYear(year - 1);
+  }
+
+  return date;
+}
     
     matchesDateFilter(dateStr, filter) {
-      if (!filter) return true;
-      
-      const offerDate = this.parseFrenchDate(dateStr);
-      if (!offerDate) {
-        if (dateStr.includes('NEW')) {
-          return true;
-        }
-        return false;
-      }
-      
-      const now = new Date();
-      now.setHours(0, 0, 0, 0);
-      
-      if (dateStr.includes('NEW')) {
-        return true;
-      }
-      
-      if (filter === 'today') {
-        const today = new Date();
-        today.setHours(0, 0, 0, 0);
-        return offerDate.getTime() >= today.getTime();
-      }
-      
-      if (filter === 'week') {
-        const weekAgo = new Date();
-        weekAgo.setDate(weekAgo.getDate() - 7);
-        weekAgo.setHours(0, 0, 0, 0);
-        return offerDate.getTime() >= weekAgo.getTime();
-      }
-      
-      if (filter === 'month') {
-        const monthAgo = new Date();
-        monthAgo.setDate(monthAgo.getDate() - 30);
-        monthAgo.setHours(0, 0, 0, 0);
-        return offerDate.getTime() >= monthAgo.getTime();
-      }
-      
-      return true;
-    }
+  if (!filter) return true;
+
+  const offerDate = this.parseFrenchDate(dateStr);
+  if (!offerDate) return false;
+
+  const now = new Date();
+  now.setHours(0, 0, 0, 0); // Début de la journée
+
+  // Les offres "NEW" passent toujours tous les filtres
+  if (dateStr.includes('NEW')) {
+    return true;
+  }
+
+  if (filter === 'today') {
+    // Aujourd'hui : même jour
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+    return offerDate.getTime() >= today.getTime();
+  }
+
+  if (filter === 'week') {
+    // Cette semaine : 7 derniers jours
+    const weekAgo = new Date();
+    weekAgo.setDate(weekAgo.getDate() - 7);
+    weekAgo.setHours(0, 0, 0, 0);
+    return offerDate.getTime() >= weekAgo.getTime();
+  }
+
+  if (filter === 'month') {
+    // Ce mois : 30 derniers jours
+    const monthAgo = new Date();
+    monthAgo.setDate(monthAgo.getDate() - 30);
+    monthAgo.setHours(0, 0, 0, 0);
+    return offerDate.getTime() >= monthAgo.getTime();
+  }
+
+  return true;
+}
     
     async fetchOffers() {
       const loadingEl = document.getElementById('tmg-loading');
