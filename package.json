@@ -1,0 +1,12 @@
+{
+  "name": "tourmag-jobs-scraper",
+  "version": "2.0.0",
+  "description": "Scraper d'offres d'emploi TourMaG avec GitHub Actions",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scraper.js"
+  },
+  "dependencies": {
+    "node-html-parser": "^6.1.13"
+  }
+}
