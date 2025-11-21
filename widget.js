@@ -483,30 +483,41 @@
     /**
      * Parse une date française (ex: "14 Octobre") et retourne un objet Date
      */
-    parseFrenchDate(dateStr) {
-      if (dateStr.includes('NEW')) {
-        return new Date();
-      }
+  parseFrenchDate(dateStr) {
+  if (!dateStr || dateStr === 'Non précisée') {
+    return null;
+  }
+  
+  if (dateStr.includes('NEW')) {
+    return new Date();
+  }
 
-      const match = dateStr.match(/(\d+)\s+(\w+)/i);
-      if (!match) return null;
+  // Parse "14 Novembre" (avec majuscule)
+  const match = dateStr.match(/(\d+)\s+(\w+)/i);
+  if (!match) return null;
 
-      const day = parseInt(match[1], 10);
-      const monthName = match[2].toLowerCase();
-      const monthIndex = FRENCH_MONTHS[monthName];
+  const day = parseInt(match[1], 10);
+  const monthName = match[2].toLowerCase().trim();
+  
+  const monthIndex = FRENCH_MONTHS[monthName];
 
-      if (monthIndex === undefined) return null;
+  if (monthIndex === undefined) {
+    console.log(`❌ Mois non reconnu: "${monthName}" dans "${dateStr}"`);
+    return null;
+  }
 
-      const now = new Date();
-      let year = now.getFullYear();
-      let date = new Date(year, monthIndex, day);
+  const now = new Date();
+  let year = now.getFullYear();
+  let date = new Date(year, monthIndex, day);
 
-      if (date > now) {
-        date.setFullYear(year - 1);
-      }
+  // Si la date est dans le futur, c'est l'année précédente
+  if (date > now) {
+    date.setFullYear(year - 1);
+  }
 
-      return date;
-    }
+  console.log(`✅ Date parsée: ${dateStr} → ${date.toLocaleDateString('fr-FR')}`);
+  return date;
+}
     
     /**
      * Vérifie si une date correspond au filtre sélectionné
