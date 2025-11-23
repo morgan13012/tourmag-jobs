@@ -3,6 +3,13 @@
   "total": 134,
   "offers": [
     {
+      "title": "EVAO VOYAGES - Conseiller voyages sur mesure H/F - CDI - (Lyon 2e)",
+      "link": "https://www.tourmag.com/classifieds/EVAO-VOYAGES-Conseiller-voyages-sur-mesure-H-F-CDI-Lyon-2e_pa266472.html",
+      "location": "Lyon",
+      "description": "",
+      "pubDate": "24 Novembre"
+    },
+    {
       "title": "ORSUD - Chargé(e) d’implémentation Online H/F - CDI - (Marseille 9e)",
       "link": "https://www.tourmag.com/classifieds/ORSUD-Charge-e-d-implementation-Online-H-F-CDI-Marseille-9e_pa266541.html",
       "location": "Marseille",
@@ -155,13 +162,6 @@
       "location": "Nantes",
       "description": "",
       "pubDate": "17 Novembre"
-    },
-    {
-      "title": "EVAO VOYAGES - Conseiller voyages sur mesure H/F - CDI - (Lyon 2e)",
-      "link": "https://www.tourmag.com/classifieds/EVAO-VOYAGES-Conseiller-voyages-sur-mesure-H-F-CDI-Lyon-2e_pa266472.html",
-      "location": "Lyon",
-      "description": "",
-      "pubDate": "14 Novembre"
     },
     {
       "title": "SIGNATURE D'EXCEPTION BY SOLEA-  Conseiller(ère) Voyages H/F - CDI - (Paris 11e)",
@@ -941,5 +941,5 @@
       "pubDate": "28 Août"
     }
   ],
-  "scrapedAt": "2025-11-23T20:20:42.696Z"
+  "scrapedAt": "2025-11-23T21:16:41.277Z"
 }
