@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 135,
+  "total": 134,
   "offers": [
     {
       "title": "MYCOMM - Billettiste H/F - CDI - (Gentilly (94))",
@@ -265,13 +265,6 @@
       "title": "BCD TRAVEL - Conseillers voyages d'affaires H/F - CDI - (Présentiel sur Paris, Montpellier, Lille, Montrouge ou travail à distance)",
       "link": "https://www.tourmag.com/classifieds/BCD-TRAVEL-Conseillers-voyages-d-affaires-H-F-CDI-Presentiel-sur-Paris-Montpellier-Lille-Montrouge-ou-travail-a_pa266426.html",
       "location": "Paris, Montpellier, Lille, Montrouge",
-      "description": "",
-      "pubDate": "7 Novembre"
-    },
-    {
-      "title": "TRAVELJOBS POUR UNE AGENCE DE VOYAGES DU CEDIV - 2 Conseillers voyages confirmés H/F - (Le Puy en Velay (43) et Castanet (31))",
-      "link": "https://www.tourmag.com/classifieds/TRAVELJOBS-POUR-UNE-AGENCE-DE-VOYAGES-DU-CEDIV-2-Conseillers-voyages-confirmes-H-F-Le-Puy-en-Velay-43-et-Castanet-31_pa266462.html",
-      "location": "Le Puy en Velay et Castanet",
       "description": "",
       "pubDate": "7 Novembre"
     },
@@ -948,5 +941,5 @@
       "pubDate": "28 Août"
     }
   ],
-  "scrapedAt": "2025-11-24T15:22:08.972Z"
+  "scrapedAt": "2025-11-24T16:22:09.502Z"
 }
