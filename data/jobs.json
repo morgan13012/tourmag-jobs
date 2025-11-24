@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 134,
+  "total": 135,
   "offers": [
+    {
+      "title": "MYCOMM - Billettiste H/F - CDI - (Gentilly (94))",
+      "link": "https://www.tourmag.com/classifieds/MYCOMM-Billettiste-H-F-CDI-Gentilly-94_pa266551.html",
+      "location": "Gentilly",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
     {
       "title": "EVAO VOYAGES - Conseiller voyages sur mesure H/F - CDI - (Lyon 2e)",
       "link": "https://www.tourmag.com/classifieds/EVAO-VOYAGES-Conseiller-voyages-sur-mesure-H-F-CDI-Lyon-2e_pa266472.html",
@@ -941,5 +948,5 @@
       "pubDate": "28 Août"
     }
   ],
-  "scrapedAt": "2025-11-24T14:20:01.502Z"
+  "scrapedAt": "2025-11-24T15:22:08.972Z"
 }
