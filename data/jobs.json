@@ -1,11 +1,18 @@
 {
   "success": true,
-  "total": 134,
+  "total": 135,
   "offers": [
     {
       "title": "MYCOMM - Billettiste H/F - CDI - (Gentilly (94))",
       "link": "https://www.tourmag.com/classifieds/MYCOMM-Billettiste-H-F-CDI-Gentilly-94_pa266551.html",
       "location": "Gentilly",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "ELLIPSE VOYAGE - 2 Conseillers voyages confirmés H/F - (Le Puy en Velay (43) et Castanet (31))",
+      "link": "https://www.tourmag.com/classifieds/ELLIPSE-VOYAGE-2-Conseillers-voyages-confirmes-H-F-Le-Puy-en-Velay-43-et-Castanet-31_pa266462.html",
+      "location": "Le Puy en Velay et Castanet",
       "description": "",
       "pubDate": "NEW 23:00"
     },
@@ -941,5 +948,5 @@
       "pubDate": "28 Août"
     }
   ],
-  "scrapedAt": "2025-11-24T17:18:43.319Z"
+  "scrapedAt": "2025-11-24T18:29:21.775Z"
 }
