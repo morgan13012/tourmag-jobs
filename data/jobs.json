@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 133,
+  "total": 132,
   "offers": [
     {
       "title": "MYCOMM - Billettiste H/F - CDI - (Arcueil (94))",
@@ -125,13 +125,6 @@
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Rosny sous Bois (93))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Rosny-sous-Bois-93_pa265715.html",
       "location": "Rosny sous Bois",
-      "description": "",
-      "pubDate": "21 Novembre"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD - (Vannes (56))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Vannes-56_pa265710.html",
-      "location": "Vannes",
       "description": "",
       "pubDate": "21 Novembre"
     },
@@ -934,5 +927,5 @@
       "pubDate": "28 Août"
     }
   ],
-  "scrapedAt": "2025-11-25T14:20:07.362Z"
+  "scrapedAt": "2025-11-25T15:21:49.188Z"
 }
