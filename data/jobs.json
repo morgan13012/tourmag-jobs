@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 132,
+  "total": 133,
   "offers": [
+    {
+      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Mantes la Jolie (78))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Mantes-la-Jolie-78_pa266554.html",
+      "location": "Mantes la Jolie",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "MYCOMM - Billettiste H/F - CDI - (Arcueil (94))",
       "link": "https://www.tourmag.com/classifieds/MYCOMM-Billettiste-H-F-CDI-Arcueil-94_pa266551.html",
@@ -927,5 +934,5 @@
       "pubDate": "28 Août"
     }
   ],
-  "scrapedAt": "2025-11-26T13:34:05.956Z"
+  "scrapedAt": "2025-11-26T14:20:41.174Z"
 }
