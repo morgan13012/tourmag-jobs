@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 133,
+  "total": 134,
   "offers": [
+    {
+      "title": "ALLIANCE DU MONDE - 2 Techniciens H/F - CDI - (Vincennes (94))",
+      "link": "https://www.tourmag.com/classifieds/ALLIANCE-DU-MONDE-2-Techniciens-H-F-CDI-Vincennes-94_pa266555.html",
+      "location": "Vincennes",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "ALGERIE TOURS - Conseiller vendeur voyages expérimenté H/F - CDI - (Marseille 15e)",
       "link": "https://www.tourmag.com/classifieds/ALGERIE-TOURS-Conseiller-vendeur-voyages-experimente-H-F-CDI-Marseille-15e_pa266556.html",
@@ -934,5 +941,5 @@
       "pubDate": "28 Août"
     }
   ],
-  "scrapedAt": "2025-11-27T10:21:47.993Z"
+  "scrapedAt": "2025-11-27T11:17:39.403Z"
 }
