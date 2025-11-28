@@ -1,11 +1,18 @@
 {
   "success": true,
-  "total": 134,
+  "total": 135,
   "offers": [
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD 2 mois  - ((Ollioules (83))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-2-mois-Ollioules-83_pa266561.html",
       "location": "Ollioules",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "VOYAGES PLUS - Technicien Billettiste Groupes H/F - CDI - (Région Ile de France)",
+      "link": "https://www.tourmag.com/classifieds/VOYAGES-PLUS-Technicien-Billettiste-Groupes-H-F-CDI-Region-Ile-de-France_pa266558.html",
+      "location": "Ile de France",
       "description": "",
       "pubDate": "NEW 23:30"
     },
@@ -941,5 +948,5 @@
       "pubDate": "3 Septembre"
     }
   ],
-  "scrapedAt": "2025-11-28T14:19:26.823Z"
+  "scrapedAt": "2025-11-28T15:19:25.213Z"
 }
