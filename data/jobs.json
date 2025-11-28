@@ -1,7 +1,21 @@
 {
   "success": true,
-  "total": 133,
+  "total": 134,
   "offers": [
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD 2 mois  - ((Ollioules (83))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-2-mois-Ollioules-83_pa266561.html",
+      "location": "Ollioules",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD 5 mois  - ((Ollioules (83))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-5-mois-Ollioules-83_pa266435.html",
+      "location": "Ollioules",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "ALLIANCE DU MONDE - 2 Techniciens H/F - CDI - (Vincennes (94))",
       "link": "https://www.tourmag.com/classifieds/ALLIANCE-DU-MONDE-2-Techniciens-H-F-CDI-Vincennes-94_pa266555.html",
@@ -62,13 +76,6 @@
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Pontault-Combault (77))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Pontault-Combault-77_pa266436.html",
       "location": "Pontault-Combault",
-      "description": "",
-      "pubDate": "27 Novembre"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - ((Ollioules (83))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Ollioules-83_pa266435.html",
-      "location": "Ollioules",
       "description": "",
       "pubDate": "27 Novembre"
     },
@@ -934,5 +941,5 @@
       "pubDate": "3 Septembre"
     }
   ],
-  "scrapedAt": "2025-11-28T09:20:11.830Z"
+  "scrapedAt": "2025-11-28T10:21:07.728Z"
 }
