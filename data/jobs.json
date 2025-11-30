@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 135,
+  "total": 134,
   "offers": [
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD 2 mois  - ((Ollioules (83))",
@@ -836,13 +836,6 @@
       "pubDate": "23 Septembre"
     },
     {
-      "title": "E-LECLERC VOYAGES - Responsable Concept voyages H/F - CDI - (Lumbres (62))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-Concept-voyages-H-F-CDI-Lumbres-62_pa266288.html",
-      "location": "Lumbres",
-      "description": "",
-      "pubDate": "23 Septembre"
-    },
-    {
       "title": "AUCHAN VOYAGES - Conseiller voyages H/F - CDI - (Arras (62))",
       "link": "https://www.tourmag.com/classifieds/AUCHAN-VOYAGES-Conseiller-voyages-H-F-CDI-Arras-62_pa266345.html",
       "location": "Arras",
@@ -948,5 +941,5 @@
       "pubDate": "3 Septembre"
     }
   ],
-  "scrapedAt": "2025-11-30T22:17:57.776Z"
+  "scrapedAt": "2025-11-30T23:17:26.272Z"
 }
