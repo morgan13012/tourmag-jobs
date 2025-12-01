@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 136,
+  "total": 137,
   "offers": [
     {
       "title": "MONDELIOS - Commercial(e) Groupes Junior ou Confirmé(e) - CDI - (Aubergenville dans les Yvelines (78) ou région)",
@@ -8,6 +8,13 @@
       "location": "Aubergenville dans les Yvelines (78) ou région",
       "description": "",
       "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Paris (75))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Paris-75_pa266563.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 00:00"
     },
     {
       "title": "LE GROUPE SALAUN - Assistant technique de production et réservation H/F - CDI - (Châteaulin (29))",
@@ -955,5 +962,5 @@
       "pubDate": "3 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-01T15:21:25.443Z"
+  "scrapedAt": "2025-12-01T16:28:10.893Z"
 }
