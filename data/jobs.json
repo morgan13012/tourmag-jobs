@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 138,
+  "total": 136,
   "offers": [
     {
       "title": "MONDELIOS - Commercial(e) Groupes Junior ou Confirmé(e) - CDI - (Aubergenville dans les Yvelines (78) ou région)",
@@ -752,13 +752,6 @@
       "pubDate": "3 Octobre"
     },
     {
-      "title": "GOLF PLUS VOYAGES - Conseiller spécialisé Voyages sur-mesure expérimenté H/F - CDI - (Paris 12e)",
-      "link": "https://www.tourmag.com/classifieds/GOLF-PLUS-VOYAGES-Conseiller-specialise-Voyages-sur-mesure-experimente-H-F-CDI-Paris-12e_pa266293.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "3 Octobre"
-    },
-    {
       "title": "E-LECLERC VOYAGES - 2 Conseillers voyages H/F - CDI - (Bayeux (14))",
       "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-2-Conseillers-voyages-H-F-CDI-Bayeux-14_pa266321.html",
       "location": "Bayeux",
@@ -846,13 +839,6 @@
       "title": "VOTRE VOYAGE/MYHONEYMOON - Conseiller(ère) Voyages H/F - CDI - (Fontainebleau (77))",
       "link": "https://www.tourmag.com/classifieds/VOTRE-VOYAGE-MYHONEYMOON-Conseiller-ere-Voyages-H-F-CDI-Fontainebleau-77_pa266304.html",
       "location": "Fontainebleau",
-      "description": "",
-      "pubDate": "23 Septembre"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Assistant(e) Technique de production Voyages Groupes H/F - CDI - (École-Valentin (25))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Assistant-e-Technique-de-production-Voyages-Groupes-H-F-CDI-Ecole-Valentin-25_pa266292.html",
-      "location": "École-Valentin",
       "description": "",
       "pubDate": "23 Septembre"
     },
@@ -969,5 +955,5 @@
       "pubDate": "3 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-01T22:17:16.052Z"
+  "scrapedAt": "2025-12-01T23:18:31.285Z"
 }
