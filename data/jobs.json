@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 137,
+  "total": 138,
   "offers": [
     {
       "title": "MONDELIOS - Commercial(e) Groupes Junior ou Confirmé(e) - CDI - (Aubergenville dans les Yvelines (78) ou région)",
@@ -8,6 +8,13 @@
       "location": "Aubergenville dans les Yvelines (78) ou région",
       "description": "",
       "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Blois (41))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Blois-41_pa266568.html",
+      "location": "Blois",
+      "description": "",
+      "pubDate": "NEW 00:00"
     },
     {
       "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Paris (75))",
@@ -962,5 +969,5 @@
       "pubDate": "3 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-01T17:21:01.921Z"
+  "scrapedAt": "2025-12-01T18:33:14.394Z"
 }
