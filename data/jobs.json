@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 135,
+  "total": 136,
   "offers": [
+    {
+      "title": "MONDELIOS - Commercial(e) Groupes Junior ou Confirmé(e) - CDI - (Aubergenville dans les Yvelines (78) ou région)",
+      "link": "https://www.tourmag.com/classifieds/MONDELIOS-Commercial-e-Groupes-Junior-ou-Confirme-e-CDI-Aubergenville-dans-les-Yvelines-78-ou-region_pa266560.html",
+      "location": "Aubergenville dans les Yvelines (78) ou région",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
     {
       "title": "LE GROUPE SALAUN - Assistant technique de production et réservation H/F - CDI - (Châteaulin (29))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Assistant-technique-de-production-et-reservation-H-F-CDI-Chateaulin-29_pa266562.html",
@@ -948,5 +955,5 @@
       "pubDate": "3 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-01T12:41:28.868Z"
+  "scrapedAt": "2025-12-01T13:34:38.416Z"
 }
