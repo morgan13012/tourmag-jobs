@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 136,
+  "total": 137,
   "offers": [
+    {
+      "title": "NG TRAVEL - Spécialiste GDS Yield Transport H/F - CDI - (Paris (75))",
+      "link": "https://www.tourmag.com/classifieds/NG-TRAVEL-Specialiste-GDS-Yield-Transport-H-F-CDI-Paris-75_pa266569.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "MONDELIOS - Commercial(e) Groupes Junior ou Confirmé(e) - CDI - (Aubergenville dans les Yvelines (78) ou région)",
       "link": "https://www.tourmag.com/classifieds/MONDELIOS-Commercial-e-Groupes-Junior-ou-Confirme-e-CDI-Aubergenville-dans-les-Yvelines-78-ou-region_pa266560.html",
@@ -955,5 +962,5 @@
       "pubDate": "3 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-02T09:25:30.496Z"
+  "scrapedAt": "2025-12-02T10:21:53.964Z"
 }
