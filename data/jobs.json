@@ -1,13 +1,13 @@
 {
   "success": true,
-  "total": 137,
+  "total": 133,
   "offers": [
     {
       "title": "NG TRAVEL - Spécialiste GDS Yield Transport H/F - CDI - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/NG-TRAVEL-Specialiste-GDS-Yield-Transport-H-F-CDI-Paris-75_pa266569.html",
       "location": "Paris",
       "description": "",
-      "pubDate": "NEW 23:30"
+      "pubDate": "2 Décembre"
     },
     {
       "title": "MONDELIOS - Commercial(e) Groupes Junior ou Confirmé(e) - CDI - (Aubergenville dans les Yvelines (78) ou région)",
@@ -647,13 +647,6 @@
       "pubDate": "15 Octobre"
     },
     {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Quimper (29))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Quimper-29_pa266299.html",
-      "location": "Quimper",
-      "description": "",
-      "pubDate": "15 Octobre"
-    },
-    {
       "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDD - (Rennes (35))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDD-Rennes-35_pa266406.html",
       "location": "Rennes",
@@ -843,13 +836,6 @@
       "pubDate": "23 Septembre"
     },
     {
-      "title": "VOTRE VOYAGE/MYHONEYMOON - Conseiller(ère) Voyages H/F - CDI - (Fontainebleau (77))",
-      "link": "https://www.tourmag.com/classifieds/VOTRE-VOYAGE-MYHONEYMOON-Conseiller-ere-Voyages-H-F-CDI-Fontainebleau-77_pa266304.html",
-      "location": "Fontainebleau",
-      "description": "",
-      "pubDate": "23 Septembre"
-    },
-    {
       "title": "TUI STORE - Conseiller(e) voyages H/F - CDI - (Marseille St Barnabé 12e)",
       "link": "https://www.tourmag.com/classifieds/TUI-STORE-Conseiller-e-voyages-H-F-CDI-Marseille-St-Barnabe-12e_pa266306.html",
       "location": "Marseille",
@@ -946,21 +932,7 @@
       "location": "Epinal",
       "description": "",
       "pubDate": "4 Septembre"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Responsable d'agence de voyages H/F - CDI - (Besançon (25))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Responsable-d-agence-de-voyages-H-F-CDI-Besancon-25_pa266302.html",
-      "location": "Besançon",
-      "description": "",
-      "pubDate": "3 Septembre"
-    },
-    {
-      "title": "AUCHAN VOYAGES - Conseiller voyages expérimenté H/F - CDI - (Faches Thumesnil (59))",
-      "link": "https://www.tourmag.com/classifieds/AUCHAN-VOYAGES-Conseiller-voyages-experimente-H-F-CDI-Faches-Thumesnil-59_pa266294.html",
-      "location": "Faches Thumesnil",
-      "description": "",
-      "pubDate": "3 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-02T22:16:51.878Z"
+  "scrapedAt": "2025-12-02T23:17:36.223Z"
 }
