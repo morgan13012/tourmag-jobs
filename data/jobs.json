@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 133,
+  "total": 131,
   "offers": [
     {
       "title": "NG TRAVEL - Spécialiste GDS Yield Transport H/F - CDI - (Paris (75))",
@@ -836,13 +836,6 @@
       "pubDate": "23 Septembre"
     },
     {
-      "title": "TUI STORE - Conseiller(e) voyages H/F - CDI - (Marseille St Barnabé 12e)",
-      "link": "https://www.tourmag.com/classifieds/TUI-STORE-Conseiller-e-voyages-H-F-CDI-Marseille-St-Barnabe-12e_pa266306.html",
-      "location": "Marseille",
-      "description": "",
-      "pubDate": "23 Septembre"
-    },
-    {
       "title": "AUCHAN VOYAGES - Conseiller voyages H/F - CDI - (Arras (62))",
       "link": "https://www.tourmag.com/classifieds/AUCHAN-VOYAGES-Conseiller-voyages-H-F-CDI-Arras-62_pa266345.html",
       "location": "Arras",
@@ -925,14 +918,7 @@
       "location": "Lyon",
       "description": "",
       "pubDate": "8 Septembre"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Epinal (88))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Epinal-88_pa266305.html",
-      "location": "Epinal",
-      "description": "",
-      "pubDate": "4 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-03T22:19:44.605Z"
+  "scrapedAt": "2025-12-03T23:17:08.680Z"
 }
