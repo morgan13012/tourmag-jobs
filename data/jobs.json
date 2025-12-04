@@ -1,7 +1,35 @@
 {
   "success": true,
-  "total": 129,
+  "total": 128,
   "offers": [
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD 2 mois  - ((Ollioules (83))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-2-mois-Ollioules-83_pa266561.html",
+      "location": "Ollioules",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Claye Souilly (77))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Claye-Souilly-77_pa266548.html",
+      "location": "Claye Souilly",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Antibes (06))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Antibes-06_pa266546.html",
+      "location": "Antibes",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD 5 mois  - ((Ollioules (83))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-5-mois-Ollioules-83_pa266435.html",
+      "location": "Ollioules",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "NG TRAVEL - Spécialiste GDS Yield Transport H/F - CDI - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/NG-TRAVEL-Specialiste-GDS-Yield-Transport-H-F-CDI-Paris-75_pa266569.html",
@@ -38,23 +66,9 @@
       "pubDate": "1 Décembre"
     },
     {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD 2 mois  - ((Ollioules (83))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-2-mois-Ollioules-83_pa266561.html",
-      "location": "Ollioules",
-      "description": "",
-      "pubDate": "28 Novembre"
-    },
-    {
       "title": "VOYAGES PLUS - Technicien Billettiste Groupes H/F - CDI - (Région Ile de France)",
       "link": "https://www.tourmag.com/classifieds/VOYAGES-PLUS-Technicien-Billettiste-Groupes-H-F-CDI-Region-Ile-de-France_pa266558.html",
       "location": "Ile de France",
-      "description": "",
-      "pubDate": "28 Novembre"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD 5 mois  - ((Ollioules (83))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-5-mois-Ollioules-83_pa266435.html",
-      "location": "Ollioules",
       "description": "",
       "pubDate": "28 Novembre"
     },
@@ -90,27 +104,6 @@
       "title": "ASSUREVER - Responsable commercial Sud-Ouest H/F - CDI  - (Basé idéalement dans le 31 ou le 47)",
       "link": "https://www.tourmag.com/classifieds/ASSUREVER-Responsable-commercial-Sud-Ouest-H-F-CDI-Base-idealement-dans-le-31-ou-le-47_pa266489.html",
       "location": "Non précisée",
-      "description": "",
-      "pubDate": "27 Novembre"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Claye Souilly (77))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Claye-Souilly-77_pa266548.html",
-      "location": "Claye Souilly",
-      "description": "",
-      "pubDate": "27 Novembre"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Antibes (06))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Antibes-06_pa266547.html",
-      "location": "Antibes",
-      "description": "",
-      "pubDate": "27 Novembre"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Antibes (06))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Antibes-06_pa266546.html",
-      "location": "Antibes",
       "description": "",
       "pubDate": "27 Novembre"
     },
@@ -906,5 +899,5 @@
       "pubDate": "8 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-04T14:20:59.681Z"
+  "scrapedAt": "2025-12-04T15:23:06.061Z"
 }
