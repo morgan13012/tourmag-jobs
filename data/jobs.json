@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 131,
+  "total": 129,
   "offers": [
     {
       "title": "NG TRAVEL - Spécialiste GDS Yield Transport H/F - CDI - (Paris (75))",
@@ -850,20 +850,6 @@
       "pubDate": "22 Septembre"
     },
     {
-      "title": "SEZAME DES VOYAGES - Conseiller(ère) Voyages B2C - CDI - (Marseille (13))",
-      "link": "https://www.tourmag.com/classifieds/SEZAME-DES-VOYAGES-Conseiller-ere-Voyages-B2C-CDI-Marseille-13_pa265198.html",
-      "location": "Marseille",
-      "description": "",
-      "pubDate": "18 Septembre"
-    },
-    {
-      "title": "CLIMATS DU MONDE - Conseiller(e) voyages Tour-opérateur H/F - CDI - (Marseille (13))",
-      "link": "https://www.tourmag.com/classifieds/CLIMATS-DU-MONDE-Conseiller-e-voyages-Tour-operateur-H-F-CDI-Marseille-13_pa264579.html",
-      "location": "Marseille",
-      "description": "",
-      "pubDate": "18 Septembre"
-    },
-    {
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages Affaire expérimenté H/F - CDI - (Sèvres (92))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-Affaire-experimente-H-F-CDI-Sevres-92_pa266337.html",
       "location": "Sèvres",
@@ -920,5 +906,5 @@
       "pubDate": "8 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-04T09:24:25.414Z"
+  "scrapedAt": "2025-12-04T10:23:41.730Z"
 }
