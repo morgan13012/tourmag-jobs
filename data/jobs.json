@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 130,
+  "total": 129,
   "offers": [
     {
       "title": "NG TRAVEL - Spécialiste GDS Yield Transport H/F - CDI - (Paris (75))",
@@ -323,13 +323,6 @@
       "location": "Marseille",
       "description": "",
       "pubDate": "13 Novembre"
-    },
-    {
-      "title": "TUI STORE - Conseiller(e) voyages H/F - CDI - (Paris Roquette 11e)",
-      "link": "https://www.tourmag.com/classifieds/TUI-STORE-Conseiller-e-voyages-H-F-CDI-Paris-Roquette-11e_pa266465.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "12 Novembre"
     },
     {
       "title": "VOYAGES D'EXCEPTION - Conseiller(ère) Voyages & Croisières H/F - (Paris 11e)",
@@ -913,5 +906,5 @@
       "pubDate": "8 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-05T14:20:18.994Z"
+  "scrapedAt": "2025-12-05T15:21:13.928Z"
 }
