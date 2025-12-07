@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 129,
+  "total": 126,
   "offers": [
     {
       "title": "NG TRAVEL - Spécialiste GDS Yield Transport H/F - CDI - (Paris (75))",
@@ -682,13 +682,6 @@
       "pubDate": "13 Octobre"
     },
     {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Montbrison (42))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Montbrison-42_pa266311.html",
-      "location": "Montbrison",
-      "description": "",
-      "pubDate": "8 Octobre"
-    },
-    {
       "title": "CE EVASION - Forfaitiste groupes collectivités H/F - CDI - (Paris, Lyon ou Rouen)",
       "link": "https://www.tourmag.com/classifieds/CE-EVASION-Forfaitiste-groupes-collectivites-H-F-CDI-Paris-Lyon-ou-Rouen_pa266389.html",
       "location": "Paris, Lyon ou Rouen",
@@ -747,13 +740,6 @@
     {
       "title": "VISITEURS - Commercial(e) BtoB – Tourisme sur mesure & circuits d’exception - CDI - (Paris/Ile de France et Province)",
       "link": "https://www.tourmag.com/classifieds/VISITEURS-Commercial-e-BtoB-Tourisme-sur-mesure-circuits-d-exception-CDI-Paris-Ile-de-France-et-Province_pa266342.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "3 Octobre"
-    },
-    {
-      "title": "AKILANGA DMC & EVENTS - Conseillers Vendeurs spécialistes voyages sur-mesure BtoB et BtoC H/F - CDI - (Paris)",
-      "link": "https://www.tourmag.com/classifieds/AKILANGA-DMC-EVENTS-Conseillers-Vendeurs-specialistes-voyages-sur-mesure-BtoB-et-BtoC-H-F-CDI-Paris_pa266310.html",
       "location": "Paris",
       "description": "",
       "pubDate": "3 Octobre"
@@ -897,14 +883,7 @@
       "location": "Ecully",
       "description": "",
       "pubDate": "10 Septembre"
-    },
-    {
-      "title": "VOYAMAR/MARIETTON DEVELOPPEMENT - Agent de réservation H/F - CDI - (Lyon (69))",
-      "link": "https://www.tourmag.com/classifieds/VOYAMAR-MARIETTON-DEVELOPPEMENT-Agent-de-reservation-H-F-CDI-Lyon-69_pa266309.html",
-      "location": "Lyon",
-      "description": "",
-      "pubDate": "8 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-07T22:17:40.178Z"
+  "scrapedAt": "2025-12-07T23:16:54.099Z"
 }
