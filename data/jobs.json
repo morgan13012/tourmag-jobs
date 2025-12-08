@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 126,
+  "total": 121,
   "offers": [
     {
       "title": "ELLIPSE VOYAGE - 2 Conseillers voyages confirmés H/F - (Le Puy en Velay (43) et Castanet (31))",
@@ -367,13 +367,6 @@
       "pubDate": "7 Novembre"
     },
     {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Poitiers (86))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Poitiers-86_pa266467.html",
-      "location": "Poitiers",
-      "description": "",
-      "pubDate": "7 Novembre"
-    },
-    {
       "title": "HELIADES/MARIETTON DEVELOPPEMENT - Agent de réservation H/F - CDI - (Aix-en-Provence (13))",
       "link": "https://www.tourmag.com/classifieds/HELIADES-MARIETTON-DEVELOPPEMENT-Agent-de-reservation-H-F-CDI-Aix-en-Provence-13_pa266417.html",
       "location": "Aix-en-Provence",
@@ -510,13 +503,6 @@
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Nantes (44))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Nantes-44_pa266423.html",
       "location": "Nantes",
-      "description": "",
-      "pubDate": "23 Octobre"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages Affaire expérimenté H/F - CDI - (Montpellier (34))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-Affaire-experimente-H-F-CDI-Montpellier-34_pa266332.html",
-      "location": "Montpellier",
       "description": "",
       "pubDate": "23 Octobre"
     },
@@ -808,13 +794,6 @@
       "pubDate": "26 Septembre"
     },
     {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages Affaires expérimenté H/F - CDI - (Blagnac (31))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-Affaires-experimente-H-F-CDI-Blagnac-31_pa266355.html",
-      "location": "Blagnac",
-      "description": "",
-      "pubDate": "25 Septembre"
-    },
-    {
       "title": "JET TOURS - Délégué Commercial Sud-Est H/F - CDI - (Entre Marseille et Nice)",
       "link": "https://www.tourmag.com/classifieds/JET-TOURS-Delegue-Commercial-Sud-Est-H-F-CDI-Entre-Marseille-et-Nice_pa266340.html",
       "location": "Entre Marseille et Nice",
@@ -857,20 +836,6 @@
       "pubDate": "17 Septembre"
     },
     {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages Affaires expérimenté H/F - CDI - (Nantes (44))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-Affaires-experimente-H-F-CDI-Nantes-44_pa266331.html",
-      "location": "Non précisée",
-      "description": "",
-      "pubDate": "17 Septembre"
-    },
-    {
-      "title": "AUSTRAL LAGONS - Commercial expérimenté BtoB H/F - CDI - (Région Rhône-Alpes)",
-      "link": "https://www.tourmag.com/classifieds/AUSTRAL-LAGONS-Commercial-experimente-BtoB-H-F-CDI-Region-Rhone-Alpes_pa266323.html",
-      "location": "Non précisée",
-      "description": "",
-      "pubDate": "16 Septembre"
-    },
-    {
       "title": "VOYAMAR et HELIADES / MARIETTON DEVELOPPEMENT - Responsable Commercial BtoB Paris Sud et Est parisien H/F - CDI - (Paris)",
       "link": "https://www.tourmag.com/classifieds/VOYAMAR-et-HELIADES-MARIETTON-DEVELOPPEMENT-Responsable-Commercial-BtoB-Paris-Sud-et-Est-parisien-H-F-CDI-Paris_pa266320.html",
       "location": "Paris",
@@ -885,5 +850,5 @@
       "pubDate": "10 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-08T16:27:23.080Z"
+  "scrapedAt": "2025-12-08T17:19:45.457Z"
 }
