@@ -3,6 +3,13 @@
   "total": 126,
   "offers": [
     {
+      "title": "ELLIPSE VOYAGE - 2 Conseillers voyages confirmés H/F - (Le Puy en Velay (43) et Castanet (31))",
+      "link": "https://www.tourmag.com/classifieds/ELLIPSE-VOYAGE-2-Conseillers-voyages-confirmes-H-F-Le-Puy-en-Velay-43-et-Castanet-31_pa266462.html",
+      "location": "Le Puy en Velay et Castanet",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
       "title": "NG TRAVEL - Spécialiste GDS Yield Transport H/F - CDI - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/NG-TRAVEL-Specialiste-GDS-Yield-Transport-H-F-CDI-Paris-75_pa266569.html",
       "location": "Paris",
@@ -197,13 +204,6 @@
       "location": "Mantes la Jolie",
       "description": "",
       "pubDate": "26 Novembre"
-    },
-    {
-      "title": "ELLIPSE VOYAGE - 2 Conseillers voyages confirmés H/F - (Le Puy en Velay (43) et Castanet (31))",
-      "link": "https://www.tourmag.com/classifieds/ELLIPSE-VOYAGE-2-Conseillers-voyages-confirmes-H-F-Le-Puy-en-Velay-43-et-Castanet-31_pa266462.html",
-      "location": "Le Puy en Velay et Castanet",
-      "description": "",
-      "pubDate": "24 Novembre"
     },
     {
       "title": "EVAO VOYAGES - Conseiller voyages sur mesure H/F - CDI - (Lyon 2e)",
@@ -885,5 +885,5 @@
       "pubDate": "10 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-08T14:21:33.629Z"
+  "scrapedAt": "2025-12-08T15:22:26.001Z"
 }
