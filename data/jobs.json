@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 121,
+  "total": 120,
   "offers": [
     {
       "title": "ELLIPSE VOYAGE - 2 Conseillers voyages confirmés H/F - (Le Puy en Velay (43) et Castanet (31))",
@@ -710,13 +710,6 @@
       "pubDate": "3 Octobre"
     },
     {
-      "title": "COMPTOIR DES VOYAGES - Responsable d’Agence / Conseiller Spécialisé F/H - CDI - (Toulouse (31))",
-      "link": "https://www.tourmag.com/classifieds/COMPTOIR-DES-VOYAGES-Responsable-d-Agence-Conseiller-Specialise-F-H-CDI-Toulouse-31_pa266313.html",
-      "location": "Toulouse",
-      "description": "",
-      "pubDate": "3 Octobre"
-    },
-    {
       "title": "BEAU VOYAGE - Conseiller.ère Voyages sur-mesure expérimenté.e - CDI - (Montpellier (34))",
       "link": "https://www.tourmag.com/classifieds/BEAU-VOYAGE-Conseiller-ere-Voyages-sur-mesure-experimente-e-CDI-Montpellier-34_pa266366.html",
       "location": "Montpellier",
@@ -850,5 +843,5 @@
       "pubDate": "10 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-08T22:18:52.409Z"
+  "scrapedAt": "2025-12-08T23:19:09.162Z"
 }
