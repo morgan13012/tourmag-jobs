@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 120,
+  "total": 121,
   "offers": [
+    {
+      "title": "SOLEA  - 2 Agents de réservation H/F  - CDD - (Paris 11e)",
+      "link": "https://www.tourmag.com/classifieds/SOLEA-2-Agents-de-reservation-H-F-CDD-Paris-11e_pa266598.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "ELLIPSE VOYAGE - 2 Conseillers voyages confirmés H/F - (Le Puy en Velay (43) et Castanet (31))",
       "link": "https://www.tourmag.com/classifieds/ELLIPSE-VOYAGE-2-Conseillers-voyages-confirmes-H-F-Le-Puy-en-Velay-43-et-Castanet-31_pa266462.html",
@@ -843,5 +850,5 @@
       "pubDate": "10 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-09T10:23:54.304Z"
+  "scrapedAt": "2025-12-09T11:18:55.819Z"
 }
