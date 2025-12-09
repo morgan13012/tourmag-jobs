@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 121,
+  "total": 119,
   "offers": [
     {
       "title": "SOLEA  - 2 Agents de réservation H/F  - CDD - (Paris 11e)",
@@ -834,21 +834,7 @@
       "location": "Avignon",
       "description": "",
       "pubDate": "17 Septembre"
-    },
-    {
-      "title": "VOYAMAR et HELIADES / MARIETTON DEVELOPPEMENT - Responsable Commercial BtoB Paris Sud et Est parisien H/F - CDI - (Paris)",
-      "link": "https://www.tourmag.com/classifieds/VOYAMAR-et-HELIADES-MARIETTON-DEVELOPPEMENT-Responsable-Commercial-BtoB-Paris-Sud-et-Est-parisien-H-F-CDI-Paris_pa266320.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "10 Septembre"
-    },
-    {
-      "title": "SELECTOUR AILLEURS VOYAGES - Responsable d'agence de voyages H/F - CDI - (Ecully (69))",
-      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Ecully-69_pa266317.html",
-      "location": "Ecully",
-      "description": "",
-      "pubDate": "10 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-09T22:19:47.915Z"
+  "scrapedAt": "2025-12-09T23:18:57.349Z"
 }
