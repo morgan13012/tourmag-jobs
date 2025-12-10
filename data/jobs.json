@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 119,
+  "total": 118,
   "offers": [
+    {
+      "title": "ROND POINT EVASION - Commercial(e) Groupes confirmé(e) BtoC H/F - CDI - (Secteur Normandie)",
+      "link": "https://www.tourmag.com/classifieds/ROND-POINT-EVASION-Commercial-e-Groupes-confirme-e-BtoC-H-F-CDI-Secteur-Normandie_pa266422.html",
+      "location": "Normandie",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
     {
       "title": "SOLEA  - 2 Agents de réservation H/F  - CDD - (Paris 11e)",
       "link": "https://www.tourmag.com/classifieds/SOLEA-2-Agents-de-reservation-H-F-CDD-Paris-11e_pa266598.html",
@@ -458,13 +465,6 @@
       "pubDate": "3 Novembre"
     },
     {
-      "title": "VOYAMAR/MARIETTON DEVELOPPEMENT - Responsable Commercial BtoB Région Grand Ouest H/F - CDI - (Nantes (44) ou Rennes (35))",
-      "link": "https://www.tourmag.com/classifieds/VOYAMAR-MARIETTON-DEVELOPPEMENT-Responsable-Commercial-BtoB-Region-Grand-Ouest-H-F-CDI-Nantes-44-ou-Rennes-35_pa266440.html",
-      "location": "Nantes ou Rennes",
-      "description": "",
-      "pubDate": "3 Novembre"
-    },
-    {
       "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Dieppe (76))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Dieppe-76_pa266434.html",
       "location": "Dieppe",
@@ -512,13 +512,6 @@
       "location": "Nantes",
       "description": "",
       "pubDate": "23 Octobre"
-    },
-    {
-      "title": "ROND POINT EVASION - Commercial(e) Groupes confirmé(e) BtoC H/F - CDI - (Secteur Normandie)",
-      "link": "https://www.tourmag.com/classifieds/ROND-POINT-EVASION-Commercial-e-Groupes-confirme-e-BtoC-H-F-CDI-Secteur-Normandie_pa266422.html",
-      "location": "Normandie",
-      "description": "",
-      "pubDate": "21 Octobre"
     },
     {
       "title": "TOP OF TRAVEL  - 2 Agents de réservation H/F - CDI - (Montreuil (93))",
@@ -836,5 +829,5 @@
       "pubDate": "17 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-10T10:23:46.538Z"
+  "scrapedAt": "2025-12-10T11:17:53.980Z"
 }
