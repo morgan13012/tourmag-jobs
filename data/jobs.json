@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 121,
+  "total": 122,
   "offers": [
+    {
+      "title": "GLOBE VOYAGES - Concepteur de voyages de groupes H/F - CDD - (Rodange - Grand-Duché de Luxembourg)",
+      "link": "https://www.tourmag.com/classifieds/GLOBE-VOYAGES-Concepteur-de-voyages-de-groupes-H-F-CDD-Rodange-Grand-Duche-de-Luxembourg_pa266605.html",
+      "location": "Rodange",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "DOUBLE SENS - Conseiller(e) Voyages BtoC H/F  - CDI - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/DOUBLE-SENS-Conseiller-e-Voyages-BtoC-H-F-CDI-Paris-75_pa266604.html",
@@ -850,5 +857,5 @@
       "pubDate": "17 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-11T14:21:26.585Z"
+  "scrapedAt": "2025-12-11T15:24:08.689Z"
 }
