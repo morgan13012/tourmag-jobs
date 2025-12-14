@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 122,
+  "total": 121,
   "offers": [
     {
       "title": "GLOBE VOYAGES - Concepteur de voyages de groupes H/F - CDD - (Rodange - Grand-Duché de Luxembourg)",
@@ -752,13 +752,6 @@
       "pubDate": "3 Octobre"
     },
     {
-      "title": "E-LECLERC VOYAGES - 2 Conseillers voyages H/F - CDI - (Bayeux (14))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-2-Conseillers-voyages-H-F-CDI-Bayeux-14_pa266321.html",
-      "location": "Bayeux",
-      "description": "",
-      "pubDate": "3 Octobre"
-    },
-    {
       "title": "CFA VOYAGES - Conseiller voyages spécialiste Asie du Sud-Est, Japon, Australie, USA, Polynésie et Egypte H/F - CDI  - (Paris 13e)",
       "link": "https://www.tourmag.com/classifieds/CFA-VOYAGES-Conseiller-voyages-specialiste-Asie-du-Sud-Est-Japon-Australie-USA-Polynesie-et-Egypte-H-F-CDI-Paris-13e_pa266367.html",
       "location": "Paris",
@@ -857,5 +850,5 @@
       "pubDate": "17 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-14T22:17:47.060Z"
+  "scrapedAt": "2025-12-14T23:17:38.921Z"
 }
