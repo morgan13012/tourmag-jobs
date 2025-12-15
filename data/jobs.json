@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 121,
+  "total": 120,
   "offers": [
     {
       "title": "GLOBE VOYAGES - Concepteur de voyages de groupes H/F - CDD - (Rodange - Grand-Duché de Luxembourg)",
@@ -731,13 +731,6 @@
       "pubDate": "3 Octobre"
     },
     {
-      "title": "JMB VOYAGES - Responsable d'agence de voyages H/F - CDD - (Grenoble (38))",
-      "link": "https://www.tourmag.com/classifieds/JMB-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDD-Grenoble-38_pa266322.html",
-      "location": "Grenoble",
-      "description": "",
-      "pubDate": "3 Octobre"
-    },
-    {
       "title": "BEAU VOYAGE - Conseiller.ère Voyages sur-mesure expérimenté.e - CDI - (Montpellier (34))",
       "link": "https://www.tourmag.com/classifieds/BEAU-VOYAGE-Conseiller-ere-Voyages-sur-mesure-experimente-e-CDI-Montpellier-34_pa266366.html",
       "location": "Montpellier",
@@ -850,5 +843,5 @@
       "pubDate": "17 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-15T22:19:47.092Z"
+  "scrapedAt": "2025-12-15T23:19:33.948Z"
 }
