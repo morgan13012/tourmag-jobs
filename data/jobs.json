@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 120,
+  "total": 91,
   "offers": [
+    {
+      "title": "MSC CROISIERES - Commercial CSE, collectivités et associations H/F - CDI - (Montrouge (92))",
+      "link": "https://www.tourmag.com/classifieds/MSC-CROISIERES-Commercial-CSE-collectivites-et-associations-H-F-CDI-Montrouge-92_pa266666.html",
+      "location": "Montrouge",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
     {
       "title": "GLOBE VOYAGES - Concepteur de voyages de groupes H/F - CDD - (Rodange - Grand-Duché de Luxembourg)",
       "link": "https://www.tourmag.com/classifieds/GLOBE-VOYAGES-Concepteur-de-voyages-de-groupes-H-F-CDD-Rodange-Grand-Duche-de-Luxembourg_pa266605.html",
@@ -136,76 +143,6 @@
       "pubDate": "10 Décembre"
     },
     {
-      "title": "ELLIPSE VOYAGE - 2 Conseillers voyages confirmés H/F - (Le Puy en Velay (43) et Castanet (31))",
-      "link": "https://www.tourmag.com/classifieds/ELLIPSE-VOYAGE-2-Conseillers-voyages-confirmes-H-F-Le-Puy-en-Velay-43-et-Castanet-31_pa266462.html",
-      "location": "Le Puy en Velay et Castanet",
-      "description": "",
-      "pubDate": "8 Décembre"
-    },
-    {
-      "title": "NG TRAVEL - Spécialiste GDS Yield Transport H/F - CDI - (Paris (75))",
-      "link": "https://www.tourmag.com/classifieds/NG-TRAVEL-Specialiste-GDS-Yield-Transport-H-F-CDI-Paris-75_pa266569.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "4 Décembre"
-    },
-    {
-      "title": "VOYAGES PLUS - Technicien Billettiste Groupes H/F - CDI - (Région Ile de France)",
-      "link": "https://www.tourmag.com/classifieds/VOYAGES-PLUS-Technicien-Billettiste-Groupes-H-F-CDI-Region-Ile-de-France_pa266558.html",
-      "location": "Ile de France",
-      "description": "",
-      "pubDate": "4 Décembre"
-    },
-    {
-      "title": "ALLIANCE DU MONDE - 2 Techniciens H/F - CDI - (Vincennes (94))",
-      "link": "https://www.tourmag.com/classifieds/ALLIANCE-DU-MONDE-2-Techniciens-H-F-CDI-Vincennes-94_pa266555.html",
-      "location": "Vincennes",
-      "description": "",
-      "pubDate": "4 Décembre"
-    },
-    {
-      "title": "MYCOMM - Billettiste H/F - CDI - (Arcueil (94))",
-      "link": "https://www.tourmag.com/classifieds/MYCOMM-Billettiste-H-F-CDI-Arcueil-94_pa266551.html",
-      "location": "Arcueil",
-      "description": "",
-      "pubDate": "4 Décembre"
-    },
-    {
-      "title": "ALGERIE TOURS - Conseiller vendeur voyages expérimenté H/F - CDI - (Marseille 15e)",
-      "link": "https://www.tourmag.com/classifieds/ALGERIE-TOURS-Conseiller-vendeur-voyages-experimente-H-F-CDI-Marseille-15e_pa266556.html",
-      "location": "Marseille",
-      "description": "",
-      "pubDate": "4 Décembre"
-    },
-    {
-      "title": "MONDELIOS - Commercial(e) Groupes Junior ou Confirmé(e) - CDI - (Aubergenville dans les Yvelines (78) ou région)",
-      "link": "https://www.tourmag.com/classifieds/MONDELIOS-Commercial-e-Groupes-Junior-ou-Confirme-e-CDI-Aubergenville-dans-les-Yvelines-78-ou-region_pa266560.html",
-      "location": "Aubergenville",
-      "description": "",
-      "pubDate": "4 Décembre"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Quétigny (21))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Quetigny-21_pa266593.html",
-      "location": "Quétigny",
-      "description": "",
-      "pubDate": "4 Décembre"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Thionville (57))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Thionville-57_pa266416.html",
-      "location": "Thionville",
-      "description": "",
-      "pubDate": "4 Décembre"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Blois (41))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Blois-41_pa266568.html",
-      "location": "Blois",
-      "description": "",
-      "pubDate": "1 Décembre"
-    },
-    {
       "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Paris-75_pa266563.html",
       "location": "Paris",
@@ -274,146 +211,6 @@
       "location": "Montigny Les Cormeilles",
       "description": "",
       "pubDate": "21 Novembre"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Rosny sous Bois (93))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Rosny-sous-Bois-93_pa265715.html",
-      "location": "Rosny sous Bois",
-      "description": "",
-      "pubDate": "21 Novembre"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDD - (Roquebrune Cap Martin (06))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDD-Roquebrune-Cap-Martin-06_pa266545.html",
-      "location": "Roquebrune Cap Martin",
-      "description": "",
-      "pubDate": "20 Novembre"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Menton (06))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Menton-06_pa266544.html",
-      "location": "Menton",
-      "description": "",
-      "pubDate": "20 Novembre"
-    },
-    {
-      "title": "AGENCE TUI (réseau mandataire) - Conseiller voyages confirmé H/F - CDI - (Lagny-sur-Marne (77))",
-      "link": "https://www.tourmag.com/classifieds/AGENCE-TUI-reseau-mandataire-Conseiller-voyages-confirme-H-F-CDI-Lagny-sur-Marne-77_pa266539.html",
-      "location": "Lagny-sur-Marne",
-      "description": "",
-      "pubDate": "18 Novembre"
-    },
-    {
-      "title": "LES MÔMES TROTTEURS - Chargé(e) de production voyages scolaires H/F - CDI  - (Saint-Martin-de-Crau (13) ou secteur Luberon vers Gordes (84))",
-      "link": "https://www.tourmag.com/classifieds/LES-MOMES-TROTTEURS-Charge-e-de-production-voyages-scolaires-H-F-CDI-Saint-Martin-de-Crau-13-ou-secteur-Luberon-vers_pa266483.html",
-      "location": "St Martin de Crau",
-      "description": "",
-      "pubDate": "17 Novembre"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Forfaitiste Groupes H/F - CDI - (Nantes (44))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Forfaitiste-Groupes-H-F-CDI-Nantes-44_pa266487.html",
-      "location": "Nantes",
-      "description": "",
-      "pubDate": "17 Novembre"
-    },
-    {
-      "title": "SIGNATURE D'EXCEPTION BY SOLEA-  Conseiller(ère) Voyages H/F - CDI - (Paris 11e)",
-      "link": "https://www.tourmag.com/classifieds/SIGNATURE-D-EXCEPTION-BY-SOLEA-Conseiller-ere-Voyages-H-F-CDI-Paris-11e_pa266469.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "14 Novembre"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDD - (Mulhouse (68))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDD-Mulhouse-68_pa266482.html",
-      "location": "Mulhouse",
-      "description": "",
-      "pubDate": "14 Novembre"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDD - (Thann (68))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDD-Thann-68_pa266481.html",
-      "location": "68 Thann",
-      "description": "",
-      "pubDate": "14 Novembre"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Béthune (62))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Bethune-62_pa266479.html",
-      "location": "Béthune",
-      "description": "",
-      "pubDate": "14 Novembre"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Ecole Valentin (25))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Ecole-Valentin-25_pa266478.html",
-      "location": "Ecole Valentin",
-      "description": "",
-      "pubDate": "13 Novembre"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Nice (06))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Nice-06_pa266475.html",
-      "location": "Nice",
-      "description": "",
-      "pubDate": "13 Novembre"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Marseille (13))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Marseille-13_pa266474.html",
-      "location": "Marseille",
-      "description": "",
-      "pubDate": "13 Novembre"
-    },
-    {
-      "title": "VOYAGES D'EXCEPTION - Conseiller(ère) Voyages & Croisières H/F - (Paris 11e)",
-      "link": "https://www.tourmag.com/classifieds/VOYAGES-D-EXCEPTION-Conseiller-ere-Voyages-Croisieres-H-F-Paris-11e_pa266463.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "7 Novembre"
-    },
-    {
-      "title": "TUI STORE - Conseiller(e) voyages expérimenté(e) H/F - CDI - (Amiens (80))",
-      "link": "https://www.tourmag.com/classifieds/TUI-STORE-Conseiller-e-voyages-experimente-e-H-F-CDI-Amiens-80_pa266459.html",
-      "location": "Amiens",
-      "description": "",
-      "pubDate": "7 Novembre"
-    },
-    {
-      "title": "E-LECLERC VOYAGES - Conseiller voyages H/F - CDI - (Avranches (50))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-voyages-H-F-CDI-Avranches-50_pa266453.html",
-      "location": "Avranches",
-      "description": "",
-      "pubDate": "7 Novembre"
-    },
-    {
-      "title": "SYLTOURS - Technicien(ne) Groupes H/F - CDI - (Boulogne-Billancourt (92))",
-      "link": "https://www.tourmag.com/classifieds/SYLTOURS-Technicien-ne-Groupes-H-F-CDI-Boulogne-Billancourt-92_pa266430.html",
-      "location": "Boulogne-Billancourt",
-      "description": "",
-      "pubDate": "7 Novembre"
-    },
-    {
-      "title": "BCD TRAVEL - Conseillers voyages d'affaires H/F - CDI - (Présentiel sur Paris, Montpellier, Lille, Montrouge ou travail à distance)",
-      "link": "https://www.tourmag.com/classifieds/BCD-TRAVEL-Conseillers-voyages-d-affaires-H-F-CDI-Presentiel-sur-Paris-Montpellier-Lille-Montrouge-ou-travail-a_pa266426.html",
-      "location": "Paris, Montpellier, Lille, Montrouge",
-      "description": "",
-      "pubDate": "7 Novembre"
-    },
-    {
-      "title": "E-LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Saint-Maur (36))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Saint-Maur-36_pa266425.html",
-      "location": "Saint-Maur",
-      "description": "",
-      "pubDate": "7 Novembre"
-    },
-    {
-      "title": "HELIADES/MARIETTON DEVELOPPEMENT - Agent de réservation H/F - CDI - (Aix-en-Provence (13))",
-      "link": "https://www.tourmag.com/classifieds/HELIADES-MARIETTON-DEVELOPPEMENT-Agent-de-reservation-H-F-CDI-Aix-en-Provence-13_pa266417.html",
-      "location": "Aix-en-Provence",
-      "description": "",
-      "pubDate": "7 Novembre"
     },
     {
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages H/F - CDI - (Senlis (60))",
@@ -843,5 +640,5 @@
       "pubDate": "17 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-16T12:42:51.217Z"
+  "scrapedAt": "2025-12-16T13:38:00.906Z"
 }
