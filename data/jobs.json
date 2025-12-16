@@ -10,6 +10,13 @@
       "pubDate": "NEW 23:00"
     },
     {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Cholet (49))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Cholet-49_pa265705.html",
+      "location": "Cholet",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
       "title": "GLOBE VOYAGES - Concepteur de voyages de groupes H/F - CDD - (Rodange - Grand-Duché de Luxembourg)",
       "link": "https://www.tourmag.com/classifieds/GLOBE-VOYAGES-Concepteur-de-voyages-de-groupes-H-F-CDD-Rodange-Grand-Duche-de-Luxembourg_pa266605.html",
       "location": "Rodange",
@@ -125,13 +132,6 @@
       "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - (Barentin (76))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Responsable-d-agence-H-F-Barentin-76_pa265707.html",
       "location": "Barentin",
-      "description": "",
-      "pubDate": "12 Décembre"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Cholet (49))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Cholet-49_pa265705.html",
-      "location": "Cholet",
       "description": "",
       "pubDate": "12 Décembre"
     },
@@ -850,5 +850,5 @@
       "pubDate": "17 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-16T14:23:10.417Z"
+  "scrapedAt": "2025-12-16T15:23:50.923Z"
 }
