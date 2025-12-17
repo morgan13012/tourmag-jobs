@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 117,
+  "total": 114,
   "offers": [
     {
       "title": "EXCLUSIF VOYAGES - Technicien(ne) Back-office confirmé(e) Voyages sur-mesure pour une clientèle de luxe H/F - CDI  - (Paris 1er)",
@@ -738,23 +738,9 @@
       "pubDate": "3 Octobre"
     },
     {
-      "title": "VISITEURS - Commercial(e) BtoB – Tourisme sur mesure & circuits d’exception - CDI - (Paris/Ile de France et Province)",
-      "link": "https://www.tourmag.com/classifieds/VISITEURS-Commercial-e-BtoB-Tourisme-sur-mesure-circuits-d-exception-CDI-Paris-Ile-de-France-et-Province_pa266342.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "3 Octobre"
-    },
-    {
       "title": "CFA VOYAGES - Conseiller voyages spécialiste Asie du Sud-Est, Japon, Australie, USA, Polynésie et Egypte H/F - CDI  - (Paris 13e)",
       "link": "https://www.tourmag.com/classifieds/CFA-VOYAGES-Conseiller-voyages-specialiste-Asie-du-Sud-Est-Japon-Australie-USA-Polynesie-et-Egypte-H-F-CDI-Paris-13e_pa266367.html",
       "location": "Paris",
-      "description": "",
-      "pubDate": "3 Octobre"
-    },
-    {
-      "title": "CROISILAND -  Agent de vente et de réservation H/F - CDI - (Le Bourget-du-Lac (73))",
-      "link": "https://www.tourmag.com/classifieds/CROISILAND-Agent-de-vente-et-de-reservation-H-F-CDI-Le-Bourget-du-Lac-73_pa266341.html",
-      "location": "Le Bourget-du-Lac",
       "description": "",
       "pubDate": "3 Octobre"
     },
@@ -801,13 +787,6 @@
       "pubDate": "26 Septembre"
     },
     {
-      "title": "JET TOURS - Délégué Commercial Sud-Est H/F - CDI - (Entre Marseille et Nice)",
-      "link": "https://www.tourmag.com/classifieds/JET-TOURS-Delegue-Commercial-Sud-Est-H-F-CDI-Entre-Marseille-et-Nice_pa266340.html",
-      "location": "Entre Marseille et Nice",
-      "description": "",
-      "pubDate": "23 Septembre"
-    },
-    {
       "title": "AUCHAN VOYAGES - Conseiller voyages H/F - CDI - (Arras (62))",
       "link": "https://www.tourmag.com/classifieds/AUCHAN-VOYAGES-Conseiller-voyages-H-F-CDI-Arras-62_pa266345.html",
       "location": "Arras",
@@ -822,5 +801,5 @@
       "pubDate": "22 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-17T22:19:18.534Z"
+  "scrapedAt": "2025-12-17T23:19:10.900Z"
 }
