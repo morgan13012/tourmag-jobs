@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 114,
+  "total": 112,
   "offers": [
     {
       "title": "EXCLUSIF VOYAGES - Technicien(ne) Back-office confirmé(e) Voyages sur-mesure pour une clientèle de luxe H/F - CDI  - (Paris 1er)",
@@ -785,21 +785,7 @@
       "location": "Cannes",
       "description": "",
       "pubDate": "26 Septembre"
-    },
-    {
-      "title": "AUCHAN VOYAGES - Conseiller voyages H/F - CDI - (Arras (62))",
-      "link": "https://www.tourmag.com/classifieds/AUCHAN-VOYAGES-Conseiller-voyages-H-F-CDI-Arras-62_pa266345.html",
-      "location": "Arras",
-      "description": "",
-      "pubDate": "22 Septembre"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages Affaires expérimenté H/F - CDI - (Guipavas (29))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-Affaires-experimente-H-F-CDI-Guipavas-29_pa266344.html",
-      "location": "Guipavas",
-      "description": "",
-      "pubDate": "22 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-18T22:19:08.865Z"
+  "scrapedAt": "2025-12-18T23:19:19.936Z"
 }
