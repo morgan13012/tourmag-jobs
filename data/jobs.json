@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 112,
+  "total": 106,
   "offers": [
     {
       "title": "EXCLUSIF VOYAGES - Technicien(ne) Back-office confirmé(e) Voyages sur-mesure pour une clientèle de luxe H/F - CDI  - (Paris 1er)",
@@ -227,13 +227,6 @@
       "pubDate": "1 Décembre"
     },
     {
-      "title": "LE GROUPE SALAUN - Assistant technique de production et réservation H/F - CDI - (Châteaulin (29))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Assistant-technique-de-production-et-reservation-H-F-CDI-Chateaulin-29_pa266562.html",
-      "location": "Châteaulin",
-      "description": "",
-      "pubDate": "1 Décembre"
-    },
-    {
       "title": "ORSUD - Chargé(e) d’implémentation Online H/F - CDI - (Marseille 9e)",
       "link": "https://www.tourmag.com/classifieds/ORSUD-Charge-e-d-implementation-Online-H-F-CDI-Marseille-9e_pa266541.html",
       "location": "Marseille",
@@ -349,13 +342,6 @@
       "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDD - (Thann (68))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDD-Thann-68_pa266481.html",
       "location": "68 Thann",
-      "description": "",
-      "pubDate": "14 Novembre"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Béthune (62))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Bethune-62_pa266479.html",
-      "location": "Béthune",
       "description": "",
       "pubDate": "14 Novembre"
     },
@@ -507,13 +493,6 @@
       "pubDate": "3 Novembre"
     },
     {
-      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Dieppe (76))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Dieppe-76_pa266434.html",
-      "location": "Dieppe",
-      "description": "",
-      "pubDate": "31 Octobre"
-    },
-    {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Rennes Cesson (35))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Rennes-Cesson-35_pa266437.html",
       "location": "Rennes Cesson",
@@ -568,13 +547,6 @@
       "location": "St Malo",
       "description": "",
       "pubDate": "21 Octobre"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Responsable d'Unité Technique H/F - CDI - (Agen (47))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Responsable-d-Unite-Technique-H-F-CDI-Agen-47_pa266418.html",
-      "location": "Agen",
-      "description": "",
-      "pubDate": "20 Octobre"
     },
     {
       "title": "NG TRAVEL - Office Manager H/F - CDI - (Paris 2e)",
@@ -675,13 +647,6 @@
       "pubDate": "15 Octobre"
     },
     {
-      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDD - (Rennes (35))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDD-Rennes-35_pa266406.html",
-      "location": "Rennes",
-      "description": "",
-      "pubDate": "14 Octobre"
-    },
-    {
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (St Dié (88))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-St-Die-88_pa266402.html",
       "location": "St Dié",
@@ -778,14 +743,7 @@
       "location": "Paris",
       "description": "",
       "pubDate": "29 Septembre"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Cannes (06))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Cannes-06_pa266356.html",
-      "location": "Cannes",
-      "description": "",
-      "pubDate": "26 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-22T20:22:20.190Z"
+  "scrapedAt": "2025-12-22T21:17:51.039Z"
 }
