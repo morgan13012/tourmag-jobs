@@ -1,7 +1,91 @@
 {
   "success": true,
-  "total": 106,
+  "total": 113,
   "offers": [
+    {
+      "title": "EXCLUSIF VOYAGES - Technicien(ne) Back-office confirmé(e) Voyages sur-mesure pour une clientèle de luxe H/F - CDI  - (Paris 1er)",
+      "link": "https://www.tourmag.com/classifieds/EXCLUSIF-VOYAGES-Technicien-ne-Back-office-confirme-e-Voyages-sur-mesure-pour-une-clientele-de-luxe-H-F-CDI-Paris-1er_pa266671.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "MSC CROISIERES - Commercial CSE, collectivités et associations H/F - CDI - (Montrouge (92))",
+      "link": "https://www.tourmag.com/classifieds/MSC-CROISIERES-Commercial-CSE-collectivites-et-associations-H-F-CDI-Montrouge-92_pa266666.html",
+      "location": "Montrouge",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "DOUBLE SENS - Conseiller(e) Voyages BtoC H/F  - CDI - (Paris (75))",
+      "link": "https://www.tourmag.com/classifieds/DOUBLE-SENS-Conseiller-e-Voyages-BtoC-H-F-CDI-Paris-75_pa266604.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "DOUBLE SENS - Gestionnaire Back-office H/F - CDI  - (Paris)",
+      "link": "https://www.tourmag.com/classifieds/DOUBLE-SENS-Gestionnaire-Back-office-H-F-CDI-Paris_pa266603.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "DOUBLE SENS - Responsable de Production H/F - CDI - (Paris (75))",
+      "link": "https://www.tourmag.com/classifieds/DOUBLE-SENS-Responsable-de-Production-H-F-CDI-Paris-75_pa266602.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "SOLEA  - 2 Agents de réservation H/F  - CDD - (Paris 11e)",
+      "link": "https://www.tourmag.com/classifieds/SOLEA-2-Agents-de-reservation-H-F-CDD-Paris-11e_pa266598.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 22:00"
+    },
+    {
+      "title": "TIME TOURS/MARIETTON DEVELOPPEMENT - Technicien Back Office H/F - CDI - (Clichy (92))",
+      "link": "https://www.tourmag.com/classifieds/TIME-TOURS-MARIETTON-DEVELOPPEMENT-Technicien-Back-Office-H-F-CDI-Clichy-92_pa266689.html",
+      "location": "Clichy",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Responsable Plateau Affaires Expérimenté H/F - CDI - (Lyon (69))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Responsable-Plateau-Affaires-Experimente-H-F-CDI-Lyon-69_pa266688.html",
+      "location": "Lyon",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages Affaires expérimenté H/F - CDI - (Lyon (69))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-Affaires-experimente-H-F-CDI-Lyon-69_pa266687.html",
+      "location": "Lyon",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "TIME TOURS/MARIETTON DEVELOPPEMENT - Commercial Senior Service Groupes H/F - CDI - (Région Parisienne)",
+      "link": "https://www.tourmag.com/classifieds/TIME-TOURS-MARIETTON-DEVELOPPEMENT-Commercial-Senior-Service-Groupes-H-F-CDI-Region-Parisienne_pa266686.html",
+      "location": "Clichy",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "VOYAMAR/MARIETTON DEVELOPPEMENT - 2 Techniciens Back Office H/F - CDI - (Lyon (69))",
+      "link": "https://www.tourmag.com/classifieds/VOYAMAR-MARIETTON-DEVELOPPEMENT-2-Techniciens-Back-Office-H-F-CDI-Lyon-69_pa266685.html",
+      "location": "Lyon",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Epinal (88))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Epinal-88_pa266305.html",
+      "location": "Epinal",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Strasbourg (67))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Strasbourg-67_pa265695.html",
@@ -10,18 +94,11 @@
       "pubDate": "NEW 00:00"
     },
     {
-      "title": "EXCLUSIF VOYAGES - Technicien(ne) Back-office confirmé(e) Voyages sur-mesure pour une clientèle de luxe H/F - CDI  - (Paris 1er)",
-      "link": "https://www.tourmag.com/classifieds/EXCLUSIF-VOYAGES-Technicien-ne-Back-office-confirme-e-Voyages-sur-mesure-pour-une-clientele-de-luxe-H-F-CDI-Paris-1er_pa266671.html",
-      "location": "Paris",
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (St-Louis (68))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-St-Louis-68_pa265694.html",
+      "location": "68 St Louis",
       "description": "",
-      "pubDate": "17 Décembre"
-    },
-    {
-      "title": "MSC CROISIERES - Commercial CSE, collectivités et associations H/F - CDI - (Montrouge (92))",
-      "link": "https://www.tourmag.com/classifieds/MSC-CROISIERES-Commercial-CSE-collectivites-et-associations-H-F-CDI-Montrouge-92_pa266666.html",
-      "location": "Montrouge",
-      "description": "",
-      "pubDate": "16 Décembre"
+      "pubDate": "NEW 00:00"
     },
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Cholet (49))",
@@ -34,34 +111,6 @@
       "title": "GLOBE VOYAGES - Concepteur de voyages de groupes H/F - CDD - (Rodange - Grand-Duché de Luxembourg)",
       "link": "https://www.tourmag.com/classifieds/GLOBE-VOYAGES-Concepteur-de-voyages-de-groupes-H-F-CDD-Rodange-Grand-Duche-de-Luxembourg_pa266605.html",
       "location": "Rodange",
-      "description": "",
-      "pubDate": "12 Décembre"
-    },
-    {
-      "title": "DOUBLE SENS - Conseiller(e) Voyages BtoC H/F  - CDI - (Paris (75))",
-      "link": "https://www.tourmag.com/classifieds/DOUBLE-SENS-Conseiller-e-Voyages-BtoC-H-F-CDI-Paris-75_pa266604.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "12 Décembre"
-    },
-    {
-      "title": "DOUBLE SENS - Gestionnaire Back-office H/F - CDI  - (Paris)",
-      "link": "https://www.tourmag.com/classifieds/DOUBLE-SENS-Gestionnaire-Back-office-H-F-CDI-Paris_pa266603.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "12 Décembre"
-    },
-    {
-      "title": "DOUBLE SENS - Responsable de Production H/F - CDI - (Paris (75))",
-      "link": "https://www.tourmag.com/classifieds/DOUBLE-SENS-Responsable-de-Production-H-F-CDI-Paris-75_pa266602.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "12 Décembre"
-    },
-    {
-      "title": "SOLEA  - 2 Agents de réservation H/F  - CDD - (Paris 11e)",
-      "link": "https://www.tourmag.com/classifieds/SOLEA-2-Agents-de-reservation-H-F-CDD-Paris-11e_pa266598.html",
-      "location": "Paris",
       "description": "",
       "pubDate": "12 Décembre"
     },
@@ -745,5 +794,5 @@
       "pubDate": "29 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-23T20:21:55.377Z"
+  "scrapedAt": "2025-12-23T21:18:47.981Z"
 }
