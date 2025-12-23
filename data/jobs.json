@@ -3,6 +3,13 @@
   "total": 106,
   "offers": [
     {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Strasbourg (67))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Strasbourg-67_pa265695.html",
+      "location": "67 Strasbourg",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
       "title": "EXCLUSIF VOYAGES - Technicien(ne) Back-office confirmé(e) Voyages sur-mesure pour une clientèle de luxe H/F - CDI  - (Paris 1er)",
       "link": "https://www.tourmag.com/classifieds/EXCLUSIF-VOYAGES-Technicien-ne-Back-office-confirme-e-Voyages-sur-mesure-pour-une-clientele-de-luxe-H-F-CDI-Paris-1er_pa266671.html",
       "location": "Paris",
@@ -724,13 +731,6 @@
       "pubDate": "1 Octobre"
     },
     {
-      "title": "SELECTOUR AILLEURS VOYAGES - Responsable d'agence de voyages H/F - CDI - (Nyons (26))",
-      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Nyons-26_pa266371.html",
-      "location": "Nyons",
-      "description": "",
-      "pubDate": "1 Octobre"
-    },
-    {
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Sète (34))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Sete-34_pa266370.html",
       "location": "Sète",
@@ -745,5 +745,5 @@
       "pubDate": "29 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-23T19:17:17.391Z"
+  "scrapedAt": "2025-12-23T20:21:55.377Z"
 }
