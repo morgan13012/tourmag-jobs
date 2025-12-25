@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 113,
+  "total": 110,
   "offers": [
     {
       "title": "EXCLUSIF VOYAGES - Technicien(ne) Back-office confirmé(e) Voyages sur-mesure pour une clientèle de luxe H/F - CDI  - (Paris 1er)",
@@ -696,13 +696,6 @@
       "pubDate": "20 Octobre"
     },
     {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Responsable d'agence de voyages H/F - CDI - (Rennes (35))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Responsable-d-agence-de-voyages-H-F-CDI-Rennes-35_pa266359.html",
-      "location": "Rennes",
-      "description": "",
-      "pubDate": "15 Octobre"
-    },
-    {
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (St Dié (88))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-St-Die-88_pa266402.html",
       "location": "St Dié",
@@ -713,13 +706,6 @@
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Responsable d'agence de voyages H/F - CDI - (Monaco (98))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Responsable-d-agence-de-voyages-H-F-CDI-Monaco-98_pa266401.html",
       "location": "Monaco",
-      "description": "",
-      "pubDate": "13 Octobre"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages Affaires expérimenté H/F - CDI - (Quimper (29))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-Affaires-experimente-H-F-CDI-Quimper-29_pa266358.html",
-      "location": "Quimper",
       "description": "",
       "pubDate": "13 Octobre"
     },
@@ -785,14 +771,7 @@
       "location": "Sète",
       "description": "",
       "pubDate": "1 Octobre"
-    },
-    {
-      "title": "PROMOSEJOURS - Agent de réservation H/F - (Paris 2e)",
-      "link": "https://www.tourmag.com/classifieds/PROMOSEJOURS-Agent-de-reservation-H-F-Paris-2e_pa266363.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "29 Septembre"
     }
   ],
-  "scrapedAt": "2025-12-25T22:18:57.105Z"
+  "scrapedAt": "2025-12-25T23:19:04.518Z"
 }
