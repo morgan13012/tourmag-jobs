@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 110,
+  "total": 111,
   "offers": [
+    {
+      "title": "LE GROUPE SALAUN - Assistant technique de production et réservation H/F - CDI - (Châteaulin (29))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Assistant-technique-de-production-et-reservation-H-F-CDI-Chateaulin-29_pa266690.html",
+      "location": "Châteaulin",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "EXCLUSIF VOYAGES - Technicien(ne) Back-office confirmé(e) Voyages sur-mesure pour une clientèle de luxe H/F - CDI  - (Paris 1er)",
       "link": "https://www.tourmag.com/classifieds/EXCLUSIF-VOYAGES-Technicien-ne-Back-office-confirme-e-Voyages-sur-mesure-pour-une-clientele-de-luxe-H-F-CDI-Paris-1er_pa266671.html",
@@ -773,5 +780,5 @@
       "pubDate": "1 Octobre"
     }
   ],
-  "scrapedAt": "2025-12-26T17:17:10.822Z"
+  "scrapedAt": "2025-12-26T18:28:59.537Z"
 }
