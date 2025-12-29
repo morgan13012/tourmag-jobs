@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 110,
+  "total": 109,
   "offers": [
     {
       "title": "LE GROUPE SALAUN - Assistant technique de production et réservation H/F - CDI - (Châteaulin (29))",
@@ -745,13 +745,6 @@
       "pubDate": "3 Octobre"
     },
     {
-      "title": "CFA VOYAGES - Conseiller voyages spécialiste Asie du Sud-Est, Japon, Australie, USA, Polynésie et Egypte H/F - CDI  - (Paris 13e)",
-      "link": "https://www.tourmag.com/classifieds/CFA-VOYAGES-Conseiller-voyages-specialiste-Asie-du-Sud-Est-Japon-Australie-USA-Polynesie-et-Egypte-H-F-CDI-Paris-13e_pa266367.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "3 Octobre"
-    },
-    {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Riom (63))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Riom-63_pa266383.html",
       "location": "Riom",
@@ -773,5 +766,5 @@
       "pubDate": "1 Octobre"
     }
   ],
-  "scrapedAt": "2025-12-29T22:19:13.970Z"
+  "scrapedAt": "2025-12-29T23:18:53.141Z"
 }
