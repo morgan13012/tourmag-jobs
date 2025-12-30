@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 109,
+  "total": 106,
   "offers": [
     {
       "title": "LE GROUPE SALAUN - Assistant technique de production et réservation H/F - CDI - (Châteaulin (29))",
@@ -577,20 +577,6 @@
       "pubDate": "31 Octobre"
     },
     {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Toulouse Purpan (31))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Toulouse-Purpan-31_pa266282.html",
-      "location": "Toulouse",
-      "description": "",
-      "pubDate": "31 Octobre"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Villiers en Bière (77))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Villiers-en-Biere-77_pa265820.html",
-      "location": "Villiers en Bière",
-      "description": "",
-      "pubDate": "31 Octobre"
-    },
-    {
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Nantes (44))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Nantes-44_pa266423.html",
       "location": "Nantes",
@@ -696,13 +682,6 @@
       "pubDate": "20 Octobre"
     },
     {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Portet sur Garonne (31))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Portet-sur-Garonne-31_pa265713.html",
-      "location": "Portet sur Garonne",
-      "description": "",
-      "pubDate": "20 Octobre"
-    },
-    {
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (St Dié (88))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-St-Die-88_pa266402.html",
       "location": "St Dié",
@@ -766,5 +745,5 @@
       "pubDate": "1 Octobre"
     }
   ],
-  "scrapedAt": "2025-12-30T22:18:46.680Z"
+  "scrapedAt": "2025-12-30T23:18:29.568Z"
 }
