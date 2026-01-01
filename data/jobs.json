@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 103,
+  "total": 102,
   "offers": [
     {
       "title": "LE GROUPE SALAUN - Assistant technique de production et réservation H/F - CDI - (Châteaulin (29))",
@@ -710,13 +710,6 @@
       "pubDate": "3 Octobre 2025"
     },
     {
-      "title": "TOP OF TRAVEL  - Technicien(ne) Forfaitiste Groupes BtoB H/F - CDI - (Montreuil (93))",
-      "link": "https://www.tourmag.com/classifieds/TOP-OF-TRAVEL-Technicien-ne-Forfaitiste-Groupes-BtoB-H-F-CDI-Montreuil-93_pa266376.html",
-      "location": "Montreuil",
-      "description": "",
-      "pubDate": "3 Octobre 2025"
-    },
-    {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Riom (63))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Riom-63_pa266383.html",
       "location": "Riom",
@@ -724,5 +717,5 @@
       "pubDate": "3 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-01T22:19:28.118Z"
+  "scrapedAt": "2026-01-01T23:19:20.199Z"
 }
