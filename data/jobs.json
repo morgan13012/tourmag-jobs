@@ -1,7 +1,21 @@
 {
   "success": true,
-  "total": 97,
+  "total": 98,
   "offers": [
+    {
+      "title": "CERCLE DES VOYAGES - Conseiller Voyages sur mesure Italie H/F - CDI - (Paris (75))",
+      "link": "https://www.tourmag.com/classifieds/CERCLE-DES-VOYAGES-Conseiller-Voyages-sur-mesure-Italie-H-F-CDI-Paris-75_pa266723.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "CROISIEUROPE - Agent de réservation de voyages H/F - CDI - (Paris 6e)",
+      "link": "https://www.tourmag.com/classifieds/CROISIEUROPE-Agent-de-reservation-de-voyages-H-F-CDI-Paris-6e_pa266692.html",
+      "location": "PARIS",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "TIME TOURS/MARIETTON DEVELOPPEMENT - Technicien Back Office H/F - CDI - (Clichy (92))",
       "link": "https://www.tourmag.com/classifieds/TIME-TOURS-MARIETTON-DEVELOPPEMENT-Technicien-Back-Office-H-F-CDI-Clichy-92_pa266689.html",
@@ -47,13 +61,6 @@
     {
       "title": "DOUBLE SENS - Gestionnaire Back-office H/F - CDI  - (Paris)",
       "link": "https://www.tourmag.com/classifieds/DOUBLE-SENS-Gestionnaire-Back-office-H-F-CDI-Paris_pa266603.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "23 Décembre 2025"
-    },
-    {
-      "title": "DOUBLE SENS - Responsable de Production H/F - CDI - (Paris (75))",
-      "link": "https://www.tourmag.com/classifieds/DOUBLE-SENS-Responsable-de-Production-H-F-CDI-Paris-75_pa266602.html",
       "location": "Paris",
       "description": "",
       "pubDate": "23 Décembre 2025"
@@ -682,5 +689,5 @@
       "pubDate": "7 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-05T15:23:33.239Z"
+  "scrapedAt": "2026-01-05T16:26:36.288Z"
 }
