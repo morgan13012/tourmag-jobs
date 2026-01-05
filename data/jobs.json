@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 98,
+  "total": 96,
   "offers": [
     {
       "title": "CERCLE DES VOYAGES - Conseiller Voyages sur mesure Italie H/F - CDI - (Paris (75))",
@@ -654,13 +654,6 @@
       "pubDate": "20 Octobre 2025"
     },
     {
-      "title": "CROISIEUROPE - Acheteur/Négociateur expérimenté H/F - CDD - (Strasbourg (67))",
-      "link": "https://www.tourmag.com/classifieds/CROISIEUROPE-Acheteur-Negociateur-experimente-H-F-CDD-Strasbourg-67_pa266388.html",
-      "location": "Strasbourg",
-      "description": "",
-      "pubDate": "20 Octobre 2025"
-    },
-    {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Liévin (62))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Lievin-62_pa266413.html",
       "location": "Liévin",
@@ -680,14 +673,7 @@
       "location": "Monaco",
       "description": "",
       "pubDate": "13 Octobre 2025"
-    },
-    {
-      "title": "CE EVASION - Forfaitiste groupes collectivités H/F - CDI - (Paris, Lyon ou Rouen)",
-      "link": "https://www.tourmag.com/classifieds/CE-EVASION-Forfaitiste-groupes-collectivites-H-F-CDI-Paris-Lyon-ou-Rouen_pa266389.html",
-      "location": "Paris, Lyon ou Rouen",
-      "description": "",
-      "pubDate": "7 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-05T22:20:15.293Z"
+  "scrapedAt": "2026-01-05T23:19:17.482Z"
 }
