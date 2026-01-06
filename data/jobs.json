@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 96,
+  "total": 97,
   "offers": [
+    {
+      "title": "CATLANTE CATAMARANS - Conseiller(e) Voyages expérimenté(e) - CDI - (Saint-Cloud (92))",
+      "link": "https://www.tourmag.com/classifieds/CATLANTE-CATAMARANS-Conseiller-e-Voyages-experimente-e-CDI-Saint-Cloud-92_pa266728.html",
+      "location": "Saint-Cloud",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "CERCLE DES VOYAGES - Conseiller Voyages sur mesure Italie H/F - CDI - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/CERCLE-DES-VOYAGES-Conseiller-Voyages-sur-mesure-Italie-H-F-CDI-Paris-75_pa266723.html",
@@ -675,5 +682,5 @@
       "pubDate": "13 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-06T18:30:44.133Z"
+  "scrapedAt": "2026-01-06T19:16:18.049Z"
 }
