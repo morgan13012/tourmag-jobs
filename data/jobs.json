@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 80,
+  "total": 97,
   "offers": [
+    {
+      "title": "MYCOMM - Billettiste H/F - CDI - (Arcueil (94))",
+      "link": "https://www.tourmag.com/classifieds/MYCOMM-Billettiste-H-F-CDI-Arcueil-94_pa266551.html",
+      "location": "Arcueil",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "CATLANTE CATAMARANS - Conseiller(e) Voyages expérimenté(e) - CDI - (Saint-Cloud (92))",
       "link": "https://www.tourmag.com/classifieds/CATLANTE-CATAMARANS-Conseiller-e-Voyages-experimente-e-CDI-Saint-Cloud-92_pa266728.html",
@@ -251,13 +258,6 @@
       "title": "ALLIANCE DU MONDE - 2 Techniciens H/F - CDI - (Vincennes (94))",
       "link": "https://www.tourmag.com/classifieds/ALLIANCE-DU-MONDE-2-Techniciens-H-F-CDI-Vincennes-94_pa266555.html",
       "location": "Vincennes",
-      "description": "",
-      "pubDate": "4 Décembre 2025"
-    },
-    {
-      "title": "MYCOMM - Billettiste H/F - CDI - (Arcueil (94))",
-      "link": "https://www.tourmag.com/classifieds/MYCOMM-Billettiste-H-F-CDI-Arcueil-94_pa266551.html",
-      "location": "Arcueil",
       "description": "",
       "pubDate": "4 Décembre 2025"
     },
@@ -561,7 +561,126 @@
       "location": "Grenoble",
       "description": "",
       "pubDate": "3 Novembre 2025"
+    },
+    {
+      "title": "SELECTOUR CELTEA VOYAGES - Conseiller voyages H/F - CDI - (Rennes Leperdit (35))",
+      "link": "https://www.tourmag.com/classifieds/SELECTOUR-CELTEA-VOYAGES-Conseiller-voyages-H-F-CDI-Rennes-Leperdit-35_pa266441.html",
+      "location": "Rennes",
+      "description": "",
+      "pubDate": "3 Novembre 2025"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Rennes Cesson (35))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Rennes-Cesson-35_pa266437.html",
+      "location": "Rennes Cesson",
+      "description": "",
+      "pubDate": "31 Octobre 2025"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Montesson (78))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Montesson-78_pa266415.html",
+      "location": "Montesson",
+      "description": "",
+      "pubDate": "31 Octobre 2025"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Massy (91))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Massy-91_pa266414.html",
+      "location": "Massy",
+      "description": "",
+      "pubDate": "31 Octobre 2025"
+    },
+    {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Nantes (44))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Nantes-44_pa266423.html",
+      "location": "Nantes",
+      "description": "",
+      "pubDate": "23 Octobre 2025"
+    },
+    {
+      "title": "TOP OF TRAVEL  - 2 Agents de réservation H/F - CDI - (Montreuil (93))",
+      "link": "https://www.tourmag.com/classifieds/TOP-OF-TRAVEL-2-Agents-de-reservation-H-F-CDI-Montreuil-93_pa266421.html",
+      "location": "Montreuil",
+      "description": "",
+      "pubDate": "21 Octobre 2025"
+    },
+    {
+      "title": "SELECTOUR CELTEA VOYAGES - Conseiller voyages H/F - CDI - (St Malo (35))",
+      "link": "https://www.tourmag.com/classifieds/SELECTOUR-CELTEA-VOYAGES-Conseiller-voyages-H-F-CDI-St-Malo-35_pa266420.html",
+      "location": "St Malo",
+      "description": "",
+      "pubDate": "21 Octobre 2025"
+    },
+    {
+      "title": "NG TRAVEL - Office Manager H/F - CDI - (Paris 2e)",
+      "link": "https://www.tourmag.com/classifieds/NG-TRAVEL-Office-Manager-H-F-CDI-Paris-2e_pa266412.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "20 Octobre 2025"
+    },
+    {
+      "title": "CROISIEUROPE - Assistant Administratif de Production Touristique (F/H) - CDD - (Strasbourg (67))",
+      "link": "https://www.tourmag.com/classifieds/CROISIEUROPE-Assistant-Administratif-de-Production-Touristique-F-H-CDD-Strasbourg-67_pa266411.html",
+      "location": "Strasbourg",
+      "description": "",
+      "pubDate": "20 Octobre 2025"
+    },
+    {
+      "title": "JOUBERT VOYAGES - Chef de Projet Tourisme de Groupe Scolaire H/F - (Paris (75))",
+      "link": "https://www.tourmag.com/classifieds/JOUBERT-VOYAGES-Chef-de-Projet-Tourisme-de-Groupe-Scolaire-H-F-Paris-75_pa266410.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "20 Octobre 2025"
+    },
+    {
+      "title": "ULTRAMARINA - Conseiller Voyage spécialiste de la Plongée sous-marine H/F - CDI - (Nantes (44))",
+      "link": "https://www.tourmag.com/classifieds/ULTRAMARINA-Conseiller-Voyage-specialiste-de-la-Plongee-sous-marine-H-F-CDI-Nantes-44_pa266405.html",
+      "location": "Nantes",
+      "description": "",
+      "pubDate": "20 Octobre 2025"
+    },
+    {
+      "title": "NAUTIL - Billettiste H/F - CDI - (Paris 17e)",
+      "link": "https://www.tourmag.com/classifieds/NAUTIL-Billettiste-H-F-CDI-Paris-17e_pa266403.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "20 Octobre 2025"
+    },
+    {
+      "title": "MONDE AUTHENTIQUE - Créateur de safaris en Afrique expérimenté H/F - CDI - (Paris 2e)",
+      "link": "https://www.tourmag.com/classifieds/MONDE-AUTHENTIQUE-Createur-de-safaris-en-Afrique-experimente-H-F-CDI-Paris-2e_pa266400.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "20 Octobre 2025"
+    },
+    {
+      "title": "DISCOVER THE WORLD - Attaché(e) commercial(e) Région Ile de France - CDI",
+      "link": "https://www.tourmag.com/classifieds/DISCOVER-THE-WORLD-Attache-e-commercial-e-Region-Ile-de-France-CDI_pa266391.html",
+      "location": "Ile de France",
+      "description": "",
+      "pubDate": "20 Octobre 2025"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Liévin (62))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Lievin-62_pa266413.html",
+      "location": "Liévin",
+      "description": "",
+      "pubDate": "20 Octobre 2025"
+    },
+    {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (St Dié (88))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-St-Die-88_pa266402.html",
+      "location": "St Dié",
+      "description": "",
+      "pubDate": "13 Octobre 2025"
+    },
+    {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Responsable d'agence de voyages H/F - CDI - (Monaco (98))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Responsable-d-agence-de-voyages-H-F-CDI-Monaco-98_pa266401.html",
+      "location": "Monaco",
+      "description": "",
+      "pubDate": "13 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-07T19:20:05.551Z"
+  "scrapedAt": "2026-01-07T20:24:25.492Z"
 }
