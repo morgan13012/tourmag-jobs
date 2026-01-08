@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 99,
+  "total": 100,
   "offers": [
     {
       "title": "CLIMATS DU MONDE - Gestionnaire Transport H/F - CDI  - (Marseille (13))",
@@ -15,6 +15,13 @@
       "location": "Carpentras",
       "description": "",
       "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "PASSION AFRICA TRAVEL -  Assistante Marketing et Réseaux Sociaux H/F - Stage - (Télétravail ou Afrique du Sud)",
+      "link": "https://www.tourmag.com/classifieds/PASSION-AFRICA-TRAVEL-Assistante-Marketing-et-Reseaux-Sociaux-H-F-Stage-Teletravail-ou-Afrique-du-Sud_pa266756.html",
+      "location": "Télétravail",
+      "description": "",
+      "pubDate": "NEW 23:00"
     },
     {
       "title": "CONTINENTS INSOLITES - Billettiste expérimenté H/F - CDI - ( Paris, Lyon, ou Bruxelles)",
@@ -696,5 +703,5 @@
       "pubDate": "13 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-08T17:25:52.853Z"
+  "scrapedAt": "2026-01-08T18:28:16.018Z"
 }
