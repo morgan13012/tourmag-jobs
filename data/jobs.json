@@ -1,11 +1,18 @@
 {
   "success": true,
-  "total": 97,
+  "total": 98,
   "offers": [
     {
       "title": "CLIMATS DU MONDE - Gestionnaire Transport H/F - CDI  - (Marseille (13))",
       "link": "https://www.tourmag.com/classifieds/CLIMATS-DU-MONDE-Gestionnaire-Transport-H-F-CDI-Marseille-13_pa266590.html",
       "location": "Marseille",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages HC VOYAGES basée à Carpentras (84)",
+      "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-HC-VOYAGES-basee-a-Carpentras-84_pa266399.html",
+      "location": "Carpentras",
       "description": "",
       "pubDate": "NEW 23:30"
     },
@@ -682,5 +689,5 @@
       "pubDate": "13 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-08T13:39:35.897Z"
+  "scrapedAt": "2026-01-08T14:24:53.152Z"
 }
