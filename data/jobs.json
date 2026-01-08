@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 96,
+  "total": 97,
   "offers": [
+    {
+      "title": "CLIMATS DU MONDE - Gestionnaire Transport H/F - CDI  - (Marseille (13))",
+      "link": "https://www.tourmag.com/classifieds/CLIMATS-DU-MONDE-Gestionnaire-Transport-H-F-CDI-Marseille-13_pa266590.html",
+      "location": "Marseille",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "MYCOMM - Billettiste H/F - CDI - (Arcueil (94))",
       "link": "https://www.tourmag.com/classifieds/MYCOMM-Billettiste-H-F-CDI-Arcueil-94_pa266551.html",
@@ -675,5 +682,5 @@
       "pubDate": "13 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-08T08:29:44.822Z"
+  "scrapedAt": "2026-01-08T09:27:38.422Z"
 }
