@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 90,
+  "total": 93,
   "offers": [
     {
       "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages HC VOYAGES basée à Carpentras (84)",
@@ -85,6 +85,20 @@
       "location": "Paris",
       "description": "",
       "pubDate": "NEW 22:00"
+    },
+    {
+      "title": "SELECTOUR AILLEURS VOYAGES  - Conseiller voyages H/F - (Lyon 9e)",
+      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Conseiller-voyages-H-F-Lyon-9e_pa266762.html",
+      "location": "Lyon",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Responsable d'agence de voyages H/F - CDI - (Ferney Voltaire (01))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Responsable-d-agence-de-voyages-H-F-CDI-Ferney-Voltaire-01_pa266761.html",
+      "location": "Ferney Voltaire",
+      "description": "",
+      "pubDate": "NEW 00:00"
     },
     {
       "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - CDI - (Vannes (56))",
@@ -174,6 +188,20 @@
       "title": "VOYAMAR et HELIADES / MARIETTON DEVELOPPEMENT - Responsable Commercial BtoB Paris Sud et Est parisien H/F - CDI - (Paris)",
       "link": "https://www.tourmag.com/classifieds/VOYAMAR-et-HELIADES-MARIETTON-DEVELOPPEMENT-Responsable-Commercial-BtoB-Paris-Sud-et-Est-parisien-H-F-CDI-Paris_pa266320.html",
       "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "SELECTOUR AILLEURS VOYAGES - Responsable d'agence de voyages H/F - CDI - (Ecully (69))",
+      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Ecully-69_pa266317.html",
+      "location": "Ecully",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "SELECTOUR AILLEURS VOYAGES - Conseiller voyages H/F - CDI - (St Génis Pouilly (01))",
+      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Conseiller-voyages-H-F-CDI-St-Genis-Pouilly-01_pa266303.html",
+      "location": "01630 St Génis Pouilly",
       "description": "",
       "pubDate": "NEW 00:00"
     },
@@ -521,13 +549,6 @@
       "pubDate": "7 Novembre 2025"
     },
     {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages H/F - CDI - (Senlis (60))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-H-F-CDI-Senlis-60_pa266297.html",
-      "location": "Senlis",
-      "description": "",
-      "pubDate": "7 Novembre 2025"
-    },
-    {
       "title": "SELECTOUR BLEU VOYAGES - Conseiller voyages H/F - CDI - (Vienne (38))",
       "link": "https://www.tourmag.com/classifieds/SELECTOUR-BLEU-VOYAGES-Conseiller-voyages-H-F-CDI-Vienne-38_pa266455.html",
       "location": "Vienne",
@@ -633,5 +654,5 @@
       "pubDate": "13 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-09T10:22:29.527Z"
+  "scrapedAt": "2026-01-09T11:18:39.695Z"
 }
