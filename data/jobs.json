@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 103,
+  "total": 90,
   "offers": [
     {
       "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages HC VOYAGES basée à Carpentras (84)",
@@ -143,6 +143,20 @@
       "pubDate": "NEW 00:00"
     },
     {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Nantes (44))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Nantes-44_pa266423.html",
+      "location": "Nantes",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Responsable d'agence de voyages H/F - CDI - (Monaco (98))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Responsable-d-agence-de-voyages-H-F-CDI-Monaco-98_pa266401.html",
+      "location": "Monaco",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD - (Carré Sénart Lieusaint (77))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Carre-Senart-Lieusaint-77_pa266382.html",
       "location": "Carré Sénart",
@@ -157,9 +171,37 @@
       "pubDate": "NEW 00:00"
     },
     {
+      "title": "VOYAMAR et HELIADES / MARIETTON DEVELOPPEMENT - Responsable Commercial BtoB Paris Sud et Est parisien H/F - CDI - (Paris)",
+      "link": "https://www.tourmag.com/classifieds/VOYAMAR-et-HELIADES-MARIETTON-DEVELOPPEMENT-Responsable-Commercial-BtoB-Paris-Sud-et-Est-parisien-H-F-CDI-Paris_pa266320.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Pontault-Combault (77))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Pontault-Combault-77_pa266281.html",
       "location": "Pontault-Combault",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Paris Les Halles (1er))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Paris-Les-Halles-1er_pa266078.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Rueil-Malmaison (92))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Rueil-Malmaison-92_pa266075.html",
+      "location": "92 Rueil-Malmaison",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Le Vesinet (78))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Le-Vesinet-78_pa266074.html",
+      "location": "Le Vesinet",
       "description": "",
       "pubDate": "NEW 00:00"
     },
@@ -262,34 +304,6 @@
       "pubDate": "12 Décembre 2025"
     },
     {
-      "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - CDI - (Euralille (59))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Responsable-d-agence-H-F-CDI-Euralille-59_pa266607.html",
-      "location": "Lille",
-      "description": "",
-      "pubDate": "12 Décembre 2025"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Claye Souilly (77))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Claye-Souilly-77_pa266548.html",
-      "location": "Claye Souilly",
-      "description": "",
-      "pubDate": "12 Décembre 2025"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Annecy (74))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Annecy-74_pa266384.html",
-      "location": "Annecy",
-      "description": "",
-      "pubDate": "12 Décembre 2025"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (St Brieuc (22))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-St-Brieuc-22_pa266362.html",
-      "location": "St Brieuc",
-      "description": "",
-      "pubDate": "12 Décembre 2025"
-    },
-    {
       "title": "ROND POINT EVASION - Commercial(e) Groupes confirmé(e) BtoC H/F - CDI - (Secteur Normandie)",
       "link": "https://www.tourmag.com/classifieds/ROND-POINT-EVASION-Commercial-e-Groupes-confirme-e-BtoC-H-F-CDI-Secteur-Normandie_pa266422.html",
       "location": "Normandie",
@@ -339,20 +353,6 @@
       "pubDate": "4 Décembre 2025"
     },
     {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Quétigny (21))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Quetigny-21_pa266593.html",
-      "location": "Quétigny",
-      "description": "",
-      "pubDate": "4 Décembre 2025"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Thionville (57))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Thionville-57_pa266416.html",
-      "location": "Thionville",
-      "description": "",
-      "pubDate": "4 Décembre 2025"
-    },
-    {
       "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Blois (41))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Blois-41_pa266568.html",
       "location": "Blois",
@@ -398,20 +398,6 @@
       "title": "LE GROUPE SALAUN - Responsable d'Unité Technique H/F - CDI - (Orléans (45))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Responsable-d-Unite-Technique-H-F-CDI-Orleans-45_pa266550.html",
       "location": "Orléans",
-      "description": "",
-      "pubDate": "21 Novembre 2025"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (St Quentin en Yvelines (78))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-St-Quentin-en-Yvelines-78_pa266477.html",
-      "location": "St Quentin en Yvelines",
-      "description": "",
-      "pubDate": "21 Novembre 2025"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Montigny Les Cormeilles (95))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Montigny-Les-Cormeilles-95_pa266476.html",
-      "location": "Montigny Les Cormeilles",
       "description": "",
       "pubDate": "21 Novembre 2025"
     },
@@ -470,13 +456,6 @@
       "location": "68 Thann",
       "description": "",
       "pubDate": "14 Novembre 2025"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Ecole Valentin (25))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Ecole-Valentin-25_pa266478.html",
-      "location": "Ecole Valentin",
-      "description": "",
-      "pubDate": "13 Novembre 2025"
     },
     {
       "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Nice (06))",
@@ -549,34 +528,6 @@
       "pubDate": "7 Novembre 2025"
     },
     {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Paris Les Halles (1er))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Paris-Les-Halles-1er_pa266078.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "7 Novembre 2025"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Rueil-Malmaison (92))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Rueil-Malmaison-92_pa266075.html",
-      "location": "92 Rueil-Malmaison",
-      "description": "",
-      "pubDate": "7 Novembre 2025"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Le Vesinet (78))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Le-Vesinet-78_pa266074.html",
-      "location": "Le Vesinet",
-      "description": "",
-      "pubDate": "7 Novembre 2025"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages H/F - CDI - (Melun (77))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-H-F-CDI-Melun-77_pa266073.html",
-      "location": "77 Melun",
-      "description": "",
-      "pubDate": "7 Novembre 2025"
-    },
-    {
       "title": "SELECTOUR BLEU VOYAGES - Conseiller voyages H/F - CDI - (Vienne (38))",
       "link": "https://www.tourmag.com/classifieds/SELECTOUR-BLEU-VOYAGES-Conseiller-voyages-H-F-CDI-Vienne-38_pa266455.html",
       "location": "Vienne",
@@ -617,34 +568,6 @@
       "location": "Rennes",
       "description": "",
       "pubDate": "3 Novembre 2025"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Rennes Cesson (35))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Rennes-Cesson-35_pa266437.html",
-      "location": "Rennes Cesson",
-      "description": "",
-      "pubDate": "31 Octobre 2025"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Montesson (78))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Montesson-78_pa266415.html",
-      "location": "Montesson",
-      "description": "",
-      "pubDate": "31 Octobre 2025"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Massy (91))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Massy-91_pa266414.html",
-      "location": "Massy",
-      "description": "",
-      "pubDate": "31 Octobre 2025"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Nantes (44))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Nantes-44_pa266423.html",
-      "location": "Nantes",
-      "description": "",
-      "pubDate": "23 Octobre 2025"
     },
     {
       "title": "TOP OF TRAVEL  - 2 Agents de réservation H/F - CDI - (Montreuil (93))",
@@ -703,26 +626,12 @@
       "pubDate": "20 Octobre 2025"
     },
     {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Liévin (62))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Lievin-62_pa266413.html",
-      "location": "Liévin",
-      "description": "",
-      "pubDate": "20 Octobre 2025"
-    },
-    {
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (St Dié (88))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-St-Die-88_pa266402.html",
       "location": "St Dié",
       "description": "",
       "pubDate": "13 Octobre 2025"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Responsable d'agence de voyages H/F - CDI - (Monaco (98))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Responsable-d-agence-de-voyages-H-F-CDI-Monaco-98_pa266401.html",
-      "location": "Monaco",
-      "description": "",
-      "pubDate": "13 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-09T09:27:33.435Z"
+  "scrapedAt": "2026-01-09T10:22:29.527Z"
 }
