@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 80,
+  "total": 93,
   "offers": [
     {
       "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages HC VOYAGES basée à Carpentras (84)",
@@ -561,7 +561,98 @@
       "location": "Nancy",
       "description": "",
       "pubDate": "3 Novembre 2025"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Strasbourg (67))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Strasbourg-67_pa266444.html",
+      "location": "Strasbourg",
+      "description": "",
+      "pubDate": "3 Novembre 2025"
+    },
+    {
+      "title": "SELECTOUR AILLEURS VOYAGES - Conseiller voyages H/F - CDI - (Villefranche sur Saone (69))",
+      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Conseiller-voyages-H-F-CDI-Villefranche-sur-Saone-69_pa266443.html",
+      "location": "Villefranche sur Saone",
+      "description": "",
+      "pubDate": "3 Novembre 2025"
+    },
+    {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages H/F - CDI - (Grenoble (38))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-H-F-CDI-Grenoble-38_pa266442.html",
+      "location": "Grenoble",
+      "description": "",
+      "pubDate": "3 Novembre 2025"
+    },
+    {
+      "title": "SELECTOUR CELTEA VOYAGES - Conseiller voyages H/F - CDI - (Rennes Leperdit (35))",
+      "link": "https://www.tourmag.com/classifieds/SELECTOUR-CELTEA-VOYAGES-Conseiller-voyages-H-F-CDI-Rennes-Leperdit-35_pa266441.html",
+      "location": "Rennes",
+      "description": "",
+      "pubDate": "3 Novembre 2025"
+    },
+    {
+      "title": "TOP OF TRAVEL  - 2 Agents de réservation H/F - CDI - (Montreuil (93))",
+      "link": "https://www.tourmag.com/classifieds/TOP-OF-TRAVEL-2-Agents-de-reservation-H-F-CDI-Montreuil-93_pa266421.html",
+      "location": "Montreuil",
+      "description": "",
+      "pubDate": "21 Octobre 2025"
+    },
+    {
+      "title": "SELECTOUR CELTEA VOYAGES - Conseiller voyages H/F - CDI - (St Malo (35))",
+      "link": "https://www.tourmag.com/classifieds/SELECTOUR-CELTEA-VOYAGES-Conseiller-voyages-H-F-CDI-St-Malo-35_pa266420.html",
+      "location": "St Malo",
+      "description": "",
+      "pubDate": "21 Octobre 2025"
+    },
+    {
+      "title": "NG TRAVEL - Office Manager H/F - CDI - (Paris 2e)",
+      "link": "https://www.tourmag.com/classifieds/NG-TRAVEL-Office-Manager-H-F-CDI-Paris-2e_pa266412.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "20 Octobre 2025"
+    },
+    {
+      "title": "CROISIEUROPE - Assistant Administratif de Production Touristique (F/H) - CDD - (Strasbourg (67))",
+      "link": "https://www.tourmag.com/classifieds/CROISIEUROPE-Assistant-Administratif-de-Production-Touristique-F-H-CDD-Strasbourg-67_pa266411.html",
+      "location": "Strasbourg",
+      "description": "",
+      "pubDate": "20 Octobre 2025"
+    },
+    {
+      "title": "JOUBERT VOYAGES - Chef de Projet Tourisme de Groupe Scolaire H/F - (Paris (75))",
+      "link": "https://www.tourmag.com/classifieds/JOUBERT-VOYAGES-Chef-de-Projet-Tourisme-de-Groupe-Scolaire-H-F-Paris-75_pa266410.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "20 Octobre 2025"
+    },
+    {
+      "title": "ULTRAMARINA - Conseiller Voyage spécialiste de la Plongée sous-marine H/F - CDI - (Nantes (44))",
+      "link": "https://www.tourmag.com/classifieds/ULTRAMARINA-Conseiller-Voyage-specialiste-de-la-Plongee-sous-marine-H-F-CDI-Nantes-44_pa266405.html",
+      "location": "Nantes",
+      "description": "",
+      "pubDate": "20 Octobre 2025"
+    },
+    {
+      "title": "NAUTIL - Billettiste H/F - CDI - (Paris 17e)",
+      "link": "https://www.tourmag.com/classifieds/NAUTIL-Billettiste-H-F-CDI-Paris-17e_pa266403.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "20 Octobre 2025"
+    },
+    {
+      "title": "MONDE AUTHENTIQUE - Créateur de safaris en Afrique expérimenté H/F - CDI - (Paris 2e)",
+      "link": "https://www.tourmag.com/classifieds/MONDE-AUTHENTIQUE-Createur-de-safaris-en-Afrique-experimente-H-F-CDI-Paris-2e_pa266400.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "20 Octobre 2025"
+    },
+    {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (St Dié (88))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-St-Die-88_pa266402.html",
+      "location": "St Dié",
+      "description": "",
+      "pubDate": "13 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-09T12:42:57.159Z"
+  "scrapedAt": "2026-01-09T13:37:08.405Z"
 }
