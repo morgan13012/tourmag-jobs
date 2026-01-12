@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 96,
+  "total": 98,
   "offers": [
     {
       "title": "DONNE CAUSE DEPART A LA RETRAITE - SARL Agence de voyages sans fonds de commerce avec agréments IATA SNCF",
@@ -29,6 +29,20 @@
       "location": "Paris",
       "description": "",
       "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "PREFERENCE VOYAGES / MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Les Sables d'Olonne (85))",
+      "link": "https://www.tourmag.com/classifieds/PREFERENCE-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Les-Sables-d-Olonne-85_pa266770.html",
+      "location": "Les Sables d'Olonnes",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "PREFERENCE VOYAGES / MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Nantes Solario (44))",
+      "link": "https://www.tourmag.com/classifieds/PREFERENCE-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Nantes-Solario-44_pa266333.html",
+      "location": "Nantes",
+      "description": "",
+      "pubDate": "NEW 00:00"
     },
     {
       "title": "PASSION AFRICA TRAVEL -  Assistante Marketing et Réseaux Sociaux H/F - Stage - (Télétravail ou Afrique du Sud)",
@@ -675,5 +689,5 @@
       "pubDate": "13 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-12T11:19:42.134Z"
+  "scrapedAt": "2026-01-12T12:45:51.934Z"
 }
