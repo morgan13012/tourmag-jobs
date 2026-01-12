@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 89,
+  "total": 87,
   "offers": [
     {
       "title": "CERCLE DES VOYAGES - Conseiller Voyages sur mesure Italie H/F - CDI - (Paris (75))",
@@ -610,21 +610,7 @@
       "location": "Paris",
       "description": "",
       "pubDate": "20 Octobre 2025"
-    },
-    {
-      "title": "MONDE AUTHENTIQUE - Créateur de safaris en Afrique expérimenté H/F - CDI - (Paris 2e)",
-      "link": "https://www.tourmag.com/classifieds/MONDE-AUTHENTIQUE-Createur-de-safaris-en-Afrique-experimente-H-F-CDI-Paris-2e_pa266400.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "20 Octobre 2025"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (St Dié (88))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-St-Die-88_pa266402.html",
-      "location": "St Dié",
-      "description": "",
-      "pubDate": "13 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-12T22:18:40.115Z"
+  "scrapedAt": "2026-01-12T23:16:30.383Z"
 }
