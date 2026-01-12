@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 98,
+  "total": 99,
   "offers": [
     {
       "title": "DONNE CAUSE DEPART A LA RETRAITE - SARL Agence de voyages sans fonds de commerce avec agréments IATA SNCF",
@@ -15,6 +15,13 @@
       "location": "Carpentras",
       "description": "",
       "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "E.LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Les Herbiers (85))",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Les-Herbiers-85_pa266768.html",
+      "location": "Les Herbiers",
+      "description": "",
+      "pubDate": "NEW 23:00"
     },
     {
       "title": "CITIZENPLANE - Formateur·trice Systèmes Aériens & Support - CDI  - (Marseille (13))",
@@ -689,5 +696,5 @@
       "pubDate": "13 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-12T15:24:45.977Z"
+  "scrapedAt": "2026-01-12T16:26:46.606Z"
 }
