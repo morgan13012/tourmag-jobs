@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 94,
+  "total": 96,
   "offers": [
     {
       "title": "DONNE CAUSE DEPART A LA RETRAITE - SARL Agence de voyages sans fonds de commerce avec agréments IATA SNCF",
@@ -14,7 +14,21 @@
       "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-HC-VOYAGES-basee-a-Carpentras-84_pa266399.html",
       "location": "Carpentras",
       "description": "",
-      "pubDate": "9 Janvier"
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "CITIZENPLANE - Formateur·trice Systèmes Aériens & Support - CDI  - (Marseille (13))",
+      "link": "https://www.tourmag.com/classifieds/CITIZENPLANE-Formateur·trice-Systemes-Aeriens-Support-CDI-Marseille-13_pa266764.html",
+      "location": "Marseille",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "KEPLER TRAVEL - Responsable commercial groupes H/F - CDI - (Paris 17e)",
+      "link": "https://www.tourmag.com/classifieds/KEPLER-TRAVEL-Responsable-commercial-groupes-H-F-CDI-Paris-17e_pa266755.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:00"
     },
     {
       "title": "PASSION AFRICA TRAVEL -  Assistante Marketing et Réseaux Sociaux H/F - Stage - (Télétravail ou Afrique du Sud)",
@@ -661,5 +675,5 @@
       "pubDate": "13 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-12T10:25:00.038Z"
+  "scrapedAt": "2026-01-12T11:19:42.134Z"
 }
