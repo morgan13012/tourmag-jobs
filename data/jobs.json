@@ -1,7 +1,77 @@
 {
   "success": true,
-  "total": 87,
+  "total": 97,
   "offers": [
+    {
+      "title": "DONNE CAUSE DEPART A LA RETRAITE - SARL Agence de voyages sans fonds de commerce avec agréments IATA SNCF",
+      "link": "https://www.tourmag.com/classifieds/DONNE-CAUSE-DEPART-A-LA-RETRAITE-SARL-Agence-de-voyages-sans-fonds-de-commerce-avec-agrements-IATA-SNCF_pa266763.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "12 Janvier"
+    },
+    {
+      "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages HC VOYAGES basée à Carpentras (84)",
+      "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-HC-VOYAGES-basee-a-Carpentras-84_pa266399.html",
+      "location": "Carpentras",
+      "description": "",
+      "pubDate": "12 Janvier"
+    },
+    {
+      "title": "E.LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Les Herbiers (85))",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Les-Herbiers-85_pa266768.html",
+      "location": "Les Herbiers",
+      "description": "",
+      "pubDate": "12 Janvier"
+    },
+    {
+      "title": "CITIZENPLANE - Formateur·trice Systèmes Aériens & Support - CDI  - (Marseille (13))",
+      "link": "https://www.tourmag.com/classifieds/CITIZENPLANE-Formateur·trice-Systemes-Aeriens-Support-CDI-Marseille-13_pa266764.html",
+      "location": "Marseille",
+      "description": "",
+      "pubDate": "12 Janvier"
+    },
+    {
+      "title": "KEPLER TRAVEL - Responsable commercial groupes H/F - CDI - (Paris 17e)",
+      "link": "https://www.tourmag.com/classifieds/KEPLER-TRAVEL-Responsable-commercial-groupes-H-F-CDI-Paris-17e_pa266755.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "12 Janvier"
+    },
+    {
+      "title": "PREFERENCE VOYAGES / MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Les Sables d'Olonne (85))",
+      "link": "https://www.tourmag.com/classifieds/PREFERENCE-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Les-Sables-d-Olonne-85_pa266770.html",
+      "location": "Les Sables d'Olonnes",
+      "description": "",
+      "pubDate": "12 Janvier"
+    },
+    {
+      "title": "PREFERENCE VOYAGES / MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Nantes Solario (44))",
+      "link": "https://www.tourmag.com/classifieds/PREFERENCE-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Nantes-Solario-44_pa266333.html",
+      "location": "Nantes",
+      "description": "",
+      "pubDate": "12 Janvier"
+    },
+    {
+      "title": "PASSION AFRICA TRAVEL -  Assistante Marketing et Réseaux Sociaux H/F - Stage - (Télétravail ou Afrique du Sud)",
+      "link": "https://www.tourmag.com/classifieds/PASSION-AFRICA-TRAVEL-Assistante-Marketing-et-Reseaux-Sociaux-H-F-Stage-Teletravail-ou-Afrique-du-Sud_pa266756.html",
+      "location": "Télétravail",
+      "description": "",
+      "pubDate": "9 Janvier"
+    },
+    {
+      "title": "CONTINENTS INSOLITES - Billettiste expérimenté H/F - CDI - ( Paris, Lyon, ou Bruxelles)",
+      "link": "https://www.tourmag.com/classifieds/CONTINENTS-INSOLITES-Billettiste-experimente-H-F-CDI-Paris-Lyon-ou-Bruxelles_pa266753.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "9 Janvier"
+    },
+    {
+      "title": "CATLANTE CATAMARANS - Conseiller(e) Voyages expérimenté(e) - CDI - (Saint-Cloud (92))",
+      "link": "https://www.tourmag.com/classifieds/CATLANTE-CATAMARANS-Conseiller-e-Voyages-experimente-e-CDI-Saint-Cloud-92_pa266728.html",
+      "location": "Saint-Cloud",
+      "description": "",
+      "pubDate": "9 Janvier"
+    },
     {
       "title": "CERCLE DES VOYAGES - Conseiller Voyages sur mesure Italie H/F - CDI - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/CERCLE-DES-VOYAGES-Conseiller-Voyages-sur-mesure-Italie-H-F-CDI-Paris-75_pa266723.html",
@@ -612,5 +682,5 @@
       "pubDate": "20 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-12T23:16:30.383Z"
+  "scrapedAt": "2026-01-13T05:25:08.111Z"
 }
