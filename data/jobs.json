@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 98,
+  "total": 96,
   "offers": [
     {
       "title": "DONNE CAUSE DEPART A LA RETRAITE - SARL Agence de voyages sans fonds de commerce avec agréments IATA SNCF",
@@ -673,21 +673,7 @@
       "location": "Paris",
       "description": "",
       "pubDate": "20 Octobre 2025"
-    },
-    {
-      "title": "ULTRAMARINA - Conseiller Voyage spécialiste de la Plongée sous-marine H/F - CDI - (Nantes (44))",
-      "link": "https://www.tourmag.com/classifieds/ULTRAMARINA-Conseiller-Voyage-specialiste-de-la-Plongee-sous-marine-H-F-CDI-Nantes-44_pa266405.html",
-      "location": "Nantes",
-      "description": "",
-      "pubDate": "20 Octobre 2025"
-    },
-    {
-      "title": "NAUTIL - Billettiste H/F - CDI - (Paris 17e)",
-      "link": "https://www.tourmag.com/classifieds/NAUTIL-Billettiste-H-F-CDI-Paris-17e_pa266403.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "20 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-13T22:21:19.468Z"
+  "scrapedAt": "2026-01-13T23:19:15.032Z"
 }
