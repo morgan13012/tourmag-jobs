@@ -3,6 +3,20 @@
   "total": 97,
   "offers": [
     {
+      "title": "TIME TOURS/MARIETTON DEVELOPPEMENT - Technicien Back Office H/F - CDI - (Clichy (92))",
+      "link": "https://www.tourmag.com/classifieds/TIME-TOURS-MARIETTON-DEVELOPPEMENT-Technicien-Back-Office-H-F-CDI-Clichy-92_pa266689.html",
+      "location": "Clichy",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "TIME TOURS/MARIETTON DEVELOPPEMENT - Commercial Senior Service Groupes H/F - CDI - (Région Parisienne)",
+      "link": "https://www.tourmag.com/classifieds/TIME-TOURS-MARIETTON-DEVELOPPEMENT-Commercial-Senior-Service-Groupes-H-F-CDI-Region-Parisienne_pa266686.html",
+      "location": "Clichy",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
       "title": "DONNE CAUSE DEPART A LA RETRAITE - SARL Agence de voyages sans fonds de commerce avec agréments IATA SNCF",
       "link": "https://www.tourmag.com/classifieds/DONNE-CAUSE-DEPART-A-LA-RETRAITE-SARL-Agence-de-voyages-sans-fonds-de-commerce-avec-agrements-IATA-SNCF_pa266763.html",
       "location": "Paris",
@@ -295,20 +309,6 @@
       "location": "Cholet",
       "description": "",
       "pubDate": "9 Janvier"
-    },
-    {
-      "title": "TIME TOURS/MARIETTON DEVELOPPEMENT - Technicien Back Office H/F - CDI - (Clichy (92))",
-      "link": "https://www.tourmag.com/classifieds/TIME-TOURS-MARIETTON-DEVELOPPEMENT-Technicien-Back-Office-H-F-CDI-Clichy-92_pa266689.html",
-      "location": "Clichy",
-      "description": "",
-      "pubDate": "5 Janvier"
-    },
-    {
-      "title": "TIME TOURS/MARIETTON DEVELOPPEMENT - Commercial Senior Service Groupes H/F - CDI - (Région Parisienne)",
-      "link": "https://www.tourmag.com/classifieds/TIME-TOURS-MARIETTON-DEVELOPPEMENT-Commercial-Senior-Service-Groupes-H-F-CDI-Region-Parisienne_pa266686.html",
-      "location": "Clichy",
-      "description": "",
-      "pubDate": "5 Janvier"
     },
     {
       "title": "LE GROUPE SALAUN - Assistant technique de production et réservation H/F - CDI - (Châteaulin (29))",
@@ -682,5 +682,5 @@
       "pubDate": "20 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-13T15:24:32.721Z"
+  "scrapedAt": "2026-01-13T16:31:18.858Z"
 }
