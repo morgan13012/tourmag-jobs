@@ -3,6 +3,20 @@
   "total": 98,
   "offers": [
     {
+      "title": "DONNE CAUSE DEPART A LA RETRAITE - SARL Agence de voyages sans fonds de commerce avec agréments IATA SNCF",
+      "link": "https://www.tourmag.com/classifieds/DONNE-CAUSE-DEPART-A-LA-RETRAITE-SARL-Agence-de-voyages-sans-fonds-de-commerce-avec-agrements-IATA-SNCF_pa266763.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "14 Janvier"
+    },
+    {
+      "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages HC VOYAGES basée à Carpentras (84)",
+      "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-HC-VOYAGES-basee-a-Carpentras-84_pa266399.html",
+      "location": "Carpentras",
+      "description": "",
+      "pubDate": "14 Janvier"
+    },
+    {
       "title": "KUONI TUMLARE - Sales Manager – Japan Specialist - CDI - (St Ouen (93))",
       "link": "https://www.tourmag.com/classifieds/KUONI-TUMLARE-Sales-Manager-Japan-Specialist-CDI-St-Ouen-93_pa266776.html",
       "location": "ris   St Ouen",
@@ -22,20 +36,6 @@
       "location": "Clichy",
       "description": "",
       "pubDate": "NEW 00:00"
-    },
-    {
-      "title": "DONNE CAUSE DEPART A LA RETRAITE - SARL Agence de voyages sans fonds de commerce avec agréments IATA SNCF",
-      "link": "https://www.tourmag.com/classifieds/DONNE-CAUSE-DEPART-A-LA-RETRAITE-SARL-Agence-de-voyages-sans-fonds-de-commerce-avec-agrements-IATA-SNCF_pa266763.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "12 Janvier"
-    },
-    {
-      "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages HC VOYAGES basée à Carpentras (84)",
-      "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-HC-VOYAGES-basee-a-Carpentras-84_pa266399.html",
-      "location": "Carpentras",
-      "description": "",
-      "pubDate": "12 Janvier"
     },
     {
       "title": "E.LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Les Herbiers (85))",
@@ -689,5 +689,5 @@
       "pubDate": "20 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-13T19:19:51.949Z"
+  "scrapedAt": "2026-01-13T20:24:42.868Z"
 }
