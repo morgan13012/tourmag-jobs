@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 97,
+  "total": 98,
   "offers": [
+    {
+      "title": "KUONI TUMLARE - Sales Manager – Japan Specialist - CDI - (St Ouen (93))",
+      "link": "https://www.tourmag.com/classifieds/KUONI-TUMLARE-Sales-Manager-Japan-Specialist-CDI-St-Ouen-93_pa266776.html",
+      "location": "ris   St Ouen",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
     {
       "title": "TIME TOURS/MARIETTON DEVELOPPEMENT - Technicien Back Office H/F - CDI - (Clichy (92))",
       "link": "https://www.tourmag.com/classifieds/TIME-TOURS-MARIETTON-DEVELOPPEMENT-Technicien-Back-Office-H-F-CDI-Clichy-92_pa266689.html",
@@ -682,5 +689,5 @@
       "pubDate": "20 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-13T17:25:43.697Z"
+  "scrapedAt": "2026-01-13T18:30:21.216Z"
 }
