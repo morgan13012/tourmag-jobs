@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 96,
+  "total": 97,
   "offers": [
+    {
+      "title": "SELECTOUR AFFAIRES - Collaborateur pour son service H24 H/F - CDI - (France entière en Télétravail)",
+      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AFFAIRES-Collaborateur-pour-son-service-H24-H-F-CDI-France-entiere-en-Teletravail_pa266775.html",
+      "location": "Télétravail",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "DONNE CAUSE DEPART A LA RETRAITE - SARL Agence de voyages sans fonds de commerce avec agréments IATA SNCF",
       "link": "https://www.tourmag.com/classifieds/DONNE-CAUSE-DEPART-A-LA-RETRAITE-SARL-Agence-de-voyages-sans-fonds-de-commerce-avec-agrements-IATA-SNCF_pa266763.html",
@@ -675,5 +682,5 @@
       "pubDate": "20 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-14T12:44:33.112Z"
+  "scrapedAt": "2026-01-14T13:39:44.021Z"
 }
