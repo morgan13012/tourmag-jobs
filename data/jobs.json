@@ -1,34 +1,34 @@
 {
   "success": true,
-  "total": 102,
+  "total": 101,
   "offers": [
     {
       "title": "ORSUD - Conseiller(ère) voyages d’affaires - CDI  - (Marseille 9e)",
       "link": "https://www.tourmag.com/classifieds/ORSUD-Conseiller-ere-voyages-d-affaires-CDI-Marseille-9e_pa266840.html",
       "location": "Marseille",
       "description": "",
-      "pubDate": "NEW 23:30"
+      "pubDate": "15 Janvier"
     },
     {
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Account Manager H/F - CDI  - (Sèvres (92))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Account-Manager-H-F-CDI-Sevres-92_pa266843.html",
       "location": "Sèvres",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "15 Janvier"
     },
     {
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDD - (Montpellier (34))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDD-Montpellier-34_pa266842.html",
       "location": "Montpellier",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "15 Janvier"
     },
     {
       "title": "SELECTOUR AILLEURS VOYAGES  - Conseiller voyages expérimenté H/F - CDI - (Toulon (83))",
       "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Conseiller-voyages-experimente-H-F-CDI-Toulon-83_pa266841.html",
       "location": "Toulon",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "15 Janvier"
     },
     {
       "title": "SELECTOUR AFFAIRES - Collaborateur pour son service H24 H/F - CDI - (France entière en Télétravail)",
@@ -708,14 +708,7 @@
       "location": "Strasbourg",
       "description": "",
       "pubDate": "20 Octobre 2025"
-    },
-    {
-      "title": "JOUBERT VOYAGES - Chef de Projet Tourisme de Groupe Scolaire H/F - (Paris (75))",
-      "link": "https://www.tourmag.com/classifieds/JOUBERT-VOYAGES-Chef-de-Projet-Tourisme-de-Groupe-Scolaire-H-F-Paris-75_pa266410.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "20 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-15T22:21:04.309Z"
+  "scrapedAt": "2026-01-15T23:20:39.862Z"
 }
