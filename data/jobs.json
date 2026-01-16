@@ -3,6 +3,20 @@
   "total": 103,
   "offers": [
     {
+      "title": "DONNE CAUSE DEPART A LA RETRAITE - SARL Agence de voyages sans fonds de commerce avec agréments IATA SNCF",
+      "link": "https://www.tourmag.com/classifieds/DONNE-CAUSE-DEPART-A-LA-RETRAITE-SARL-Agence-de-voyages-sans-fonds-de-commerce-avec-agrements-IATA-SNCF_pa266763.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages HC VOYAGES basée à Carpentras (84)",
+      "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-HC-VOYAGES-basee-a-Carpentras-84_pa266399.html",
+      "location": "Carpentras",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
       "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Orléans (45))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Orleans-45_pa266848.html",
       "location": "Orléans",
@@ -55,20 +69,6 @@
       "title": "V.O.S  - Coordinateurs·trices des opérations - (Copenhague  (Danemark) ou Dubline (Irlande))",
       "link": "https://www.tourmag.com/classifieds/V-O-S-Coordinateurs·trices-des-operations-Copenhague-Danemark-ou-Dubline-Irlande_pa266769.html",
       "location": "Copenhague",
-      "description": "",
-      "pubDate": "14 Janvier"
-    },
-    {
-      "title": "DONNE CAUSE DEPART A LA RETRAITE - SARL Agence de voyages sans fonds de commerce avec agréments IATA SNCF",
-      "link": "https://www.tourmag.com/classifieds/DONNE-CAUSE-DEPART-A-LA-RETRAITE-SARL-Agence-de-voyages-sans-fonds-de-commerce-avec-agrements-IATA-SNCF_pa266763.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "14 Janvier"
-    },
-    {
-      "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages HC VOYAGES basée à Carpentras (84)",
-      "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-HC-VOYAGES-basee-a-Carpentras-84_pa266399.html",
-      "location": "Carpentras",
       "description": "",
       "pubDate": "14 Janvier"
     },
@@ -724,5 +724,5 @@
       "pubDate": "20 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-16T13:37:02.508Z"
+  "scrapedAt": "2026-01-16T14:23:11.831Z"
 }
