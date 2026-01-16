@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 101,
+  "total": 102,
   "offers": [
+    {
+      "title": "VISTA VOYAGES/MARIETTON DEVELOPPEMENT - Commercial(e) Groupes expérimenté(e) H/F - CDI - (Aubagne (13))",
+      "link": "https://www.tourmag.com/classifieds/VISTA-VOYAGES-MARIETTON-DEVELOPPEMENT-Commercial-e-Groupes-experimente-e-H-F-CDI-Aubagne-13_pa266847.html",
+      "location": "Aubagne",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "ORSUD - Conseiller(ère) voyages d’affaires - CDI  - (Marseille 9e)",
       "link": "https://www.tourmag.com/classifieds/ORSUD-Conseiller-ere-voyages-d-affaires-CDI-Marseille-9e_pa266840.html",
@@ -710,5 +717,5 @@
       "pubDate": "20 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-16T10:23:11.508Z"
+  "scrapedAt": "2026-01-16T11:19:02.398Z"
 }
