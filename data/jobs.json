@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 103,
+  "total": 102,
   "offers": [
     {
       "title": "DONNE CAUSE DEPART A LA RETRAITE - SARL Agence de voyages sans fonds de commerce avec agréments IATA SNCF",
@@ -715,14 +715,7 @@
       "location": "Paris",
       "description": "",
       "pubDate": "20 Octobre 2025"
-    },
-    {
-      "title": "CROISIEUROPE - Assistant Administratif de Production Touristique (F/H) - CDD - (Strasbourg (67))",
-      "link": "https://www.tourmag.com/classifieds/CROISIEUROPE-Assistant-Administratif-de-Production-Touristique-F-H-CDD-Strasbourg-67_pa266411.html",
-      "location": "Strasbourg",
-      "description": "",
-      "pubDate": "20 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-16T22:20:13.707Z"
+  "scrapedAt": "2026-01-16T23:19:49.109Z"
 }
