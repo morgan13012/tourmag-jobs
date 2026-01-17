@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 102,
+  "total": 101,
   "offers": [
     {
       "title": "DONNE CAUSE DEPART A LA RETRAITE - SARL Agence de voyages sans fonds de commerce avec agréments IATA SNCF",
@@ -127,13 +127,6 @@
       "location": "Nantes",
       "description": "",
       "pubDate": "12 Janvier"
-    },
-    {
-      "title": "PASSION AFRICA TRAVEL -  Assistante Marketing et Réseaux Sociaux H/F - Stage - (Télétravail ou Afrique du Sud)",
-      "link": "https://www.tourmag.com/classifieds/PASSION-AFRICA-TRAVEL-Assistante-Marketing-et-Reseaux-Sociaux-H-F-Stage-Teletravail-ou-Afrique-du-Sud_pa266756.html",
-      "location": "Télétravail",
-      "description": "",
-      "pubDate": "9 Janvier"
     },
     {
       "title": "CONTINENTS INSOLITES - Billettiste expérimenté H/F - CDI - ( Paris, Lyon, ou Bruxelles)",
@@ -717,5 +710,5 @@
       "pubDate": "20 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-17T15:19:01.792Z"
+  "scrapedAt": "2026-01-17T16:22:32.641Z"
 }
