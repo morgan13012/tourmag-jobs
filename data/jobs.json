@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 101,
+  "total": 100,
   "offers": [
     {
       "title": "DONNE CAUSE DEPART A LA RETRAITE - SARL Agence de voyages sans fonds de commerce avec agréments IATA SNCF",
@@ -701,14 +701,7 @@
       "location": "St Malo",
       "description": "",
       "pubDate": "21 Octobre 2025"
-    },
-    {
-      "title": "NG TRAVEL - Office Manager H/F - CDI - (Paris 2e)",
-      "link": "https://www.tourmag.com/classifieds/NG-TRAVEL-Office-Manager-H-F-CDI-Paris-2e_pa266412.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "20 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-18T22:19:15.664Z"
+  "scrapedAt": "2026-01-18T23:18:49.365Z"
 }
