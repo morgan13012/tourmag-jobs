@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 100,
+  "total": 99,
   "offers": [
     {
       "title": "DONNE CAUSE DEPART A LA RETRAITE - SARL Agence de voyages sans fonds de commerce avec agréments IATA SNCF",
@@ -640,13 +640,6 @@
       "pubDate": "7 Novembre 2025"
     },
     {
-      "title": "HELIADES/MARIETTON DEVELOPPEMENT - Agent de réservation H/F - CDI - (Aix-en-Provence (13))",
-      "link": "https://www.tourmag.com/classifieds/HELIADES-MARIETTON-DEVELOPPEMENT-Agent-de-reservation-H-F-CDI-Aix-en-Provence-13_pa266417.html",
-      "location": "Aix-en-Provence",
-      "description": "",
-      "pubDate": "7 Novembre 2025"
-    },
-    {
       "title": "SELECTOUR BLEU VOYAGES - Conseiller voyages H/F - CDI - (Vienne (38))",
       "link": "https://www.tourmag.com/classifieds/SELECTOUR-BLEU-VOYAGES-Conseiller-voyages-H-F-CDI-Vienne-38_pa266455.html",
       "location": "Vienne",
@@ -703,5 +696,5 @@
       "pubDate": "21 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-19T22:20:44.925Z"
+  "scrapedAt": "2026-01-19T23:20:01.379Z"
 }
