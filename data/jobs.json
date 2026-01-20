@@ -3,6 +3,13 @@
   "total": 99,
   "offers": [
     {
+      "title": "SEZAME DES VOYAGES - Responsable d'agence de voyages H/F - CDI  - (Marseille (13))",
+      "link": "https://www.tourmag.com/classifieds/SEZAME-DES-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Marseille-13_pa266852.html",
+      "location": "°°  Marseille",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
       "title": "DONNE CAUSE DEPART A LA RETRAITE - SARL Agence de voyages sans fonds de commerce avec agréments IATA SNCF",
       "link": "https://www.tourmag.com/classifieds/DONNE-CAUSE-DEPART-A-LA-RETRAITE-SARL-Agence-de-voyages-sans-fonds-de-commerce-avec-agrements-IATA-SNCF_pa266763.html",
       "location": "Paris",
@@ -132,13 +139,6 @@
       "title": "CONTINENTS INSOLITES - Billettiste expérimenté H/F - CDI - ( Paris, Lyon, ou Bruxelles)",
       "link": "https://www.tourmag.com/classifieds/CONTINENTS-INSOLITES-Billettiste-experimente-H-F-CDI-Paris-Lyon-ou-Bruxelles_pa266753.html",
       "location": "Paris",
-      "description": "",
-      "pubDate": "9 Janvier"
-    },
-    {
-      "title": "CATLANTE CATAMARANS - Conseiller(e) Voyages expérimenté(e) - CDI - (Saint-Cloud (92))",
-      "link": "https://www.tourmag.com/classifieds/CATLANTE-CATAMARANS-Conseiller-e-Voyages-experimente-e-CDI-Saint-Cloud-92_pa266728.html",
-      "location": "Saint-Cloud",
       "description": "",
       "pubDate": "9 Janvier"
     },
@@ -696,5 +696,5 @@
       "pubDate": "21 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-20T12:49:21.901Z"
+  "scrapedAt": "2026-01-20T13:46:23.867Z"
 }
