@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 99,
+  "total": 100,
   "offers": [
     {
       "title": "SEZAME DES VOYAGES - Responsable d'agence de voyages H/F - CDI  - (Marseille (13))",
@@ -139,6 +139,13 @@
       "title": "CONTINENTS INSOLITES - Billettiste expérimenté H/F - CDI - ( Paris, Lyon, ou Bruxelles)",
       "link": "https://www.tourmag.com/classifieds/CONTINENTS-INSOLITES-Billettiste-experimente-H-F-CDI-Paris-Lyon-ou-Bruxelles_pa266753.html",
       "location": "Paris",
+      "description": "",
+      "pubDate": "9 Janvier"
+    },
+    {
+      "title": "CATLANTE CATAMARANS - Conseiller(e) Voyages expérimenté(e) - CDI - (Saint-Cloud (92))",
+      "link": "https://www.tourmag.com/classifieds/CATLANTE-CATAMARANS-Conseiller-e-Voyages-experimente-e-CDI-Saint-Cloud-92_pa266728.html",
+      "location": "Saint-Cloud",
       "description": "",
       "pubDate": "9 Janvier"
     },
@@ -696,5 +703,5 @@
       "pubDate": "21 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-20T13:46:23.867Z"
+  "scrapedAt": "2026-01-20T14:30:12.819Z"
 }
