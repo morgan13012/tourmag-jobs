@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 100,
+  "total": 101,
   "offers": [
+    {
+      "title": "E-LECLERC VOYAGES - Conseiller voyages Confirmé H/F - CDI - (Carpentras (84))",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-voyages-Confirme-H-F-CDI-Carpentras-84_pa266853.html",
+      "location": "Carpentras",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "SEZAME DES VOYAGES - Responsable d'agence de voyages H/F - CDI  - (Marseille (13))",
       "link": "https://www.tourmag.com/classifieds/SEZAME-DES-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Marseille-13_pa266852.html",
@@ -703,5 +710,5 @@
       "pubDate": "21 Octobre 2025"
     }
   ],
-  "scrapedAt": "2026-01-20T14:30:12.819Z"
+  "scrapedAt": "2026-01-20T15:29:55.677Z"
 }
