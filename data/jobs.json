@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 100,
+  "total": 99,
   "offers": [
     {
       "title": "E-LECLERC VOYAGES - Conseiller voyages Confirmé H/F - CDI - (Carpentras (84))",
@@ -342,13 +342,6 @@
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Nantes (44))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Nantes-44_pa266423.html",
       "location": "Nantes",
-      "description": "",
-      "pubDate": "9 Janvier"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Responsable d'agence de voyages H/F - CDI - (Monaco (98))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Responsable-d-agence-de-voyages-H-F-CDI-Monaco-98_pa266401.html",
-      "location": "Monaco",
       "description": "",
       "pubDate": "9 Janvier"
     },
@@ -703,5 +696,5 @@
       "pubDate": "3 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-01-21T07:27:42.543Z"
+  "scrapedAt": "2026-01-21T08:31:29.752Z"
 }
