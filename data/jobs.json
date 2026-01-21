@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 99,
+  "total": 100,
   "offers": [
     {
       "title": "E-LECLERC VOYAGES - Conseiller voyages Confirmé H/F - CDI - (Carpentras (84))",
@@ -120,6 +120,13 @@
       "location": "Paris",
       "description": "",
       "pubDate": "NEW 22:00"
+    },
+    {
+      "title": "SELECTOUR AILLEURS VOYAGES  - Conseiller voyages expérimenté H/F - CDI - (Aix-en-Provence (13))",
+      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Conseiller-voyages-experimente-H-F-CDI-Aix-en-Provence-13_pa266856.html",
+      "location": "Aix-en-Provence",
+      "description": "",
+      "pubDate": "NEW 00:00"
     },
     {
       "title": "SEZAME DES VOYAGES - Responsable d'agence de voyages H/F - CDI  - (Marseille (13))",
@@ -696,5 +703,5 @@
       "pubDate": "3 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-01-21T12:49:08.499Z"
+  "scrapedAt": "2026-01-21T13:44:25.582Z"
 }
