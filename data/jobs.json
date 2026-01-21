@@ -1,11 +1,18 @@
 {
   "success": true,
-  "total": 100,
+  "total": 101,
   "offers": [
     {
       "title": "E-LECLERC VOYAGES - Conseiller voyages Confirmé H/F - CDI - (Carpentras (84))",
       "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-voyages-Confirme-H-F-CDI-Carpentras-84_pa266853.html",
       "location": "Carpentras",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "PASSEPORT EVASION - Commercial(e) Tourisme spécialisé(e) voyages de Groupes « Sur-Mesure » - Indépendant, freelance - (France entière)",
+      "link": "https://www.tourmag.com/classifieds/PASSEPORT-EVASION-Commercial-e-Tourisme-specialise-e-voyages-de-Groupes- Sur-Mesure -Independant-freelance-France_pa266850.html",
+      "location": "Non précisée",
       "description": "",
       "pubDate": "NEW 23:30"
     },
@@ -703,5 +710,5 @@
       "pubDate": "3 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-01-21T14:30:10.138Z"
+  "scrapedAt": "2026-01-21T15:31:39.357Z"
 }
