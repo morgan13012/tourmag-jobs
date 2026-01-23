@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 101,
+  "total": 100,
   "offers": [
     {
       "title": "TANGANYIKA EXPEDITIONS - Technico-commercial groupes H/F - CDD - (Antony (92))",
@@ -661,13 +661,6 @@
       "pubDate": "7 Novembre 2025"
     },
     {
-      "title": "E-LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Saint-Maur (36))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Saint-Maur-36_pa266425.html",
-      "location": "Saint-Maur",
-      "description": "",
-      "pubDate": "7 Novembre 2025"
-    },
-    {
       "title": "SELECTOUR BLEU VOYAGES - Conseiller voyages H/F - CDI - (Vienne (38))",
       "link": "https://www.tourmag.com/classifieds/SELECTOUR-BLEU-VOYAGES-Conseiller-voyages-H-F-CDI-Vienne-38_pa266455.html",
       "location": "Vienne",
@@ -710,5 +703,5 @@
       "pubDate": "3 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-01-23T22:17:49.758Z"
+  "scrapedAt": "2026-01-23T23:20:44.845Z"
 }
