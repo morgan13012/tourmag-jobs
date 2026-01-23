@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 100,
+  "total": 101,
   "offers": [
     {
       "title": "TANGANYIKA EXPEDITIONS - Technico-commercial groupes H/F - CDD - (Antony (92))",
@@ -22,6 +22,13 @@
       "location": "Paris",
       "description": "",
       "pubDate": "NEW 22:00"
+    },
+    {
+      "title": "AUSTRAL LAGONS - Technicien Transport expérimenté H/F - CDI - (Sèvres (92))",
+      "link": "https://www.tourmag.com/classifieds/AUSTRAL-LAGONS-Technicien-Transport-experimente-H-F-CDI-Sevres-92_pa266860.html",
+      "location": "Sèvres",
+      "description": "",
+      "pubDate": "NEW 00:00"
     },
     {
       "title": "PASSEPORT EVASION - Commercial(e) Tourisme spécialisé(e) voyages de Groupes « Sur-Mesure » - Indépendant, freelance - (France entière)",
@@ -703,5 +710,5 @@
       "pubDate": "3 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-01-23T15:25:39.528Z"
+  "scrapedAt": "2026-01-23T16:29:43.116Z"
 }
