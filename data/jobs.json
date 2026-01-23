@@ -1,7 +1,21 @@
 {
   "success": true,
-  "total": 98,
+  "total": 100,
   "offers": [
+    {
+      "title": "TANGANYIKA EXPEDITIONS - Technico-commercial groupes H/F - CDD - (Antony (92))",
+      "link": "https://www.tourmag.com/classifieds/TANGANYIKA-EXPEDITIONS-Technico-commercial-groupes-H-F-CDD-Antony-92_pa266859.html",
+      "location": "Antony",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "CROISIEUROPE - Assistant Administratif de Production Touristique (F/H) - CDD - (Strasbourg (67))",
+      "link": "https://www.tourmag.com/classifieds/CROISIEUROPE-Assistant-Administratif-de-Production-Touristique-F-H-CDD-Strasbourg-67_pa266858.html",
+      "location": "Strasbourg",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "MSC CROISIERES - Commercial CSE, collectivités et associations H/F - CDI - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/MSC-CROISIERES-Commercial-CSE-collectivites-et-associations-H-F-CDI-Paris-75_pa266666.html",
@@ -689,5 +703,5 @@
       "pubDate": "3 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-01-23T14:24:46.022Z"
+  "scrapedAt": "2026-01-23T15:25:39.528Z"
 }
