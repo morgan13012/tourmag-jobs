@@ -3,6 +3,13 @@
   "total": 98,
   "offers": [
     {
+      "title": "MSC CROISIERES - Commercial CSE, collectivités et associations H/F - CDI - (Paris (75))",
+      "link": "https://www.tourmag.com/classifieds/MSC-CROISIERES-Commercial-CSE-collectivites-et-associations-H-F-CDI-Paris-75_pa266666.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 22:00"
+    },
+    {
       "title": "PASSEPORT EVASION - Commercial(e) Tourisme spécialisé(e) voyages de Groupes « Sur-Mesure » - Indépendant, freelance - (France entière)",
       "link": "https://www.tourmag.com/classifieds/PASSEPORT-EVASION-Commercial-e-Tourisme-specialise-e-voyages-de-Groupes- Sur-Mesure -Independant-freelance-France_pa266850.html",
       "location": "Non précisée",
@@ -111,13 +118,6 @@
       "title": "EXCLUSIF VOYAGES - Technicien(ne) Back-office confirmé(e) Voyages sur-mesure pour une clientèle de luxe H/F - CDI  - (Paris 1er)",
       "link": "https://www.tourmag.com/classifieds/EXCLUSIF-VOYAGES-Technicien-ne-Back-office-confirme-e-Voyages-sur-mesure-pour-une-clientele-de-luxe-H-F-CDI-Paris-1er_pa266671.html",
       "location": "Paris",
-      "description": "",
-      "pubDate": "21 Janvier"
-    },
-    {
-      "title": "MSC CROISIERES - Commercial CSE, collectivités et associations H/F - CDI - (Montrouge (92))",
-      "link": "https://www.tourmag.com/classifieds/MSC-CROISIERES-Commercial-CSE-collectivites-et-associations-H-F-CDI-Montrouge-92_pa266666.html",
-      "location": "Montrouge",
       "description": "",
       "pubDate": "21 Janvier"
     },
@@ -689,5 +689,5 @@
       "pubDate": "3 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-01-23T09:29:17.446Z"
+  "scrapedAt": "2026-01-23T10:24:20.345Z"
 }
