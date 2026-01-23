@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 99,
+  "total": 98,
   "offers": [
     {
       "title": "PASSEPORT EVASION - Commercial(e) Tourisme spécialisé(e) voyages de Groupes « Sur-Mesure » - Indépendant, freelance - (France entière)",
@@ -388,13 +388,6 @@
       "pubDate": "9 Janvier"
     },
     {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Cholet (49))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Cholet-49_pa265705.html",
-      "location": "Cholet",
-      "description": "",
-      "pubDate": "9 Janvier"
-    },
-    {
       "title": "LE GROUPE SALAUN - Assistant technique de production et réservation H/F - CDI - (Châteaulin (29))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Assistant-technique-de-production-et-reservation-H-F-CDI-Chateaulin-29_pa266690.html",
       "location": "Châteaulin",
@@ -696,5 +689,5 @@
       "pubDate": "3 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-01-23T08:29:40.739Z"
+  "scrapedAt": "2026-01-23T09:29:17.446Z"
 }
