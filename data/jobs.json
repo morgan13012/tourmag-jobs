@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 101,
+  "total": 100,
   "offers": [
     {
       "title": "SELECTOUR BLEU VOYAGES - Conseiller voyages H/F - CDD - (Epagny (74))",
@@ -661,13 +661,6 @@
       "pubDate": "7 Novembre 2025"
     },
     {
-      "title": "BCD TRAVEL - Conseillers voyages d'affaires H/F - CDI - (Présentiel sur Paris, Montpellier, Lille, Montrouge ou travail à distance)",
-      "link": "https://www.tourmag.com/classifieds/BCD-TRAVEL-Conseillers-voyages-d-affaires-H-F-CDI-Presentiel-sur-Paris-Montpellier-Lille-Montrouge-ou-travail-a_pa266426.html",
-      "location": "Paris, Montpellier, Lille, Montrouge",
-      "description": "",
-      "pubDate": "7 Novembre 2025"
-    },
-    {
       "title": "SELECTOUR BLEU VOYAGES - Conseiller voyages H/F - CDI - (Vienne (38))",
       "link": "https://www.tourmag.com/classifieds/SELECTOUR-BLEU-VOYAGES-Conseiller-voyages-H-F-CDI-Vienne-38_pa266455.html",
       "location": "Vienne",
@@ -710,5 +703,5 @@
       "pubDate": "3 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-01-26T22:21:04.769Z"
+  "scrapedAt": "2026-01-26T23:21:09.336Z"
 }
