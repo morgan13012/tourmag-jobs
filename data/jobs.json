@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 100,
+  "total": 101,
   "offers": [
+    {
+      "title": "SELECTOUR BLEU VOYAGES - Conseiller voyages H/F - CDD - (Epagny (74))",
+      "link": "https://www.tourmag.com/classifieds/SELECTOUR-BLEU-VOYAGES-Conseiller-voyages-H-F-CDD-Epagny-74_pa266872.html",
+      "location": "Epagny",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "TANGANYIKA EXPEDITIONS - Technico-commercial groupes H/F - CDD - (Antony (92))",
       "link": "https://www.tourmag.com/classifieds/TANGANYIKA-EXPEDITIONS-Technico-commercial-groupes-H-F-CDD-Antony-92_pa266859.html",
@@ -703,5 +710,5 @@
       "pubDate": "3 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-01-26T17:28:57.161Z"
+  "scrapedAt": "2026-01-26T18:35:12.087Z"
 }
