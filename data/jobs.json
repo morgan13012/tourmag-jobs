@@ -3,6 +3,13 @@
   "total": 100,
   "offers": [
     {
+      "title": "CITIZENPLANE - Formateur·trice Systèmes Aériens & Support - CDI  - (Marseille (13))",
+      "link": "https://www.tourmag.com/classifieds/CITIZENPLANE-Formateur·trice-Systemes-Aeriens-Support-CDI-Marseille-13_pa266764.html",
+      "location": "Marseille",
+      "description": "",
+      "pubDate": "28 Janvier"
+    },
+    {
       "title": "SELECTOUR BLEU VOYAGES - Conseiller voyages H/F - CDD - (Epagny (74))",
       "link": "https://www.tourmag.com/classifieds/SELECTOUR-BLEU-VOYAGES-Conseiller-voyages-H-F-CDD-Epagny-74_pa266872.html",
       "location": "Epagny",
@@ -83,13 +90,6 @@
       "title": "V.O.S  - Coordinateurs·trices des opérations - (Copenhague  (Danemark) ou Dubline (Irlande))",
       "link": "https://www.tourmag.com/classifieds/V-O-S-Coordinateurs·trices-des-operations-Copenhague-Danemark-ou-Dubline-Irlande_pa266769.html",
       "location": "Copenhague",
-      "description": "",
-      "pubDate": "21 Janvier"
-    },
-    {
-      "title": "CITIZENPLANE - Formateur·trice Systèmes Aériens & Support - CDI  - (Marseille (13))",
-      "link": "https://www.tourmag.com/classifieds/CITIZENPLANE-Formateur·trice-Systemes-Aeriens-Support-CDI-Marseille-13_pa266764.html",
-      "location": "Marseille",
       "description": "",
       "pubDate": "21 Janvier"
     },
@@ -703,5 +703,5 @@
       "pubDate": "3 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-01-27T13:46:37.209Z"
+  "scrapedAt": "2026-01-27T14:29:20.131Z"
 }
