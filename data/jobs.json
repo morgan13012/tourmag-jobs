@@ -1,27 +1,27 @@
 {
   "success": true,
-  "total": 99,
+  "total": 98,
   "offers": [
     {
       "title": "CITIZENPLANE - Formateur·trice Systèmes Aériens & Support - CDI  - (Marseille (13))",
       "link": "https://www.tourmag.com/classifieds/CITIZENPLANE-Formateur·trice-Systemes-Aeriens-Support-CDI-Marseille-13_pa266764.html",
       "location": "Marseille",
       "description": "",
-      "pubDate": "28 Janvier"
+      "pubDate": "NEW 23:30"
     },
     {
       "title": "V.O.S  - Coordinateurs·trices des opérations - (Copenhague  (Danemark) ou Dubline (Irlande))",
       "link": "https://www.tourmag.com/classifieds/V-O-S-Coordinateurs·trices-des-operations-Copenhague-Danemark-ou-Dubline-Irlande_pa266769.html",
       "location": "Copenhague",
       "description": "",
-      "pubDate": "NEW 23:30"
+      "pubDate": "27 Janvier"
     },
     {
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Responsable d'agence de voyages H/F - CDI - (Ferney Voltaire (01))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Responsable-d-agence-de-voyages-H-F-CDI-Ferney-Voltaire-01_pa266761.html",
       "location": "Ferney Voltaire",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "27 Janvier"
     },
     {
       "title": "SELECTOUR BLEU VOYAGES - Conseiller voyages H/F - CDD - (Epagny (74))",
@@ -647,13 +647,6 @@
       "pubDate": "7 Novembre 2025"
     },
     {
-      "title": "SYLTOURS - Technicien(ne) Groupes H/F - CDI - (Boulogne-Billancourt (92))",
-      "link": "https://www.tourmag.com/classifieds/SYLTOURS-Technicien-ne-Groupes-H-F-CDI-Boulogne-Billancourt-92_pa266430.html",
-      "location": "Boulogne-Billancourt",
-      "description": "",
-      "pubDate": "7 Novembre 2025"
-    },
-    {
       "title": "SELECTOUR BLEU VOYAGES - Conseiller voyages H/F - CDI - (Vienne (38))",
       "link": "https://www.tourmag.com/classifieds/SELECTOUR-BLEU-VOYAGES-Conseiller-voyages-H-F-CDI-Vienne-38_pa266455.html",
       "location": "Vienne",
@@ -696,5 +689,5 @@
       "pubDate": "3 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-01-27T22:21:57.265Z"
+  "scrapedAt": "2026-01-27T23:21:10.961Z"
 }
