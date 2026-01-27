@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 100,
+  "total": 99,
   "offers": [
     {
       "title": "CITIZENPLANE - Formateur·trice Systèmes Aériens & Support - CDI  - (Marseille (13))",
@@ -8,6 +8,13 @@
       "location": "Marseille",
       "description": "",
       "pubDate": "28 Janvier"
+    },
+    {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Responsable d'agence de voyages H/F - CDI - (Ferney Voltaire (01))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Responsable-d-agence-de-voyages-H-F-CDI-Ferney-Voltaire-01_pa266761.html",
+      "location": "Ferney Voltaire",
+      "description": "",
+      "pubDate": "NEW 00:00"
     },
     {
       "title": "SELECTOUR BLEU VOYAGES - Conseiller voyages H/F - CDD - (Epagny (74))",
@@ -360,13 +367,6 @@
       "pubDate": "9 Janvier"
     },
     {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Responsable d'agence de voyages H/F - CDI - (Ferney Voltaire (01))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Responsable-d-agence-de-voyages-H-F-CDI-Ferney-Voltaire-01_pa266761.html",
-      "location": "Ferney Voltaire",
-      "description": "",
-      "pubDate": "9 Janvier"
-    },
-    {
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Nantes (44))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Nantes-44_pa266423.html",
       "location": "Nantes",
@@ -535,13 +535,6 @@
       "pubDate": "27 Novembre 2025"
     },
     {
-      "title": "ASSUREVER - Responsable commercial Sud-Ouest H/F - CDI  - (Basé idéalement dans le 31 ou le 47)",
-      "link": "https://www.tourmag.com/classifieds/ASSUREVER-Responsable-commercial-Sud-Ouest-H-F-CDI-Base-idealement-dans-le-31-ou-le-47_pa266489.html",
-      "location": "Non précisée",
-      "description": "",
-      "pubDate": "27 Novembre 2025"
-    },
-    {
       "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Mantes la Jolie (78))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Mantes-la-Jolie-78_pa266554.html",
       "location": "Mantes la Jolie",
@@ -703,5 +696,5 @@
       "pubDate": "3 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-01-27T15:30:11.925Z"
+  "scrapedAt": "2026-01-27T16:29:24.982Z"
 }
