@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 100,
+  "total": 101,
   "offers": [
     {
       "title": "KUONI TUMLARE - Coordinator MICE - Asia - CDI - (Saint Ouen (93))",
@@ -209,6 +209,13 @@
       "title": "SEZAME DES VOYAGES - Responsable d'agence de voyages H/F - CDI  - (Marseille (13))",
       "link": "https://www.tourmag.com/classifieds/SEZAME-DES-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Marseille-13_pa266852.html",
       "location": "°°  Marseille",
+      "description": "",
+      "pubDate": "21 Janvier"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - CDI - (Vannes (56))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Responsable-d-agence-H-F-CDI-Vannes-56_pa266760.html",
+      "location": "Vannes",
       "description": "",
       "pubDate": "21 Janvier"
     },
@@ -703,5 +710,5 @@
       "pubDate": "3 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-01-28T14:29:20.615Z"
+  "scrapedAt": "2026-01-28T15:31:33.752Z"
 }
