@@ -1,11 +1,25 @@
 {
   "success": true,
-  "total": 99,
+  "total": 100,
   "offers": [
     {
       "title": "KUONI TUMLARE - Coordinator MICE - Asia - CDI - (Saint Ouen (93))",
       "link": "https://www.tourmag.com/classifieds/KUONI-TUMLARE-Coordinator-MICE-Asia-CDI-Saint-Ouen-93_pa266875.html",
       "location": "Saint Ouen",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "ASSUREVER - Chargé(e) de clientèle H/F - CDI - (Paris 15e)",
+      "link": "https://www.tourmag.com/classifieds/ASSUREVER-Charge-e-de-clientele-H-F-CDI-Paris-15e_pa266874.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "ASSUREVER - Responsable commercial(e) H/F - CDI  - (Secteur Sud-Rhône Alpes)",
+      "link": "https://www.tourmag.com/classifieds/ASSUREVER-Responsable-commercial-e-H-F-CDI-Secteur-Sud-Rhone-Alpes_pa266873.html",
+      "location": "Non précisée",
       "description": "",
       "pubDate": "NEW 23:30"
     },
@@ -195,13 +209,6 @@
       "title": "SEZAME DES VOYAGES - Responsable d'agence de voyages H/F - CDI  - (Marseille (13))",
       "link": "https://www.tourmag.com/classifieds/SEZAME-DES-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Marseille-13_pa266852.html",
       "location": "°°  Marseille",
-      "description": "",
-      "pubDate": "21 Janvier"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - CDI - (Vannes (56))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Responsable-d-agence-H-F-CDI-Vannes-56_pa266760.html",
-      "location": "Vannes",
       "description": "",
       "pubDate": "21 Janvier"
     },
@@ -696,5 +703,5 @@
       "pubDate": "3 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-01-28T13:48:16.728Z"
+  "scrapedAt": "2026-01-28T14:29:20.615Z"
 }
