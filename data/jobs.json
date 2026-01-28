@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 98,
+  "total": 99,
   "offers": [
+    {
+      "title": "KUONI TUMLARE - Coordinator MICE - Asia - CDI - (Saint Ouen (93))",
+      "link": "https://www.tourmag.com/classifieds/KUONI-TUMLARE-Coordinator-MICE-Asia-CDI-Saint-Ouen-93_pa266875.html",
+      "location": "Saint Ouen",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "CITIZENPLANE - Formateur·trice Systèmes Aériens & Support - CDI  - (Marseille (13))",
       "link": "https://www.tourmag.com/classifieds/CITIZENPLANE-Formateur·trice-Systemes-Aeriens-Support-CDI-Marseille-13_pa266764.html",
@@ -689,5 +696,5 @@
       "pubDate": "3 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-01-28T11:22:10.520Z"
+  "scrapedAt": "2026-01-28T12:49:19.355Z"
 }
