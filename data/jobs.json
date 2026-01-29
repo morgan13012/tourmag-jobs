@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 101,
+  "total": 102,
   "offers": [
+    {
+      "title": "E-LECLERC VOYAGES - Conseiller voyages confirmé(e) H/F - CDI - (Saint-Médard-en-Jalles (33))",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-voyages-confirme-e-H-F-CDI-Saint-Medard-en-Jalles-33_pa266880.html",
+      "location": "Saint-Médard-en-Jalles",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "KUONI TUMLARE - Coordinator MICE - Asia - CDI - (Saint Ouen (93))",
       "link": "https://www.tourmag.com/classifieds/KUONI-TUMLARE-Coordinator-MICE-Asia-CDI-Saint-Ouen-93_pa266875.html",
@@ -710,5 +717,5 @@
       "pubDate": "3 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-01-29T09:41:43.046Z"
+  "scrapedAt": "2026-01-29T10:35:55.287Z"
 }
