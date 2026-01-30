@@ -3,6 +3,13 @@
   "total": 104,
   "offers": [
     {
+      "title": "CATLANTE CATAMARANS - Conseiller(e) Voyages expérimenté(e) - CDI - (Saint-Cloud (92))",
+      "link": "https://www.tourmag.com/classifieds/CATLANTE-CATAMARANS-Conseiller-e-Voyages-experimente-e-CDI-Saint-Cloud-92_pa266728.html",
+      "location": "Saint-Cloud",
+      "description": "",
+      "pubDate": "31 Janvier"
+    },
+    {
       "title": "E-LECLERC VOYAGES - Conseiller voyages confirmé(e) H/F - CDI - (Saint-Médard-en-Jalles (33))",
       "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-voyages-confirme-e-H-F-CDI-Saint-Medard-en-Jalles-33_pa266880.html",
       "location": "Saint-Médard-en-Jalles",
@@ -62,13 +69,6 @@
       "title": "CITIZENPLANE - Formateur·trice Systèmes Aériens & Support - CDI  - (Marseille (13))",
       "link": "https://www.tourmag.com/classifieds/CITIZENPLANE-Formateur·trice-Systemes-Aeriens-Support-CDI-Marseille-13_pa266764.html",
       "location": "Marseille",
-      "description": "",
-      "pubDate": "NEW 23:30"
-    },
-    {
-      "title": "CATLANTE CATAMARANS - Conseiller(e) Voyages expérimenté(e) - CDI - (Saint-Cloud (92))",
-      "link": "https://www.tourmag.com/classifieds/CATLANTE-CATAMARANS-Conseiller-e-Voyages-experimente-e-CDI-Saint-Cloud-92_pa266728.html",
-      "location": "Saint-Cloud",
       "description": "",
       "pubDate": "NEW 23:30"
     },
@@ -731,5 +731,5 @@
       "pubDate": "3 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-01-30T13:55:51.998Z"
+  "scrapedAt": "2026-01-30T14:36:15.463Z"
 }
