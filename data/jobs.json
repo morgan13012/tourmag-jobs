@@ -3,6 +3,13 @@
   "total": 102,
   "offers": [
     {
+      "title": "TIME TOURS/MARIETTON DEVELOPPEMENT - Commercial Senior Service Groupes H/F - CDI - (Région Parisienne)",
+      "link": "https://www.tourmag.com/classifieds/TIME-TOURS-MARIETTON-DEVELOPPEMENT-Commercial-Senior-Service-Groupes-H-F-CDI-Region-Parisienne_pa266686.html",
+      "location": "Clichy",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
       "title": "E-LECLERC VOYAGES - Conseiller voyages confirmé(e) H/F - CDI - (Saint-Médard-en-Jalles (33))",
       "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-voyages-confirme-e-H-F-CDI-Saint-Medard-en-Jalles-33_pa266880.html",
       "location": "Saint-Médard-en-Jalles",
@@ -348,13 +355,6 @@
     {
       "title": "TIME TOURS/MARIETTON DEVELOPPEMENT - Technicien Back Office H/F - CDI - (Clichy (92))",
       "link": "https://www.tourmag.com/classifieds/TIME-TOURS-MARIETTON-DEVELOPPEMENT-Technicien-Back-Office-H-F-CDI-Clichy-92_pa266689.html",
-      "location": "Clichy",
-      "description": "",
-      "pubDate": "13 Janvier"
-    },
-    {
-      "title": "TIME TOURS/MARIETTON DEVELOPPEMENT - Commercial Senior Service Groupes H/F - CDI - (Région Parisienne)",
-      "link": "https://www.tourmag.com/classifieds/TIME-TOURS-MARIETTON-DEVELOPPEMENT-Commercial-Senior-Service-Groupes-H-F-CDI-Region-Parisienne_pa266686.html",
       "location": "Clichy",
       "description": "",
       "pubDate": "13 Janvier"
@@ -717,5 +717,5 @@
       "pubDate": "3 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-01-30T08:37:42.872Z"
+  "scrapedAt": "2026-01-30T09:37:12.002Z"
 }
