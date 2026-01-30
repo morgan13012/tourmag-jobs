@@ -66,6 +66,13 @@
       "pubDate": "NEW 23:30"
     },
     {
+      "title": "CATLANTE CATAMARANS - Conseiller(e) Voyages expérimenté(e) - CDI - (Saint-Cloud (92))",
+      "link": "https://www.tourmag.com/classifieds/CATLANTE-CATAMARANS-Conseiller-e-Voyages-experimente-e-CDI-Saint-Cloud-92_pa266728.html",
+      "location": "Saint-Cloud",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
       "title": "SELECTOUR BLEU VOYAGES - Conseiller voyages H/F - CDI - (Grenoble (38))",
       "link": "https://www.tourmag.com/classifieds/SELECTOUR-BLEU-VOYAGES-Conseiller-voyages-H-F-CDI-Grenoble-38_pa266886.html",
       "location": "Grenoble",
@@ -132,13 +139,6 @@
       "title": "CONTINENTS INSOLITES - Billettiste expérimenté H/F - CDI - ( Paris, Lyon, ou Bruxelles)",
       "link": "https://www.tourmag.com/classifieds/CONTINENTS-INSOLITES-Billettiste-experimente-H-F-CDI-Paris-Lyon-ou-Bruxelles_pa266753.html",
       "location": "Paris",
-      "description": "",
-      "pubDate": "NEW 20:00"
-    },
-    {
-      "title": "CATLANTE CATAMARANS - Conseiller(e) Voyages expérimenté(e) - CDI - (Saint-Cloud (92))",
-      "link": "https://www.tourmag.com/classifieds/CATLANTE-CATAMARANS-Conseiller-e-Voyages-experimente-e-CDI-Saint-Cloud-92_pa266728.html",
-      "location": "Saint-Cloud",
       "description": "",
       "pubDate": "NEW 20:00"
     },
@@ -731,5 +731,5 @@
       "pubDate": "3 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-01-30T12:54:01.246Z"
+  "scrapedAt": "2026-01-30T13:55:51.998Z"
 }
