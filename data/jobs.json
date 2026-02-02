@@ -1,13 +1,13 @@
 {
   "success": true,
-  "total": 100,
+  "total": 95,
   "offers": [
     {
       "title": "SELECTOUR BLEU VOYAGES - Conseiller voyages H/F - CDI - (Vienne (38))",
       "link": "https://www.tourmag.com/classifieds/SELECTOUR-BLEU-VOYAGES-Conseiller-voyages-H-F-CDI-Vienne-38_pa266455.html",
       "location": "Vienne",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "2 Février"
     },
     {
       "title": "CATLANTE CATAMARANS - Conseiller(e) Voyages expérimenté(e) - CDI - (Saint-Cloud (92))",
@@ -666,42 +666,7 @@
       "location": "Avranches",
       "description": "",
       "pubDate": "7 Novembre 2025"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Nancy (54))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Nancy-54_pa266445.html",
-      "location": "Nancy",
-      "description": "",
-      "pubDate": "3 Novembre 2025"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Strasbourg (67))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Strasbourg-67_pa266444.html",
-      "location": "Strasbourg",
-      "description": "",
-      "pubDate": "3 Novembre 2025"
-    },
-    {
-      "title": "SELECTOUR AILLEURS VOYAGES - Conseiller voyages H/F - CDI - (Villefranche sur Saone (69))",
-      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Conseiller-voyages-H-F-CDI-Villefranche-sur-Saone-69_pa266443.html",
-      "location": "Villefranche sur Saone",
-      "description": "",
-      "pubDate": "3 Novembre 2025"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages H/F - CDI - (Grenoble (38))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-H-F-CDI-Grenoble-38_pa266442.html",
-      "location": "Grenoble",
-      "description": "",
-      "pubDate": "3 Novembre 2025"
-    },
-    {
-      "title": "SELECTOUR CELTEA VOYAGES - Conseiller voyages H/F - CDI - (Rennes Leperdit (35))",
-      "link": "https://www.tourmag.com/classifieds/SELECTOUR-CELTEA-VOYAGES-Conseiller-voyages-H-F-CDI-Rennes-Leperdit-35_pa266441.html",
-      "location": "Rennes",
-      "description": "",
-      "pubDate": "3 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-02T18:43:27.693Z"
+  "scrapedAt": "2026-02-02T23:27:28.441Z"
 }
