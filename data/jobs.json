@@ -3,6 +3,13 @@
   "total": 104,
   "offers": [
     {
+      "title": "SELECTOUR BLEU VOYAGES - Conseiller voyages H/F - CDI - (Vienne (38))",
+      "link": "https://www.tourmag.com/classifieds/SELECTOUR-BLEU-VOYAGES-Conseiller-voyages-H-F-CDI-Vienne-38_pa266455.html",
+      "location": "Vienne",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
       "title": "CATLANTE CATAMARANS - Conseiller(e) Voyages expérimenté(e) - CDI - (Saint-Cloud (92))",
       "link": "https://www.tourmag.com/classifieds/CATLANTE-CATAMARANS-Conseiller-e-Voyages-experimente-e-CDI-Saint-Cloud-92_pa266728.html",
       "location": "Saint-Cloud",
@@ -689,13 +696,6 @@
       "pubDate": "7 Novembre 2025"
     },
     {
-      "title": "SELECTOUR BLEU VOYAGES - Conseiller voyages H/F - CDI - (Vienne (38))",
-      "link": "https://www.tourmag.com/classifieds/SELECTOUR-BLEU-VOYAGES-Conseiller-voyages-H-F-CDI-Vienne-38_pa266455.html",
-      "location": "Vienne",
-      "description": "",
-      "pubDate": "4 Novembre 2025"
-    },
-    {
       "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Nancy (54))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Nancy-54_pa266445.html",
       "location": "Nancy",
@@ -731,5 +731,5 @@
       "pubDate": "3 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-02T12:58:13.987Z"
+  "scrapedAt": "2026-02-02T14:04:44.388Z"
 }
