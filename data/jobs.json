@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 104,
+  "total": 100,
   "offers": [
     {
       "title": "SELECTOUR BLEU VOYAGES - Conseiller voyages H/F - CDI - (Vienne (38))",
@@ -465,13 +465,6 @@
       "pubDate": "9 Janvier"
     },
     {
-      "title": "LE GROUPE SALAUN - Assistant technique de production et réservation H/F - CDI - (Châteaulin (29))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Assistant-technique-de-production-et-reservation-H-F-CDI-Chateaulin-29_pa266690.html",
-      "location": "Châteaulin",
-      "description": "",
-      "pubDate": "26 Décembre 2025"
-    },
-    {
       "title": "SOLEA  - 2 Agents de réservation H/F  - CDD - (Paris 11e)",
       "link": "https://www.tourmag.com/classifieds/SOLEA-2-Agents-de-reservation-H-F-CDD-Paris-11e_pa266598.html",
       "location": "Paris",
@@ -612,13 +605,6 @@
       "pubDate": "20 Novembre 2025"
     },
     {
-      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Menton (06))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Menton-06_pa266544.html",
-      "location": "Menton",
-      "description": "",
-      "pubDate": "20 Novembre 2025"
-    },
-    {
       "title": "AGENCE TUI (réseau mandataire) - Conseiller voyages confirmé H/F - CDI - (Lagny-sur-Marne (77))",
       "link": "https://www.tourmag.com/classifieds/AGENCE-TUI-reseau-mandataire-Conseiller-voyages-confirme-H-F-CDI-Lagny-sur-Marne-77_pa266539.html",
       "location": "Lagny-sur-Marne",
@@ -643,20 +629,6 @@
       "title": "SIGNATURE D'EXCEPTION BY SOLEA-  Conseiller(ère) Voyages H/F - CDI - (Paris 11e)",
       "link": "https://www.tourmag.com/classifieds/SIGNATURE-D-EXCEPTION-BY-SOLEA-Conseiller-ere-Voyages-H-F-CDI-Paris-11e_pa266469.html",
       "location": "Paris",
-      "description": "",
-      "pubDate": "14 Novembre 2025"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDD - (Mulhouse (68))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDD-Mulhouse-68_pa266482.html",
-      "location": "Mulhouse",
-      "description": "",
-      "pubDate": "14 Novembre 2025"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDD - (Thann (68))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDD-Thann-68_pa266481.html",
-      "location": "68 Thann",
       "description": "",
       "pubDate": "14 Novembre 2025"
     },
@@ -731,5 +703,5 @@
       "pubDate": "3 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-02T16:39:39.477Z"
+  "scrapedAt": "2026-02-02T17:37:02.487Z"
 }
