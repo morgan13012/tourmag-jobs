@@ -1,13 +1,13 @@
 {
   "success": true,
-  "total": 96,
+  "total": 95,
   "offers": [
     {
       "title": "AERTICKET/CMS VACANCES - Billettiste H/F - (Bordeaux (33))",
       "link": "https://www.tourmag.com/classifieds/AERTICKET-CMS-VACANCES-Billettiste-H-F-Bordeaux-33_pa266937.html",
       "location": "Bordeaux",
       "description": "",
-      "pubDate": "NEW 23:30"
+      "pubDate": "3 Février"
     },
     {
       "title": "SELECTOUR BLEU VOYAGES - Conseiller voyages H/F - CDI - (Vienne (38))",
@@ -666,14 +666,7 @@
       "location": "Amiens",
       "description": "",
       "pubDate": "7 Novembre 2025"
-    },
-    {
-      "title": "E-LECLERC VOYAGES - Conseiller voyages H/F - CDI - (Avranches (50))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-voyages-H-F-CDI-Avranches-50_pa266453.html",
-      "location": "Avranches",
-      "description": "",
-      "pubDate": "7 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-03T22:28:48.064Z"
+  "scrapedAt": "2026-02-03T23:27:19.691Z"
 }
