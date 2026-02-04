@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 95,
+  "total": 94,
   "offers": [
     {
       "title": "AERTICKET/CMS VACANCES - Billettiste H/F - (Bordeaux (33))",
@@ -659,14 +659,7 @@
       "location": "Paris",
       "description": "",
       "pubDate": "7 Novembre 2025"
-    },
-    {
-      "title": "TUI STORE - Conseiller(e) voyages expérimenté(e) H/F - CDI - (Amiens (80))",
-      "link": "https://www.tourmag.com/classifieds/TUI-STORE-Conseiller-e-voyages-experimente-e-H-F-CDI-Amiens-80_pa266459.html",
-      "location": "Amiens",
-      "description": "",
-      "pubDate": "7 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-04T22:27:32.423Z"
+  "scrapedAt": "2026-02-04T23:27:06.111Z"
 }
