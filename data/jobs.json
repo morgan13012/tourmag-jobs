@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 94,
+  "total": 92,
   "offers": [
     {
       "title": "AERTICKET/CMS VACANCES - Billettiste H/F - (Bordeaux (33))",
@@ -521,13 +521,6 @@
       "pubDate": "23 Décembre 2025"
     },
     {
-      "title": "ELLIPSE VOYAGE - 2 Conseillers voyages confirmés H/F - (Le Puy en Velay (43) et Castanet (31))",
-      "link": "https://www.tourmag.com/classifieds/ELLIPSE-VOYAGE-2-Conseillers-voyages-confirmes-H-F-Le-Puy-en-Velay-43-et-Castanet-31_pa266462.html",
-      "location": "Le Puy en Velay et Castanet",
-      "description": "",
-      "pubDate": "8 Décembre 2025"
-    },
-    {
       "title": "NG TRAVEL - Spécialiste GDS Yield Transport H/F - CDI - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/NG-TRAVEL-Specialiste-GDS-Yield-Transport-H-F-CDI-Paris-75_pa266569.html",
       "location": "Paris",
@@ -652,14 +645,7 @@
       "location": "Marseille",
       "description": "",
       "pubDate": "13 Novembre 2025"
-    },
-    {
-      "title": "VOYAGES D'EXCEPTION - Conseiller(ère) Voyages & Croisières H/F - (Paris 11e)",
-      "link": "https://www.tourmag.com/classifieds/VOYAGES-D-EXCEPTION-Conseiller-ere-Voyages-Croisieres-H-F-Paris-11e_pa266463.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "7 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-05T22:26:46.465Z"
+  "scrapedAt": "2026-02-05T23:22:17.594Z"
 }
