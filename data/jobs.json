@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 93,
+  "total": 95,
   "offers": [
     {
       "title": "DIRECTOURS - Chargé(e) Backoffice / Service Clients (BO/SAD) - CDD - (Paris 2e)",
@@ -15,6 +15,83 @@
       "location": "Non précisée",
       "description": "",
       "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Orléans (45))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Orleans-45_pa266848.html",
+      "location": "Orléans",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Blois (41))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Blois-41_pa266568.html",
+      "location": "Blois",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Paris (75))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Paris-75_pa266563.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Mantes la Jolie (78))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Mantes-la-Jolie-78_pa266554.html",
+      "location": "Mantes la Jolie",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Responsable d'Unité Technique H/F - CDI - (Orléans (45))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Responsable-d-Unite-Technique-H-F-CDI-Orleans-45_pa266550.html",
+      "location": "Orléans",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDD - (Roquebrune Cap Martin (06))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDD-Roquebrune-Cap-Martin-06_pa266545.html",
+      "location": "Roquebrune Cap Martin",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Forfaitiste Groupes H/F - CDI - (Nantes (44))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Forfaitiste-Groupes-H-F-CDI-Nantes-44_pa266487.html",
+      "location": "Nantes",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Nice (06))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Nice-06_pa266475.html",
+      "location": "Nice",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Marseille (13))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Marseille-13_pa266474.html",
+      "location": "Marseille",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Nancy (54))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Nancy-54_pa266445.html",
+      "location": "Nancy",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Strasbourg (67))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Strasbourg-67_pa266444.html",
+      "location": "Strasbourg",
+      "description": "",
+      "pubDate": "NEW 00:00"
     },
     {
       "title": "AERTICKET/CMS VACANCES - Billettiste H/F - (Bordeaux (33))",
@@ -353,13 +430,6 @@
       "pubDate": "20 Janvier"
     },
     {
-      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Orléans (45))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Orleans-45_pa266848.html",
-      "location": "Orléans",
-      "description": "",
-      "pubDate": "16 Janvier"
-    },
-    {
       "title": "VISTA VOYAGES/MARIETTON DEVELOPPEMENT - Commercial(e) Groupes expérimenté(e) H/F - CDI - (Aubagne (13))",
       "link": "https://www.tourmag.com/classifieds/VISTA-VOYAGES-MARIETTON-DEVELOPPEMENT-Commercial-e-Groupes-experimente-e-H-F-CDI-Aubagne-13_pa266847.html",
       "location": "Aubagne",
@@ -563,20 +633,6 @@
       "pubDate": "4 Décembre 2025"
     },
     {
-      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Blois (41))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Blois-41_pa266568.html",
-      "location": "Blois",
-      "description": "",
-      "pubDate": "1 Décembre 2025"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Paris (75))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Paris-75_pa266563.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "1 Décembre 2025"
-    },
-    {
       "title": "ORSUD - Chargé(e) d’implémentation Online H/F - CDI - (Marseille 9e)",
       "link": "https://www.tourmag.com/classifieds/ORSUD-Charge-e-d-implementation-Online-H-F-CDI-Marseille-9e_pa266541.html",
       "location": "Marseille",
@@ -584,32 +640,11 @@
       "pubDate": "27 Novembre 2025"
     },
     {
-      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Mantes la Jolie (78))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Mantes-la-Jolie-78_pa266554.html",
-      "location": "Mantes la Jolie",
-      "description": "",
-      "pubDate": "26 Novembre 2025"
-    },
-    {
       "title": "EVAO VOYAGES - Conseiller voyages sur mesure H/F - CDI - (Lyon 2e)",
       "link": "https://www.tourmag.com/classifieds/EVAO-VOYAGES-Conseiller-voyages-sur-mesure-H-F-CDI-Lyon-2e_pa266472.html",
       "location": "Lyon",
       "description": "",
       "pubDate": "24 Novembre 2025"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Responsable d'Unité Technique H/F - CDI - (Orléans (45))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Responsable-d-Unite-Technique-H-F-CDI-Orleans-45_pa266550.html",
-      "location": "Orléans",
-      "description": "",
-      "pubDate": "21 Novembre 2025"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDD - (Roquebrune Cap Martin (06))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDD-Roquebrune-Cap-Martin-06_pa266545.html",
-      "location": "Roquebrune Cap Martin",
-      "description": "",
-      "pubDate": "20 Novembre 2025"
     },
     {
       "title": "AGENCE TUI (réseau mandataire) - Conseiller voyages confirmé H/F - CDI - (Lagny-sur-Marne (77))",
@@ -626,33 +661,12 @@
       "pubDate": "17 Novembre 2025"
     },
     {
-      "title": "LE GROUPE SALAUN - Forfaitiste Groupes H/F - CDI - (Nantes (44))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Forfaitiste-Groupes-H-F-CDI-Nantes-44_pa266487.html",
-      "location": "Nantes",
-      "description": "",
-      "pubDate": "17 Novembre 2025"
-    },
-    {
       "title": "SIGNATURE D'EXCEPTION BY SOLEA-  Conseiller(ère) Voyages H/F - CDI - (Paris 11e)",
       "link": "https://www.tourmag.com/classifieds/SIGNATURE-D-EXCEPTION-BY-SOLEA-Conseiller-ere-Voyages-H-F-CDI-Paris-11e_pa266469.html",
       "location": "Paris",
       "description": "",
       "pubDate": "14 Novembre 2025"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Nice (06))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Nice-06_pa266475.html",
-      "location": "Nice",
-      "description": "",
-      "pubDate": "13 Novembre 2025"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Marseille (13))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Marseille-13_pa266474.html",
-      "location": "Marseille",
-      "description": "",
-      "pubDate": "13 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-06T20:33:12.281Z"
+  "scrapedAt": "2026-02-06T21:29:38.948Z"
 }
