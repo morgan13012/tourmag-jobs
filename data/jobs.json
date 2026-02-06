@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 93,
+  "total": 92,
   "offers": [
     {
       "title": "DEPARTEMENT DE LA HAUTE SAVOIE - Sourcing pour la réhabilitation et l’exploitation du domaine de Montjoux, propriété du Département de la Haute Savoie.",
@@ -139,13 +139,6 @@
       "title": "SELECTOUR AFFAIRES - Collaborateur pour son service H24 H/F - CDI - (France entière en Télétravail)",
       "link": "https://www.tourmag.com/classifieds/SELECTOUR-AFFAIRES-Collaborateur-pour-son-service-H24-H-F-CDI-France-entiere-en-Teletravail_pa266775.html",
       "location": "Télétravail",
-      "description": "",
-      "pubDate": "30 Janvier"
-    },
-    {
-      "title": "E.LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Les Herbiers (85))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Les-Herbiers-85_pa266768.html",
-      "location": "Les Herbiers",
       "description": "",
       "pubDate": "30 Janvier"
     },
@@ -654,5 +647,5 @@
       "pubDate": "13 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-06T14:03:43.669Z"
+  "scrapedAt": "2026-02-06T15:39:04.521Z"
 }
