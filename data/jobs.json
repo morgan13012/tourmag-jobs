@@ -3,9 +3,9 @@
   "total": 96,
   "offers": [
     {
-      "title": "DEPARTEMENT DE LA HAUTE SAVOIE - Sourcing pour la réhabilitation et l’exploitation du domaine de Montjoux, propriété du Département de la Haute Savoie.",
-      "link": "https://www.tourmag.com/classifieds/DEPARTEMENT-DE-LA-HAUTE-SAVOIE-Sourcing-pour-la-rehabilitation-et-l-exploitation-du-domaine-de-Montjoux-propriete-du_pa267033.html",
-      "location": "Non précisée",
+      "title": "LE GROUPE SALAUN - Assistant technique de production et réservation H/F - CDI - (Châteaulin (29))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Assistant-technique-de-production-et-reservation-H-F-CDI-Chateaulin-29_pa267035.html",
+      "location": "Châteaulin",
       "description": "",
       "pubDate": "NEW 23:30"
     },
@@ -14,7 +14,14 @@
       "link": "https://www.tourmag.com/classifieds/DIRECTOURS-Charge-e-Back-office-Service-Clients-BO-SAD-CDD-Paris-2e_pa267034.html",
       "location": "Paris",
       "description": "",
-      "pubDate": "NEW 23:00"
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "DEPARTEMENT DE LA HAUTE SAVOIE - Sourcing pour la réhabilitation et l’exploitation du domaine de Montjoux, propriété du Département de la Haute Savoie.",
+      "link": "https://www.tourmag.com/classifieds/DEPARTEMENT-DE-LA-HAUTE-SAVOIE-Sourcing-pour-la-rehabilitation-et-l-exploitation-du-domaine-de-Montjoux-propriete-du_pa267033.html",
+      "location": "Non précisée",
+      "description": "",
+      "pubDate": "NEW 23:30"
     },
     {
       "title": "AERTICKET/CMS VACANCES - Billettiste H/F - (Bordeaux (33))",
@@ -113,13 +120,6 @@
       "location": "Télétravail",
       "description": "",
       "pubDate": "NEW 20:30"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Assistant technique de production et réservation H/F - CDI - (Châteaulin (29))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Assistant-technique-de-production-et-reservation-H-F-CDI-Chateaulin-29_pa267035.html",
-      "location": "Châteaulin",
-      "description": "",
-      "pubDate": "NEW 00:00"
     },
     {
       "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Orléans (45))",
@@ -675,5 +675,5 @@
       "pubDate": "14 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-09T10:06:46.576Z"
+  "scrapedAt": "2026-02-09T11:43:47.565Z"
 }
