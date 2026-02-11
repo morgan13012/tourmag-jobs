@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 97,
+  "total": 98,
   "offers": [
+    {
+      "title": "VOTRE VOYAGE/MYHONEYMOON - Conseiller(ère) Voyages H/F - CDI - (Melun (77))",
+      "link": "https://www.tourmag.com/classifieds/VOTRE-VOYAGE-MYHONEYMOON-Conseiller-ere-Voyages-H-F-CDI-Melun-77_pa267051.html",
+      "location": "Melun",
+      "description": "",
+      "pubDate": "12 Février"
+    },
     {
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDI - (Biarritz (64))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDI-Biarritz-64_pa267036.html",
@@ -682,5 +689,5 @@
       "pubDate": "14 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-11T19:01:54.505Z"
+  "scrapedAt": "2026-02-11T20:37:49.193Z"
 }
