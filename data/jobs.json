@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 97,
+  "total": 96,
   "offers": [
     {
       "title": "VOTRE VOYAGE/MYHONEYMOON - Conseiller(ère) Voyages H/F - CDI - (Melun (77))",
@@ -661,13 +661,6 @@
       "pubDate": "27 Novembre 2025"
     },
     {
-      "title": "EVAO VOYAGES - Conseiller voyages sur mesure H/F - CDI - (Lyon 2e)",
-      "link": "https://www.tourmag.com/classifieds/EVAO-VOYAGES-Conseiller-voyages-sur-mesure-H-F-CDI-Lyon-2e_pa266472.html",
-      "location": "Lyon",
-      "description": "",
-      "pubDate": "24 Novembre 2025"
-    },
-    {
       "title": "AGENCE TUI (réseau mandataire) - Conseiller voyages confirmé H/F - CDI - (Lagny-sur-Marne (77))",
       "link": "https://www.tourmag.com/classifieds/AGENCE-TUI-reseau-mandataire-Conseiller-voyages-confirme-H-F-CDI-Lagny-sur-Marne-77_pa266539.html",
       "location": "Lagny-sur-Marne",
@@ -682,5 +675,5 @@
       "pubDate": "17 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-12T22:32:01.400Z"
+  "scrapedAt": "2026-02-12T23:28:07.855Z"
 }
