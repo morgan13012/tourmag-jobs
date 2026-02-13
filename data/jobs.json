@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 98,
+  "total": 101,
   "offers": [
     {
       "title": "GC PARTENAIRES POUR AGENCE DEPARTEMENTALE DE TOURISME - Chargé de mission relations presse et médias institutionnels H/F - (Sud Est de la France)",
@@ -8,6 +8,27 @@
       "location": "Non précisée",
       "description": "",
       "pubDate": "16 Février"
+    },
+    {
+      "title": "HAVAS GROUPES MEETING & EVENTS - Commercial Groupes Région Grand Ouest H/F - CDI - (Nantes (44))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-GROUPES-MEETING-EVENTS-Commercial-Groupes-Region-Grand-Ouest-H-F-CDI-Nantes-44_pa267096.html",
+      "location": "Nantes",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Chalon sur Saône (71))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Chalon-sur-Saone-71_pa267103.html",
+      "location": "Chalon sur Saône",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - CDI - (Thionville (57))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Responsable-d-agence-H-F-CDI-Thionville-57_pa267102.html",
+      "location": "Thionville",
+      "description": "",
+      "pubDate": "NEW 00:00"
     },
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Douai (59))",
@@ -20,13 +41,6 @@
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Brest (29))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Brest-29_pa267100.html",
       "location": "Brest",
-      "description": "",
-      "pubDate": "NEW 00:00"
-    },
-    {
-      "title": "HAVAS GROUPES MEETING & EVENTS - Commercial Groupes Région Grand Ouest H/F - CDI - (Nantes (44))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-GROUPES-MEETING-EVENTS-Commercial-Groupes-Region-Grand-Ouest-H-F-CDI-Nantes-44_pa267096.html",
-      "location": "Nantes",
       "description": "",
       "pubDate": "NEW 00:00"
     },
@@ -423,6 +437,13 @@
       "pubDate": "23 Janvier"
     },
     {
+      "title": "DONNE CAUSE DEPART A LA RETRAITE - SARL Agence de voyages sans fonds de commerce avec agréments IATA SNCF",
+      "link": "https://www.tourmag.com/classifieds/DONNE-CAUSE-DEPART-A-LA-RETRAITE-SARL-Agence-de-voyages-sans-fonds-de-commerce-avec-agrements-IATA-SNCF_pa266763.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "22 Janvier"
+    },
+    {
       "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages HC VOYAGES basée à Carpentras (84)",
       "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-HC-VOYAGES-basee-a-Carpentras-84_pa266399.html",
       "location": "Carpentras",
@@ -689,5 +710,5 @@
       "pubDate": "17 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-13T15:41:04.030Z"
+  "scrapedAt": "2026-02-13T16:44:14.397Z"
 }
