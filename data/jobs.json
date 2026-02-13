@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 97,
+  "total": 95,
   "offers": [
     {
       "title": "HAVAS GROUPES MEETING & EVENTS - Commercial Groupes Région Grand Ouest H/F - CDI - (Nantes (44))",
@@ -486,23 +486,9 @@
       "pubDate": "15 Janvier"
     },
     {
-      "title": "TIME TOURS/MARIETTON DEVELOPPEMENT - Technicien Back Office H/F - CDI - (Clichy (92))",
-      "link": "https://www.tourmag.com/classifieds/TIME-TOURS-MARIETTON-DEVELOPPEMENT-Technicien-Back-Office-H-F-CDI-Clichy-92_pa266689.html",
-      "location": "Clichy",
-      "description": "",
-      "pubDate": "13 Janvier"
-    },
-    {
       "title": "PREFERENCE VOYAGES / MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Les Sables d'Olonne (85))",
       "link": "https://www.tourmag.com/classifieds/PREFERENCE-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Les-Sables-d-Olonne-85_pa266770.html",
       "location": "Les Sables d'Olonnes",
-      "description": "",
-      "pubDate": "12 Janvier"
-    },
-    {
-      "title": "PREFERENCE VOYAGES / MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Nantes Solario (44))",
-      "link": "https://www.tourmag.com/classifieds/PREFERENCE-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Nantes-Solario-44_pa266333.html",
-      "location": "Nantes",
       "description": "",
       "pubDate": "12 Janvier"
     },
@@ -682,5 +668,5 @@
       "pubDate": "17 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-13T12:57:44.215Z"
+  "scrapedAt": "2026-02-13T14:04:07.291Z"
 }
