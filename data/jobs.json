@@ -1,11 +1,25 @@
 {
   "success": true,
-  "total": 101,
+  "total": 103,
   "offers": [
     {
       "title": "GC PARTENAIRES POUR AGENCE DEPARTEMENTALE DE TOURISME - Chargé de mission relations presse et médias institutionnels H/F - (Sud Est de la France)",
       "link": "https://www.tourmag.com/classifieds/GC-PARTENAIRES-POUR-AGENCE-DEPARTEMENTALE-DE-TOURISME-Charge-de-mission-relations-presse-et-medias-institutionnels-H-F_pa267097.html",
       "location": "Non précisée",
+      "description": "",
+      "pubDate": "16 Février"
+    },
+    {
+      "title": "NOMBALAIS EVASION - Chef(fe) de produit expérimenté(e) - Offre Groupes Loisirs H/F - CDI - (Saint-Gilles-Croix-de-Vie (85))",
+      "link": "https://www.tourmag.com/classifieds/NOMBALAIS-EVASION-Chef-fe-de-produit-experimente-e-Offre-Groupes-Loisirs-H-F-CDI-Saint-Gilles-Croix-de-Vie-85_pa267099.html",
+      "location": "Saint-Gilles-Croix-de-Vie",
+      "description": "",
+      "pubDate": "16 Février"
+    },
+    {
+      "title": "INTERMEDES - Chargé(e) des ventes Senior H/F - CDI - (Paris 6e)",
+      "link": "https://www.tourmag.com/classifieds/INTERMEDES-Charge-e-des-ventes-Senior-H-F-CDI-Paris-6e_pa267098.html",
+      "location": "Paris",
       "description": "",
       "pubDate": "16 Février"
     },
@@ -710,5 +724,5 @@
       "pubDate": "17 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-13T18:48:44.371Z"
+  "scrapedAt": "2026-02-13T19:41:10.086Z"
 }
