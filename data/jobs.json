@@ -409,13 +409,6 @@
       "pubDate": "30 Janvier"
     },
     {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Quimper (29))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Quimper-29_pa266361.html",
-      "location": "Quimper",
-      "description": "",
-      "pubDate": "30 Janvier"
-    },
-    {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Rosny sous Bois (93))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Rosny-sous-Bois-93_pa265715.html",
       "location": "Rosny sous Bois",
@@ -540,6 +533,13 @@
       "location": "Toulon",
       "description": "",
       "pubDate": "15 Janvier"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Quimper (29))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Quimper-29_pa266361.html",
+      "location": "Quimper",
+      "description": "",
+      "pubDate": "13 Janvier"
     },
     {
       "title": "PREFERENCE VOYAGES / MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Les Sables d'Olonne (85))",
@@ -724,5 +724,5 @@
       "pubDate": "17 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-13T19:41:10.086Z"
+  "scrapedAt": "2026-02-13T20:37:23.467Z"
 }
