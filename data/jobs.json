@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 103,
+  "total": 104,
   "offers": [
     {
       "title": "DEPARTEMENT DE LA HAUTE SAVOIE - Sourcing pour la réhabilitation et l’exploitation du domaine de Montjoux, propriété du Département de la Haute Savoie.",
@@ -15,6 +15,13 @@
       "location": "Non précisée",
       "description": "",
       "pubDate": "NEW 09:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Lorient (56))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Lorient-56_pa267106.html",
+      "location": "Lorient",
+      "description": "",
+      "pubDate": "NEW 00:00"
     },
     {
       "title": "TERRES LOINTAINES - Assistants conseillers voyages H/F - CDI - (Lille (59), Bordeaux (33) ou Paris (75))",
@@ -724,5 +731,5 @@
       "pubDate": "18 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-16T15:39:32.347Z"
+  "scrapedAt": "2026-02-16T16:41:50.034Z"
 }
