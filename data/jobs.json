@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 104,
+  "total": 102,
   "offers": [
+    {
+      "title": "TERRES LOINTAINES - Assistants conseillers voyages H/F - CDI - (Lille (59), Bordeaux (33) ou Paris (75))",
+      "link": "https://www.tourmag.com/classifieds/TERRES-LOINTAINES-Assistants-conseillers-voyages-H-F-CDI-Lille-59--Bordeaux-33-ou-Paris-75_pa267104.html",
+      "location": "Non précisée",
+      "description": "",
+      "pubDate": "17 Février"
+    },
     {
       "title": "DEPARTEMENT DE LA HAUTE SAVOIE - Sourcing pour la réhabilitation et l’exploitation du domaine de Montjoux, propriété du Département de la Haute Savoie.",
       "link": "https://www.tourmag.com/classifieds/DEPARTEMENT-DE-LA-HAUTE-SAVOIE-Sourcing-pour-la-rehabilitation-et-l-exploitation-du-domaine-de-Montjoux-propriete-du_pa267033.html",
@@ -20,13 +27,6 @@
       "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Lorient (56))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Lorient-56_pa267106.html",
       "location": "Lorient",
-      "description": "",
-      "pubDate": "NEW 00:00"
-    },
-    {
-      "title": "TERRES LOINTAINES - Assistants conseillers voyages H/F - CDI - (Lille (59), Bordeaux (33) ou Paris (75))",
-      "link": "https://www.tourmag.com/classifieds/TERRES-LOINTAINES-Assistants-conseillers-voyages-H-F-CDI-Lille-59--Bordeaux-33-ou-Paris-75_pa267104.html",
-      "location": "Non précisée",
       "description": "",
       "pubDate": "NEW 00:00"
     },
@@ -307,20 +307,6 @@
       "title": "LE GROUPE SALAUN - Responsable d'Unité Technique H/F - CDI - (Orléans (45))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Responsable-d-Unite-Technique-H-F-CDI-Orleans-45_pa266550.html",
       "location": "Orléans",
-      "description": "",
-      "pubDate": "6 Février"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDD - (Roquebrune Cap Martin (06))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDD-Roquebrune-Cap-Martin-06_pa266545.html",
-      "location": "Roquebrune Cap Martin",
-      "description": "",
-      "pubDate": "6 Février"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Forfaitiste Groupes H/F - CDI - (Nantes (44))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Forfaitiste-Groupes-H-F-CDI-Nantes-44_pa266487.html",
-      "location": "Nantes",
       "description": "",
       "pubDate": "6 Février"
     },
@@ -731,5 +717,5 @@
       "pubDate": "18 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-16T19:31:46.333Z"
+  "scrapedAt": "2026-02-16T20:30:18.825Z"
 }
