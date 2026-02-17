@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 102,
+  "total": 103,
   "offers": [
+    {
+      "title": "VACANCES BLEUES - Attaché(e) commercial(e) Groupes Loisirs H/F - CDI - (Bordeaux (33))",
+      "link": "https://www.tourmag.com/classifieds/VACANCES-BLEUES-Attache-e-commercial-e-Groupes-Loisirs-H-F-CDI-Bordeaux-33_pa267107.html",
+      "location": "Bordeaux",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
     {
       "title": "TERRES LOINTAINES - Assistants conseillers voyages H/F - CDI - (Lille (59), Bordeaux (33) ou Paris (75))",
       "link": "https://www.tourmag.com/classifieds/TERRES-LOINTAINES-Assistants-conseillers-voyages-H-F-CDI-Lille-59--Bordeaux-33-ou-Paris-75_pa267104.html",
@@ -717,5 +724,5 @@
       "pubDate": "18 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-17T13:01:50.034Z"
+  "scrapedAt": "2026-02-17T14:43:24.318Z"
 }
