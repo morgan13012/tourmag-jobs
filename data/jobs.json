@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 103,
+  "total": 101,
   "offers": [
     {
       "title": "VACANCES BLEUES - Attaché(e) commercial(e) Groupes Loisirs H/F - CDI - (Bordeaux (33))",
@@ -708,21 +708,7 @@
       "location": "Aubergenville",
       "description": "",
       "pubDate": "4 Décembre 2025"
-    },
-    {
-      "title": "ORSUD - Chargé(e) d’implémentation Online H/F - CDI - (Marseille 9e)",
-      "link": "https://www.tourmag.com/classifieds/ORSUD-Charge-e-d-implementation-Online-H-F-CDI-Marseille-9e_pa266541.html",
-      "location": "Marseille",
-      "description": "",
-      "pubDate": "27 Novembre 2025"
-    },
-    {
-      "title": "AGENCE TUI (réseau mandataire) - Conseiller voyages confirmé H/F - CDI - (Lagny-sur-Marne (77))",
-      "link": "https://www.tourmag.com/classifieds/AGENCE-TUI-reseau-mandataire-Conseiller-voyages-confirme-H-F-CDI-Lagny-sur-Marne-77_pa266539.html",
-      "location": "Lagny-sur-Marne",
-      "description": "",
-      "pubDate": "18 Novembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-17T22:30:41.628Z"
+  "scrapedAt": "2026-02-17T23:28:23.513Z"
 }
