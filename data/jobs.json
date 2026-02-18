@@ -33,7 +33,7 @@
     {
       "title": "DEPARTEMENT DE LA HAUTE SAVOIE - Sourcing pour la réhabilitation et l’exploitation du domaine de Montjoux, propriété du Département de la Haute Savoie.",
       "link": "https://www.tourmag.com/classifieds/DEPARTEMENT-DE-LA-HAUTE-SAVOIE-Sourcing-pour-la-rehabilitation-et-l-exploitation-du-domaine-de-Montjoux-propriete-du_pa267033.html",
-      "location": "Non précisée",
+      "location": "",
       "description": "",
       "pubDate": "16 Février"
     },
@@ -215,7 +215,7 @@
     {
       "title": "PASSEPORT EVASION - Commercial(e) Tourisme spécialisé(e) voyages de Groupes « Sur-Mesure » - Indépendant, freelance - (France entière)",
       "link": "https://www.tourmag.com/classifieds/PASSEPORT-EVASION-Commercial-e-Tourisme-specialise-e-voyages-de-Groupes- Sur-Mesure -Independant-freelance-France_pa266850.html",
-      "location": "Non précisée",
+      "location": "",
       "description": "",
       "pubDate": "9 Février"
     },
@@ -236,7 +236,7 @@
     {
       "title": "ASSUREVER - Responsable commercial(e) H/F - CDI  - (Secteur Sud-Rhône Alpes)",
       "link": "https://www.tourmag.com/classifieds/ASSUREVER-Responsable-commercial-e-H-F-CDI-Secteur-Sud-Rhone-Alpes_pa266873.html",
-      "location": "Non précisée",
+      "location": "",
       "description": "",
       "pubDate": "9 Février"
     },
@@ -710,5 +710,5 @@
       "pubDate": "4 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-18T10:59:11.487Z"
+  "scrapedAt": "2026-02-18T10:59:41.541Z"
 }
