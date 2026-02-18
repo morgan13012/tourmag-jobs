@@ -68,21 +68,30 @@ async function scrapeJobs() {
                 date = dateElement.text.trim();
               }
               
-              // Extraction de la localisation depuis le dernier div.description
-              let location = 'Non précisée';
+              // Extraction de la localisation depuis les div.description
+              // On essaie de récupérer le maximum d'infos géographiques
+              let location = '';
               const descriptionDivs = descBlock.querySelectorAll('.description');
-              // Le dernier div.description contient la localisation (ex: "75 Paris")
+              
               if (descriptionDivs.length > 1) {
-                const locationElement = descriptionDivs[descriptionDivs.length - 1];
-                if (locationElement && !locationElement.querySelector('.reference')) {
-                  location = locationElement.text.trim();
+                // Récupérer tous les div.description qui ne contiennent pas .reference
+                const locationTexts = [];
+                for (let i = 1; i < descriptionDivs.length; i++) {
+                  const div = descriptionDivs[i];
+                  if (!div.querySelector('.reference')) {
+                    const text = div.text.trim();
+                    if (text) {
+                      locationTexts.push(text);
+                    }
+                  }
                 }
+                location = locationTexts.join(' | ');
               }
               
               pageOffers.push({
                 title: title,
                 link: fullUrl,
-                location: location,
+                location: location || '',
                 description: '',
                 pubDate: date || 'Non précisée'
               });
