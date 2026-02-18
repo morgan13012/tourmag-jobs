@@ -1,7 +1,21 @@
 {
   "success": true,
-  "total": 101,
+  "total": 103,
   "offers": [
+    {
+      "title": "E-LECLERC VOYAGES - Conseiller(e) voyages confirmé(e) H/F - CDI - (Anet (28))",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-e-voyages-confirme-e-H-F-CDI-Anet-28_pa267118.html",
+      "location": "Anet",
+      "description": "",
+      "pubDate": "19 Février"
+    },
+    {
+      "title": "E.LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Anet (28)",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Anet-28_pa267117.html",
+      "location": "Anet",
+      "description": "",
+      "pubDate": "19 Février"
+    },
     {
       "title": "VISTA VOYAGES/MARIETTON DEVELOPPEMENT - Commercial(e) Groupes expérimenté(e) H/F - CDI - (Aubagne (13))",
       "link": "https://www.tourmag.com/classifieds/VISTA-VOYAGES-MARIETTON-DEVELOPPEMENT-Commercial-e-Groupes-experimente-e-H-F-CDI-Aubagne-13_pa266847.html",
@@ -710,5 +724,5 @@
       "pubDate": "4 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-18T14:42:32.733Z"
+  "scrapedAt": "2026-02-18T15:51:25.170Z"
 }
