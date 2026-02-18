@@ -3,7 +3,7 @@
   
   // Configuration du widget
   const WIDGET_CONFIG = {
-    apiUrl: 'https://morgan13012.github.io/tourmag-jobs/data/jobs.json',  // ← URL GitHub Pages
+    apiUrl: 'https://morgan13012.github.io/tourmag-jobs/data/jobs.json',
     containerId: 'tourmag-jobs-widget',
     styles: `
       .tmg-widget-container {
@@ -102,7 +102,7 @@
         gap: 0.5rem;
       }
       
-      .tmg-filter-group label {
+      .tmg-filter-group > label {
         font-weight: 600;
         color: #555;
         font-size: 0.9rem;
@@ -125,6 +125,185 @@
         outline: none;
         border-color: #3498db;
       }
+
+      /* ===== DROPDOWN CUSTOM LOCALISATION ===== */
+      .tmg-dropdown {
+        position: relative;
+        width: 100%;
+      }
+
+      .tmg-dropdown-trigger {
+        width: 100%;
+        padding: 0.8rem 2.5rem 0.8rem 0.8rem;
+        border: 2px solid #e0e0e0;
+        border-radius: 8px;
+        font-size: 1rem;
+        background: white;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        box-sizing: border-box;
+        text-align: left;
+        color: #888;
+        position: relative;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+
+      .tmg-dropdown-trigger:hover {
+        border-color: #bbb;
+      }
+
+      .tmg-dropdown-trigger:focus {
+        outline: none;
+        border-color: #3498db;
+        box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.1);
+      }
+
+      .tmg-dropdown-trigger::after {
+        content: '';
+        position: absolute;
+        right: 1rem;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 0;
+        height: 0;
+        border-left: 5px solid transparent;
+        border-right: 5px solid transparent;
+        border-top: 6px solid #888;
+        transition: transform 0.2s ease;
+      }
+
+      .tmg-dropdown.open .tmg-dropdown-trigger::after {
+        transform: translateY(-50%) rotate(180deg);
+      }
+
+      .tmg-dropdown-trigger.has-value {
+        color: #1a202c;
+        font-weight: 500;
+      }
+
+      .tmg-dropdown-menu {
+        display: none;
+        position: absolute;
+        top: calc(100% + 4px);
+        left: 0;
+        right: 0;
+        background: white;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
+        z-index: 1000;
+        max-height: 350px;
+        overflow-y: auto;
+        overflow-x: hidden;
+      }
+
+      .tmg-dropdown.open .tmg-dropdown-menu {
+        display: block;
+      }
+
+      .tmg-dropdown-menu::-webkit-scrollbar {
+        width: 6px;
+      }
+      .tmg-dropdown-menu::-webkit-scrollbar-track {
+        background: #f5f5f5;
+        border-radius: 0 10px 10px 0;
+      }
+      .tmg-dropdown-menu::-webkit-scrollbar-thumb {
+        background: #ccc;
+        border-radius: 3px;
+      }
+
+      .tmg-dropdown-item-all {
+        padding: 0.7rem 1rem;
+        cursor: pointer;
+        font-size: 0.95rem;
+        color: #555;
+        transition: background 0.15s ease;
+        border-bottom: 1px solid #eee;
+      }
+
+      .tmg-dropdown-item-all:hover {
+        background: #f8f9fa;
+      }
+
+      .tmg-dropdown-teletravail {
+        padding: 0.75rem 1rem;
+        cursor: pointer;
+        font-size: 0.95rem;
+        font-weight: 700;
+        color: #2e7d32;
+        background: linear-gradient(135deg, #e8f5e9 0%, #f1f8e9 100%);
+        transition: background 0.15s ease;
+        border-bottom: 1px solid #c8e6c9;
+        display: flex;
+        align-items: center;
+        gap: 0.4rem;
+      }
+
+      .tmg-dropdown-teletravail:hover {
+        background: linear-gradient(135deg, #c8e6c9 0%, #dcedc8 100%);
+      }
+
+      .tmg-dropdown-teletravail.selected {
+        background: linear-gradient(135deg, #a5d6a7 0%, #c5e1a5 100%);
+      }
+
+      .tmg-dropdown-section-header {
+        padding: 0.5rem 1rem;
+        font-size: 0.75rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        cursor: default;
+        user-select: none;
+        display: flex;
+        align-items: center;
+        gap: 0.4rem;
+      }
+
+      .tmg-dropdown-section-header.regions {
+        background: #fff3e0;
+        color: #e65100;
+        border-top: 1px solid #ffe0b2;
+        border-bottom: 1px solid #ffe0b2;
+      }
+
+      .tmg-dropdown-section-header.cities {
+        background: #e3f2fd;
+        color: #1565c0;
+        border-top: 1px solid #bbdefb;
+        border-bottom: 1px solid #bbdefb;
+      }
+
+      .tmg-dropdown-item {
+        padding: 0.5rem 1rem 0.5rem 1.5rem;
+        cursor: pointer;
+        font-size: 0.95rem;
+        color: #333;
+        transition: background 0.15s ease;
+      }
+
+      .tmg-dropdown-item:hover {
+        background: #f0f7ff;
+      }
+
+      .tmg-dropdown-item.region-item:hover {
+        background: #fff8e1;
+      }
+
+      .tmg-dropdown-item.selected {
+        background: #e3f2fd;
+        font-weight: 600;
+        color: #1565c0;
+      }
+
+      .tmg-dropdown-item.region-item.selected {
+        background: #fff3e0;
+        color: #e65100;
+      }
+      /* ===== FIN DROPDOWN CUSTOM ===== */
       
       .tmg-filter-actions {
         display: flex;
@@ -348,6 +527,9 @@
         .tmg-offer-title {
           font-size: 1.1rem;
         }
+        .tmg-dropdown-menu {
+          max-height: 280px;
+        }
       }
     `
   };
@@ -387,7 +569,12 @@
       
       this.allOffers = [];
       this.filteredOffers = [];
-      this.locations = new Set();
+      
+      // Structures pour les 3 catégories de localisation
+      this.locationCities = new Set();
+      this.locationRegions = new Set();
+      this.hasTeletravail = false;
+      this.selectedLocation = '';
       
       this.init();
     }
@@ -397,9 +584,7 @@
       this.fetchOffers();
       this.setupEventListeners();
       
-      // Auto-refresh toutes les 30 minutes
       setInterval(() => {
-        console.log('Auto-refresh : rechargement des offres...');
         this.fetchOffers();
       }, 30 * 60 * 1000);
     }
@@ -438,9 +623,12 @@
 
               <div class="tmg-filter-group">
                 <label>📍 Localisation</label>
-                <select id="tmg-filter-location">
-                  <option value="">Toutes les localisations</option>
-                </select>
+                <div class="tmg-dropdown" id="tmg-location-dropdown">
+                  <button type="button" class="tmg-dropdown-trigger" id="tmg-dropdown-trigger">
+                    Toutes les localisations
+                  </button>
+                  <div class="tmg-dropdown-menu" id="tmg-dropdown-menu"></div>
+                </div>
               </div>
 
               <div class="tmg-filter-group">
@@ -480,81 +668,51 @@
       `;
     }
     
-    /**
-     * Parse une date française (ex: "14 Octobre") et retourne un objet Date
-     */
-  parseFrenchDate(dateStr) {
-  if (!dateStr || dateStr === 'Non précisée') {
-    return null;
-  }
-  
-  if (dateStr.includes('NEW')) {
-    return new Date();
-  }
+    parseFrenchDate(dateStr) {
+      if (!dateStr || dateStr === 'Non précisée') return null;
+      if (dateStr.includes('NEW')) return new Date();
 
-  // Parse "14 Novembre" (avec majuscule)
-  const match = dateStr.match(/(\d+)\s+(\w+)/i);
-  if (!match) return null;
+      const match = dateStr.match(/(\d+)\s+(\w+)/i);
+      if (!match) return null;
 
-  const day = parseInt(match[1], 10);
-  const monthName = match[2].toLowerCase().trim();
-  
-  const monthIndex = FRENCH_MONTHS[monthName];
+      const day = parseInt(match[1], 10);
+      const monthName = match[2].toLowerCase().trim();
+      const monthIndex = FRENCH_MONTHS[monthName];
+      if (monthIndex === undefined) return null;
 
-  if (monthIndex === undefined) {
-    console.log(`❌ Mois non reconnu: "${monthName}" dans "${dateStr}"`);
-    return null;
-  }
-
-  const now = new Date();
-  let year = now.getFullYear();
-  let date = new Date(year, monthIndex, day);
-
-  // Si la date est dans le futur, c'est l'année précédente
-  if (date > now) {
-    date.setFullYear(year - 1);
-  }
-
-  console.log(`✅ Date parsée: ${dateStr} → ${date.toLocaleDateString('fr-FR')}`);
-  return date;
-}
+      const now = new Date();
+      let year = now.getFullYear();
+      let date = new Date(year, monthIndex, day);
+      if (date > now) date.setFullYear(year - 1);
+      return date;
+    }
     
-    /**
-     * Vérifie si une date correspond au filtre sélectionné
-     */
     matchesDateFilter(dateStr, filter) {
       if (!filter) return true;
-
       const offerDate = this.parseFrenchDate(dateStr);
       if (!offerDate) return false;
+      if (dateStr.includes('NEW')) return true;
 
       const now = new Date();
       now.setHours(0, 0, 0, 0);
-
-      if (dateStr.includes('NEW')) {
-        return true;
-      }
 
       if (filter === 'today') {
         const today = new Date();
         today.setHours(0, 0, 0, 0);
         return offerDate.getTime() >= today.getTime();
       }
-
       if (filter === 'week') {
         const weekAgo = new Date();
         weekAgo.setDate(weekAgo.getDate() - 7);
         weekAgo.setHours(0, 0, 0, 0);
         return offerDate.getTime() >= weekAgo.getTime();
       }
-
       if (filter === 'month') {
         const monthAgo = new Date();
         monthAgo.setDate(monthAgo.getDate() - 30);
         monthAgo.setHours(0, 0, 0, 0);
         return offerDate.getTime() >= monthAgo.getTime();
       }
-
       return true;
     }
     
@@ -575,10 +733,26 @@
         
         this.allOffers = data.offers;
         
+        // Reset
+        this.locationCities = new Set();
+        this.locationRegions = new Set();
+        this.hasTeletravail = false;
+        
+        // Classification des localisations
         this.allOffers.forEach(offer => {
-          if (offer.location) {
-            this.locations.add(offer.location);
-          }
+          const parsed = this.parseLocation(offer.location || '');
+          offer.locationKeys = parsed.keys;
+          
+          parsed.keys.forEach(key => {
+            if (!key || key.trim() === '') return;
+            if (key === '🏠 Télétravail') {
+              this.hasTeletravail = true;
+            } else if (parsed.types[key] === 'region') {
+              this.locationRegions.add(key);
+            } else {
+              this.locationCities.add(key);
+            }
+          });
         });
         
         this.populateLocationFilter();
@@ -612,41 +786,233 @@
       }
     }
     
-    populateLocationFilter() {
-      const select = document.getElementById('tmg-filter-location');
-      if (!select) return;
+    parseLocation(rawLocation) {
+      const result = { keys: [], types: {} };
+      if (!rawLocation || rawLocation.trim() === '' || rawLocation.trim().toLowerCase() === 'non précisée') return result;
       
-      const sortedLocations = Array.from(this.locations).sort();
-      sortedLocations.forEach(loc => {
-        const option = document.createElement('option');
-        option.value = loc;
-        option.textContent = loc;
-        select.appendChild(option);
+      const text = rawLocation.trim();
+      const segments = text.split('|').map(s => s.trim()).filter(Boolean);
+      
+      for (const segment of segments) {
+        const parts = segment.split(',').map(s => s.trim()).filter(Boolean);
+        
+        for (const part of parts) {
+          const classification = this.classifyLocationPart(part);
+          
+          if (classification.type === 'teletravail') {
+            const key = '🏠 Télétravail';
+            if (!result.keys.includes(key)) {
+              result.keys.push(key);
+              result.types[key] = 'teletravail';
+            }
+          } else if (classification.type === 'region') {
+            const key = classification.label.trim();
+            if (key && !result.keys.includes(key)) {
+              result.keys.push(key);
+              result.types[key] = 'region';
+            }
+          } else {
+            const key = classification.label.trim();
+            if (key && !result.keys.includes(key)) {
+              result.keys.push(key);
+              result.types[key] = 'city';
+            }
+          }
+        }
+      }
+      
+      return result;
+    }
+    
+    classifyLocationPart(text) {
+      const lower = text.toLowerCase().trim();
+      
+      const teletravailKeywords = ['télétravail', 'teletravail', 'remote', 'à distance', 'home office'];
+      for (const kw of teletravailKeywords) {
+        if (lower.includes(kw)) return { type: 'teletravail', label: 'Télétravail' };
+      }
+      
+      const regionPatterns = [
+        /\b(sud[\s-]?(est|ouest)?)\s+(de\s+(la\s+)?)?france\b/i,
+        /\b(nord[\s-]?(est|ouest)?)\s+(de\s+(la\s+)?)?france\b/i,
+        /\best\s+(de\s+(la\s+)?)?france\b/i,
+        /\bouest\s+(de\s+(la\s+)?)?france\b/i,
+        /\bcentre\s+(de\s+(la\s+)?)?france\b/i,
+        /\btoute\s+(la\s+)?france\b/i,
+        /\bfrance\s+entière\b/i,
+        /\brégion\s+\w+/i,
+        /\bîle[\s-]de[\s-]france\b/i,
+        /\bile[\s-]de[\s-]france\b/i,
+        /\bdom[\s-]?tom\b/i,
+        /\boutre[\s-]?mer\b/i,
+        /\bcôte\s+d['']azur\b/i,
+        /\bprovince\b/i,
+        /\bnational\b/i,
+        /\bitinérant/i,
+        /\bmulti[\s-]?sites?\b/i,
+        /\bplusieurs\s+(villes|sites|agences)/i,
+      ];
+      
+      for (const pattern of regionPatterns) {
+        if (pattern.test(lower)) {
+          const label = text.trim().replace(/^\d+\s*/, '');
+          return { type: 'region', label: this.capitalizeLocation(label) };
+        }
+      }
+      
+      let cityName = text.trim();
+      cityName = cityName.replace(/^\d{2,5}\s+/, '');
+      cityName = cityName.replace(/\s+\d{2,5}$/, '');
+      cityName = cityName.trim();
+      
+      if (!cityName) return { type: 'city', label: '' };
+      return { type: 'city', label: this.capitalizeLocation(cityName) };
+    }
+    
+    capitalizeLocation(str) {
+      if (!str) return '';
+      let result = str.toLowerCase().trim();
+      result = result.replace(/(^|[\s-])(\w)/g, (match, separator, letter) => {
+        return separator + letter.toUpperCase();
       });
+      result = result.replace(/\sDe\s/g, ' de ')
+                     .replace(/\sDu\s/g, ' du ')
+                     .replace(/\sDes\s/g, ' des ')
+                     .replace(/\sLa\s/g, ' la ')
+                     .replace(/\sLe\s/g, ' le ')
+                     .replace(/\sLes\s/g, ' les ')
+                     .replace(/\sEn\s/g, ' en ')
+                     .replace(/\sSur\s/g, ' sur ')
+                     .replace(/\sEt\s/g, ' et ')
+                     .replace(/D'/g, "d'")
+                     .replace(/L'/g, "l'");
+      result = result.replace(/^./, c => c.toUpperCase());
+      result = result.replace(/[''](\w)/g, (match, letter) => "'" + letter.toUpperCase());
+      return result;
+    }
+    
+    populateLocationFilter() {
+      const menu = document.getElementById('tmg-dropdown-menu');
+      if (!menu) return;
+      
+      menu.innerHTML = '';
+      
+      // "Toutes les localisations"
+      const allItem = document.createElement('div');
+      allItem.className = 'tmg-dropdown-item-all';
+      allItem.textContent = 'Toutes les localisations';
+      allItem.dataset.value = '';
+      allItem.addEventListener('click', () => this.selectLocation('', 'Toutes les localisations'));
+      menu.appendChild(allItem);
+      
+      // 1. Télétravail
+      if (this.hasTeletravail) {
+        const item = document.createElement('div');
+        item.className = 'tmg-dropdown-teletravail';
+        item.textContent = '🏠 Télétravail';
+        item.dataset.value = '🏠 Télétravail';
+        item.addEventListener('click', () => this.selectLocation('🏠 Télétravail', '🏠 Télétravail'));
+        menu.appendChild(item);
+      }
+      
+      // 2. Grandes régions
+      const sortedRegions = Array.from(this.locationRegions).sort((a, b) => a.localeCompare(b, 'fr'));
+      if (sortedRegions.length > 0) {
+        const header = document.createElement('div');
+        header.className = 'tmg-dropdown-section-header regions';
+        header.textContent = '🗺️ Grandes régions';
+        menu.appendChild(header);
+        
+        sortedRegions.forEach(region => {
+          const item = document.createElement('div');
+          item.className = 'tmg-dropdown-item region-item';
+          item.textContent = region;
+          item.dataset.value = region;
+          item.addEventListener('click', () => this.selectLocation(region, '🗺️ ' + region));
+          menu.appendChild(item);
+        });
+      }
+      
+      // 3. Villes
+      const sortedCities = Array.from(this.locationCities).sort((a, b) => a.localeCompare(b, 'fr'));
+      if (sortedCities.length > 0) {
+        const header = document.createElement('div');
+        header.className = 'tmg-dropdown-section-header cities';
+        header.textContent = '📍 Villes';
+        menu.appendChild(header);
+        
+        sortedCities.forEach(city => {
+          const item = document.createElement('div');
+          item.className = 'tmg-dropdown-item city-item';
+          item.textContent = city;
+          item.dataset.value = city;
+          item.addEventListener('click', () => this.selectLocation(city, '📍 ' + city));
+          menu.appendChild(item);
+        });
+      }
+    }
+    
+    selectLocation(value, displayText) {
+      this.selectedLocation = value;
+      
+      const trigger = document.getElementById('tmg-dropdown-trigger');
+      if (trigger) {
+        trigger.textContent = displayText;
+        trigger.classList.toggle('has-value', !!value);
+      }
+      
+      // Mise à jour visuelle de la sélection
+      const menu = document.getElementById('tmg-dropdown-menu');
+      if (menu) {
+        menu.querySelectorAll('.tmg-dropdown-item, .tmg-dropdown-teletravail').forEach(item => {
+          item.classList.toggle('selected', item.dataset.value === value);
+        });
+      }
+      
+      // Fermer le dropdown
+      const dropdown = document.getElementById('tmg-location-dropdown');
+      if (dropdown) dropdown.classList.remove('open');
+      
+      this.applyFilters();
     }
     
     setupEventListeners() {
       const searchInput = document.getElementById('tmg-search');
       const contractFilter = document.getElementById('tmg-filter-contract');
-      const locationFilter = document.getElementById('tmg-filter-location');
       const dateFilter = document.getElementById('tmg-filter-date');
       
       if (searchInput) searchInput.addEventListener('input', () => this.applyFilters());
       if (contractFilter) contractFilter.addEventListener('change', () => this.applyFilters());
-      if (locationFilter) locationFilter.addEventListener('change', () => this.applyFilters());
       if (dateFilter) dateFilter.addEventListener('change', () => this.applyFilters());
+      
+      // Dropdown custom
+      const trigger = document.getElementById('tmg-dropdown-trigger');
+      const dropdown = document.getElementById('tmg-location-dropdown');
+      
+      if (trigger && dropdown) {
+        trigger.addEventListener('click', (e) => {
+          e.stopPropagation();
+          dropdown.classList.toggle('open');
+        });
+        
+        document.addEventListener('click', (e) => {
+          if (!dropdown.contains(e.target)) {
+            dropdown.classList.remove('open');
+          }
+        });
+      }
     }
     
     applyFilters() {
       const searchQuery = (document.getElementById('tmg-search')?.value || '').toLowerCase().trim();
       const contractFilter = document.getElementById('tmg-filter-contract')?.value || '';
-      const locationFilter = document.getElementById('tmg-filter-location')?.value || '';
+      const locationFilter = this.selectedLocation || '';
       const dateFilter = document.getElementById('tmg-filter-date')?.value || '';
       
       this.filteredOffers = this.allOffers.filter(offer => {
         const matchesSearch = !searchQuery || offer.title.toLowerCase().includes(searchQuery);
-        const matchesContract = !contractFilter || offer.title.includes(contractFilter);
-        const matchesLocation = !locationFilter || offer.location === locationFilter;
+        const matchesContract = !contractFilter || this.extractContractType(offer.title) === contractFilter;
+        const matchesLocation = !locationFilter || (offer.locationKeys && offer.locationKeys.includes(locationFilter));
         const matchesDate = this.matchesDateFilter(offer.pubDate, dateFilter);
         
         return matchesSearch && matchesContract && matchesLocation && matchesDate;
@@ -694,15 +1060,15 @@
     clearFilters() {
       const searchInput = document.getElementById('tmg-search');
       const contractFilter = document.getElementById('tmg-filter-contract');
-      const locationFilter = document.getElementById('tmg-filter-location');
       const dateFilter = document.getElementById('tmg-filter-date');
       const sortBy = document.getElementById('tmg-sort-by');
       
       if (searchInput) searchInput.value = '';
       if (contractFilter) contractFilter.value = '';
-      if (locationFilter) locationFilter.value = '';
       if (dateFilter) dateFilter.value = '';
       if (sortBy) sortBy.value = 'date';
+      
+      this.selectLocation('', 'Toutes les localisations');
       
       this.filteredOffers = [];
       this.updateStats(0, this.allOffers.length);
@@ -756,7 +1122,10 @@
       resultsEl.innerHTML = offers.map(offer => {
         const isNew = offer.pubDate.includes('NEW');
         const contractType = this.extractContractType(offer.title);
-        const location = offer.location || 'Non précisée';
+        
+        // Lieu : afficher les locationKeys ou masquer le champ
+        const hasLocation = offer.locationKeys && offer.locationKeys.length > 0;
+        const location = hasLocation ? offer.locationKeys.join(', ') : '';
         
         return `
           <div class="tmg-offer">
@@ -769,10 +1138,12 @@
                 <span>📋</span>
                 <span><strong>Type :</strong> ${contractType}</span>
               </div>
+              ${hasLocation ? `
               <div class="tmg-offer-meta-item">
                 <span>📍</span>
                 <span><strong>Lieu :</strong> ${location}</span>
               </div>
+              ` : ''}
               <div class="tmg-offer-meta-item">
                 <span>📅</span>
                 <span><strong>Publié :</strong> ${offer.pubDate}</span>
@@ -784,11 +1155,12 @@
     }
     
     extractContractType(title) {
-      if (title.includes('CDI')) return 'CDI';
-      if (title.includes('CDD')) return 'CDD';
-      if (title.includes('Stage')) return 'Stage';
-      if (title.includes('Alternance')) return 'Alternance';
-      if (title.includes('Freelance')) return 'Freelance';
+      const lower = title.toLowerCase();
+      if (lower.includes('cdi')) return 'CDI';
+      if (lower.includes('cdd')) return 'CDD';
+      if (lower.includes('stage')) return 'Stage';
+      if (lower.includes('alternance')) return 'Alternance';
+      if (lower.includes('freelance') || lower.includes('indépendant') || lower.includes('independant')) return 'Freelance';
       return 'Non précisé';
     }
   }
@@ -802,6 +1174,5 @@
     window.tourmagWidget = new TourMagJobsWidget(WIDGET_CONFIG.containerId);
   }
   
-  // Exposer globalement
   window.TourMagJobsWidget = TourMagJobsWidget;
 })();
