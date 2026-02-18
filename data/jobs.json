@@ -3,6 +3,20 @@
   "total": 101,
   "offers": [
     {
+      "title": "VISTA VOYAGES/MARIETTON DEVELOPPEMENT - Commercial(e) Groupes expérimenté(e) H/F - CDI - (Aubagne (13))",
+      "link": "https://www.tourmag.com/classifieds/VISTA-VOYAGES-MARIETTON-DEVELOPPEMENT-Commercial-e-Groupes-experimente-e-H-F-CDI-Aubagne-13_pa266847.html",
+      "location": "Aubagne",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "TIME TOURS/MARIETTON DEVELOPPEMENT - Commercial Senior Service Groupes H/F - CDI - (Région Parisienne)",
+      "link": "https://www.tourmag.com/classifieds/TIME-TOURS-MARIETTON-DEVELOPPEMENT-Commercial-Senior-Service-Groupes-H-F-CDI-Region-Parisienne_pa266686.html",
+      "location": "Clichy",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
       "title": "VACANCES BLEUES - Attaché(e) commercial(e) Groupes Loisirs H/F - CDI - (Bordeaux (33))",
       "link": "https://www.tourmag.com/classifieds/VACANCES-BLEUES-Attache-e-commercial-e-Groupes-Loisirs-H-F-CDI-Bordeaux-33_pa267107.html",
       "location": "Bordeaux",
@@ -374,13 +388,6 @@
       "pubDate": "30 Janvier"
     },
     {
-      "title": "TIME TOURS/MARIETTON DEVELOPPEMENT - Commercial Senior Service Groupes H/F - CDI - (Région Parisienne)",
-      "link": "https://www.tourmag.com/classifieds/TIME-TOURS-MARIETTON-DEVELOPPEMENT-Commercial-Senior-Service-Groupes-H-F-CDI-Region-Parisienne_pa266686.html",
-      "location": "Clichy",
-      "description": "",
-      "pubDate": "30 Janvier"
-    },
-    {
       "title": "KEPLER TRAVEL - Responsable commercial groupes H/F - CDI - (Paris 17e)",
       "link": "https://www.tourmag.com/classifieds/KEPLER-TRAVEL-Responsable-commercial-groupes-H-F-CDI-Paris-17e_pa266755.html",
       "location": "Paris",
@@ -512,13 +519,6 @@
       "location": "Aix-en-Provence",
       "description": "",
       "pubDate": "21 Janvier"
-    },
-    {
-      "title": "VISTA VOYAGES/MARIETTON DEVELOPPEMENT - Commercial(e) Groupes expérimenté(e) H/F - CDI - (Aubagne (13))",
-      "link": "https://www.tourmag.com/classifieds/VISTA-VOYAGES-MARIETTON-DEVELOPPEMENT-Commercial-e-Groupes-experimente-e-H-F-CDI-Aubagne-13_pa266847.html",
-      "location": "Aubagne",
-      "description": "",
-      "pubDate": "16 Janvier"
     },
     {
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Account Manager H/F - CDI  - (Sèvres (92))",
@@ -710,5 +710,5 @@
       "pubDate": "4 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-18T08:43:16.844Z"
+  "scrapedAt": "2026-02-18T09:46:38.530Z"
 }
