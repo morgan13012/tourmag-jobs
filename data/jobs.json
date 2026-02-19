@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 109,
+  "total": 110,
   "offers": [
+    {
+      "title": "INTERMEDES - Chargé(e) des ventes Senior H/F - CDI - (Paris 6e)",
+      "link": "https://www.tourmag.com/classifieds/INTERMEDES-Charge-e-des-ventes-Senior-H-F-CDI-Paris-6e_pa267098.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
     {
       "title": "E-LECLERC VOYAGES - Conseiller(e) voyages confirmé(e) H/F - CDI - (Anet (28))",
       "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-e-voyages-confirme-e-H-F-CDI-Anet-28_pa267118.html",
@@ -766,5 +773,5 @@
       "pubDate": "4 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-19T16:51:51.614Z"
+  "scrapedAt": "2026-02-19T17:49:48.808Z"
 }
