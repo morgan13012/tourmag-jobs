@@ -3,9 +3,23 @@
   "total": 110,
   "offers": [
     {
+      "title": "A VENDRE POUR RECENTRAGE DE L’ACTIVITE DU DIRIGEANT : Fonds de commerce Agence de Voyages dans le département Val de Marne (94)",
+      "link": "https://www.tourmag.com/classifieds/A-VENDRE-POUR-RECENTRAGE-DE-L-ACTIVITE-DU-DIRIGEANT-Fonds-de-commerce-Agence-de-Voyages-dans-le-departement-Val-de-Marne_pa267120.html",
+      "location": "Val de Marne",
+      "description": "",
+      "pubDate": "20 Février"
+    },
+    {
       "title": "INTERMEDES - Chargé(e) des ventes Senior H/F - CDI - (Paris 6e)",
       "link": "https://www.tourmag.com/classifieds/INTERMEDES-Charge-e-des-ventes-Senior-H-F-CDI-Paris-6e_pa267098.html",
       "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Villabé (91))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Villabe-91_pa266592.html",
+      "location": "Villabé",
       "description": "",
       "pubDate": "NEW 23:00"
     },
@@ -59,8 +73,8 @@
       "pubDate": "NEW 00:00"
     },
     {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDI - (Castres (81))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDI-Castres-81_pa267109.html",
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - (Castres (81))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-Castres-81_pa267109.html",
       "location": "Castres",
       "description": "",
       "pubDate": "NEW 00:00"
@@ -174,13 +188,6 @@
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Marseille Grand Littoral (13))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Marseille-Grand-Littoral-13_pa266888.html",
       "location": "Marseille",
-      "description": "",
-      "pubDate": "13 Février"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Toulon Grand Var (83))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Toulon-Grand-Var-83_pa266887.html",
-      "location": "Toulon",
       "description": "",
       "pubDate": "13 Février"
     },
@@ -468,13 +475,6 @@
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Mérignac (33))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Merignac-33_pa266889.html",
       "location": "Mérignac",
-      "description": "",
-      "pubDate": "30 Janvier"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Villabé (91))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Villabe-91_pa266592.html",
-      "location": "Villabé",
       "description": "",
       "pubDate": "30 Janvier"
     },
@@ -773,5 +773,5 @@
       "pubDate": "4 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-19T18:49:54.267Z"
+  "scrapedAt": "2026-02-19T19:38:12.319Z"
 }
