@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 103,
+  "total": 109,
   "offers": [
     {
       "title": "E-LECLERC VOYAGES - Conseiller(e) voyages confirmé(e) H/F - CDI - (Anet (28))",
@@ -15,6 +15,48 @@
       "location": "Anet",
       "description": "",
       "pubDate": "NEW 09:00"
+    },
+    {
+      "title": "AUSTRAL LAGONS - Gestionnaire Transport aérien H/F - CDI - (Sèvres (92))",
+      "link": "https://www.tourmag.com/classifieds/AUSTRAL-LAGONS-Gestionnaire-Transport-aerien-H-F-CDI-Sevres-92_pa267119.html",
+      "location": "Sèvres",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "HELIADES/MARIETTON DEVELOPPEMENT - Gestionnaire aérien H/F - CDI - (Aix-en-Provence (13))",
+      "link": "https://www.tourmag.com/classifieds/HELIADES-MARIETTON-DEVELOPPEMENT-Gestionnaire-aerien-H-F-CDI-Aix-en-Provence-13_pa267114.html",
+      "location": "Aix-en-Provence",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "SELECTOUR AILLEURS VOYAGES - Responsable d'agence de voyages H/F - CDI - (Epagny (74))",
+      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Epagny-74_pa267113.html",
+      "location": "Epagny",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "PREFERENCE VOYAGES / MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Saumur (49))",
+      "link": "https://www.tourmag.com/classifieds/PREFERENCE-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Saumur-49_pa267112.html",
+      "location": "Saumur",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "SELECTOUR AILLEURS VOYAGES  - Conseiller voyages H/F - CDI - (Brive-la-Gaillarde (19))",
+      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Conseiller-voyages-H-F-CDI-Brive-la-Gaillarde-19_pa267111.html",
+      "location": "Brive-la-Gaillarde",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "VOYAMAR et HELIADES / MARIETTON DEVELOPPEMENT - Assistant(e) de Production Tourisme H/F - CDI - (Aix-en-Provence (13))",
+      "link": "https://www.tourmag.com/classifieds/VOYAMAR-et-HELIADES-MARIETTON-DEVELOPPEMENT-Assistant-e-de-Production-Tourisme-H-F-CDI-Aix-en-Provence-13_pa267108.html",
+      "location": "Aix-en-Provence",
+      "description": "",
+      "pubDate": "NEW 00:00"
     },
     {
       "title": "VISTA VOYAGES/MARIETTON DEVELOPPEMENT - Commercial(e) Groupes expérimenté(e) H/F - CDI - (Aubagne (13))",
@@ -724,5 +766,5 @@
       "pubDate": "4 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-19T08:42:11.225Z"
+  "scrapedAt": "2026-02-19T09:43:54.762Z"
 }
