@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 111,
+  "total": 112,
   "offers": [
+    {
+      "title": "LE GROUPE SALAUN - Forfaitiste Groupes H/F - CDI - (Nantes (44))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Forfaitiste-Groupes-H-F-CDI-Nantes-44_pa267233.html",
+      "location": "Nantes",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "LE GROUPE SALAUN - Responsable d'Unité Technique H/F - CDI - (Orléans (45))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Responsable-d-Unite-Technique-H-F-CDI-Orleans-45_pa266550.html",
@@ -780,5 +787,5 @@
       "pubDate": "4 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-23T15:44:18.304Z"
+  "scrapedAt": "2026-02-23T16:56:14.071Z"
 }
