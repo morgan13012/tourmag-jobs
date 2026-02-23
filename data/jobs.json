@@ -1,27 +1,27 @@
 {
   "success": true,
-  "total": 113,
+  "total": 112,
   "offers": [
     {
       "title": "LE GROUPE SALAUN - Forfaitiste Groupes H/F - CDI - (Nantes (44))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Forfaitiste-Groupes-H-F-CDI-Nantes-44_pa267233.html",
       "location": "Nantes",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "23 Février"
     },
     {
       "title": "SELECTOUR AILLEURS VOYAGES - Responsable d'agence de voyages H/F - CDI - (Lyon 2e)",
       "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Lyon-2e_pa267121.html",
       "location": "Lyon",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "23 Février"
     },
     {
       "title": "LE GROUPE SALAUN - Responsable d'Unité Technique H/F - CDI - (Orléans (45))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Responsable-d-Unite-Technique-H-F-CDI-Orleans-45_pa266550.html",
       "location": "Orléans",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "23 Février"
     },
     {
       "title": "AGENCE FRANCHISEE CLUB MED - Conseiller(e) voyages H/F - CDI - (Orléans (45))",
@@ -647,13 +647,6 @@
       "pubDate": "9 Janvier"
     },
     {
-      "title": "MYCOMM - Billettiste H/F - CDI - (Arcueil (94))",
-      "link": "https://www.tourmag.com/classifieds/MYCOMM-Billettiste-H-F-CDI-Arcueil-94_pa266551.html",
-      "location": "Arcueil",
-      "description": "",
-      "pubDate": "9 Janvier"
-    },
-    {
       "title": "SELECTOUR AILLEURS VOYAGES  - Conseiller voyages H/F - (Lyon 9e)",
       "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Conseiller-voyages-H-F-Lyon-9e_pa266762.html",
       "location": "Lyon",
@@ -794,5 +787,5 @@
       "pubDate": "4 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-23T22:39:36.943Z"
+  "scrapedAt": "2026-02-23T23:33:40.832Z"
 }
