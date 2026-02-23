@@ -3,6 +3,13 @@
   "total": 111,
   "offers": [
     {
+      "title": "LE GROUPE SALAUN - Responsable d'Unité Technique H/F - CDI - (Orléans (45))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Responsable-d-Unite-Technique-H-F-CDI-Orleans-45_pa266550.html",
+      "location": "Orléans",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
       "title": "AGENCE FRANCHISEE CLUB MED - Conseiller(e) voyages H/F - CDI - (Orléans (45))",
       "link": "https://www.tourmag.com/classifieds/AGENCE-FRANCHISEE-CLUB-MED-Conseiller-e-voyages-H-F-CDI-Orleans-45_pa267171.html",
       "location": "Orléans",
@@ -402,13 +409,6 @@
       "pubDate": "6 Février"
     },
     {
-      "title": "LE GROUPE SALAUN - Responsable d'Unité Technique H/F - CDI - (Orléans (45))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Responsable-d-Unite-Technique-H-F-CDI-Orleans-45_pa266550.html",
-      "location": "Orléans",
-      "description": "",
-      "pubDate": "6 Février"
-    },
-    {
       "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Nice (06))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Nice-06_pa266475.html",
       "location": "Nice",
@@ -780,5 +780,5 @@
       "pubDate": "4 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-23T08:50:13.815Z"
+  "scrapedAt": "2026-02-23T09:54:27.540Z"
 }
