@@ -1,11 +1,18 @@
 {
   "success": true,
-  "total": 112,
+  "total": 113,
   "offers": [
     {
       "title": "LE GROUPE SALAUN - Forfaitiste Groupes H/F - CDI - (Nantes (44))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Forfaitiste-Groupes-H-F-CDI-Nantes-44_pa267233.html",
       "location": "Nantes",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "SELECTOUR AILLEURS VOYAGES - Responsable d'agence de voyages H/F - CDI - (Lyon 2e)",
+      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Lyon-2e_pa267121.html",
+      "location": "Lyon",
       "description": "",
       "pubDate": "NEW 00:00"
     },
@@ -787,5 +794,5 @@
       "pubDate": "4 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-23T19:55:33.732Z"
+  "scrapedAt": "2026-02-23T20:43:59.079Z"
 }
