@@ -24,6 +24,13 @@
       "pubDate": "NEW 23:30"
     },
     {
+      "title": "V.O.S  - Coordinateurs·trices des opérations - (Copenhague  (Danemark) ou Dubline (Irlande))",
+      "link": "https://www.tourmag.com/classifieds/V-O-S-Coordinateurs·trices-des-operations-Copenhague-Danemark-ou-Dubline-Irlande_pa266769.html",
+      "location": "Copenhague",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
       "title": "LE GROUPE SALAUN - Forfaitiste Groupes H/F - CDI - (Nantes (44))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Forfaitiste-Groupes-H-F-CDI-Nantes-44_pa267233.html",
       "location": "Nantes",
@@ -321,13 +328,6 @@
       "title": "PASSEPORT EVASION - Commercial(e) Tourisme spécialisé(e) voyages de Groupes « Sur-Mesure » - Indépendant, freelance - (France entière)",
       "link": "https://www.tourmag.com/classifieds/PASSEPORT-EVASION-Commercial-e-Tourisme-specialise-e-voyages-de-Groupes- Sur-Mesure -Independant-freelance-France_pa266850.html",
       "location": "",
-      "description": "",
-      "pubDate": "9 Février"
-    },
-    {
-      "title": "V.O.S  - Coordinateurs·trices des opérations - (Copenhague  (Danemark) ou Dubline (Irlande))",
-      "link": "https://www.tourmag.com/classifieds/V-O-S-Coordinateurs·trices-des-operations-Copenhague-Danemark-ou-Dubline-Irlande_pa266769.html",
-      "location": "Copenhague",
       "description": "",
       "pubDate": "9 Février"
     },
@@ -794,5 +794,5 @@
       "pubDate": "4 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-24T19:00:41.340Z"
+  "scrapedAt": "2026-02-24T20:34:44.439Z"
 }
