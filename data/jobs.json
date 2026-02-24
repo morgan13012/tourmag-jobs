@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 112,
+  "total": 113,
   "offers": [
+    {
+      "title": "TURQUOISE TO - Chargé(e) Back-office H/F - CDD/CDI - (Aix-en-Provence (13))",
+      "link": "https://www.tourmag.com/classifieds/TURQUOISE-TO-Charge-e-Back-office-H-F-CDD-CDI-Aix-en-Provence-13_pa267236.html",
+      "location": "Aix-en-Provence",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "LE GROUPE SALAUN - Forfaitiste Groupes H/F - CDI - (Nantes (44))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Forfaitiste-Groupes-H-F-CDI-Nantes-44_pa267233.html",
@@ -787,5 +794,5 @@
       "pubDate": "4 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-24T11:39:37.803Z"
+  "scrapedAt": "2026-02-24T13:04:00.833Z"
 }
