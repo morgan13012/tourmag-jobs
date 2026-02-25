@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 112,
+  "total": 110,
   "offers": [
     {
       "title": "TURQUOISE TO - Chargé(e) Back-office H/F - CDD/CDI - (Aix-en-Provence (13))",
@@ -766,20 +766,6 @@
       "pubDate": "4 Décembre 2025"
     },
     {
-      "title": "ALLIANCE DU MONDE - 2 Techniciens H/F - CDI - (Vincennes (94))",
-      "link": "https://www.tourmag.com/classifieds/ALLIANCE-DU-MONDE-2-Techniciens-H-F-CDI-Vincennes-94_pa266555.html",
-      "location": "Vincennes",
-      "description": "",
-      "pubDate": "4 Décembre 2025"
-    },
-    {
-      "title": "ALGERIE TOURS - Conseiller vendeur voyages expérimenté H/F - CDI - (Marseille 15e)",
-      "link": "https://www.tourmag.com/classifieds/ALGERIE-TOURS-Conseiller-vendeur-voyages-experimente-H-F-CDI-Marseille-15e_pa266556.html",
-      "location": "Marseille",
-      "description": "",
-      "pubDate": "4 Décembre 2025"
-    },
-    {
       "title": "MONDELIOS - Commercial(e) Groupes Junior ou Confirmé(e) - CDI - (Aubergenville dans les Yvelines (78) ou région)",
       "link": "https://www.tourmag.com/classifieds/MONDELIOS-Commercial-e-Groupes-Junior-ou-Confirme-e-CDI-Aubergenville-dans-les-Yvelines-78-ou-region_pa266560.html",
       "location": "Aubergenville",
@@ -787,5 +773,5 @@
       "pubDate": "4 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-25T22:33:05.504Z"
+  "scrapedAt": "2026-02-25T23:27:21.626Z"
 }
