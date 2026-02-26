@@ -1,11 +1,67 @@
 {
   "success": true,
-  "total": 111,
+  "total": 114,
   "offers": [
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Chalon sur Saône (71))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Chalon-sur-Saone-71_pa267103.html",
+      "location": "Chalon sur Saône",
+      "description": "",
+      "pubDate": "26 Mars"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (St Quentin (02))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-St-Quentin-02_pa267245.html",
+      "location": "St Quentin",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Paris 8e)",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Paris-8e_pa267244.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Tourville (76))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Tourville-76_pa267243.html",
+      "location": "Tourville",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "MARIETTON DEVELOPPEMENT - Chargé(e) de clientèle - CDI - (Aix-en-Provence (13))",
       "link": "https://www.tourmag.com/classifieds/MARIETTON-DEVELOPPEMENT-Charge-e-de-clientele-CDI-Aix-en-Provence-13_pa267240.html",
       "location": "Aix-en-Provence",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - CDI - (Thionville (57))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Responsable-d-agence-H-F-CDI-Thionville-57_pa267102.html",
+      "location": "Thionville",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Douai (59))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Douai-59_pa267101.html",
+      "location": "Douai",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Brest (29))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Brest-29_pa267100.html",
+      "location": "Brest",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Tourville (76))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Tourville-76_pa266890.html",
+      "location": "Tourville",
       "description": "",
       "pubDate": "NEW 00:00"
     },
@@ -195,41 +251,6 @@
       "title": "HAVAS GROUPES MEETING & EVENTS - Commercial Groupes Région Grand Ouest H/F - CDI - (Nantes (44))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-GROUPES-MEETING-EVENTS-Commercial-Groupes-Region-Grand-Ouest-H-F-CDI-Nantes-44_pa267096.html",
       "location": "Nantes",
-      "description": "",
-      "pubDate": "13 Février"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Chalon sur Saône (71))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Chalon-sur-Saone-71_pa267103.html",
-      "location": "Chalon sur Saône",
-      "description": "",
-      "pubDate": "13 Février"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - CDI - (Thionville (57))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Responsable-d-agence-H-F-CDI-Thionville-57_pa267102.html",
-      "location": "Thionville",
-      "description": "",
-      "pubDate": "13 Février"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Douai (59))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Douai-59_pa267101.html",
-      "location": "Douai",
-      "description": "",
-      "pubDate": "13 Février"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Brest (29))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Brest-29_pa267100.html",
-      "location": "Brest",
-      "description": "",
-      "pubDate": "13 Février"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Tourville (76))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Tourville-76_pa266890.html",
-      "location": "Tourville",
       "description": "",
       "pubDate": "13 Février"
     },
@@ -780,5 +801,5 @@
       "pubDate": "4 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-26T15:52:37.364Z"
+  "scrapedAt": "2026-02-26T16:57:31.998Z"
 }
