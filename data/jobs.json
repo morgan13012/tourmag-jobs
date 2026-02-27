@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 112,
+  "total": 102,
   "offers": [
     {
       "title": "MARIETTON DEVELOPPEMENT - Chargé(e) de clientèle - CDI - (Aix-en-Provence (13))",
@@ -535,13 +535,6 @@
       "pubDate": "30 Janvier"
     },
     {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Rosny sous Bois (93))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Rosny-sous-Bois-93_pa265715.html",
-      "location": "Rosny sous Bois",
-      "description": "",
-      "pubDate": "30 Janvier"
-    },
-    {
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Responsable d'agence de voyages H/F - CDI - (Ferney Voltaire (01))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Responsable-d-agence-de-voyages-H-F-CDI-Ferney-Voltaire-01_pa266761.html",
       "location": "Ferney Voltaire",
@@ -682,55 +675,6 @@
       "pubDate": "9 Janvier"
     },
     {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Nantes (44))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Nantes-44_pa266423.html",
-      "location": "Nantes",
-      "description": "",
-      "pubDate": "9 Janvier"
-    },
-    {
-      "title": "VOYAMAR et HELIADES / MARIETTON DEVELOPPEMENT - Responsable Commercial BtoB Paris Sud et Est parisien H/F - CDI - (Paris)",
-      "link": "https://www.tourmag.com/classifieds/VOYAMAR-et-HELIADES-MARIETTON-DEVELOPPEMENT-Responsable-Commercial-BtoB-Paris-Sud-et-Est-parisien-H-F-CDI-Paris_pa266320.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "9 Janvier"
-    },
-    {
-      "title": "SELECTOUR AILLEURS VOYAGES - Responsable d'agence de voyages H/F - CDI - (Ecully (69))",
-      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Ecully-69_pa266317.html",
-      "location": "Ecully",
-      "description": "",
-      "pubDate": "9 Janvier"
-    },
-    {
-      "title": "SELECTOUR AILLEURS VOYAGES - Conseiller voyages H/F - CDI - (St Génis Pouilly (01))",
-      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Conseiller-voyages-H-F-CDI-St-Genis-Pouilly-01_pa266303.html",
-      "location": "St Génis Pouilly",
-      "description": "",
-      "pubDate": "9 Janvier"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Paris Les Halles (1er))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Paris-Les-Halles-1er_pa266078.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "9 Janvier"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Rueil-Malmaison (92))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Rueil-Malmaison-92_pa266075.html",
-      "location": "Rueil-Malmaison",
-      "description": "",
-      "pubDate": "9 Janvier"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Le Vesinet (78))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Le-Vesinet-78_pa266074.html",
-      "location": "Le Vesinet",
-      "description": "",
-      "pubDate": "9 Janvier"
-    },
-    {
       "title": "SOLEA  - 2 Agents de réservation H/F  - CDD - (Paris 11e)",
       "link": "https://www.tourmag.com/classifieds/SOLEA-2-Agents-de-reservation-H-F-CDD-Paris-11e_pa266598.html",
       "location": "Paris",
@@ -766,20 +710,6 @@
       "pubDate": "23 Décembre 2025"
     },
     {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Strasbourg (67))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Strasbourg-67_pa265695.html",
-      "location": "Strasbourg",
-      "description": "",
-      "pubDate": "23 Décembre 2025"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (St-Louis (68))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-St-Louis-68_pa265694.html",
-      "location": "St Louis",
-      "description": "",
-      "pubDate": "23 Décembre 2025"
-    },
-    {
       "title": "NG TRAVEL - Spécialiste GDS Yield Transport H/F - CDI - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/NG-TRAVEL-Specialiste-GDS-Yield-Transport-H-F-CDI-Paris-75_pa266569.html",
       "location": "Paris",
@@ -787,5 +717,5 @@
       "pubDate": "4 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-27T22:21:49.487Z"
+  "scrapedAt": "2026-02-27T23:24:11.471Z"
 }
