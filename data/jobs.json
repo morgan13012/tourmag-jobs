@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 102,
+  "total": 101,
   "offers": [
     {
       "title": "MARIETTON DEVELOPPEMENT - Chargé(e) de clientèle - CDI - (Aix-en-Provence (13))",
@@ -430,13 +430,6 @@
       "pubDate": "6 Février"
     },
     {
-      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Blois (41))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Blois-41_pa266568.html",
-      "location": "Blois",
-      "description": "",
-      "pubDate": "6 Février"
-    },
-    {
       "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Paris-75_pa266563.html",
       "location": "Paris",
@@ -717,5 +710,5 @@
       "pubDate": "4 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-02-28T22:21:54.866Z"
+  "scrapedAt": "2026-02-28T23:20:48.856Z"
 }
