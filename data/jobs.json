@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 101,
+  "total": 100,
   "offers": [
     {
       "title": "MARIETTON DEVELOPPEMENT - Chargé(e) de clientèle - CDI - (Aix-en-Provence (13))",
@@ -701,14 +701,7 @@
       "location": "Epinal",
       "description": "",
       "pubDate": "23 Décembre 2025"
-    },
-    {
-      "title": "NG TRAVEL - Spécialiste GDS Yield Transport H/F - CDI - (Paris (75))",
-      "link": "https://www.tourmag.com/classifieds/NG-TRAVEL-Specialiste-GDS-Yield-Transport-H-F-CDI-Paris-75_pa266569.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "4 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-01T22:23:06.640Z"
+  "scrapedAt": "2026-03-01T23:23:05.543Z"
 }
