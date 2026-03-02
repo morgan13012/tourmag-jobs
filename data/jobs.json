@@ -1,7 +1,21 @@
 {
   "success": true,
-  "total": 100,
+  "total": 102,
   "offers": [
+    {
+      "title": "E.LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Carhaix (29)",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Carhaix-29_pa267260.html",
+      "location": "Carhaix",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "E-LECLERC VOYAGES - 2 Conseillèr(e)s voyages H/F - CDI - (Carhaix (29))",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-2-Conseiller-e-s-voyages-H-F-CDI-Carhaix-29_pa267257.html",
+      "location": "Carhaix",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "MARIETTON DEVELOPPEMENT - Chargé(e) de clientèle - CDI - (Aix-en-Provence (13))",
       "link": "https://www.tourmag.com/classifieds/MARIETTON-DEVELOPPEMENT-Charge-e-de-clientele-CDI-Aix-en-Provence-13_pa267240.html",
@@ -703,5 +717,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-02T16:44:36.191Z"
+  "scrapedAt": "2026-03-02T17:44:00.693Z"
 }
