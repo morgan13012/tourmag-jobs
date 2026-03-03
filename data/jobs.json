@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 102,
+  "total": 101,
   "offers": [
     {
       "title": "E.LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Carhaix (29))",
@@ -668,13 +668,6 @@
       "pubDate": "12 Janvier"
     },
     {
-      "title": "CLIMATS DU MONDE - Gestionnaire Transport H/F - CDI  - (Marseille (13))",
-      "link": "https://www.tourmag.com/classifieds/CLIMATS-DU-MONDE-Gestionnaire-Transport-H-F-CDI-Marseille-13_pa266590.html",
-      "location": "Marseille",
-      "description": "",
-      "pubDate": "9 Janvier"
-    },
-    {
       "title": "SELECTOUR AILLEURS VOYAGES  - Conseiller voyages H/F - (Lyon 9e)",
       "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Conseiller-voyages-H-F-Lyon-9e_pa266762.html",
       "location": "Lyon",
@@ -717,5 +710,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-03T22:28:08.928Z"
+  "scrapedAt": "2026-03-03T23:27:03.973Z"
 }
