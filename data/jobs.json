@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 99,
+  "total": 100,
   "offers": [
+    {
+      "title": "VOYAGES D'EXCEPTION - Chef de production Voyages culturels haut de gamme H/F - CDI - (Paris 11e)",
+      "link": "https://www.tourmag.com/classifieds/VOYAGES-D-EXCEPTION-Chef-de-production-Voyages-culturels-haut-de-gamme-H-F-CDI-Paris-11e_pa267320.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "SLD VOYAGES - Technicien(ne) Production Groupes - CDI - (Dardilly (69))",
       "link": "https://www.tourmag.com/classifieds/SLD-VOYAGES-Technicien-ne-Production-Groupes-CDI-Dardilly-69_pa267317.html",
@@ -696,5 +703,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-05T15:50:14.921Z"
+  "scrapedAt": "2026-03-05T18:03:00.182Z"
 }
