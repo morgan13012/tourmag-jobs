@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 98,
+  "total": 99,
   "offers": [
+    {
+      "title": "SLD VOYAGES - Technicien(ne) Production Groupes - CDI - (Dardilly (69))",
+      "link": "https://www.tourmag.com/classifieds/SLD-VOYAGES-Technicien-ne-Production-Groupes-CDI-Dardilly-69_pa267317.html",
+      "location": "Dardilly",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Tourville (76))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Tourville-76_pa267243.html",
@@ -689,5 +696,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-05T09:41:29.761Z"
+  "scrapedAt": "2026-03-05T10:38:03.157Z"
 }
