@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 102,
+  "total": 101,
   "offers": [
     {
       "title": "VOYAGES D'EXCEPTION - Chef de production Voyages culturels haut de gamme H/F - CDI - (Paris 11e)",
@@ -682,13 +682,6 @@
       "pubDate": "9 Janvier"
     },
     {
-      "title": "SOLEA  - 2 Agents de réservation H/F  - CDD - (Paris 11e)",
-      "link": "https://www.tourmag.com/classifieds/SOLEA-2-Agents-de-reservation-H-F-CDD-Paris-11e_pa266598.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "23 Décembre 2025"
-    },
-    {
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Responsable Plateau Affaires Expérimenté H/F - CDI - (Lyon (69))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Responsable-Plateau-Affaires-Experimente-H-F-CDI-Lyon-69_pa266688.html",
       "location": "Lyon",
@@ -717,5 +710,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-07T22:22:35.280Z"
+  "scrapedAt": "2026-03-07T23:21:48.299Z"
 }
