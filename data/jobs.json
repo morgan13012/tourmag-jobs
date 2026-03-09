@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 101,
+  "total": 102,
   "offers": [
+    {
+      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Cambrai (59))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Cambrai-59_pa267404.html",
+      "location": "Cambrai",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDD - (Fougères (35))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDD-Fougeres-35_pa267402.html",
@@ -710,5 +717,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-09T14:49:34.403Z"
+  "scrapedAt": "2026-03-09T15:57:37.414Z"
 }
