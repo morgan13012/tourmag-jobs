@@ -3,6 +3,13 @@
   "total": 101,
   "offers": [
     {
+      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDD - (Fougères (35))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDD-Fougeres-35_pa267402.html",
+      "location": "Fougères",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
       "title": "VOYAGES D'EXCEPTION - Chef de production Voyages culturels haut de gamme H/F - CDI - (Paris 11e)",
       "link": "https://www.tourmag.com/classifieds/VOYAGES-D-EXCEPTION-Chef-de-production-Voyages-culturels-haut-de-gamme-H-F-CDI-Paris-11e_pa267320.html",
       "location": "Paris",
@@ -41,13 +48,6 @@
       "title": "A VENDRE POUR RECENTRAGE DE L’ACTIVITE DU DIRIGEANT : Fonds de commerce Agence de Voyages dans le département Val de Marne (94)",
       "link": "https://www.tourmag.com/classifieds/A-VENDRE-POUR-RECENTRAGE-DE-L-ACTIVITE-DU-DIRIGEANT-Fonds-de-commerce-Agence-de-Voyages-dans-le-departement-Val-de-Marne_pa267120.html",
       "location": "Val de Marne",
-      "description": "",
-      "pubDate": "4 Mars"
-    },
-    {
-      "title": "TERRES LOINTAINES - Assistants conseillers voyages H/F - CDI - (Lille (59), Bordeaux (33) ou Paris (75))",
-      "link": "https://www.tourmag.com/classifieds/TERRES-LOINTAINES-Assistants-conseillers-voyages-H-F-CDI-Lille-59--Bordeaux-33-ou-Paris-75_pa267104.html",
-      "location": "Lille, Bordeaux, Paris",
       "description": "",
       "pubDate": "4 Mars"
     },
@@ -710,5 +710,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-09T11:34:05.742Z"
+  "scrapedAt": "2026-03-09T13:01:33.093Z"
 }
