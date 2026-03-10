@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 102,
+  "total": 99,
   "offers": [
     {
       "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Cambrai (59))",
@@ -619,27 +619,6 @@
       "pubDate": "21 Janvier"
     },
     {
-      "title": "GLOBE VOYAGES - Concepteur de voyages de groupes H/F - CDD - (Rodange - Grand-Duché de Luxembourg)",
-      "link": "https://www.tourmag.com/classifieds/GLOBE-VOYAGES-Concepteur-de-voyages-de-groupes-H-F-CDD-Rodange-Grand-Duche-de-Luxembourg_pa266605.html",
-      "location": "Rodange",
-      "description": "",
-      "pubDate": "21 Janvier"
-    },
-    {
-      "title": "DOUBLE SENS - Conseiller(e) Voyages BtoC H/F  - CDI - (Paris (75))",
-      "link": "https://www.tourmag.com/classifieds/DOUBLE-SENS-Conseiller-e-Voyages-BtoC-H-F-CDI-Paris-75_pa266604.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "21 Janvier"
-    },
-    {
-      "title": "DOUBLE SENS - Gestionnaire Back-office H/F - CDI  - (Paris)",
-      "link": "https://www.tourmag.com/classifieds/DOUBLE-SENS-Gestionnaire-Back-office-H-F-CDI-Paris_pa266603.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "21 Janvier"
-    },
-    {
       "title": "SELECTOUR AILLEURS VOYAGES  - Conseiller voyages expérimenté H/F - CDI - (Aix-en-Provence (13))",
       "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Conseiller-voyages-experimente-H-F-CDI-Aix-en-Provence-13_pa266856.html",
       "location": "Aix-en-Provence",
@@ -717,5 +696,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-10T22:27:59.779Z"
+  "scrapedAt": "2026-03-10T23:26:49.438Z"
 }
