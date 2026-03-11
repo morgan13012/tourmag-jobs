@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 101,
+  "total": 100,
   "offers": [
     {
       "title": "DURANCE EVASION - Responsable d'agence de voyages H/F - CDI - (Châteaurenard (13))",
@@ -13,6 +13,13 @@
       "title": "E-LECLERC VOYAGES - Conseiller voyages H/F - CDI - (Les Herbiers (85))",
       "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-voyages-H-F-CDI-Les-Herbiers-85_pa267469.html",
       "location": "Les Herbiers",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "V.O.S  - Coordinateurs·trices des opérations - (Copenhague  (Danemark) ou Dubline (Irlande))",
+      "link": "https://www.tourmag.com/classifieds/V-O-S-Coordinateurs·trices-des-operations-Copenhague-Danemark-ou-Dubline-Irlande_pa266769.html",
+      "location": "Copenhague",
       "description": "",
       "pubDate": "NEW 23:00"
     },
@@ -262,25 +269,11 @@
       "pubDate": "24 Février"
     },
     {
-      "title": "V.O.S  - Coordinateurs·trices des opérations - (Copenhague  (Danemark) ou Dubline (Irlande))",
-      "link": "https://www.tourmag.com/classifieds/V-O-S-Coordinateurs·trices-des-operations-Copenhague-Danemark-ou-Dubline-Irlande_pa266769.html",
-      "location": "Copenhague",
-      "description": "",
-      "pubDate": "24 Février"
-    },
-    {
       "title": "SELECTOUR AILLEURS VOYAGES - Responsable d'agence de voyages H/F - CDI - (Lyon 2e)",
       "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Lyon-2e_pa267121.html",
       "location": "Lyon",
       "description": "",
       "pubDate": "24 Février"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Forfaitiste Groupes H/F - CDI - (Nantes (44))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Forfaitiste-Groupes-H-F-CDI-Nantes-44_pa267233.html",
-      "location": "Nantes",
-      "description": "",
-      "pubDate": "23 Février"
     },
     {
       "title": "LE GROUPE SALAUN - Responsable d'Unité Technique H/F - CDI - (Orléans (45))",
@@ -710,5 +703,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-11T15:48:02.847Z"
+  "scrapedAt": "2026-03-11T16:51:37.710Z"
 }
