@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 100,
+  "total": 99,
   "offers": [
     {
       "title": "E-LECLERC VOYAGES - Conseiller voyages H/F - CDI - (Les Herbiers (85))",
@@ -132,13 +132,6 @@
       "title": "E.LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Anet (28))",
       "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Anet-28_pa267117.html",
       "location": "Anet",
-      "description": "",
-      "pubDate": "26 Février"
-    },
-    {
-      "title": "VACANCES BLEUES - Attaché(e) commercial(e) Groupes Loisirs H/F - CDI - (Bordeaux (33))",
-      "link": "https://www.tourmag.com/classifieds/VACANCES-BLEUES-Attache-e-commercial-e-Groupes-Loisirs-H-F-CDI-Bordeaux-33_pa267107.html",
-      "location": "Bordeaux",
       "description": "",
       "pubDate": "26 Février"
     },
@@ -703,5 +696,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-11T12:58:45.530Z"
+  "scrapedAt": "2026-03-11T14:08:58.086Z"
 }
