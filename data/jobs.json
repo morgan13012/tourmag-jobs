@@ -1,13 +1,27 @@
 {
   "success": true,
-  "total": 99,
+  "total": 101,
   "offers": [
+    {
+      "title": "DURANCE EVASION - Responsable d'agence de voyages H/F - CDI - (Châteaurenard (13))",
+      "link": "https://www.tourmag.com/classifieds/DURANCE-EVASION-Responsable-d-agence-de-voyages-H-F-CDI-Chateaurenard-13_pa267472.html",
+      "location": "Châteaurenard",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "E-LECLERC VOYAGES - Conseiller voyages H/F - CDI - (Les Herbiers (85))",
       "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-voyages-H-F-CDI-Les-Herbiers-85_pa267469.html",
       "location": "Les Herbiers",
       "description": "",
       "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Saumur (49))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Saumur-49_pa267471.html",
+      "location": "Saumur",
+      "description": "",
+      "pubDate": "NEW 00:00"
     },
     {
       "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Cambrai (59))",
@@ -696,5 +710,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-11T14:08:58.086Z"
+  "scrapedAt": "2026-03-11T15:48:02.847Z"
 }
