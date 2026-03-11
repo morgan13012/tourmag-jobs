@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 99,
+  "total": 100,
   "offers": [
+    {
+      "title": "E-LECLERC VOYAGES - Conseiller voyages H/F - CDI - (Les Herbiers (85))",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-voyages-H-F-CDI-Les-Herbiers-85_pa267469.html",
+      "location": "Les Herbiers",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
     {
       "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Cambrai (59))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Cambrai-59_pa267404.html",
@@ -696,5 +703,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-11T10:38:16.235Z"
+  "scrapedAt": "2026-03-11T11:32:17.943Z"
 }
