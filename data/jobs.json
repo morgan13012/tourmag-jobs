@@ -1,7 +1,21 @@
 {
   "success": true,
-  "total": 103,
+  "total": 104,
   "offers": [
+    {
+      "title": "KUONI TUMLARE - Events Coordinator - MICE H/F - CDI - (Saint Ouen (93))",
+      "link": "https://www.tourmag.com/classifieds/KUONI-TUMLARE-Events-Coordinator-MICE-H-F-CDI-Saint-Ouen-93_pa267473.html",
+      "location": "Saint Ouen",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "TURQUOISE TO - Chargé(e) Back-office H/F - CDD/CDI - (Aix-en-Provence (13))",
+      "link": "https://www.tourmag.com/classifieds/TURQUOISE-TO-Charge-e-Back-office-H-F-CDD-CDI-Aix-en-Provence-13_pa267236.html",
+      "location": "Aix-en-Provence",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
     {
       "title": "AUSTRAL LAGONS - Commercial expérimenté BtoB H/F - CDI - (Région Rhône-Alpes)",
       "link": "https://www.tourmag.com/classifieds/AUSTRAL-LAGONS-Commercial-experimente-BtoB-H-F-CDI-Region-Rhone-Alpes_pa267401.html",
@@ -104,13 +118,6 @@
       "title": "A VENDRE POUR RECENTRAGE DE L’ACTIVITE DU DIRIGEANT : Fonds de commerce Agence de Voyages dans le département Val de Marne (94)",
       "link": "https://www.tourmag.com/classifieds/A-VENDRE-POUR-RECENTRAGE-DE-L-ACTIVITE-DU-DIRIGEANT-Fonds-de-commerce-Agence-de-Voyages-dans-le-departement-Val-de-Marne_pa267120.html",
       "location": "Val de Marne",
-      "description": "",
-      "pubDate": "4 Mars"
-    },
-    {
-      "title": "TURQUOISE TO - Chargé(e) Back-office H/F - CDD/CDI - (Aix-en-Provence (13))",
-      "link": "https://www.tourmag.com/classifieds/TURQUOISE-TO-Charge-e-Back-office-H-F-CDD-CDI-Aix-en-Provence-13_pa267236.html",
-      "location": "Aix-en-Provence",
       "description": "",
       "pubDate": "4 Mars"
     },
@@ -724,5 +731,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-12T09:41:35.221Z"
+  "scrapedAt": "2026-03-12T10:38:03.240Z"
 }
