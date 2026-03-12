@@ -1,7 +1,28 @@
 {
   "success": true,
-  "total": 100,
+  "total": 103,
   "offers": [
+    {
+      "title": "AUSTRAL LAGONS - Commercial expérimenté BtoB H/F - CDI - (Région Rhône-Alpes)",
+      "link": "https://www.tourmag.com/classifieds/AUSTRAL-LAGONS-Commercial-experimente-BtoB-H-F-CDI-Region-Rhone-Alpes_pa267401.html",
+      "location": "Lyon",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Responsable d'agence de voyages H/F - CDI - (Mulhouse (68))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Responsable-d-agence-de-voyages-H-F-CDI-Mulhouse-68_pa267323.html",
+      "location": "Mulhouse",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Responsable d'agence de voyages H/F - CDI - (Chaumont (52))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Responsable-d-agence-de-voyages-H-F-CDI-Chaumont-52_pa267319.html",
+      "location": "Chaumont",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "DURANCE EVASION - Responsable d'agence de voyages H/F - CDI - (Châteaurenard (13))",
       "link": "https://www.tourmag.com/classifieds/DURANCE-EVASION-Responsable-d-agence-de-voyages-H-F-CDI-Chateaurenard-13_pa267472.html",
@@ -703,5 +724,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-12T08:41:07.474Z"
+  "scrapedAt": "2026-03-12T09:41:35.221Z"
 }
