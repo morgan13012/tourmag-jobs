@@ -1,13 +1,27 @@
 {
   "success": true,
-  "total": 105,
+  "total": 107,
   "offers": [
+    {
+      "title": "TURQUOISE TO - Billettiste confirmé(e) Service Transport H/F - CDD ou CDI - (Aix-en-Provence (13))",
+      "link": "https://www.tourmag.com/classifieds/TURQUOISE-TO-Billettiste-confirme-e-Service-Transport-H-F-CDD-ou-CDI-Aix-en-Provence-13_pa267474.html",
+      "location": "Aix-en-Provence",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "KUONI TUMLARE - Events Coordinator - MICE H/F - CDI - (Saint Ouen (93))",
       "link": "https://www.tourmag.com/classifieds/KUONI-TUMLARE-Events-Coordinator-MICE-H-F-CDI-Saint-Ouen-93_pa267473.html",
       "location": "Saint Ouen",
       "description": "",
       "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "CE EVASION - Technicien(ne) groupes pôle clubs F/H - CDI - (Paris, Lyon ou Rouen)",
+      "link": "https://www.tourmag.com/classifieds/CE-EVASION-Technicien-ne-groupes-pole-clubs-F-H-CDI-Paris-Lyon-ou-Rouen_pa267476.html",
+      "location": "Paris, Lyon, Rouen",
+      "description": "",
+      "pubDate": "NEW 23:00"
     },
     {
       "title": "TURQUOISE TO - Chargé(e) Back-office H/F - CDD/CDI - (Aix-en-Provence (13))",
@@ -738,5 +752,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-12T14:06:35.195Z"
+  "scrapedAt": "2026-03-12T15:58:13.149Z"
 }
