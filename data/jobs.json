@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 107,
+  "total": 108,
   "offers": [
+    {
+      "title": "PROMOTION CONSEIL VACANCES - Commercial expérimenté H/F - CDI - (France entière)",
+      "link": "https://www.tourmag.com/classifieds/PROMOTION-CONSEIL-VACANCES-Commercial-experimente-H-F-CDI-France-entiere_pa267540.html",
+      "location": "France",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "HEWAGO - 2 Agents de réservation back-office H/F - CDI  - (Paris (75) ou Nice (06))",
       "link": "https://www.tourmag.com/classifieds/HEWAGO-2-Agents-de-reservation-back-office-H-F-CDI-Paris-75-ou-Nice-06_pa267477.html",
@@ -752,5 +759,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-13T12:57:05.847Z"
+  "scrapedAt": "2026-03-13T14:01:39.679Z"
 }
