@@ -17,6 +17,13 @@
       "pubDate": "NEW 00:00"
     },
     {
+      "title": "LE GROUPE SALAUN - Responsable d'Unité Technique H/F - CDI - (Orléans (45))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Responsable-d-Unite-Technique-H-F-CDI-Orleans-45_pa266550.html",
+      "location": "Orléans",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
       "title": "HEWAGO - 2 Agents de réservation back-office H/F - CDI  - (Paris (75) ou Nice (06))",
       "link": "https://www.tourmag.com/classifieds/HEWAGO-2-Agents-de-reservation-back-office-H-F-CDI-Paris-75-ou-Nice-06_pa267477.html",
       "location": "Paris ou Nice",
@@ -351,13 +358,6 @@
       "location": "Lyon",
       "description": "",
       "pubDate": "24 Février"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Responsable d'Unité Technique H/F - CDI - (Orléans (45))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Responsable-d-Unite-Technique-H-F-CDI-Orleans-45_pa266550.html",
-      "location": "Orléans",
-      "description": "",
-      "pubDate": "23 Février"
     },
     {
       "title": "AGENCE FRANCHISEE CLUB MED - Conseiller(e) voyages H/F - CDI - (Orléans (45))",
@@ -759,5 +759,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-13T15:41:10.753Z"
+  "scrapedAt": "2026-03-13T16:39:06.714Z"
 }
