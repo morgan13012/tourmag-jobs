@@ -3,6 +3,13 @@
   "total": 108,
   "offers": [
     {
+      "title": "DURANCE EVASION - Responsable d'agence de voyages H/F - CDI - (Châteaurenard (13))",
+      "link": "https://www.tourmag.com/classifieds/DURANCE-EVASION-Responsable-d-agence-de-voyages-H-F-CDI-Chateaurenard-13_pa267472.html",
+      "location": "Châteaurenard",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
       "title": "PROMOTION CONSEIL VACANCES - Commercial expérimenté H/F - CDI - (France entière)",
       "link": "https://www.tourmag.com/classifieds/PROMOTION-CONSEIL-VACANCES-Commercial-experimente-H-F-CDI-France-entiere_pa267540.html",
       "location": "France",
@@ -183,13 +190,6 @@
       "location": "Pontault-Combault",
       "description": "",
       "pubDate": "12 Mars"
-    },
-    {
-      "title": "DURANCE EVASION - Responsable d'agence de voyages H/F - CDI - (Châteaurenard (13))",
-      "link": "https://www.tourmag.com/classifieds/DURANCE-EVASION-Responsable-d-agence-de-voyages-H-F-CDI-Chateaurenard-13_pa267472.html",
-      "location": "Châteaurenard",
-      "description": "",
-      "pubDate": "11 Mars"
     },
     {
       "title": "E-LECLERC VOYAGES - Conseiller voyages H/F - CDI - (Les Herbiers (85))",
@@ -759,5 +759,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-14T16:30:37.325Z"
+  "scrapedAt": "2026-03-14T17:25:47.639Z"
 }
