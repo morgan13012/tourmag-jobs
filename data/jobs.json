@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 107,
+  "total": 106,
   "offers": [
     {
       "title": "DURANCE EVASION - Responsable d'agence de voyages H/F - CDI - (Châteaurenard (13))",
@@ -668,13 +668,6 @@
       "pubDate": "21 Janvier"
     },
     {
-      "title": "EXCLUSIF VOYAGES - Technicien(ne) Back-office confirmé(e) Voyages sur-mesure pour une clientèle de luxe H/F - CDI  - (Paris 1er)",
-      "link": "https://www.tourmag.com/classifieds/EXCLUSIF-VOYAGES-Technicien-ne-Back-office-confirme-e-Voyages-sur-mesure-pour-une-clientele-de-luxe-H-F-CDI-Paris-1er_pa266671.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "21 Janvier"
-    },
-    {
       "title": "SELECTOUR AILLEURS VOYAGES  - Conseiller voyages expérimenté H/F - CDI - (Aix-en-Provence (13))",
       "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Conseiller-voyages-experimente-H-F-CDI-Aix-en-Provence-13_pa266856.html",
       "location": "Aix-en-Provence",
@@ -752,5 +745,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-16T22:32:30.196Z"
+  "scrapedAt": "2026-03-16T23:30:53.996Z"
 }
