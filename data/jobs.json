@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 105,
+  "total": 101,
   "offers": [
     {
       "title": "PROMOTION CONSEIL VACANCES - Commercial expérimenté H/F - CDI - (France entière)",
@@ -416,13 +416,6 @@
       "pubDate": "18 Février"
     },
     {
-      "title": "TIME TOURS/MARIETTON DEVELOPPEMENT - Commercial Senior Service Groupes H/F - CDI - (Région Parisienne)",
-      "link": "https://www.tourmag.com/classifieds/TIME-TOURS-MARIETTON-DEVELOPPEMENT-Commercial-Senior-Service-Groupes-H-F-CDI-Region-Parisienne_pa266686.html",
-      "location": "Clichy",
-      "description": "",
-      "pubDate": "18 Février"
-    },
-    {
       "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Lorient (56))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Lorient-56_pa267106.html",
       "location": "Lorient",
@@ -710,27 +703,6 @@
       "pubDate": "9 Janvier"
     },
     {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Responsable Plateau Affaires Expérimenté H/F - CDI - (Lyon (69))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Responsable-Plateau-Affaires-Experimente-H-F-CDI-Lyon-69_pa266688.html",
-      "location": "Lyon",
-      "description": "",
-      "pubDate": "23 Décembre 2025"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages Affaires expérimenté H/F - CDI - (Lyon (69))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-Affaires-experimente-H-F-CDI-Lyon-69_pa266687.html",
-      "location": "Lyon",
-      "description": "",
-      "pubDate": "23 Décembre 2025"
-    },
-    {
-      "title": "VOYAMAR/MARIETTON DEVELOPPEMENT - 2 Techniciens Back Office H/F - CDI - (Lyon (69))",
-      "link": "https://www.tourmag.com/classifieds/VOYAMAR-MARIETTON-DEVELOPPEMENT-2-Techniciens-Back-Office-H-F-CDI-Lyon-69_pa266685.html",
-      "location": "Lyon",
-      "description": "",
-      "pubDate": "23 Décembre 2025"
-    },
-    {
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Epinal (88))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Epinal-88_pa266305.html",
       "location": "Epinal",
@@ -738,5 +710,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-22T22:25:15.645Z"
+  "scrapedAt": "2026-03-22T23:26:39.806Z"
 }
