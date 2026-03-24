@@ -3,6 +3,13 @@
   "total": 101,
   "offers": [
     {
+      "title": "CE EVASION - Technicien(ne) groupes pôle clubs F/H - CDI - (Paris, Lyon ou Rouen)",
+      "link": "https://www.tourmag.com/classifieds/CE-EVASION-Technicien-ne-groupes-pole-clubs-F-H-CDI-Paris-Lyon-ou-Rouen_pa267476.html",
+      "location": "Paris, Lyon, Rouen",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
       "title": "PROMOTION CONSEIL VACANCES - Commercial expérimenté H/F - CDI - (France entière)",
       "link": "https://www.tourmag.com/classifieds/PROMOTION-CONSEIL-VACANCES-Commercial-experimente-H-F-CDI-France-entiere_pa267540.html",
       "location": "France",
@@ -27,13 +34,6 @@
       "title": "KUONI TUMLARE - Events Coordinator - MICE H/F - CDI - (Saint Ouen (93))",
       "link": "https://www.tourmag.com/classifieds/KUONI-TUMLARE-Events-Coordinator-MICE-H-F-CDI-Saint-Ouen-93_pa267473.html",
       "location": "Saint Ouen",
-      "description": "",
-      "pubDate": "19 Mars"
-    },
-    {
-      "title": "CE EVASION - Technicien(ne) groupes pôle clubs F/H - CDI - (Paris, Lyon ou Rouen)",
-      "link": "https://www.tourmag.com/classifieds/CE-EVASION-Technicien-ne-groupes-pole-clubs-F-H-CDI-Paris-Lyon-ou-Rouen_pa267476.html",
-      "location": "Paris, Lyon, Rouen",
       "description": "",
       "pubDate": "19 Mars"
     },
@@ -710,5 +710,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-24T10:51:44.321Z"
+  "scrapedAt": "2026-03-24T11:44:06.941Z"
 }
