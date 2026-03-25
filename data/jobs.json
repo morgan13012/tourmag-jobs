@@ -1,7 +1,21 @@
 {
   "success": true,
-  "total": 101,
+  "total": 102,
   "offers": [
+    {
+      "title": "E-LECLERC VOYAGES - 3 Conseillers voyages H/F - CDI - (Sélestat (67))",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-3-Conseillers-voyages-H-F-CDI-Selestat-67_pa267680.html",
+      "location": "Sélestat",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "TURQUOISE TO - Billettiste confirmé(e) Service Transport H/F - CDD ou CDI - (Aix-en-Provence (13))",
+      "link": "https://www.tourmag.com/classifieds/TURQUOISE-TO-Billettiste-confirme-e-Service-Transport-H-F-CDD-ou-CDI-Aix-en-Provence-13_pa267474.html",
+      "location": "Aix-en-Provence",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "CE EVASION - Technicien(ne) groupes pôle clubs F/H - CDI - (Paris, Lyon ou Rouen)",
       "link": "https://www.tourmag.com/classifieds/CE-EVASION-Technicien-ne-groupes-pole-clubs-F-H-CDI-Paris-Lyon-ou-Rouen_pa267476.html",
@@ -20,13 +34,6 @@
       "title": "HEWAGO - 2 Agents de réservation back-office H/F - CDI  - (Paris (75) ou Nice (06))",
       "link": "https://www.tourmag.com/classifieds/HEWAGO-2-Agents-de-reservation-back-office-H-F-CDI-Paris-75-ou-Nice-06_pa267477.html",
       "location": "Paris ou Nice",
-      "description": "",
-      "pubDate": "19 Mars"
-    },
-    {
-      "title": "TURQUOISE TO - Billettiste confirmé(e) Service Transport H/F - CDD ou CDI - (Aix-en-Provence (13))",
-      "link": "https://www.tourmag.com/classifieds/TURQUOISE-TO-Billettiste-confirme-e-Service-Transport-H-F-CDD-ou-CDI-Aix-en-Provence-13_pa267474.html",
-      "location": "Aix-en-Provence",
       "description": "",
       "pubDate": "19 Mars"
     },
@@ -710,5 +717,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-25T08:51:22.528Z"
+  "scrapedAt": "2026-03-25T09:53:01.169Z"
 }
