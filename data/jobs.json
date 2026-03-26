@@ -1,7 +1,42 @@
 {
   "success": true,
-  "total": 103,
+  "total": 105,
   "offers": [
+    {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDI -  (Miramas (13))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDI-Miramas-13_pa267685.html",
+      "location": "Miramas",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "VOYAMAR et HELIADES / MARIETTON DEVELOPPEMENT - Assistant(e) de Production Tourisme H/F - CDI - (Aix-en-Provence (13))",
+      "link": "https://www.tourmag.com/classifieds/VOYAMAR-et-HELIADES-MARIETTON-DEVELOPPEMENT-Assistant-e-de-Production-Tourisme-H-F-CDI-Aix-en-Provence-13_pa267684.html",
+      "location": "Aix-en-Provence",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDI - (Epernay (51))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDI-Epernay-51_pa267683.html",
+      "location": "Epernay",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "AUSTRAL LAGONS - Gestionnaire Transport aérien H/F - CDI - (Sèvres (92))",
+      "link": "https://www.tourmag.com/classifieds/AUSTRAL-LAGONS-Gestionnaire-Transport-aerien-H-F-CDI-Sevres-92_pa267119.html",
+      "location": "Sèvres",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "PREFERENCE VOYAGES / MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Saumur (49))",
+      "link": "https://www.tourmag.com/classifieds/PREFERENCE-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Saumur-49_pa267112.html",
+      "location": "Saumur",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "CE EVASION - Technicien(ne) groupes pôle clubs F/H - CDI - (Paris, Lyon ou Rouen)",
       "link": "https://www.tourmag.com/classifieds/CE-EVASION-Technicien-ne-groupes-pole-clubs-F-H-CDI-Paris-Lyon-ou-Rouen_pa267682.html",
@@ -374,13 +409,6 @@
       "pubDate": "20 Février"
     },
     {
-      "title": "AUSTRAL LAGONS - Gestionnaire Transport aérien H/F - CDI - (Sèvres (92))",
-      "link": "https://www.tourmag.com/classifieds/AUSTRAL-LAGONS-Gestionnaire-Transport-aerien-H-F-CDI-Sevres-92_pa267119.html",
-      "location": "Sèvres",
-      "description": "",
-      "pubDate": "19 Février"
-    },
-    {
       "title": "HELIADES/MARIETTON DEVELOPPEMENT - Gestionnaire aérien H/F - CDI - (Aix-en-Provence (13))",
       "link": "https://www.tourmag.com/classifieds/HELIADES-MARIETTON-DEVELOPPEMENT-Gestionnaire-aerien-H-F-CDI-Aix-en-Provence-13_pa267114.html",
       "location": "Aix-en-Provence",
@@ -395,23 +423,9 @@
       "pubDate": "19 Février"
     },
     {
-      "title": "PREFERENCE VOYAGES / MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Saumur (49))",
-      "link": "https://www.tourmag.com/classifieds/PREFERENCE-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Saumur-49_pa267112.html",
-      "location": "Saumur",
-      "description": "",
-      "pubDate": "19 Février"
-    },
-    {
       "title": "SELECTOUR AILLEURS VOYAGES  - Conseiller voyages H/F - CDI - (Brive-la-Gaillarde (19))",
       "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Conseiller-voyages-H-F-CDI-Brive-la-Gaillarde-19_pa267111.html",
       "location": "Brive-la-Gaillarde",
-      "description": "",
-      "pubDate": "19 Février"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - (Castres (81))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-Castres-81_pa267109.html",
-      "location": "Castres",
       "description": "",
       "pubDate": "19 Février"
     },
@@ -724,5 +738,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-26T08:01:33.160Z"
+  "scrapedAt": "2026-03-26T10:00:52.232Z"
 }
