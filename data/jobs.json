@@ -1,7 +1,56 @@
 {
   "success": true,
-  "total": 105,
+  "total": 109,
   "offers": [
+    {
+      "title": "CE EVASION - Technicien(ne) groupes pôle clubs F/H - CDI - (Paris, Lyon ou Rouen)",
+      "link": "https://www.tourmag.com/classifieds/CE-EVASION-Technicien-ne-groupes-pole-clubs-F-H-CDI-Paris-Lyon-ou-Rouen_pa267682.html",
+      "location": "Paris, Lyon ou Rouen",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "E-LECLERC VOYAGES - 3 Conseillers voyages H/F - CDI - (Sélestat (67))",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-3-Conseillers-voyages-H-F-CDI-Selestat-67_pa267680.html",
+      "location": "Sélestat",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "CE EVASION - Technicien(ne) Forfaitistes groupes collectivités F/H - CDI - (Paris, Lyon ou Rouen)",
+      "link": "https://www.tourmag.com/classifieds/CE-EVASION-Technicien-ne-Forfaitistes-groupes-collectivites-F-H-CDI-Paris-Lyon-ou-Rouen_pa267476.html",
+      "location": "Paris, Lyon, Rouen",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "SLD VOYAGES - Technicien(ne) Production Groupes - CDI - (Dardilly (69))",
+      "link": "https://www.tourmag.com/classifieds/SLD-VOYAGES-Technicien-ne-Production-Groupes-CDI-Dardilly-69_pa267317.html",
+      "location": "Dardilly",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "AUCHAN VOYAGES / MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Toulouse (31))",
+      "link": "https://www.tourmag.com/classifieds/AUCHAN-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Toulouse-31_pa267688.html",
+      "location": "Toulouse",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDI -  (Chaniers (17))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDI-Chaniers-17_pa267687.html",
+      "location": "Chaniers",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDI -  (Cahors (46))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDI-Cahors-46_pa267686.html",
+      "location": "Cahors",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDI -  (Miramas (13))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDI-Miramas-13_pa267685.html",
@@ -38,25 +87,11 @@
       "pubDate": "NEW 00:00"
     },
     {
-      "title": "CE EVASION - Technicien(ne) groupes pôle clubs F/H - CDI - (Paris, Lyon ou Rouen)",
-      "link": "https://www.tourmag.com/classifieds/CE-EVASION-Technicien-ne-groupes-pole-clubs-F-H-CDI-Paris-Lyon-ou-Rouen_pa267682.html",
-      "location": "Paris, Lyon ou Rouen",
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - (Castres (81))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-Castres-81_pa267109.html",
+      "location": "Castres",
       "description": "",
-      "pubDate": "25 Mars"
-    },
-    {
-      "title": "E-LECLERC VOYAGES - 3 Conseillers voyages H/F - CDI - (Sélestat (67))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-3-Conseillers-voyages-H-F-CDI-Selestat-67_pa267680.html",
-      "location": "Sélestat",
-      "description": "",
-      "pubDate": "25 Mars"
-    },
-    {
-      "title": "CE EVASION - Technicien(ne) Forfaitistes groupes collectivités F/H - CDI - (Paris, Lyon ou Rouen)",
-      "link": "https://www.tourmag.com/classifieds/CE-EVASION-Technicien-ne-Forfaitistes-groupes-collectivites-F-H-CDI-Paris-Lyon-ou-Rouen_pa267476.html",
-      "location": "Paris, Lyon, Rouen",
-      "description": "",
-      "pubDate": "25 Mars"
+      "pubDate": "NEW 00:00"
     },
     {
       "title": "TURQUOISE TO - Billettiste confirmé(e) Service Transport H/F - CDD ou CDI - (Aix-en-Provence (13))",
@@ -97,13 +132,6 @@
       "title": "E-LECLERC VOYAGES - Conseiller voyages H/F - CDI - (Les Herbiers (85))",
       "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-voyages-H-F-CDI-Les-Herbiers-85_pa267469.html",
       "location": "Les Herbiers",
-      "description": "",
-      "pubDate": "19 Mars"
-    },
-    {
-      "title": "SLD VOYAGES - Technicien(ne) Production Groupes - CDI - (Dardilly (69))",
-      "link": "https://www.tourmag.com/classifieds/SLD-VOYAGES-Technicien-ne-Production-Groupes-CDI-Dardilly-69_pa267317.html",
-      "location": "Dardilly",
       "description": "",
       "pubDate": "19 Mars"
     },
@@ -738,5 +766,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-26T10:00:52.232Z"
+  "scrapedAt": "2026-03-26T11:49:14.718Z"
 }
