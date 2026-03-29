@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 110,
+  "total": 109,
   "offers": [
+    {
+      "title": "MARIETTON DEVELOPPEMENT - Chargé(e) de clientèle - CDI - (Aix-en-Provence (13))",
+      "link": "https://www.tourmag.com/classifieds/MARIETTON-DEVELOPPEMENT-Charge-e-de-clientele-CDI-Aix-en-Provence-13_pa267240.html",
+      "location": "Aix-en-Provence",
+      "description": "",
+      "pubDate": "30 Mars"
+    },
     {
       "title": "CE EVASION - Technicien(ne) groupes pôle clubs F/H - CDI - (Paris, Lyon ou Rouen)",
       "link": "https://www.tourmag.com/classifieds/CE-EVASION-Technicien-ne-groupes-pole-clubs-F-H-CDI-Paris-Lyon-ou-Rouen_pa267682.html",
@@ -325,13 +332,6 @@
       "pubDate": "6 Mars"
     },
     {
-      "title": "SELECTOUR AILLEURS VOYAGES  - Conseiller voyages H/F - CDI - (Corbas (69))",
-      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Conseiller-voyages-H-F-CDI-Corbas-69_pa267242.html",
-      "location": "Corbas",
-      "description": "",
-      "pubDate": "6 Mars"
-    },
-    {
       "title": "A VENDRE POUR RECENTRAGE DE L’ACTIVITE DU DIRIGEANT : Fonds de commerce Agence de Voyages dans le département Val de Marne (94)",
       "link": "https://www.tourmag.com/classifieds/A-VENDRE-POUR-RECENTRAGE-DE-L-ACTIVITE-DU-DIRIGEANT-Fonds-de-commerce-Agence-de-Voyages-dans-le-departement-Val-de-Marne_pa267120.html",
       "location": "Val de Marne",
@@ -365,13 +365,6 @@
       "location": "Carhaix",
       "description": "",
       "pubDate": "2 Mars"
-    },
-    {
-      "title": "MARIETTON DEVELOPPEMENT - Chargé(e) de clientèle - CDI - (Aix-en-Provence (13))",
-      "link": "https://www.tourmag.com/classifieds/MARIETTON-DEVELOPPEMENT-Charge-e-de-clientele-CDI-Aix-en-Provence-13_pa267240.html",
-      "location": "Aix-en-Provence",
-      "description": "",
-      "pubDate": "26 Février"
     },
     {
       "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (St Quentin (02))",
@@ -773,5 +766,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-29T18:41:15.900Z"
+  "scrapedAt": "2026-03-29T19:31:28.050Z"
 }
