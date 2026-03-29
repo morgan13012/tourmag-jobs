@@ -1,11 +1,32 @@
 {
   "success": true,
-  "total": 109,
+  "total": 110,
   "offers": [
+    {
+      "title": "SELECTOUR AILLEURS VOYAGES  - Conseiller voyages H/F - CDI - (Corbas (69))",
+      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Conseiller-voyages-H-F-CDI-Corbas-69_pa267242.html",
+      "location": "Corbas",
+      "description": "",
+      "pubDate": "30 Mars"
+    },
     {
       "title": "MARIETTON DEVELOPPEMENT - Chargé(e) de clientèle - CDI - (Aix-en-Provence (13))",
       "link": "https://www.tourmag.com/classifieds/MARIETTON-DEVELOPPEMENT-Charge-e-de-clientele-CDI-Aix-en-Provence-13_pa267240.html",
       "location": "Aix-en-Provence",
+      "description": "",
+      "pubDate": "30 Mars"
+    },
+    {
+      "title": "SELECTOUR AILLEURS VOYAGES - Responsable d'agence de voyages H/F - CDI - (Lyon 2e)",
+      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Lyon-2e_pa267121.html",
+      "location": "Lyon",
+      "description": "",
+      "pubDate": "30 Mars"
+    },
+    {
+      "title": "SELECTOUR AILLEURS VOYAGES - Responsable d'agence de voyages H/F - CDI - (Epagny (74))",
+      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Epagny-74_pa267113.html",
+      "location": "Epagny",
       "description": "",
       "pubDate": "30 Mars"
     },
@@ -423,13 +444,6 @@
       "pubDate": "24 Février"
     },
     {
-      "title": "SELECTOUR AILLEURS VOYAGES - Responsable d'agence de voyages H/F - CDI - (Lyon 2e)",
-      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Lyon-2e_pa267121.html",
-      "location": "Lyon",
-      "description": "",
-      "pubDate": "24 Février"
-    },
-    {
       "title": "AGENCE FRANCHISEE CLUB MED - Conseiller(e) voyages H/F - CDI - (Orléans (45))",
       "link": "https://www.tourmag.com/classifieds/AGENCE-FRANCHISEE-CLUB-MED-Conseiller-e-voyages-H-F-CDI-Orleans-45_pa267171.html",
       "location": "Orléans",
@@ -440,13 +454,6 @@
       "title": "HELIADES/MARIETTON DEVELOPPEMENT - Gestionnaire aérien H/F - CDI - (Aix-en-Provence (13))",
       "link": "https://www.tourmag.com/classifieds/HELIADES-MARIETTON-DEVELOPPEMENT-Gestionnaire-aerien-H-F-CDI-Aix-en-Provence-13_pa267114.html",
       "location": "Aix-en-Provence",
-      "description": "",
-      "pubDate": "19 Février"
-    },
-    {
-      "title": "SELECTOUR AILLEURS VOYAGES - Responsable d'agence de voyages H/F - CDI - (Epagny (74))",
-      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Epagny-74_pa267113.html",
-      "location": "Epagny",
       "description": "",
       "pubDate": "19 Février"
     },
@@ -766,5 +773,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-29T19:31:28.050Z"
+  "scrapedAt": "2026-03-29T20:31:29.159Z"
 }
