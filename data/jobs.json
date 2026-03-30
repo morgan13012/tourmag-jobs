@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 110,
+  "total": 111,
   "offers": [
+    {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDI - (Sallanches (74))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDI-Sallanches-74_pa267724.html",
+      "location": "Sallanches",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "SELECTOUR AILLEURS VOYAGES  - Conseiller voyages H/F - CDI - (Corbas (69))",
       "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Conseiller-voyages-H-F-CDI-Corbas-69_pa267242.html",
@@ -773,5 +780,5 @@
       "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-30T06:52:07.852Z"
+  "scrapedAt": "2026-03-30T08:21:52.236Z"
 }
