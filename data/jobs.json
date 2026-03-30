@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 113,
+  "total": 110,
   "offers": [
     {
       "title": "AUCHAN VOYAGES / MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Guilherand Granges (07))",
@@ -717,13 +717,6 @@
       "pubDate": "22 Janvier"
     },
     {
-      "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages HC VOYAGES basée à Carpentras (84)",
-      "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-HC-VOYAGES-basee-a-Carpentras-84_pa266399.html",
-      "location": "Carpentras",
-      "description": "",
-      "pubDate": "22 Janvier"
-    },
-    {
       "title": "CERCLE DES VOYAGES - Conseiller Voyages sur mesure Italie H/F - CDI - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/CERCLE-DES-VOYAGES-Conseiller-Voyages-sur-mesure-Italie-H-F-CDI-Paris-75_pa266723.html",
       "location": "Paris",
@@ -766,13 +759,6 @@
       "pubDate": "15 Janvier"
     },
     {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Quimper (29))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Quimper-29_pa266361.html",
-      "location": "Quimper",
-      "description": "",
-      "pubDate": "13 Janvier"
-    },
-    {
       "title": "PREFERENCE VOYAGES / MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Les Sables d'Olonne (85))",
       "link": "https://www.tourmag.com/classifieds/PREFERENCE-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Les-Sables-d-Olonne-85_pa266770.html",
       "location": "Les Sables d'Olonnes",
@@ -785,14 +771,7 @@
       "location": "Lyon",
       "description": "",
       "pubDate": "9 Janvier"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Epinal (88))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Epinal-88_pa266305.html",
-      "location": "Epinal",
-      "description": "",
-      "pubDate": "23 Décembre 2025"
     }
   ],
-  "scrapedAt": "2026-03-30T21:40:53.137Z"
+  "scrapedAt": "2026-03-30T22:34:48.340Z"
 }
