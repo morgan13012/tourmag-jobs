@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 111,
+  "total": 110,
   "offers": [
     {
       "title": "TURQUOISE TO - Billettiste confirmé(e) Service Transport H/F - CDD ou CDI - (Aix-en-Provence (13))",
@@ -731,13 +731,6 @@
       "pubDate": "21 Janvier"
     },
     {
-      "title": "CROISIEUROPE - Agent de réservation de voyages H/F - CDI - (Paris 6e)",
-      "link": "https://www.tourmag.com/classifieds/CROISIEUROPE-Agent-de-reservation-de-voyages-H-F-CDI-Paris-6e_pa266692.html",
-      "location": "PARIS",
-      "description": "",
-      "pubDate": "21 Janvier"
-    },
-    {
       "title": "SELECTOUR AILLEURS VOYAGES  - Conseiller voyages expérimenté H/F - CDI - (Aix-en-Provence (13))",
       "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Conseiller-voyages-experimente-H-F-CDI-Aix-en-Provence-13_pa266856.html",
       "location": "Aix-en-Provence",
@@ -780,5 +773,5 @@
       "pubDate": "9 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-01T21:40:37.107Z"
+  "scrapedAt": "2026-04-01T22:36:22.072Z"
 }
