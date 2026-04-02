@@ -3,6 +3,13 @@
   "total": 110,
   "offers": [
     {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDI - (Toulouse (31))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDI-Toulouse-31_pa267777.html",
+      "location": "Toulouse",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
       "title": "TURQUOISE TO - Billettiste confirmé(e) Service Transport H/F - CDD ou CDI - (Aix-en-Provence (13))",
       "link": "https://www.tourmag.com/classifieds/TURQUOISE-TO-Billettiste-confirme-e-Service-Transport-H-F-CDD-ou-CDI-Aix-en-Provence-13_pa267474.html",
       "location": "Aix-en-Provence",
@@ -444,13 +451,6 @@
       "pubDate": "26 Février"
     },
     {
-      "title": "INTERMEDES - Chargé(e) des ventes Senior H/F - CDI - (Paris 6e)",
-      "link": "https://www.tourmag.com/classifieds/INTERMEDES-Charge-e-des-ventes-Senior-H-F-CDI-Paris-6e_pa267098.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "26 Février"
-    },
-    {
       "title": "GC PARTENAIRES POUR AGENCE DEPARTEMENTALE DE TOURISME - Chargé de mission relations presse et médias institutionnels H/F - (Sud Est de la France)",
       "link": "https://www.tourmag.com/classifieds/GC-PARTENAIRES-POUR-AGENCE-DEPARTEMENTALE-DE-TOURISME-Charge-de-mission-relations-presse-et-medias-institutionnels-H-F_pa267097.html",
       "location": "Sud Est de la France",
@@ -773,5 +773,5 @@
       "pubDate": "9 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-02T08:05:35.615Z"
+  "scrapedAt": "2026-04-02T10:01:05.639Z"
 }
