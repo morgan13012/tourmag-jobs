@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 111,
+  "total": 112,
   "offers": [
+    {
+      "title": "A VENDRE - Agence de voyages sur-mesure Premium - (Paris (75))",
+      "link": "https://www.tourmag.com/classifieds/A-VENDRE-Agence-de-voyages-sur-mesure-Premium-Paris-75_pa267784.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "3 Avril"
+    },
     {
       "title": "INTERMEDES - Gestionnaire de voyages / Relation qualité clients H/F - CDI - (Paris 10e)",
       "link": "https://www.tourmag.com/classifieds/INTERMEDES-Gestionnaire-de-voyages - Relation qualite clients-H-F-CDI-Paris-10e_pa267780.html",
@@ -780,5 +787,5 @@
       "pubDate": "9 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-02T16:00:23.072Z"
+  "scrapedAt": "2026-04-02T17:49:02.379Z"
 }
