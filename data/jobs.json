@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 110,
+  "total": 111,
   "offers": [
+    {
+      "title": "INTERMEDES - Gestionnaire de voyages / Relation qualité clients H/F - CDI - (Paris 10e)",
+      "link": "https://www.tourmag.com/classifieds/INTERMEDES-Gestionnaire-de-voyages - Relation qualite clients-H-F-CDI-Paris-10e_pa267780.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDI - (Toulouse (31))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDI-Toulouse-31_pa267777.html",
@@ -773,5 +780,5 @@
       "pubDate": "9 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-02T13:12:26.208Z"
+  "scrapedAt": "2026-04-02T14:55:27.298Z"
 }
