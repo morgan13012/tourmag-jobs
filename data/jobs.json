@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 112,
+  "total": 111,
   "offers": [
     {
       "title": "A VENDRE - Agence de voyages sur-mesure Premium - (Paris (75))",
@@ -738,13 +738,6 @@
       "pubDate": "22 Janvier"
     },
     {
-      "title": "CERCLE DES VOYAGES - Conseiller Voyages sur mesure Italie H/F - CDI - (Paris (75))",
-      "link": "https://www.tourmag.com/classifieds/CERCLE-DES-VOYAGES-Conseiller-Voyages-sur-mesure-Italie-H-F-CDI-Paris-75_pa266723.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "21 Janvier"
-    },
-    {
       "title": "SELECTOUR AILLEURS VOYAGES  - Conseiller voyages expérimenté H/F - CDI - (Aix-en-Provence (13))",
       "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Conseiller-voyages-experimente-H-F-CDI-Aix-en-Provence-13_pa266856.html",
       "location": "Aix-en-Provence",
@@ -787,5 +780,5 @@
       "pubDate": "9 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-04T21:30:17.184Z"
+  "scrapedAt": "2026-04-04T22:28:21.472Z"
 }
