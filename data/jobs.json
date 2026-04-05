@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 111,
+  "total": 110,
   "offers": [
     {
       "title": "A VENDRE - Agence de voyages sur-mesure Premium - (Paris (75))",
@@ -675,13 +675,6 @@
       "pubDate": "2 Février"
     },
     {
-      "title": "CATLANTE CATAMARANS - Conseiller(e) Voyages expérimenté(e) - CDI - (Saint-Cloud (92))",
-      "link": "https://www.tourmag.com/classifieds/CATLANTE-CATAMARANS-Conseiller-e-Voyages-experimente-e-CDI-Saint-Cloud-92_pa266728.html",
-      "location": "Saint-Cloud",
-      "description": "",
-      "pubDate": "31 Janvier"
-    },
-    {
       "title": "CITIZENPLANE - Formateur·trice Systèmes Aériens & Support - CDI  - (Marseille (13))",
       "link": "https://www.tourmag.com/classifieds/CITIZENPLANE-Formateur·trice-Systemes-Aeriens-Support-CDI-Marseille-13_pa266764.html",
       "location": "Marseille",
@@ -780,5 +773,5 @@
       "pubDate": "9 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-05T21:30:33.656Z"
+  "scrapedAt": "2026-04-05T22:29:46.086Z"
 }
