@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 110,
+  "total": 109,
   "offers": [
     {
       "title": "A VENDRE - Agence de voyages sur-mesure Premium - (Paris (75))",
@@ -696,13 +696,6 @@
       "pubDate": "30 Janvier"
     },
     {
-      "title": "CONTINENTS INSOLITES - Billettiste expérimenté H/F - CDI - ( Paris, Lyon, ou Bruxelles)",
-      "link": "https://www.tourmag.com/classifieds/CONTINENTS-INSOLITES-Billettiste-experimente-H-F-CDI-Paris-Lyon-ou-Bruxelles_pa266753.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "30 Janvier"
-    },
-    {
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Responsable d'agence de voyages H/F - CDI - (Ferney Voltaire (01))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Responsable-d-agence-de-voyages-H-F-CDI-Ferney-Voltaire-01_pa266761.html",
       "location": "Ferney Voltaire",
@@ -773,5 +766,5 @@
       "pubDate": "9 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-06T21:36:44.566Z"
+  "scrapedAt": "2026-04-06T22:35:36.071Z"
 }
