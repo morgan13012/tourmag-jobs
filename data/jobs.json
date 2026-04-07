@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 109,
+  "total": 108,
   "offers": [
     {
       "title": "A VENDRE - Agence de voyages sur-mesure Premium - (Paris (75))",
@@ -689,13 +689,6 @@
       "pubDate": "30 Janvier"
     },
     {
-      "title": "KEPLER TRAVEL - Responsable commercial groupes H/F - CDI - (Paris 17e)",
-      "link": "https://www.tourmag.com/classifieds/KEPLER-TRAVEL-Responsable-commercial-groupes-H-F-CDI-Paris-17e_pa266755.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "30 Janvier"
-    },
-    {
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Responsable d'agence de voyages H/F - CDI - (Ferney Voltaire (01))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Responsable-d-agence-de-voyages-H-F-CDI-Ferney-Voltaire-01_pa266761.html",
       "location": "Ferney Voltaire",
@@ -766,5 +759,5 @@
       "pubDate": "9 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-07T21:40:56.543Z"
+  "scrapedAt": "2026-04-07T22:37:04.879Z"
 }
