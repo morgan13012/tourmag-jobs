@@ -3,6 +3,20 @@
   "total": 111,
   "offers": [
     {
+      "title": "A VENDRE - Agence de voyages sur-mesure Premium - (Paris (75))",
+      "link": "https://www.tourmag.com/classifieds/A-VENDRE-Agence-de-voyages-sur-mesure-Premium-Paris-75_pa267784.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "CLUB MED/MARIETTON DEVELOPPEMENT - Agency Sales Agent H/F - CDI - (Le Mans (72))",
+      "link": "https://www.tourmag.com/classifieds/CLUB-MED-MARIETTON-DEVELOPPEMENT-Agency-Sales-Agent-H-F-CDI-Le-Mans-72_pa267321.html",
+      "location": "Le Mans",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Angers Grand Maine (49))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Angers-Grand-Maine-49_pa267822.html",
       "location": "Angers Grand Maine",
@@ -10,9 +24,9 @@
       "pubDate": "NEW 00:00"
     },
     {
-      "title": "CLUB MED/MARIETTON DEVELOPPEMENT - Agency Sales Agent H/F - CDI - (Le Mans (72))",
-      "link": "https://www.tourmag.com/classifieds/CLUB-MED-MARIETTON-DEVELOPPEMENT-Agency-Sales-Agent-H-F-CDI-Le-Mans-72_pa267321.html",
-      "location": "Le Mans",
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Thionville (57))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Thionville-57_pa267478.html",
+      "location": "Thionville",
       "description": "",
       "pubDate": "NEW 00:00"
     },
@@ -57,13 +71,6 @@
       "location": "Massy",
       "description": "",
       "pubDate": "NEW 00:00"
-    },
-    {
-      "title": "A VENDRE - Agence de voyages sur-mesure Premium - (Paris (75))",
-      "link": "https://www.tourmag.com/classifieds/A-VENDRE-Agence-de-voyages-sur-mesure-Premium-Paris-75_pa267784.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "3 Avril"
     },
     {
       "title": "INTERMEDES - Gestionnaire de voyages / Relation qualité clients H/F - CDI - (Paris 10e)",
@@ -230,13 +237,6 @@
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDI - (Epernay (51))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDI-Epernay-51_pa267683.html",
       "location": "Epernay",
-      "description": "",
-      "pubDate": "26 Mars"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Thionville (57))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Thionville-57_pa267478.html",
-      "location": "Thionville",
       "description": "",
       "pubDate": "26 Mars"
     },
@@ -780,5 +780,5 @@
       "pubDate": "9 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-08T15:09:34.330Z"
+  "scrapedAt": "2026-04-08T17:00:45.808Z"
 }
