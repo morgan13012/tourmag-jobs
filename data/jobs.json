@@ -3,6 +3,13 @@
   "total": 108,
   "offers": [
     {
+      "title": "CLUB MED/MARIETTON DEVELOPPEMENT - Agency Sales Agent H/F - CDI - (Le Mans (72))",
+      "link": "https://www.tourmag.com/classifieds/CLUB-MED-MARIETTON-DEVELOPPEMENT-Agency-Sales-Agent-H-F-CDI-Le-Mans-72_pa267321.html",
+      "location": "Le Mans",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
       "title": "A VENDRE - Agence de voyages sur-mesure Premium - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/A-VENDRE-Agence-de-voyages-sur-mesure-Premium-Paris-75_pa267784.html",
       "location": "Paris",
@@ -395,13 +402,6 @@
       "pubDate": "6 Mars"
     },
     {
-      "title": "CLUB MED/MARIETTON DEVELOPPEMENT - Agency Sales Agent H/F - CDD  - (Le Mans (72))",
-      "link": "https://www.tourmag.com/classifieds/CLUB-MED-MARIETTON-DEVELOPPEMENT-Agency-Sales-Agent-H-F-CDD-Le-Mans-72_pa267321.html",
-      "location": "Le Mans",
-      "description": "",
-      "pubDate": "6 Mars"
-    },
-    {
       "title": "A VENDRE POUR RECENTRAGE DE L’ACTIVITE DU DIRIGEANT : Fonds de commerce Agence de Voyages dans le département Val de Marne (94)",
       "link": "https://www.tourmag.com/classifieds/A-VENDRE-POUR-RECENTRAGE-DE-L-ACTIVITE-DU-DIRIGEANT-Fonds-de-commerce-Agence-de-Voyages-dans-le-departement-Val-de-Marne_pa267120.html",
       "location": "Val de Marne",
@@ -759,5 +759,5 @@
       "pubDate": "9 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-08T08:12:29.698Z"
+  "scrapedAt": "2026-04-08T10:07:04.936Z"
 }
