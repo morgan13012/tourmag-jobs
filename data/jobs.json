@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 111,
+  "total": 106,
   "offers": [
     {
       "title": "A VENDRE - Agence de voyages sur-mesure Premium - (Paris (75))",
@@ -258,13 +258,6 @@
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - (Castres (81))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-Castres-81_pa267109.html",
       "location": "Castres",
-      "description": "",
-      "pubDate": "26 Mars"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - CDI - (Vannes (56))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Responsable-d-agence-H-F-CDI-Vannes-56_pa266760.html",
-      "location": "Vannes",
       "description": "",
       "pubDate": "26 Mars"
     },
@@ -696,25 +689,11 @@
       "pubDate": "2 Février"
     },
     {
-      "title": "CITIZENPLANE - Formateur·trice Systèmes Aériens & Support - CDI  - (Marseille (13))",
-      "link": "https://www.tourmag.com/classifieds/CITIZENPLANE-Formateur·trice-Systemes-Aeriens-Support-CDI-Marseille-13_pa266764.html",
-      "location": "Marseille",
-      "description": "",
-      "pubDate": "30 Janvier"
-    },
-    {
       "title": "SELECTOUR BLEU VOYAGES - Conseiller voyages H/F - CDI - (Grenoble (38))",
       "link": "https://www.tourmag.com/classifieds/SELECTOUR-BLEU-VOYAGES-Conseiller-voyages-H-F-CDI-Grenoble-38_pa266886.html",
       "location": "Grenoble",
       "description": "",
       "pubDate": "30 Janvier"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Responsable d'agence de voyages H/F - CDI - (Ferney Voltaire (01))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Responsable-d-agence-de-voyages-H-F-CDI-Ferney-Voltaire-01_pa266761.html",
-      "location": "Ferney Voltaire",
-      "description": "",
-      "pubDate": "27 Janvier"
     },
     {
       "title": "SELECTOUR BLEU VOYAGES - Conseiller voyages H/F - CDD - (Epagny (74))",
@@ -729,13 +708,6 @@
       "location": "Sèvres",
       "description": "",
       "pubDate": "23 Janvier"
-    },
-    {
-      "title": "DONNE CAUSE DEPART A LA RETRAITE - SARL Agence de voyages sans fonds de commerce avec agréments IATA SNCF",
-      "link": "https://www.tourmag.com/classifieds/DONNE-CAUSE-DEPART-A-LA-RETRAITE-SARL-Agence-de-voyages-sans-fonds-de-commerce-avec-agrements-IATA-SNCF_pa266763.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "22 Janvier"
     },
     {
       "title": "SELECTOUR AILLEURS VOYAGES  - Conseiller voyages expérimenté H/F - CDI - (Aix-en-Provence (13))",
@@ -771,14 +743,7 @@
       "location": "Les Sables d'Olonnes",
       "description": "",
       "pubDate": "12 Janvier"
-    },
-    {
-      "title": "SELECTOUR AILLEURS VOYAGES  - Conseiller voyages H/F - (Lyon 9e)",
-      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Conseiller-voyages-H-F-Lyon-9e_pa266762.html",
-      "location": "Lyon",
-      "description": "",
-      "pubDate": "9 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-08T21:40:01.657Z"
+  "scrapedAt": "2026-04-08T22:37:58.545Z"
 }
