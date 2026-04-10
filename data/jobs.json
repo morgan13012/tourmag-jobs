@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 108,
+  "total": 109,
   "offers": [
+    {
+      "title": "SELECTOUR AILLEURS VOYAGES  - Conseiller voyages expérimenté H/F - CDI - (Montélimar (26))",
+      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Conseiller-voyages-experimente-H-F-CDI-Montelimar-26_pa267834.html",
+      "location": "Montélimar",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "LE GROUPE SALAUN - Responsable d'Unité Technique H/F - CDI - (Dijon (21))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Responsable-d-Unite-Technique-H-F-CDI-Dijon-21_pa267827.html",
@@ -759,5 +766,5 @@
       "pubDate": "12 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-10T18:51:21.014Z"
+  "scrapedAt": "2026-04-10T19:42:44.483Z"
 }
