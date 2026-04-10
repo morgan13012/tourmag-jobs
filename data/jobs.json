@@ -1,7 +1,21 @@
 {
   "success": true,
-  "total": 106,
+  "total": 108,
   "offers": [
+    {
+      "title": "LE GROUPE SALAUN - Responsable d'Unité Technique H/F - CDI - (Dijon (21))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Responsable-d-Unite-Technique-H-F-CDI-Dijon-21_pa267827.html",
+      "location": "Dijon",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Dijon (21))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Dijon-21_pa267826.html",
+      "location": "Dijon",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "A VENDRE - Agence de voyages sur-mesure Premium - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/A-VENDRE-Agence-de-voyages-sur-mesure-Premium-Paris-75_pa267784.html",
@@ -745,5 +759,5 @@
       "pubDate": "12 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-10T08:20:00.939Z"
+  "scrapedAt": "2026-04-10T10:07:15.407Z"
 }
