@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 109,
+  "total": 108,
   "offers": [
     {
       "title": "SELECTOUR AILLEURS VOYAGES  - Conseiller voyages expérimenté H/F - CDI - (Montélimar (26))",
@@ -757,14 +757,7 @@
       "location": "Toulon",
       "description": "",
       "pubDate": "15 Janvier"
-    },
-    {
-      "title": "PREFERENCE VOYAGES / MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Les Sables d'Olonne (85))",
-      "link": "https://www.tourmag.com/classifieds/PREFERENCE-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Les-Sables-d-Olonne-85_pa266770.html",
-      "location": "Les Sables d'Olonnes",
-      "description": "",
-      "pubDate": "12 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-11T21:31:53.136Z"
+  "scrapedAt": "2026-04-11T22:31:43.931Z"
 }
