@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 109,
+  "total": 107,
   "offers": [
     {
       "title": "LE LAC DE VASSIVIERE recherche un opérateur pour la transformation du village vacances de Pierrefitte (87)",
@@ -661,23 +661,9 @@
       "pubDate": "9 Février"
     },
     {
-      "title": "KUONI TUMLARE - Sales Manager – Japan Specialist - CDI - (St Ouen (93))",
-      "link": "https://www.tourmag.com/classifieds/KUONI-TUMLARE-Sales-Manager-Japan-Specialist-CDI-St-Ouen-93_pa266776.html",
-      "location": "St Ouen",
-      "description": "",
-      "pubDate": "9 Février"
-    },
-    {
       "title": "SEZAME DES VOYAGES - Responsable d'agence de voyages H/F - CDI  - (Marseille (13))",
       "link": "https://www.tourmag.com/classifieds/SEZAME-DES-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Marseille-13_pa266852.html",
       "location": "Marseille",
-      "description": "",
-      "pubDate": "9 Février"
-    },
-    {
-      "title": "SELECTOUR AFFAIRES - Collaborateur pour son service H24 H/F - CDI - (France entière en Télétravail)",
-      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AFFAIRES-Collaborateur-pour-son-service-H24-H-F-CDI-France-entiere-en-Teletravail_pa266775.html",
-      "location": "Télétravail",
       "description": "",
       "pubDate": "9 Février"
     },
@@ -766,5 +752,5 @@
       "pubDate": "15 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-12T21:33:34.078Z"
+  "scrapedAt": "2026-04-12T22:33:42.049Z"
 }
