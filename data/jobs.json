@@ -10,6 +10,13 @@
       "pubDate": "13 Avril"
     },
     {
+      "title": "A VENDRE - Agence de voyages sur-mesure Premium - (Paris (75))",
+      "link": "https://www.tourmag.com/classifieds/A-VENDRE-Agence-de-voyages-sur-mesure-Premium-Paris-75_pa267784.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "13 Avril"
+    },
+    {
       "title": "SELECTOUR AILLEURS VOYAGES  - Conseiller voyages expérimenté H/F - CDI - (Montélimar (26))",
       "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Conseiller-voyages-experimente-H-F-CDI-Montelimar-26_pa267834.html",
       "location": "Montélimar",
@@ -29,13 +36,6 @@
       "location": "Dijon",
       "description": "",
       "pubDate": "10 Avril"
-    },
-    {
-      "title": "A VENDRE - Agence de voyages sur-mesure Premium - (Paris (75))",
-      "link": "https://www.tourmag.com/classifieds/A-VENDRE-Agence-de-voyages-sur-mesure-Premium-Paris-75_pa267784.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "8 Avril"
     },
     {
       "title": "CLUB MED/MARIETTON DEVELOPPEMENT - Agency Sales Agent H/F - CDI - (Le Mans (72))",
@@ -766,5 +766,5 @@
       "pubDate": "15 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-12T20:35:27.100Z"
+  "scrapedAt": "2026-04-12T21:33:34.078Z"
 }
