@@ -1,13 +1,13 @@
 {
   "success": true,
-  "total": 108,
+  "total": 104,
   "offers": [
     {
       "title": "PASSEPORT EVASION - Commercial(e) Tourisme spécalisé(e) voyages de Groupes « Sur-Mesure » - Indépendant, freelance - (France entière)",
       "link": "https://www.tourmag.com/classifieds/PASSEPORT-EVASION-Commercial-e-Tourisme-specalise-e-voyages-de-Groupes- Sur-Mesure -Independant-freelance-France_pa266851.html",
       "location": "",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "14 Avril"
     },
     {
       "title": "LE LAC DE VASSIVIERE recherche un opérateur pour la transformation du village vacances de Pierrefitte (87)",
@@ -633,13 +633,6 @@
       "pubDate": "9 Février"
     },
     {
-      "title": "ORSUD - Conseiller(ère) voyages d’affaires - CDI  - (Marseille 9e)",
-      "link": "https://www.tourmag.com/classifieds/ORSUD-Conseiller-ere-voyages-d-affaires-CDI-Marseille-9e_pa266840.html",
-      "location": "Marseille",
-      "description": "",
-      "pubDate": "9 Février"
-    },
-    {
       "title": "KUONI TUMLARE - Coordinator MICE - Asia - CDI - (Saint Ouen (93))",
       "link": "https://www.tourmag.com/classifieds/KUONI-TUMLARE-Coordinator-MICE-Asia-CDI-Saint-Ouen-93_pa266875.html",
       "location": "Saint Ouen",
@@ -736,28 +729,7 @@
       "location": "Aix-en-Provence",
       "description": "",
       "pubDate": "21 Janvier"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Account Manager H/F - CDI  - (Sèvres (92))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Account-Manager-H-F-CDI-Sevres-92_pa266843.html",
-      "location": "Sèvres",
-      "description": "",
-      "pubDate": "15 Janvier"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDD - (Montpellier (34))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDD-Montpellier-34_pa266842.html",
-      "location": "Montpellier",
-      "description": "",
-      "pubDate": "15 Janvier"
-    },
-    {
-      "title": "SELECTOUR AILLEURS VOYAGES  - Conseiller voyages expérimenté H/F - CDI - (Toulon (83))",
-      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Conseiller-voyages-experimente-H-F-CDI-Toulon-83_pa266841.html",
-      "location": "Toulon",
-      "description": "",
-      "pubDate": "15 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-14T21:51:22.160Z"
+  "scrapedAt": "2026-04-14T22:43:46.708Z"
 }
