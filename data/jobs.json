@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 104,
+  "total": 103,
   "offers": [
     {
       "title": "PASSEPORT EVASION - Commercial(e) Tourisme spécialisé(e) voyages de Groupes « Sur-Mesure » - Indépendant, freelance - (France entière)",
@@ -293,13 +293,6 @@
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - (Castres (81))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-Castres-81_pa267109.html",
       "location": "Castres",
-      "description": "",
-      "pubDate": "26 Mars"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Labège/Portet (31))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Labege-Portet-31_pa266759.html",
-      "location": "Labège",
       "description": "",
       "pubDate": "26 Mars"
     },
@@ -731,5 +724,5 @@
       "pubDate": "21 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-15T19:16:11.152Z"
+  "scrapedAt": "2026-04-15T20:46:52.433Z"
 }
