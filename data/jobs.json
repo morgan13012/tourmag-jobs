@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 101,
+  "total": 100,
   "offers": [
     {
       "title": "PASSEPORT EVASION - Commercial(e) Tourisme spécialisé(e) voyages de Groupes « Sur-Mesure » - Indépendant, freelance - (France entière)",
@@ -598,13 +598,6 @@
       "pubDate": "9 Février"
     },
     {
-      "title": "PASSEPORT EVASION - Commercial(e) Tourisme spécialisé(e) voyages de Groupes « Sur-Mesure » - Indépendant, freelance - (France entière)",
-      "link": "https://www.tourmag.com/classifieds/PASSEPORT-EVASION-Commercial-e-Tourisme-specialise-e-voyages-de-Groupes- Sur-Mesure -Independant-freelance-France_pa266850.html",
-      "location": "",
-      "description": "",
-      "pubDate": "9 Février"
-    },
-    {
       "title": "ASSUREVER - Chargé(e) de clientèle H/F - CDI - (Paris 15e)",
       "link": "https://www.tourmag.com/classifieds/ASSUREVER-Charge-e-de-clientele-H-F-CDI-Paris-15e_pa266874.html",
       "location": "Paris",
@@ -710,5 +703,5 @@
       "pubDate": "21 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-18T21:34:24.836Z"
+  "scrapedAt": "2026-04-18T22:33:57.811Z"
 }
