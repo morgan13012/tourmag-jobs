@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 100,
+  "total": 101,
   "offers": [
+    {
+      "title": "E.LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Echirolles (38))",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Echirolles-38_pa267875.html",
+      "location": "Echirolles",
+      "description": "",
+      "pubDate": "20 Avril"
+    },
     {
       "title": "PASSEPORT EVASION - Commercial(e) Tourisme spécialisé(e) voyages de Groupes « Sur-Mesure » - Indépendant, freelance - (France entière)",
       "link": "https://www.tourmag.com/classifieds/PASSEPORT-EVASION-Commercial-e-Tourisme-specialise-e-voyages-de-Groupes- Sur-Mesure -Independant-freelance-France_pa266851.html",
@@ -703,5 +710,5 @@
       "pubDate": "21 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-19T18:50:59.085Z"
+  "scrapedAt": "2026-04-19T19:40:44.342Z"
 }
