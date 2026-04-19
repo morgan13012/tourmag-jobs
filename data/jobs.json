@@ -1,13 +1,13 @@
 {
   "success": true,
-  "total": 101,
+  "total": 98,
   "offers": [
     {
       "title": "E.LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Echirolles (38))",
       "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Echirolles-38_pa267875.html",
       "location": "Echirolles",
       "description": "",
-      "pubDate": "20 Avril"
+      "pubDate": "NEW 23:30"
     },
     {
       "title": "PASSEPORT EVASION - Commercial(e) Tourisme spécialisé(e) voyages de Groupes « Sur-Mesure » - Indépendant, freelance - (France entière)",
@@ -570,13 +570,6 @@
       "pubDate": "13 Février"
     },
     {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD - (Auchy les mines (62))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Auchy-les-mines-62_pa266854.html",
-      "location": "Auchy les Mines",
-      "description": "",
-      "pubDate": "13 Février"
-    },
-    {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Antibes (06))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Antibes-06_pa266546.html",
       "location": "Antibes",
@@ -629,20 +622,6 @@
       "title": "CROISIEUROPE - Assistant Administratif de Production Touristique (F/H) - CDD - (Strasbourg (67))",
       "link": "https://www.tourmag.com/classifieds/CROISIEUROPE-Assistant-Administratif-de-Production-Touristique-F-H-CDD-Strasbourg-67_pa266858.html",
       "location": "Strasbourg",
-      "description": "",
-      "pubDate": "9 Février"
-    },
-    {
-      "title": "E-LECLERC VOYAGES - Conseiller voyages Confirmé H/F - CDI - (Carpentras (84))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-voyages-Confirme-H-F-CDI-Carpentras-84_pa266853.html",
-      "location": "Carpentras",
-      "description": "",
-      "pubDate": "9 Février"
-    },
-    {
-      "title": "SEZAME DES VOYAGES - Responsable d'agence de voyages H/F - CDI  - (Marseille (13))",
-      "link": "https://www.tourmag.com/classifieds/SEZAME-DES-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Marseille-13_pa266852.html",
-      "location": "Marseille",
       "description": "",
       "pubDate": "9 Février"
     },
@@ -710,5 +689,5 @@
       "pubDate": "21 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-19T21:35:32.293Z"
+  "scrapedAt": "2026-04-19T22:34:58.349Z"
 }
