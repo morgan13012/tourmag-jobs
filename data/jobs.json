@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 98,
+  "total": 97,
   "offers": [
     {
       "title": "E.LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Echirolles (38))",
@@ -680,14 +680,7 @@
       "location": "Sèvres",
       "description": "",
       "pubDate": "23 Janvier"
-    },
-    {
-      "title": "SELECTOUR AILLEURS VOYAGES  - Conseiller voyages expérimenté H/F - CDI - (Aix-en-Provence (13))",
-      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Conseiller-voyages-experimente-H-F-CDI-Aix-en-Provence-13_pa266856.html",
-      "location": "Aix-en-Provence",
-      "description": "",
-      "pubDate": "21 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-20T21:45:12.193Z"
+  "scrapedAt": "2026-04-20T22:42:00.751Z"
 }
