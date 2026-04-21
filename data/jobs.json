@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 97,
+  "total": 98,
   "offers": [
+    {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDI - (St-Etienne (42))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDI-St-Etienne-42_pa267877.html",
+      "location": "St-Etienne",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "E.LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Echirolles (38))",
       "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Echirolles-38_pa267875.html",
@@ -682,5 +689,5 @@
       "pubDate": "23 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-21T06:57:30.166Z"
+  "scrapedAt": "2026-04-21T08:54:25.383Z"
 }
