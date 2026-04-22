@@ -1,7 +1,21 @@
 {
   "success": true,
-  "total": 98,
+  "total": 100,
   "offers": [
+    {
+      "title": "LE MONDE EN DIRECT - Technicien(ne) Back-office H/F - CDI - (Boulogne-Billancourt (92))",
+      "link": "https://www.tourmag.com/classifieds/LE-MONDE-EN-DIRECT-Technicien-ne-Back-office-H-F-CDI-Boulogne-Billancourt-92_pa267879.html",
+      "location": "Boulogne-Billancourt",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "E-LECLERC VOYAGES - 2 Conseillers voyages H/F - CDI - (Bellaing (59))",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-2-Conseillers-voyages-H-F-CDI-Bellaing-59_pa267878.html",
+      "location": "Bellaing",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDI - (St-Etienne (42))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDI-St-Etienne-42_pa267877.html",
@@ -689,5 +703,5 @@
       "pubDate": "23 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-22T06:56:58.660Z"
+  "scrapedAt": "2026-04-22T08:49:21.656Z"
 }
