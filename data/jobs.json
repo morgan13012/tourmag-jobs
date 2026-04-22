@@ -17,6 +17,20 @@
       "pubDate": "NEW 23:30"
     },
     {
+      "title": "LE LAC DE VASSIVIERE recherche un opérateur pour la transformation du village vacances de Pierrefitte (87)",
+      "link": "https://www.tourmag.com/classifieds/LE-LAC-DE-VASSIVIERE-recherche-un-operateur-pour-la-transformation-du-village-vacances-de-Pierrefitte-87_pa267828.html",
+      "location": "PierreFitte",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "A VENDRE - Agence de voyages sur-mesure Premium - (Paris (75))",
+      "link": "https://www.tourmag.com/classifieds/A-VENDRE-Agence-de-voyages-sur-mesure-Premium-Paris-75_pa267784.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Marseille Grand Littoral (13))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Marseille-Grand-Littoral-13_pa266888.html",
       "location": "Marseille",
@@ -127,20 +141,6 @@
       "location": "",
       "description": "",
       "pubDate": "15 Avril"
-    },
-    {
-      "title": "LE LAC DE VASSIVIERE recherche un opérateur pour la transformation du village vacances de Pierrefitte (87)",
-      "link": "https://www.tourmag.com/classifieds/LE-LAC-DE-VASSIVIERE-recherche-un-operateur-pour-la-transformation-du-village-vacances-de-Pierrefitte-87_pa267828.html",
-      "location": "PierreFitte",
-      "description": "",
-      "pubDate": "13 Avril"
-    },
-    {
-      "title": "A VENDRE - Agence de voyages sur-mesure Premium - (Paris (75))",
-      "link": "https://www.tourmag.com/classifieds/A-VENDRE-Agence-de-voyages-sur-mesure-Premium-Paris-75_pa267784.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "13 Avril"
     },
     {
       "title": "SELECTOUR AILLEURS VOYAGES  - Conseiller voyages expérimenté H/F - CDI - (Montélimar (26))",
@@ -738,5 +738,5 @@
       "pubDate": "23 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-22T16:07:57.838Z"
+  "scrapedAt": "2026-04-22T17:59:42.365Z"
 }
