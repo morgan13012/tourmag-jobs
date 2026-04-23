@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 102,
+  "total": 101,
   "offers": [
     {
       "title": "LE MONDE EN DIRECT - Technicien(ne) Back-office H/F - CDI - (Boulogne-Billancourt (92))",
@@ -647,13 +647,6 @@
       "pubDate": "9 Février"
     },
     {
-      "title": "E-LECLERC VOYAGES - Conseiller voyages confirmé(e) H/F - CDI - (Saint-Médard-en-Jalles (33))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-voyages-confirme-e-H-F-CDI-Saint-Medard-en-Jalles-33_pa266880.html",
-      "location": "Saint-Médard-en-Jalles",
-      "description": "",
-      "pubDate": "9 Février"
-    },
-    {
       "title": "ASSUREVER - Chargé(e) de clientèle H/F - CDI - (Paris 15e)",
       "link": "https://www.tourmag.com/classifieds/ASSUREVER-Charge-e-de-clientele-H-F-CDI-Paris-15e_pa266874.html",
       "location": "Paris",
@@ -717,5 +710,5 @@
       "pubDate": "26 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-23T11:57:56.839Z"
+  "scrapedAt": "2026-04-23T14:00:47.802Z"
 }
