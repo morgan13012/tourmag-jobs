@@ -1,7 +1,28 @@
 {
   "success": true,
-  "total": 101,
+  "total": 100,
   "offers": [
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Marseille Grand Littoral (13))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Marseille-Grand-Littoral-13_pa266888.html",
+      "location": "Marseille",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "CLUB MED/MARIETTON DEVELOPPEMENT - Agency Sales Agent H/F - CDI - (Le Mans (72))",
+      "link": "https://www.tourmag.com/classifieds/CLUB-MED-MARIETTON-DEVELOPPEMENT-Agency-Sales-Agent-H-F-CDI-Le-Mans-72_pa267321.html",
+      "location": "Le Mans",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "AUSTRAL LAGONS - Gestionnaire Transport Tourisme H/F - CDI - (Sèvres (92))",
+      "link": "https://www.tourmag.com/classifieds/AUSTRAL-LAGONS-Gestionnaire-Transport-Tourisme-H-F-CDI-Sevres-92_pa267119.html",
+      "location": "Sèvres",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "LE MONDE EN DIRECT - Technicien(ne) Back-office H/F - CDI - (Boulogne-Billancourt (92))",
       "link": "https://www.tourmag.com/classifieds/LE-MONDE-EN-DIRECT-Technicien-ne-Back-office-H-F-CDI-Boulogne-Billancourt-92_pa267879.html",
@@ -27,13 +48,6 @@
       "title": "A VENDRE - Agence de voyages sur-mesure Premium - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/A-VENDRE-Agence-de-voyages-sur-mesure-Premium-Paris-75_pa267784.html",
       "location": "Paris",
-      "description": "",
-      "pubDate": "22 Avril"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Marseille Grand Littoral (13))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Marseille-Grand-Littoral-13_pa266888.html",
-      "location": "Marseille",
       "description": "",
       "pubDate": "22 Avril"
     },
@@ -162,13 +176,6 @@
       "location": "Dijon",
       "description": "",
       "pubDate": "10 Avril"
-    },
-    {
-      "title": "CLUB MED/MARIETTON DEVELOPPEMENT - Agency Sales Agent H/F - CDI - (Le Mans (72))",
-      "link": "https://www.tourmag.com/classifieds/CLUB-MED-MARIETTON-DEVELOPPEMENT-Agency-Sales-Agent-H-F-CDI-Le-Mans-72_pa267321.html",
-      "location": "Le Mans",
-      "description": "",
-      "pubDate": "8 Avril"
     },
     {
       "title": "INTERMEDES - Gestionnaire de voyages / Relation qualité clients H/F - CDI - (Paris 10e)",
@@ -335,13 +342,6 @@
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDI - (Epernay (51))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDI-Epernay-51_pa267683.html",
       "location": "Epernay",
-      "description": "",
-      "pubDate": "26 Mars"
-    },
-    {
-      "title": "AUSTRAL LAGONS - Gestionnaire Transport aérien H/F - CDI - (Sèvres (92))",
-      "link": "https://www.tourmag.com/classifieds/AUSTRAL-LAGONS-Gestionnaire-Transport-aerien-H-F-CDI-Sevres-92_pa267119.html",
-      "location": "Sèvres",
       "description": "",
       "pubDate": "26 Mars"
     },
@@ -584,13 +584,6 @@
       "pubDate": "24 Février"
     },
     {
-      "title": "AGENCE FRANCHISEE CLUB MED - Conseiller(e) voyages H/F - CDI - (Orléans (45))",
-      "link": "https://www.tourmag.com/classifieds/AGENCE-FRANCHISEE-CLUB-MED-Conseiller-e-voyages-H-F-CDI-Orleans-45_pa267171.html",
-      "location": "Orléans",
-      "description": "",
-      "pubDate": "20 Février"
-    },
-    {
       "title": "HELIADES/MARIETTON DEVELOPPEMENT - Gestionnaire aérien H/F - CDI - (Aix-en-Provence (13))",
       "link": "https://www.tourmag.com/classifieds/HELIADES-MARIETTON-DEVELOPPEMENT-Gestionnaire-aerien-H-F-CDI-Aix-en-Provence-13_pa267114.html",
       "location": "Aix-en-Provence",
@@ -710,5 +703,5 @@
       "pubDate": "26 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-23T14:00:47.802Z"
+  "scrapedAt": "2026-04-23T16:27:08.670Z"
 }
