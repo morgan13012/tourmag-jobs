@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 102,
+  "total": 103,
   "offers": [
     {
       "title": "E-LECLERC VOYAGES - 2 Conseillers voyages H/F - CDI - (Bellaing (59))",
@@ -15,6 +15,13 @@
       "location": "Aix-en-Provence",
       "description": "",
       "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "VOYAMAR/ MARIETTON DEVELOPPEMENT - Chef de produit Tourisme H/F - CDI - (Lyon 9e (69))",
+      "link": "https://www.tourmag.com/classifieds/VOYAMAR-MARIETTON-DEVELOPPEMENT-Chef-de-produit-Tourisme-H-F-CDI-Lyon-9e-69_pa267904.html",
+      "location": "Lyon",
+      "description": "",
+      "pubDate": "NEW 00:00"
     },
     {
       "title": "VOYAMAR/ MARIETTON DEVELOPPEMENT - Agent Back-office H/F - CDI - (Lyon 9e (69))",
@@ -717,5 +724,5 @@
       "pubDate": "26 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-24T15:07:11.835Z"
+  "scrapedAt": "2026-04-24T16:55:50.016Z"
 }
