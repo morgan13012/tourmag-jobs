@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 103,
+  "total": 102,
   "offers": [
     {
       "title": "E-LECLERC VOYAGES - 2 Conseillers voyages H/F - CDI - (Bellaing (59))",
@@ -715,14 +715,7 @@
       "location": "Grenoble",
       "description": "",
       "pubDate": "30 Janvier"
-    },
-    {
-      "title": "SELECTOUR BLEU VOYAGES - Conseiller voyages H/F - CDD - (Epagny (74))",
-      "link": "https://www.tourmag.com/classifieds/SELECTOUR-BLEU-VOYAGES-Conseiller-voyages-H-F-CDD-Epagny-74_pa266872.html",
-      "location": "Epagny",
-      "description": "",
-      "pubDate": "26 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-25T21:35:48.436Z"
+  "scrapedAt": "2026-04-25T22:35:57.383Z"
 }
