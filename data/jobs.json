@@ -1,7 +1,21 @@
 {
   "success": true,
-  "total": 102,
+  "total": 103,
   "offers": [
+    {
+      "title": "A VENDRE - Agence de voyages sur-mesure Premium - (Paris (75))",
+      "link": "https://www.tourmag.com/classifieds/A-VENDRE-Agence-de-voyages-sur-mesure-Premium-Paris-75_pa267784.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "27 Avril"
+    },
+    {
+      "title": "NOUVELLE CALEDONIE TOURISME - Appel d'offres de Représentation France/Europe de la Nouvelle-Calédonie en tant que destination touristique",
+      "link": "https://www.tourmag.com/classifieds/NOUVELLE-CALEDONIE-TOURISME-Appel-d-offres-de-Representation-France-Europe-de-la-Nouvelle-Caledonie-en-tant-que_pa267903.html",
+      "location": "",
+      "description": "",
+      "pubDate": "27 Avril"
+    },
     {
       "title": "E-LECLERC VOYAGES - 2 Conseillers voyages H/F - CDI - (Bellaing (59))",
       "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-2-Conseillers-voyages-H-F-CDI-Bellaing-59_pa267878.html",
@@ -69,13 +83,6 @@
       "title": "LE LAC DE VASSIVIERE recherche un opérateur pour la transformation du village vacances de Pierrefitte (87)",
       "link": "https://www.tourmag.com/classifieds/LE-LAC-DE-VASSIVIERE-recherche-un-operateur-pour-la-transformation-du-village-vacances-de-Pierrefitte-87_pa267828.html",
       "location": "PierreFitte",
-      "description": "",
-      "pubDate": "22 Avril"
-    },
-    {
-      "title": "A VENDRE - Agence de voyages sur-mesure Premium - (Paris (75))",
-      "link": "https://www.tourmag.com/classifieds/A-VENDRE-Agence-de-voyages-sur-mesure-Premium-Paris-75_pa267784.html",
-      "location": "Paris",
       "description": "",
       "pubDate": "22 Avril"
     },
@@ -717,5 +724,5 @@
       "pubDate": "30 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-26T19:45:37.842Z"
+  "scrapedAt": "2026-04-26T20:37:12.250Z"
 }
