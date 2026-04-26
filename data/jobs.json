@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 103,
+  "total": 101,
   "offers": [
     {
       "title": "A VENDRE - Agence de voyages sur-mesure Premium - (Paris (75))",
@@ -668,20 +668,6 @@
       "pubDate": "9 Février"
     },
     {
-      "title": "ASSUREVER - Chargé(e) de clientèle H/F - CDI - (Paris 15e)",
-      "link": "https://www.tourmag.com/classifieds/ASSUREVER-Charge-e-de-clientele-H-F-CDI-Paris-15e_pa266874.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "9 Février"
-    },
-    {
-      "title": "KUONI TUMLARE - Coordinator MICE - Asia - CDI - (Saint Ouen (93))",
-      "link": "https://www.tourmag.com/classifieds/KUONI-TUMLARE-Coordinator-MICE-Asia-CDI-Saint-Ouen-93_pa266875.html",
-      "location": "Saint Ouen",
-      "description": "",
-      "pubDate": "9 Février"
-    },
-    {
       "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Paris-75_pa266563.html",
       "location": "Paris",
@@ -724,5 +710,5 @@
       "pubDate": "30 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-26T21:36:41.875Z"
+  "scrapedAt": "2026-04-26T22:37:07.367Z"
 }
