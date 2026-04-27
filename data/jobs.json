@@ -1,20 +1,20 @@
 {
   "success": true,
-  "total": 100,
+  "total": 101,
   "offers": [
     {
       "title": "A VENDRE - Agence de voyages sur-mesure Premium - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/A-VENDRE-Agence-de-voyages-sur-mesure-Premium-Paris-75_pa267784.html",
       "location": "Paris",
       "description": "",
-      "pubDate": "NEW 23:00"
+      "pubDate": "27 Avril"
     },
     {
       "title": "NOUVELLE CALEDONIE TOURISME - Appel d'offres de Représentation France/Europe de la Nouvelle-Calédonie en tant que destination touristique",
       "link": "https://www.tourmag.com/classifieds/NOUVELLE-CALEDONIE-TOURISME-Appel-d-offres-de-Representation-France-Europe-de-la-Nouvelle-Caledonie-en-tant-que_pa267903.html",
       "location": "",
       "description": "",
-      "pubDate": "NEW 09:00"
+      "pubDate": "27 Avril"
     },
     {
       "title": "E-LECLERC VOYAGES - 2 Conseillers voyages H/F - CDI - (Bellaing (59))",
@@ -701,7 +701,14 @@
       "location": "Vienne",
       "description": "",
       "pubDate": "2 Février"
+    },
+    {
+      "title": "SELECTOUR BLEU VOYAGES - Conseiller voyages H/F - CDI - (Grenoble (38))",
+      "link": "https://www.tourmag.com/classifieds/SELECTOUR-BLEU-VOYAGES-Conseiller-voyages-H-F-CDI-Grenoble-38_pa266886.html",
+      "location": "Grenoble",
+      "description": "",
+      "pubDate": "30 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-27T21:00:49.041Z"
+  "scrapedAt": "2026-04-27T22:51:22.151Z"
 }
