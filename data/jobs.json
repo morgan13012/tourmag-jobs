@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 101,
+  "total": 100,
   "offers": [
     {
       "title": "A VENDRE - Agence de voyages sur-mesure Premium - (Paris (75))",
@@ -701,14 +701,7 @@
       "location": "Vienne",
       "description": "",
       "pubDate": "2 Février"
-    },
-    {
-      "title": "SELECTOUR BLEU VOYAGES - Conseiller voyages H/F - CDI - (Grenoble (38))",
-      "link": "https://www.tourmag.com/classifieds/SELECTOUR-BLEU-VOYAGES-Conseiller-voyages-H-F-CDI-Grenoble-38_pa266886.html",
-      "location": "Grenoble",
-      "description": "",
-      "pubDate": "30 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-27T19:19:59.237Z"
+  "scrapedAt": "2026-04-27T21:00:49.041Z"
 }
