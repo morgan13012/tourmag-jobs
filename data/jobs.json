@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 101,
+  "total": 93,
   "offers": [
     {
       "title": "A VENDRE - Agence de voyages sur-mesure Premium - (Paris (75))",
@@ -395,13 +395,6 @@
       "pubDate": "26 Mars"
     },
     {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Carré Sénart Lieusaint (77))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Carre-Senart-Lieusaint-77_pa266382.html",
-      "location": "Carré Sénart",
-      "description": "",
-      "pubDate": "26 Mars"
-    },
-    {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Nice (06))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Nice-06_pa266346.html",
       "location": "06000 Nice Lingostière",
@@ -451,13 +444,6 @@
       "pubDate": "19 Mars"
     },
     {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Tourville (76))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Tourville-76_pa266890.html",
-      "location": "Tourville",
-      "description": "",
-      "pubDate": "19 Mars"
-    },
-    {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Toulouse Purpan (31))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Toulouse-Purpan-31_pa266282.html",
       "location": "Toulouse",
@@ -470,13 +456,6 @@
       "location": "New Delhi",
       "description": "",
       "pubDate": "18 Mars"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Responsable d'Unité Technique H/F - CDI - (Orléans (45))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Responsable-d-Unite-Technique-H-F-CDI-Orleans-45_pa266550.html",
-      "location": "Orléans",
-      "description": "",
-      "pubDate": "13 Mars"
     },
     {
       "title": "AUSTRAL LAGONS - Commercial expérimenté BtoB H/F - CDI - (Région Rhône-Alpes)",
@@ -647,13 +626,6 @@
       "pubDate": "13 Février"
     },
     {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Antibes (06))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Antibes-06_pa266546.html",
-      "location": "Antibes",
-      "description": "",
-      "pubDate": "13 Février"
-    },
-    {
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDI - (Biarritz (64))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDI-Biarritz-64_pa267036.html",
       "location": "Biarritz",
@@ -668,13 +640,6 @@
       "pubDate": "9 Février"
     },
     {
-      "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Paris (75))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Paris-75_pa266563.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "6 Février"
-    },
-    {
       "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Mantes la Jolie (78))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Mantes-la-Jolie-78_pa266554.html",
       "location": "Mantes la Jolie",
@@ -687,28 +652,7 @@
       "location": "Nancy",
       "description": "",
       "pubDate": "6 Février"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Strasbourg (67))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Strasbourg-67_pa266444.html",
-      "location": "Strasbourg",
-      "description": "",
-      "pubDate": "6 Février"
-    },
-    {
-      "title": "SELECTOUR BLEU VOYAGES - Conseiller voyages H/F - CDI - (Vienne (38))",
-      "link": "https://www.tourmag.com/classifieds/SELECTOUR-BLEU-VOYAGES-Conseiller-voyages-H-F-CDI-Vienne-38_pa266455.html",
-      "location": "Vienne",
-      "description": "",
-      "pubDate": "2 Février"
-    },
-    {
-      "title": "SELECTOUR BLEU VOYAGES - Conseiller voyages H/F - CDI - (Grenoble (38))",
-      "link": "https://www.tourmag.com/classifieds/SELECTOUR-BLEU-VOYAGES-Conseiller-voyages-H-F-CDI-Grenoble-38_pa266886.html",
-      "location": "Grenoble",
-      "description": "",
-      "pubDate": "30 Janvier"
     }
   ],
-  "scrapedAt": "2026-04-29T21:04:04.744Z"
+  "scrapedAt": "2026-04-29T22:55:49.670Z"
 }
