@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 97,
+  "total": 98,
   "offers": [
+    {
+      "title": "HEWAGO - Chef de Produit Japon/Corée H/F - CDI - (Paris (75))",
+      "link": "https://www.tourmag.com/classifieds/HEWAGO-Chef-de-Produit-Japon-Coree-H-F-CDI-Paris-75_pa267960.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "1 Mai"
+    },
     {
       "title": "CORREZE TOURISME - Responsable Commercial Tourisme Groupes H/F - CDI - (Tulle (19))",
       "link": "https://www.tourmag.com/classifieds/CORREZE-TOURISME-Responsable-Commercial-Tourisme-Groupes-H-F-CDI-Tulle-19_pa267956.html",
@@ -13,6 +20,20 @@
       "title": "TWINJET - Billettiste compagnie aérienne H/F - CDD - (Aix-en-Provence (13))",
       "link": "https://www.tourmag.com/classifieds/TWINJET-Billettiste-compagnie-aerienne-H-F-CDD-Aix-en-Provence-13_pa267954.html",
       "location": "Aix-en-Provence",
+      "description": "",
+      "pubDate": "1 Mai"
+    },
+    {
+      "title": "NOUVELLE CALEDONIE TOURISME - Appel d'offres de Représentation France/Europe de la Nouvelle-Calédonie en tant que destination touristique",
+      "link": "https://www.tourmag.com/classifieds/NOUVELLE-CALEDONIE-TOURISME-Appel-d-offres-de-Representation-France-Europe-de-la-Nouvelle-Caledonie-en-tant-que_pa267903.html",
+      "location": "",
+      "description": "",
+      "pubDate": "1 Mai"
+    },
+    {
+      "title": "LE LAC DE VASSIVIERE recherche un opérateur pour la transformation du village vacances de Pierrefitte (87)",
+      "link": "https://www.tourmag.com/classifieds/LE-LAC-DE-VASSIVIERE-recherche-un-operateur-pour-la-transformation-du-village-vacances-de-Pierrefitte-87_pa267828.html",
+      "location": "PierreFitte",
       "description": "",
       "pubDate": "1 Mai"
     },
@@ -108,13 +129,6 @@
       "pubDate": "27 Avril"
     },
     {
-      "title": "NOUVELLE CALEDONIE TOURISME - Appel d'offres de Représentation France/Europe de la Nouvelle-Calédonie en tant que destination touristique",
-      "link": "https://www.tourmag.com/classifieds/NOUVELLE-CALEDONIE-TOURISME-Appel-d-offres-de-Representation-France-Europe-de-la-Nouvelle-Caledonie-en-tant-que_pa267903.html",
-      "location": "",
-      "description": "",
-      "pubDate": "27 Avril"
-    },
-    {
       "title": "E-LECLERC VOYAGES - 2 Conseillers voyages H/F - CDI - (Bellaing (59))",
       "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-2-Conseillers-voyages-H-F-CDI-Bellaing-59_pa267878.html",
       "location": "Bellaing",
@@ -167,13 +181,6 @@
       "title": "LE MONDE EN DIRECT - Technicien(ne) Back-office H/F - CDI - (Boulogne-Billancourt (92))",
       "link": "https://www.tourmag.com/classifieds/LE-MONDE-EN-DIRECT-Technicien-ne-Back-office-H-F-CDI-Boulogne-Billancourt-92_pa267879.html",
       "location": "Boulogne-Billancourt",
-      "description": "",
-      "pubDate": "22 Avril"
-    },
-    {
-      "title": "LE LAC DE VASSIVIERE recherche un opérateur pour la transformation du village vacances de Pierrefitte (87)",
-      "link": "https://www.tourmag.com/classifieds/LE-LAC-DE-VASSIVIERE-recherche-un-operateur-pour-la-transformation-du-village-vacances-de-Pierrefitte-87_pa267828.html",
-      "location": "PierreFitte",
       "description": "",
       "pubDate": "22 Avril"
     },
@@ -682,5 +689,5 @@
       "pubDate": "6 Février"
     }
   ],
-  "scrapedAt": "2026-04-30T19:19:45.265Z"
+  "scrapedAt": "2026-04-30T20:59:18.581Z"
 }
