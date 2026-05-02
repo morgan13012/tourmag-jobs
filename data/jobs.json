@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 98,
+  "total": 97,
   "offers": [
     {
       "title": "HEWAGO - Chef de Produit Japon/Corée H/F - CDI - (Paris (75))",
@@ -563,13 +563,6 @@
       "pubDate": "4 Mars"
     },
     {
-      "title": "AERTICKET/CMS VACANCES - Billettiste H/F - (Bordeaux (33))",
-      "link": "https://www.tourmag.com/classifieds/AERTICKET-CMS-VACANCES-Billettiste-H-F-Bordeaux-33_pa266937.html",
-      "location": "Bordeaux",
-      "description": "",
-      "pubDate": "4 Mars"
-    },
-    {
       "title": "E.LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Carhaix (29))",
       "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Carhaix-29_pa267260.html",
       "location": "Carhaix",
@@ -689,5 +682,5 @@
       "pubDate": "6 Février"
     }
   ],
-  "scrapedAt": "2026-05-02T21:39:19.296Z"
+  "scrapedAt": "2026-05-02T22:39:51.766Z"
 }
