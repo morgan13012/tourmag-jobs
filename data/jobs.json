@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 96,
+  "total": 97,
   "offers": [
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Brest (29))",
@@ -8,6 +8,13 @@
       "location": "Brest",
       "description": "",
       "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "E-LECLERC VOYAGES - 3 Conseiller(e)s voyages H/F - CDI - (Sélestat (67))",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-3-Conseiller-e-s-voyages-H-F-CDI-Selestat-67_pa267962.html",
+      "location": "Sélestat",
+      "description": "",
+      "pubDate": "NEW 23:00"
     },
     {
       "title": "HEWAGO - Chef de Produit Japon/Corée H/F - CDI - (Paris (75))",
@@ -675,5 +682,5 @@
       "pubDate": "6 Février"
     }
   ],
-  "scrapedAt": "2026-05-04T10:12:34.975Z"
+  "scrapedAt": "2026-05-04T12:20:04.197Z"
 }
