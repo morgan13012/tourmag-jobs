@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 97,
+  "total": 96,
   "offers": [
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Brest (29))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Brest-29_pa267100.html",
+      "location": "Brest",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "HEWAGO - Chef de Produit Japon/Corée H/F - CDI - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/HEWAGO-Chef-de-Produit-Japon-Coree-H-F-CDI-Paris-75_pa267960.html",
@@ -34,13 +41,6 @@
       "title": "LE LAC DE VASSIVIERE recherche un opérateur pour la transformation du village vacances de Pierrefitte (87)",
       "link": "https://www.tourmag.com/classifieds/LE-LAC-DE-VASSIVIERE-recherche-un-operateur-pour-la-transformation-du-village-vacances-de-Pierrefitte-87_pa267828.html",
       "location": "PierreFitte",
-      "description": "",
-      "pubDate": "1 Mai"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Brest (29))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Brest-29_pa267100.html",
-      "location": "Brest",
       "description": "",
       "pubDate": "1 Mai"
     },
@@ -335,13 +335,6 @@
       "title": "CE EVASION - Technicien(ne) groupes pôle clubs F/H - CDI - (Paris, Lyon ou Rouen)",
       "link": "https://www.tourmag.com/classifieds/CE-EVASION-Technicien-ne-groupes-pole-clubs-F-H-CDI-Paris-Lyon-ou-Rouen_pa267682.html",
       "location": "Paris, Lyon ou Rouen",
-      "description": "",
-      "pubDate": "26 Mars"
-    },
-    {
-      "title": "E-LECLERC VOYAGES - 3 Conseillers voyages H/F - CDI - (Sélestat (67))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-3-Conseillers-voyages-H-F-CDI-Selestat-67_pa267680.html",
-      "location": "Sélestat",
       "description": "",
       "pubDate": "26 Mars"
     },
@@ -682,5 +675,5 @@
       "pubDate": "6 Février"
     }
   ],
-  "scrapedAt": "2026-05-04T07:46:41.700Z"
+  "scrapedAt": "2026-05-04T10:12:34.975Z"
 }
