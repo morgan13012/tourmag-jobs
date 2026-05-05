@@ -1,13 +1,13 @@
 {
   "success": true,
-  "total": 99,
+  "total": 97,
   "offers": [
     {
       "title": "AUCHAN VOYAGES / MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Le Pontet (84))",
       "link": "https://www.tourmag.com/classifieds/AUCHAN-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Le-Pontet-84_pa267965.html",
       "location": "Le Pontet",
       "description": "",
-      "pubDate": "NEW 23:30"
+      "pubDate": "5 Mai"
     },
     {
       "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages avec bail basée à Paris 17e",
@@ -633,13 +633,6 @@
       "pubDate": "26 Février"
     },
     {
-      "title": "DEPARTEMENT DE LA HAUTE SAVOIE - Sourcing pour la réhabilitation et l’exploitation du domaine de Montjoux, propriété du Département de la Haute Savoie.",
-      "link": "https://www.tourmag.com/classifieds/DEPARTEMENT-DE-LA-HAUTE-SAVOIE-Sourcing-pour-la-rehabilitation-et-l-exploitation-du-domaine-de-Montjoux-propriete-du_pa267033.html",
-      "location": "",
-      "description": "",
-      "pubDate": "24 Février"
-    },
-    {
       "title": "HELIADES/MARIETTON DEVELOPPEMENT - Gestionnaire aérien H/F - CDI - (Aix-en-Provence (13))",
       "link": "https://www.tourmag.com/classifieds/HELIADES-MARIETTON-DEVELOPPEMENT-Gestionnaire-aerien-H-F-CDI-Aix-en-Provence-13_pa267114.html",
       "location": "Aix-en-Provence",
@@ -675,13 +668,6 @@
       "pubDate": "9 Février"
     },
     {
-      "title": "DIRECTOURS - Chargé(e) Back-office / Service Clients (BO/SAD) - CDD - (Paris 2e)",
-      "link": "https://www.tourmag.com/classifieds/DIRECTOURS-Charge-e-Back-office-Service-Clients-BO-SAD-CDD-Paris-2e_pa267034.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "9 Février"
-    },
-    {
       "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Mantes la Jolie (78))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Mantes-la-Jolie-78_pa266554.html",
       "location": "Mantes la Jolie",
@@ -696,5 +682,5 @@
       "pubDate": "6 Février"
     }
   ],
-  "scrapedAt": "2026-05-05T21:01:24.291Z"
+  "scrapedAt": "2026-05-05T22:53:37.989Z"
 }
