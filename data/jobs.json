@@ -3,6 +3,13 @@
   "total": 100,
   "offers": [
     {
+      "title": "E.LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Echirolles (38))",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Echirolles-38_pa267875.html",
+      "location": "Echirolles",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
       "title": "NOUVELLE CALEDONIE TOURISME - Appel d'offres de Représentation France/Europe de la Nouvelle-Calédonie en tant que destination touristique",
       "link": "https://www.tourmag.com/classifieds/NOUVELLE-CALEDONIE-TOURISME-Appel-d-offres-de-Representation-France-Europe-de-la-Nouvelle-Caledonie-en-tant-que_pa267903.html",
       "location": "",
@@ -260,13 +267,6 @@
       "location": "St-Etienne",
       "description": "",
       "pubDate": "21 Avril"
-    },
-    {
-      "title": "E.LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Echirolles (38))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Echirolles-38_pa267875.html",
-      "location": "Echirolles",
-      "description": "",
-      "pubDate": "20 Avril"
     },
     {
       "title": "PASSEPORT EVASION - Commercial(e) Tourisme spécialisé(e) voyages de Groupes « Sur-Mesure » - Indépendant, freelance - (France entière)",
@@ -703,5 +703,5 @@
       "pubDate": "6 Février"
     }
   ],
-  "scrapedAt": "2026-05-07T07:41:24.438Z"
+  "scrapedAt": "2026-05-07T10:23:07.870Z"
 }
