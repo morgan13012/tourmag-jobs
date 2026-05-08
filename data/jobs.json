@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 103,
+  "total": 102,
   "offers": [
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Rouen Mont St Aignan (76))",
@@ -710,13 +710,6 @@
       "pubDate": "13 Février"
     },
     {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDI - (Biarritz (64))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDI-Biarritz-64_pa267036.html",
-      "location": "Biarritz",
-      "description": "",
-      "pubDate": "9 Février"
-    },
-    {
       "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Mantes la Jolie (78))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Mantes-la-Jolie-78_pa266554.html",
       "location": "Mantes la Jolie",
@@ -724,5 +717,5 @@
       "pubDate": "6 Février"
     }
   ],
-  "scrapedAt": "2026-05-08T21:58:10.120Z"
+  "scrapedAt": "2026-05-08T23:01:25.693Z"
 }
