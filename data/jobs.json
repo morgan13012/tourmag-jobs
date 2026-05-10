@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 102,
+  "total": 101,
   "offers": [
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Rouen Mont St Aignan (76))",
@@ -675,13 +675,6 @@
       "pubDate": "26 Février"
     },
     {
-      "title": "VOTRE VOYAGE/MYHONEYMOON - Conseiller(ère) Voyages H/F - CDI - (Melun (77))",
-      "link": "https://www.tourmag.com/classifieds/VOTRE-VOYAGE-MYHONEYMOON-Conseiller-ere-Voyages-H-F-CDI-Melun-77_pa267051.html",
-      "location": "Melun",
-      "description": "",
-      "pubDate": "26 Février"
-    },
-    {
       "title": "HELIADES/MARIETTON DEVELOPPEMENT - Gestionnaire aérien H/F - CDI - (Aix-en-Provence (13))",
       "link": "https://www.tourmag.com/classifieds/HELIADES-MARIETTON-DEVELOPPEMENT-Gestionnaire-aerien-H-F-CDI-Aix-en-Provence-13_pa267114.html",
       "location": "Aix-en-Provence",
@@ -717,5 +710,5 @@
       "pubDate": "6 Février"
     }
   ],
-  "scrapedAt": "2026-05-10T21:46:28.498Z"
+  "scrapedAt": "2026-05-10T22:45:26.504Z"
 }
