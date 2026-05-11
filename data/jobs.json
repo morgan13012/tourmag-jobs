@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 101,
+  "total": 102,
   "offers": [
+    {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Responsable d'agence H/F - CDI - (Lyon 2e)",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Responsable-d-agence-H-F-CDI-Lyon-2e_pa267995.html",
+      "location": "Lyon",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Rouen Mont St Aignan (76))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Rouen-Mont-St-Aignan-76_pa267958.html",
@@ -710,5 +717,5 @@
       "pubDate": "6 Février"
     }
   ],
-  "scrapedAt": "2026-05-11T12:09:37.037Z"
+  "scrapedAt": "2026-05-11T15:53:56.675Z"
 }
