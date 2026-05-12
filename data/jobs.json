@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 102,
+  "total": 103,
   "offers": [
+    {
+      "title": "VERDIE VOYAGES - Responsable d'agence H/F - CDI - (Lyon 1er)",
+      "link": "https://www.tourmag.com/classifieds/VERDIE-VOYAGES-Responsable-d-agence-H-F-CDI-Lyon-1er_pa268039.html",
+      "location": "Lyon",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDD - (Chamalières (63))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDD-Chamalieres-63_pa267974.html",
@@ -717,5 +724,5 @@
       "pubDate": "6 Février"
     }
   ],
-  "scrapedAt": "2026-05-12T16:17:58.841Z"
+  "scrapedAt": "2026-05-12T18:54:22.850Z"
 }
