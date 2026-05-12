@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 103,
+  "total": 100,
   "offers": [
     {
       "title": "VERDIE VOYAGES - Responsable d'agence H/F - CDI - (Lyon 1er)",
@@ -633,13 +633,6 @@
       "pubDate": "4 Mars"
     },
     {
-      "title": "NOMBALAIS EVASION - Chef(fe) de produit expérimenté(e) - Offre Groupes Loisirs H/F - CDI - (Saint-Gilles-Croix-de-Vie (85))",
-      "link": "https://www.tourmag.com/classifieds/NOMBALAIS-EVASION-Chef-fe-de-produit-experimente-e-Offre-Groupes-Loisirs-H-F-CDI-Saint-Gilles-Croix-de-Vie-85_pa267099.html",
-      "location": "Saint-Gilles-Croix-de-Vie",
-      "description": "",
-      "pubDate": "4 Mars"
-    },
-    {
       "title": "E.LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Carhaix (29))",
       "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Carhaix-29_pa267260.html",
       "location": "Carhaix",
@@ -682,13 +675,6 @@
       "pubDate": "26 Février"
     },
     {
-      "title": "GC PARTENAIRES POUR AGENCE DEPARTEMENTALE DE TOURISME - Chargé de mission relations presse et médias institutionnels H/F - (Sud Est de la France)",
-      "link": "https://www.tourmag.com/classifieds/GC-PARTENAIRES-POUR-AGENCE-DEPARTEMENTALE-DE-TOURISME-Charge-de-mission-relations-presse-et-medias-institutionnels-H-F_pa267097.html",
-      "location": "Sud Est de la France",
-      "description": "",
-      "pubDate": "26 Février"
-    },
-    {
       "title": "HELIADES/MARIETTON DEVELOPPEMENT - Gestionnaire aérien H/F - CDI - (Aix-en-Provence (13))",
       "link": "https://www.tourmag.com/classifieds/HELIADES-MARIETTON-DEVELOPPEMENT-Gestionnaire-aerien-H-F-CDI-Aix-en-Provence-13_pa267114.html",
       "location": "Aix-en-Provence",
@@ -710,13 +696,6 @@
       "pubDate": "19 Février"
     },
     {
-      "title": "HAVAS GROUPES MEETING & EVENTS - Commercial Groupes Région Grand Ouest H/F - CDI - (Nantes (44))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-GROUPES-MEETING-EVENTS-Commercial-Groupes-Region-Grand-Ouest-H-F-CDI-Nantes-44_pa267096.html",
-      "location": "Nantes",
-      "description": "",
-      "pubDate": "13 Février"
-    },
-    {
       "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Mantes la Jolie (78))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Mantes-la-Jolie-78_pa266554.html",
       "location": "Mantes la Jolie",
@@ -724,5 +703,5 @@
       "pubDate": "6 Février"
     }
   ],
-  "scrapedAt": "2026-05-12T20:27:50.534Z"
+  "scrapedAt": "2026-05-12T22:10:53.654Z"
 }
