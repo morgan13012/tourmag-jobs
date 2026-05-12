@@ -10,6 +10,13 @@
       "pubDate": "NEW 23:30"
     },
     {
+      "title": "E-LECLERC VOYAGES - Conseiller(e)s voyages H/F - CDI - (Sélestat (67))",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-e-s-voyages-H-F-CDI-Selestat-67_pa267962.html",
+      "location": "Sélestat",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDD - (Chamalières (63))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDD-Chamalieres-63_pa267974.html",
       "location": "Chamalières",
@@ -176,13 +183,6 @@
       "location": "Le Pontet",
       "description": "",
       "pubDate": "5 Mai"
-    },
-    {
-      "title": "E-LECLERC VOYAGES - Conseiller(e)s voyages H/F - CDI - (Sélestat (67))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-e-s-voyages-H-F-CDI-Selestat-67_pa267962.html",
-      "location": "Sélestat",
-      "description": "",
-      "pubDate": "4 Mai"
     },
     {
       "title": "HEWAGO - Chef de Produit Japon/Corée H/F - CDI - (Paris (75))",
@@ -724,5 +724,5 @@
       "pubDate": "6 Février"
     }
   ],
-  "scrapedAt": "2026-05-12T18:54:22.850Z"
+  "scrapedAt": "2026-05-12T20:27:50.534Z"
 }
