@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 99,
+  "total": 98,
   "offers": [
     {
       "title": "LE MONDE EN DIRECT - Technicien(ne) Back-office H/F - CDI - (Boulogne-Billancourt (92))",
@@ -687,14 +687,7 @@
       "location": "Aix-en-Provence",
       "description": "",
       "pubDate": "19 Février"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Mantes la Jolie (78))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Mantes-la-Jolie-78_pa266554.html",
-      "location": "Mantes la Jolie",
-      "description": "",
-      "pubDate": "6 Février"
     }
   ],
-  "scrapedAt": "2026-05-15T20:59:03.501Z"
+  "scrapedAt": "2026-05-15T22:05:48.724Z"
 }
