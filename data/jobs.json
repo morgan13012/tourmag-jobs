@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 98,
+  "total": 92,
   "offers": [
     {
       "title": "LE MONDE EN DIRECT - Technicien(ne) Back-office H/F - CDI - (Boulogne-Billancourt (92))",
@@ -402,13 +402,6 @@
       "pubDate": "30 Mars"
     },
     {
-      "title": "SELECTOUR AILLEURS VOYAGES - Responsable d'agence de voyages H/F - CDI - (Epagny (74))",
-      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Epagny-74_pa267113.html",
-      "location": "Epagny",
-      "description": "",
-      "pubDate": "30 Mars"
-    },
-    {
       "title": "CE EVASION - Technicien(ne) groupes pôle clubs F/H - CDI - (Paris, Lyon ou Rouen)",
       "link": "https://www.tourmag.com/classifieds/CE-EVASION-Technicien-ne-groupes-pole-clubs-F-H-CDI-Paris-Lyon-ou-Rouen_pa267682.html",
       "location": "Paris, Lyon ou Rouen",
@@ -482,20 +475,6 @@
       "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDI - (Epernay (51))",
       "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDI-Epernay-51_pa267683.html",
       "location": "Epernay",
-      "description": "",
-      "pubDate": "26 Mars"
-    },
-    {
-      "title": "PREFERENCE VOYAGES / MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Saumur (49))",
-      "link": "https://www.tourmag.com/classifieds/PREFERENCE-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Saumur-49_pa267112.html",
-      "location": "Saumur",
-      "description": "",
-      "pubDate": "26 Mars"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - (Castres (81))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-Castres-81_pa267109.html",
-      "location": "Castres",
       "description": "",
       "pubDate": "26 Mars"
     },
@@ -666,28 +645,7 @@
       "location": "Anet",
       "description": "",
       "pubDate": "26 Février"
-    },
-    {
-      "title": "HELIADES/MARIETTON DEVELOPPEMENT - Gestionnaire aérien H/F - CDI - (Aix-en-Provence (13))",
-      "link": "https://www.tourmag.com/classifieds/HELIADES-MARIETTON-DEVELOPPEMENT-Gestionnaire-aerien-H-F-CDI-Aix-en-Provence-13_pa267114.html",
-      "location": "Aix-en-Provence",
-      "description": "",
-      "pubDate": "19 Février"
-    },
-    {
-      "title": "SELECTOUR AILLEURS VOYAGES  - Conseiller voyages H/F - CDI - (Brive-la-Gaillarde (19))",
-      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Conseiller-voyages-H-F-CDI-Brive-la-Gaillarde-19_pa267111.html",
-      "location": "Brive-la-Gaillarde",
-      "description": "",
-      "pubDate": "19 Février"
-    },
-    {
-      "title": "VOYAMAR et HELIADES / MARIETTON DEVELOPPEMENT - Assistant(e) de Production Tourisme H/F - CDI - (Aix-en-Provence (13))",
-      "link": "https://www.tourmag.com/classifieds/VOYAMAR-et-HELIADES-MARIETTON-DEVELOPPEMENT-Assistant-e-de-Production-Tourisme-H-F-CDI-Aix-en-Provence-13_pa267108.html",
-      "location": "Aix-en-Provence",
-      "description": "",
-      "pubDate": "19 Février"
     }
   ],
-  "scrapedAt": "2026-05-16T21:48:18.330Z"
+  "scrapedAt": "2026-05-16T22:43:03.238Z"
 }
