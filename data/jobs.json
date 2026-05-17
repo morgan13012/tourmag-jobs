@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 92,
+  "total": 89,
   "offers": [
     {
       "title": "LE MONDE EN DIRECT - Technicien(ne) Back-office H/F - CDI - (Boulogne-Billancourt (92))",
@@ -598,13 +598,6 @@
       "pubDate": "6 Mars"
     },
     {
-      "title": "A VENDRE POUR RECENTRAGE DE L’ACTIVITE DU DIRIGEANT : Fonds de commerce Agence de Voyages dans le département Val de Marne (94)",
-      "link": "https://www.tourmag.com/classifieds/A-VENDRE-POUR-RECENTRAGE-DE-L-ACTIVITE-DU-DIRIGEANT-Fonds-de-commerce-Agence-de-Voyages-dans-le-departement-Val-de-Marne_pa267120.html",
-      "location": "Val de Marne",
-      "description": "",
-      "pubDate": "4 Mars"
-    },
-    {
       "title": "E.LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Carhaix (29))",
       "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Carhaix-29_pa267260.html",
       "location": "Carhaix",
@@ -631,21 +624,7 @@
       "location": "Paris",
       "description": "",
       "pubDate": "26 Février"
-    },
-    {
-      "title": "E-LECLERC VOYAGES - Conseiller(e) voyages confirmé(e) H/F - CDI - (Anet (28))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-e-voyages-confirme-e-H-F-CDI-Anet-28_pa267118.html",
-      "location": "Anet",
-      "description": "",
-      "pubDate": "26 Février"
-    },
-    {
-      "title": "E.LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Anet (28))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Anet-28_pa267117.html",
-      "location": "Anet",
-      "description": "",
-      "pubDate": "26 Février"
     }
   ],
-  "scrapedAt": "2026-05-17T21:54:15.715Z"
+  "scrapedAt": "2026-05-17T22:52:56.796Z"
 }
