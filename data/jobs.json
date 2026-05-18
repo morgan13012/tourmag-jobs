@@ -1,20 +1,20 @@
 {
   "success": true,
-  "total": 91,
+  "total": 65,
   "offers": [
+    {
+      "title": "EVIDENZIA - Commercial Groupe – Vente de Voyages H/F - CDI - (Paris, Reims, Lyon, Toulouse)",
+      "link": "https://www.tourmag.com/classifieds/EVIDENZIA-Commercial-Groupe-Vente-de-Voyages-H-F-CDI-Paris-Reims-Lyon-Toulouse_pa268038.html",
+      "location": "Paris, Reims, Lyon, Toulouse",
+      "description": "",
+      "pubDate": "19 Mai"
+    },
     {
       "title": "E-LECLERC VOYAGES - Conseiller(e)s voyages confirmé(e)s H/F - CDI - (Anet (28))",
       "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-e-s-voyages-confirme-e-s-H-F-CDI-Anet-28_pa268119.html",
       "location": "Anet",
       "description": "",
       "pubDate": "NEW 23:30"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages H/F - CDD - (Ferney-Voltaire (01))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-H-F-CDD-Ferney-Voltaire-01_pa268121.html",
-      "location": "Ferney-Voltaire",
-      "description": "",
-      "pubDate": "NEW 00:00"
     },
     {
       "title": "LE MONDE EN DIRECT - Technicien(ne) Back-office H/F - CDI - (Boulogne-Billancourt (92))",
@@ -115,20 +115,6 @@
       "pubDate": "12 Mai"
     },
     {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDD - (Chamalières (63))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDD-Chamalieres-63_pa267974.html",
-      "location": "Chamalières",
-      "description": "",
-      "pubDate": "12 Mai"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Responsable d'agence H/F - CDI - (Lyon 2e)",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Responsable-d-agence-H-F-CDI-Lyon-2e_pa267995.html",
-      "location": "Lyon",
-      "description": "",
-      "pubDate": "11 Mai"
-    },
-    {
       "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages avec bail basée à Paris 17e",
       "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-avec-bail-basee-a-Paris-17e_pa267876.html",
       "location": "Paris",
@@ -192,20 +178,6 @@
       "pubDate": "6 Mai"
     },
     {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages H/F - CDI - (Poitiers (86))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-H-F-CDI-Poitiers-86_pa267973.html",
-      "location": "Poitiers",
-      "description": "",
-      "pubDate": "6 Mai"
-    },
-    {
-      "title": "AUCHAN VOYAGES / MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Le Pontet (84))",
-      "link": "https://www.tourmag.com/classifieds/AUCHAN-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Le-Pontet-84_pa267965.html",
-      "location": "Le Pontet",
-      "description": "",
-      "pubDate": "5 Mai"
-    },
-    {
       "title": "HEWAGO - Chef de Produit Japon/Corée H/F - CDI - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/HEWAGO-Chef-de-Produit-Japon-Coree-H-F-CDI-Paris-75_pa267960.html",
       "location": "Paris",
@@ -248,48 +220,6 @@
       "pubDate": "24 Avril"
     },
     {
-      "title": "MARIETTON DEVELOPPEMENT - Chargé(e) de clientèle - CDI - (Aix-en-Provence (13))",
-      "link": "https://www.tourmag.com/classifieds/MARIETTON-DEVELOPPEMENT-Charge-e-de-clientele-CDI-Aix-en-Provence-13_pa267240.html",
-      "location": "Aix-en-Provence",
-      "description": "",
-      "pubDate": "24 Avril"
-    },
-    {
-      "title": "VOYAMAR/ MARIETTON DEVELOPPEMENT - Chef de produit Tourisme H/F - CDI - (Lyon 9e (69))",
-      "link": "https://www.tourmag.com/classifieds/VOYAMAR-MARIETTON-DEVELOPPEMENT-Chef-de-produit-Tourisme-H-F-CDI-Lyon-9e-69_pa267904.html",
-      "location": "Lyon",
-      "description": "",
-      "pubDate": "24 Avril"
-    },
-    {
-      "title": "VOYAMAR/ MARIETTON DEVELOPPEMENT - Agent Back-office H/F - CDI - (Lyon 9e (69))",
-      "link": "https://www.tourmag.com/classifieds/VOYAMAR-MARIETTON-DEVELOPPEMENT-Agent-Back-office-H-F-CDI-Lyon-9e-69_pa267902.html",
-      "location": "Lyon",
-      "description": "",
-      "pubDate": "24 Avril"
-    },
-    {
-      "title": "VOYAMAR/MARIETTON DEVELOPPEMENT - Gestionnaire Transport Tourisme H/F - CDI - (Lyon 9e (69))",
-      "link": "https://www.tourmag.com/classifieds/VOYAMAR-MARIETTON-DEVELOPPEMENT-Gestionnaire-Transport-Tourisme-H-F-CDI-Lyon-9e-69_pa267901.html",
-      "location": "Lyon",
-      "description": "",
-      "pubDate": "24 Avril"
-    },
-    {
-      "title": "CLUB MED/MARIETTON DEVELOPPEMENT - Agency Sales Agent H/F - CDI - (Le Mans (72))",
-      "link": "https://www.tourmag.com/classifieds/CLUB-MED-MARIETTON-DEVELOPPEMENT-Agency-Sales-Agent-H-F-CDI-Le-Mans-72_pa267321.html",
-      "location": "Le Mans",
-      "description": "",
-      "pubDate": "23 Avril"
-    },
-    {
-      "title": "AUSTRAL LAGONS - Gestionnaire Transport Tourisme H/F - CDI - (Sèvres (92))",
-      "link": "https://www.tourmag.com/classifieds/AUSTRAL-LAGONS-Gestionnaire-Transport-Tourisme-H-F-CDI-Sevres-92_pa267119.html",
-      "location": "Sèvres",
-      "description": "",
-      "pubDate": "23 Avril"
-    },
-    {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Mérignac (33))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Merignac-33_pa267882.html",
       "location": "Mérignac",
@@ -318,25 +248,11 @@
       "pubDate": "22 Avril"
     },
     {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDI - (St-Etienne (42))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDI-St-Etienne-42_pa267877.html",
-      "location": "St-Etienne",
-      "description": "",
-      "pubDate": "21 Avril"
-    },
-    {
       "title": "PASSEPORT EVASION - Commercial(e) Tourisme spécialisé(e) voyages de Groupes « Sur-Mesure » - Indépendant, freelance - (France entière)",
       "link": "https://www.tourmag.com/classifieds/PASSEPORT-EVASION-Commercial-e-Tourisme-specialise-e-voyages-de-Groupes- Sur-Mesure -Independant-freelance-France_pa266851.html",
       "location": "",
       "description": "",
       "pubDate": "15 Avril"
-    },
-    {
-      "title": "SELECTOUR AILLEURS VOYAGES  - Conseiller voyages expérimenté H/F - CDI - (Montélimar (26))",
-      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Conseiller-voyages-experimente-H-F-CDI-Montelimar-26_pa267834.html",
-      "location": "Montélimar",
-      "description": "",
-      "pubDate": "10 Avril"
     },
     {
       "title": "LE GROUPE SALAUN - Responsable d'Unité Technique H/F - CDI - (Dijon (21))",
@@ -360,13 +276,6 @@
       "pubDate": "2 Avril"
     },
     {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDI - (Toulouse (31))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDI-Toulouse-31_pa267777.html",
-      "location": "Toulouse",
-      "description": "",
-      "pubDate": "2 Avril"
-    },
-    {
       "title": "TURQUOISE TO - Billettiste confirmé(e) Service Transport H/F - CDD ou CDI - (Aix-en-Provence (13))",
       "link": "https://www.tourmag.com/classifieds/TURQUOISE-TO-Billettiste-confirme-e-Service-Transport-H-F-CDD-ou-CDI-Aix-en-Provence-13_pa267474.html",
       "location": "Aix-en-Provence",
@@ -374,44 +283,9 @@
       "pubDate": "31 Mars"
     },
     {
-      "title": "AUCHAN VOYAGES / MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Guilherand Granges (07))",
-      "link": "https://www.tourmag.com/classifieds/AUCHAN-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Guilherand-Granges-07_pa267726.html",
-      "location": "Guilherand Granges",
-      "description": "",
-      "pubDate": "30 Mars"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDI - (Hyères (83))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDI-Hyeres-83_pa267725.html",
-      "location": "Hyères",
-      "description": "",
-      "pubDate": "30 Mars"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDI - (Sallanches (74))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDI-Sallanches-74_pa267724.html",
-      "location": "Sallanches",
-      "description": "",
-      "pubDate": "30 Mars"
-    },
-    {
       "title": "DURANCE EVASION - Conseiller voyages H/F - CDI - (Châteaurenard (13))",
       "link": "https://www.tourmag.com/classifieds/DURANCE-EVASION-Conseiller-voyages-H-F-CDI-Chateaurenard-13_pa267472.html",
       "location": "Châteaurenard",
-      "description": "",
-      "pubDate": "30 Mars"
-    },
-    {
-      "title": "SELECTOUR AILLEURS VOYAGES  - Conseiller voyages H/F - CDI - (Corbas (69))",
-      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Conseiller-voyages-H-F-CDI-Corbas-69_pa267242.html",
-      "location": "Corbas",
-      "description": "",
-      "pubDate": "30 Mars"
-    },
-    {
-      "title": "SELECTOUR AILLEURS VOYAGES - Responsable d'agence de voyages H/F - CDI - (Lyon 2e)",
-      "link": "https://www.tourmag.com/classifieds/SELECTOUR-AILLEURS-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Lyon-2e_pa267121.html",
-      "location": "Lyon",
       "description": "",
       "pubDate": "30 Mars"
     },
@@ -447,48 +321,6 @@
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Calais (62))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Calais-62_pa267689.html",
       "location": "Calais",
-      "description": "",
-      "pubDate": "26 Mars"
-    },
-    {
-      "title": "AUCHAN VOYAGES / MARIETTON DEVELOPPEMENT - Conseiller voyages expérimenté H/F - CDI - (Toulouse (31))",
-      "link": "https://www.tourmag.com/classifieds/AUCHAN-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-voyages-experimente-H-F-CDI-Toulouse-31_pa267688.html",
-      "location": "Toulouse",
-      "description": "",
-      "pubDate": "26 Mars"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDI -  (Chaniers (17))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDI-Chaniers-17_pa267687.html",
-      "location": "Chaniers",
-      "description": "",
-      "pubDate": "26 Mars"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDI -  (Cahors (46))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDI-Cahors-46_pa267686.html",
-      "location": "Cahors",
-      "description": "",
-      "pubDate": "26 Mars"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDI -  (Miramas (13))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDI-Miramas-13_pa267685.html",
-      "location": "Miramas",
-      "description": "",
-      "pubDate": "26 Mars"
-    },
-    {
-      "title": "VOYAMAR et HELIADES / MARIETTON DEVELOPPEMENT - Assistant(e) de Production Tourisme H/F - CDI - (Aix-en-Provence (13))",
-      "link": "https://www.tourmag.com/classifieds/VOYAMAR-et-HELIADES-MARIETTON-DEVELOPPEMENT-Assistant-e-de-Production-Tourisme-H-F-CDI-Aix-en-Provence-13_pa267684.html",
-      "location": "Aix-en-Provence",
-      "description": "",
-      "pubDate": "26 Mars"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages expérimenté H/F - CDI - (Epernay (51))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-experimente-H-F-CDI-Epernay-51_pa267683.html",
-      "location": "Epernay",
       "description": "",
       "pubDate": "26 Mars"
     },
@@ -570,20 +402,6 @@
       "pubDate": "12 Mars"
     },
     {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Responsable d'agence de voyages H/F - CDI - (Mulhouse (68))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Responsable-d-agence-de-voyages-H-F-CDI-Mulhouse-68_pa267323.html",
-      "location": "Mulhouse",
-      "description": "",
-      "pubDate": "12 Mars"
-    },
-    {
-      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Responsable d'agence de voyages H/F - CDI - (Chaumont (52))",
-      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Responsable-d-agence-de-voyages-H-F-CDI-Chaumont-52_pa267319.html",
-      "location": "Chaumont",
-      "description": "",
-      "pubDate": "12 Mars"
-    },
-    {
       "title": "V.O.S  - Coordinateurs·trices des opérations - (Copenhague  (Danemark) ou Dubline (Irlande))",
       "link": "https://www.tourmag.com/classifieds/V-O-S-Coordinateurs·trices-des-operations-Copenhague-Danemark-ou-Dubline-Irlande_pa266769.html",
       "location": "Copenhague",
@@ -640,5 +458,5 @@
       "pubDate": "26 Février"
     }
   ],
-  "scrapedAt": "2026-05-18T16:21:22.434Z"
+  "scrapedAt": "2026-05-18T18:50:14.931Z"
 }
