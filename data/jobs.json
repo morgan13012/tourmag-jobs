@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 90,
+  "total": 91,
   "offers": [
     {
       "title": "E-LECLERC VOYAGES - Conseiller(e)s voyages confirmé(e)s H/F - CDI - (Anet (28))",
@@ -8,6 +8,13 @@
       "location": "Anet",
       "description": "",
       "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "HAVAS VOYAGES/MARIETTON DEVELOPPEMENT - Conseiller Voyages H/F - CDD - (Ferney-Voltaire (01))",
+      "link": "https://www.tourmag.com/classifieds/HAVAS-VOYAGES-MARIETTON-DEVELOPPEMENT-Conseiller-Voyages-H-F-CDD-Ferney-Voltaire-01_pa268121.html",
+      "location": "Ferney-Voltaire",
+      "description": "",
+      "pubDate": "NEW 00:00"
     },
     {
       "title": "LE MONDE EN DIRECT - Technicien(ne) Back-office H/F - CDI - (Boulogne-Billancourt (92))",
@@ -633,5 +640,5 @@
       "pubDate": "26 Février"
     }
   ],
-  "scrapedAt": "2026-05-18T12:28:47.395Z"
+  "scrapedAt": "2026-05-18T16:21:22.434Z"
 }
