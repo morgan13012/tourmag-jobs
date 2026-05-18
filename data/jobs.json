@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 89,
+  "total": 90,
   "offers": [
+    {
+      "title": "E-LECLERC VOYAGES - Conseiller(e)s voyages confirmé(e)s H/F - CDI - (Anet (28))",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-e-s-voyages-confirme-e-s-H-F-CDI-Anet-28_pa268119.html",
+      "location": "Anet",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "LE MONDE EN DIRECT - Technicien(ne) Back-office H/F - CDI - (Boulogne-Billancourt (92))",
       "link": "https://www.tourmag.com/classifieds/LE-MONDE-EN-DIRECT-Technicien-ne-Back-office-H-F-CDI-Boulogne-Billancourt-92_pa267879.html",
@@ -626,5 +633,5 @@
       "pubDate": "26 Février"
     }
   ],
-  "scrapedAt": "2026-05-18T08:42:52.716Z"
+  "scrapedAt": "2026-05-18T12:28:47.395Z"
 }
