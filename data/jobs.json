@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 66,
+  "total": 65,
   "offers": [
     {
       "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - CDI - (Sérignan (34))",
@@ -318,13 +318,6 @@
       "pubDate": "26 Mars"
     },
     {
-      "title": "TURQUOISE TO - Chargé(e) Back-office H/F - CDD/CDI - (Aix-en-Provence (13))",
-      "link": "https://www.tourmag.com/classifieds/TURQUOISE-TO-Charge-e-Back-office-H-F-CDD-CDI-Aix-en-Provence-13_pa267236.html",
-      "location": "Aix-en-Provence",
-      "description": "",
-      "pubDate": "26 Mars"
-    },
-    {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Calais (62))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Calais-62_pa267689.html",
       "location": "Calais",
@@ -465,5 +458,5 @@
       "pubDate": "26 Février"
     }
   ],
-  "scrapedAt": "2026-05-23T21:53:19.455Z"
+  "scrapedAt": "2026-05-23T22:52:05.314Z"
 }
