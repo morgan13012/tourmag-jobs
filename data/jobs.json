@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 65,
+  "total": 63,
   "offers": [
     {
       "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - CDI - (Sérignan (34))",
@@ -442,21 +442,7 @@
       "location": "Carhaix",
       "description": "",
       "pubDate": "2 Mars"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (St Quentin (02))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-St-Quentin-02_pa267245.html",
-      "location": "St Quentin",
-      "description": "",
-      "pubDate": "26 Février"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Paris 8e)",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Paris-8e_pa267244.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "26 Février"
     }
   ],
-  "scrapedAt": "2026-05-25T21:04:57.158Z"
+  "scrapedAt": "2026-05-25T23:00:30.888Z"
 }
