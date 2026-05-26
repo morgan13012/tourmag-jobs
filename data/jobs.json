@@ -1,7 +1,28 @@
 {
   "success": true,
-  "total": 63,
+  "total": 60,
   "offers": [
+    {
+      "title": "UN MONDE DE VOYAGES - Conseiller voyages polyvalent H/F - CDD/CDI - (Saint-Fargeau-Ponthierry (77))",
+      "link": "https://www.tourmag.com/classifieds/UN-MONDE-DE-VOYAGES-Conseiller-voyages-polyvalent-H-F-CDD-CDI-Saint-Fargeau-Ponthierry-77_pa268134.html",
+      "location": "Saint-Fargeau-Ponthierry",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages avec bail basée à Paris 17e",
+      "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-avec-bail-basee-a-Paris-17e_pa267876.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "PROMOTION CONSEIL VACANCES - Commercial expérimenté H/F - CDI - (France entière)",
+      "link": "https://www.tourmag.com/classifieds/PROMOTION-CONSEIL-VACANCES-Commercial-experimente-H-F-CDI-France-entiere_pa267540.html",
+      "location": "France",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
     {
       "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - CDI - (Sérignan (34))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Responsable-d-agence-H-F-CDI-Serignan-34_pa268127.html",
@@ -120,13 +141,6 @@
       "location": "Sélestat",
       "description": "",
       "pubDate": "12 Mai"
-    },
-    {
-      "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages avec bail basée à Paris 17e",
-      "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-avec-bail-basee-a-Paris-17e_pa267876.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "7 Mai"
     },
     {
       "title": "E.LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Echirolles (38))",
@@ -262,20 +276,6 @@
       "pubDate": "15 Avril"
     },
     {
-      "title": "LE GROUPE SALAUN - Responsable d'Unité Technique H/F - CDI - (Dijon (21))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Responsable-d-Unite-Technique-H-F-CDI-Dijon-21_pa267827.html",
-      "location": "Dijon",
-      "description": "",
-      "pubDate": "10 Avril"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Dijon (21))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Dijon-21_pa267826.html",
-      "location": "Dijon",
-      "description": "",
-      "pubDate": "10 Avril"
-    },
-    {
       "title": "INTERMEDES - Gestionnaire de voyages / Relation qualité clients H/F - CDI - (Paris 10e)",
       "link": "https://www.tourmag.com/classifieds/INTERMEDES-Gestionnaire-de-voyages - Relation qualite clients-H-F-CDI-Paris-10e_pa267780.html",
       "location": "Paris",
@@ -339,13 +339,6 @@
       "pubDate": "26 Mars"
     },
     {
-      "title": "PROMOTION CONSEIL VACANCES - Commercial expérimenté H/F - CDI - (France entière)",
-      "link": "https://www.tourmag.com/classifieds/PROMOTION-CONSEIL-VACANCES-Commercial-experimente-H-F-CDI-France-entiere_pa267540.html",
-      "location": "France",
-      "description": "",
-      "pubDate": "19 Mars"
-    },
-    {
       "title": "HEWAGO - 2 Agents de réservation back-office H/F - CDI  - (Paris (75) ou Nice (06))",
       "link": "https://www.tourmag.com/classifieds/HEWAGO-2-Agents-de-reservation-back-office-H-F-CDI-Paris-75-ou-Nice-06_pa267477.html",
       "location": "Paris ou Nice",
@@ -370,13 +363,6 @@
       "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Menton (06))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Menton-06_pa267475.html",
       "location": "Menton",
-      "description": "",
-      "pubDate": "19 Mars"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Saumur (49))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Saumur-49_pa267471.html",
-      "location": "Saumur",
       "description": "",
       "pubDate": "19 Mars"
     },
@@ -416,13 +402,6 @@
       "pubDate": "9 Mars"
     },
     {
-      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDD - (Fougères (35))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDD-Fougeres-35_pa267402.html",
-      "location": "Fougères",
-      "description": "",
-      "pubDate": "9 Mars"
-    },
-    {
       "title": "VOYAGES D'EXCEPTION - Chef de production Voyages culturels haut de gamme H/F - CDI - (Paris 11e)",
       "link": "https://www.tourmag.com/classifieds/VOYAGES-D-EXCEPTION-Chef-de-production-Voyages-culturels-haut-de-gamme-H-F-CDI-Paris-11e_pa267320.html",
       "location": "Paris",
@@ -444,5 +423,5 @@
       "pubDate": "2 Mars"
     }
   ],
-  "scrapedAt": "2026-05-26T08:30:06.423Z"
+  "scrapedAt": "2026-05-26T16:41:16.474Z"
 }
