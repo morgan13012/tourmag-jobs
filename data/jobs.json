@@ -3,6 +3,13 @@
   "total": 60,
   "offers": [
     {
+      "title": "E.LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Echirolles (38))",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Echirolles-38_pa267875.html",
+      "location": "Echirolles",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
       "title": "UN MONDE DE VOYAGES - Conseiller voyages polyvalent H/F - CDD/CDI - (Saint-Fargeau-Ponthierry (77))",
       "link": "https://www.tourmag.com/classifieds/UN-MONDE-DE-VOYAGES-Conseiller-voyages-polyvalent-H-F-CDD-CDI-Saint-Fargeau-Ponthierry-77_pa268134.html",
       "location": "Saint-Fargeau-Ponthierry",
@@ -141,13 +148,6 @@
       "location": "Sélestat",
       "description": "",
       "pubDate": "12 Mai"
-    },
-    {
-      "title": "E.LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Echirolles (38))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Echirolles-38_pa267875.html",
-      "location": "Echirolles",
-      "description": "",
-      "pubDate": "7 Mai"
     },
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Tourville (76))",
@@ -423,5 +423,5 @@
       "pubDate": "2 Mars"
     }
   ],
-  "scrapedAt": "2026-05-27T08:37:38.758Z"
+  "scrapedAt": "2026-05-27T12:19:41.041Z"
 }
