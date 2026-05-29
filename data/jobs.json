@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 60,
+  "total": 61,
   "offers": [
+    {
+      "title": "FITOUR VOYAGES - Responsable Point de Vente - CDI - (Brive-la-Gaillarde (19))",
+      "link": "https://www.tourmag.com/classifieds/FITOUR-VOYAGES-Responsable-Point-de-Vente-CDI-Brive-la-Gaillarde-19_pa268202.html",
+      "location": "Brive-la-Gaillarde",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "E.LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Echirolles (38))",
       "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Echirolles-38_pa267875.html",
@@ -423,5 +430,5 @@
       "pubDate": "2 Mars"
     }
   ],
-  "scrapedAt": "2026-05-29T12:14:43.512Z"
+  "scrapedAt": "2026-05-29T16:41:17.983Z"
 }
