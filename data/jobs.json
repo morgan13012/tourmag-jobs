@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 61,
+  "total": 57,
   "offers": [
     {
       "title": "FITOUR VOYAGES - Responsable Point de Vente - CDI - (Brive-la-Gaillarde (19))",
@@ -132,13 +132,6 @@
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Vitrolles (13))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Vitrolles-13_pa267880.html",
       "location": "Vitrolles",
-      "description": "",
-      "pubDate": "13 Mai"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Villabé (91))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Villabe-91_pa266592.html",
-      "location": "Villabé",
       "description": "",
       "pubDate": "13 Mai"
     },
@@ -332,20 +325,6 @@
       "pubDate": "26 Mars"
     },
     {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD - ((Ollioules (83))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Ollioules-83_pa266435.html",
-      "location": "Ollioules",
-      "description": "",
-      "pubDate": "26 Mars"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Nice (06))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Nice-06_pa266346.html",
-      "location": "06000 Nice Lingostière",
-      "description": "",
-      "pubDate": "26 Mars"
-    },
-    {
       "title": "HEWAGO - 2 Agents de réservation back-office H/F - CDI  - (Paris (75) ou Nice (06))",
       "link": "https://www.tourmag.com/classifieds/HEWAGO-2-Agents-de-reservation-back-office-H-F-CDI-Paris-75-ou-Nice-06_pa267477.html",
       "location": "Paris ou Nice",
@@ -370,13 +349,6 @@
       "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Menton (06))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Menton-06_pa267475.html",
       "location": "Menton",
-      "description": "",
-      "pubDate": "19 Mars"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Toulouse Purpan (31))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Toulouse-Purpan-31_pa266282.html",
-      "location": "Toulouse",
       "description": "",
       "pubDate": "19 Mars"
     },
@@ -430,5 +402,5 @@
       "pubDate": "2 Mars"
     }
   ],
-  "scrapedAt": "2026-05-30T20:55:22.527Z"
+  "scrapedAt": "2026-05-30T22:00:46.427Z"
 }
