@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 57,
+  "total": 55,
   "offers": [
     {
       "title": "FITOUR VOYAGES - Responsable Point de Vente - CDI - (Brive-la-Gaillarde (19))",
@@ -386,21 +386,7 @@
       "location": "Paris",
       "description": "",
       "pubDate": "6 Mars"
-    },
-    {
-      "title": "E.LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Carhaix (29))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Carhaix-29_pa267260.html",
-      "location": "Carhaix",
-      "description": "",
-      "pubDate": "2 Mars"
-    },
-    {
-      "title": "E-LECLERC VOYAGES - 2 Conseillèr(e)s voyages H/F - CDI - (Carhaix (29))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-2-Conseiller-e-s-voyages-H-F-CDI-Carhaix-29_pa267257.html",
-      "location": "Carhaix",
-      "description": "",
-      "pubDate": "2 Mars"
     }
   ],
-  "scrapedAt": "2026-06-01T20:53:22.678Z"
+  "scrapedAt": "2026-06-01T23:00:26.391Z"
 }
