@@ -3,6 +3,13 @@
   "total": 55,
   "offers": [
     {
+      "title": "E-LECLERC VOYAGES - Conseiller(e)s voyages confirmé(e)s H/F - CDI - (Anet (28))",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-e-s-voyages-confirme-e-s-H-F-CDI-Anet-28_pa268119.html",
+      "location": "Anet",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
       "title": "FITOUR VOYAGES - Responsable Point de Vente - CDI - (Brive-la-Gaillarde (19))",
       "link": "https://www.tourmag.com/classifieds/FITOUR-VOYAGES-Responsable-Point-de-Vente-CDI-Brive-la-Gaillarde-19_pa268202.html",
       "location": "Brive-la-Gaillarde",
@@ -50,13 +57,6 @@
       "location": "Paris, Reims, Lyon, Toulouse",
       "description": "",
       "pubDate": "19 Mai"
-    },
-    {
-      "title": "E-LECLERC VOYAGES - Conseiller(e)s voyages confirmé(e)s H/F - CDI - (Anet (28))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-e-s-voyages-confirme-e-s-H-F-CDI-Anet-28_pa268119.html",
-      "location": "Anet",
-      "description": "",
-      "pubDate": "18 Mai"
     },
     {
       "title": "LE MONDE EN DIRECT - Technicien(ne) Back-office H/F - CDI - (Boulogne-Billancourt (92))",
@@ -388,5 +388,5 @@
       "pubDate": "6 Mars"
     }
   ],
-  "scrapedAt": "2026-06-02T23:44:07.939Z"
+  "scrapedAt": "2026-06-03T09:23:21.623Z"
 }
