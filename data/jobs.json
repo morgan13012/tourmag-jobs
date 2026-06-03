@@ -1,13 +1,13 @@
 {
   "success": true,
-  "total": 55,
+  "total": 54,
   "offers": [
     {
       "title": "E-LECLERC VOYAGES - Conseiller(e)s voyages confirmé(e)s H/F - CDI - (Anet (28))",
       "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-e-s-voyages-confirme-e-s-H-F-CDI-Anet-28_pa268119.html",
       "location": "Anet",
       "description": "",
-      "pubDate": "NEW 23:30"
+      "pubDate": "3 Juin"
     },
     {
       "title": "FITOUR VOYAGES - Responsable Point de Vente - CDI - (Brive-la-Gaillarde (19))",
@@ -311,13 +311,6 @@
       "pubDate": "26 Mars"
     },
     {
-      "title": "SLD VOYAGES - Technicien(ne) Production Groupes - CDI - (Dardilly (69))",
-      "link": "https://www.tourmag.com/classifieds/SLD-VOYAGES-Technicien-ne-Production-Groupes-CDI-Dardilly-69_pa267317.html",
-      "location": "Dardilly",
-      "description": "",
-      "pubDate": "26 Mars"
-    },
-    {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Calais (62))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Calais-62_pa267689.html",
       "location": "Calais",
@@ -388,5 +381,5 @@
       "pubDate": "6 Mars"
     }
   ],
-  "scrapedAt": "2026-06-03T21:47:34.448Z"
+  "scrapedAt": "2026-06-03T23:42:02.609Z"
 }
