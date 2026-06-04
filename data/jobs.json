@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 50,
+  "total": 49,
   "offers": [
     {
       "title": "CARREFOUR VOYAGES - 2 Conseillers voyages H/F - CDI - (Montesson (78))",
@@ -77,56 +77,56 @@
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Tourville-76_pa266890.html",
       "location": "Tourville",
       "description": "",
-      "pubDate": "NEW 23:00"
+      "pubDate": "4 Juin"
     },
     {
       "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Nancy (54))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Nancy-54_pa266445.html",
       "location": "Nancy",
       "description": "",
-      "pubDate": "NEW 23:00"
+      "pubDate": "4 Juin"
     },
     {
       "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Strasbourg (67))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Strasbourg-67_pa266444.html",
       "location": "Strasbourg",
       "description": "",
-      "pubDate": "NEW 23:00"
+      "pubDate": "4 Juin"
     },
     {
       "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Menton (06))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Menton-06_pa267475.html",
       "location": "Menton",
       "description": "",
-      "pubDate": "NEW 22:00"
+      "pubDate": "4 Juin"
     },
     {
       "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Cambrai (59))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Cambrai-59_pa267404.html",
       "location": "Cambrai",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "4 Juin"
     },
     {
       "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Blois (41))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Blois-41_pa266568.html",
       "location": "Blois",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "4 Juin"
     },
     {
       "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Mantes la Jolie (78))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Mantes-la-Jolie-78_pa266554.html",
       "location": "Mantes la Jolie",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "4 Juin"
     },
     {
       "title": "LE GROUPE SALAUN - Responsable d'Unité Technique H/F - CDI - (Orléans (45))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Responsable-d-Unite-Technique-H-F-CDI-Orleans-45_pa266550.html",
       "location": "Orléans",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "4 Juin"
     },
     {
       "title": "E-LECLERC VOYAGES - Conseiller(e)s voyages confirmé(e)s H/F - CDI - (Anet (28))",
@@ -344,14 +344,7 @@
       "location": "Copenhague",
       "description": "",
       "pubDate": "11 Mars"
-    },
-    {
-      "title": "VOYAGES D'EXCEPTION - Chef de production Voyages culturels haut de gamme H/F - CDI - (Paris 11e)",
-      "link": "https://www.tourmag.com/classifieds/VOYAGES-D-EXCEPTION-Chef-de-production-Voyages-culturels-haut-de-gamme-H-F-CDI-Paris-11e_pa267320.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "6 Mars"
     }
   ],
-  "scrapedAt": "2026-06-04T20:04:34.090Z"
+  "scrapedAt": "2026-06-04T22:20:09.902Z"
 }
