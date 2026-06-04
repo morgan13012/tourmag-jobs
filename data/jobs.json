@@ -1,7 +1,21 @@
 {
   "success": true,
-  "total": 58,
+  "total": 63,
   "offers": [
+    {
+      "title": "CARREFOUR VOYAGES - 2 Conseillers voyages H/F - CDI - (Montesson (78))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-2-Conseillers-voyages-H-F-CDI-Montesson-78_pa268220.html",
+      "location": "Montesson",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Evreux (27))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Evreux-27_pa268219.html",
+      "location": "Evreux",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "LE GROUPE SALAUN - Chef de projet Mice H/F - CDI  - (Nantes (44))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Chef-de-projet-Mice-H-F-CDI-Nantes-44_pa268218.html",
@@ -10,9 +24,51 @@
       "pubDate": "NEW 23:30"
     },
     {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Brest (29))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Brest-29_pa267100.html",
+      "location": "Brest",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Villabé (91))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Villabe-91_pa266592.html",
+      "location": "Villabé",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Vannes (56))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Vannes-56_pa268223.html",
+      "location": "Vannes",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Angoulins (17))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Angoulins-17_pa268222.html",
+      "location": "Angoulins",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
       "title": "LE GROUPE SALAUN - Chef de projet MICE H/F - CDI - (Marseille (13))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Chef-de-projet-MICE-H-F-CDI-Marseille-13_pa267970.html",
       "location": "Marseille",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Vitrolles (13))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Vitrolles-13_pa267880.html",
+      "location": "Vitrolles",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Tourville (76))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Tourville-76_pa266890.html",
+      "location": "Tourville",
       "description": "",
       "pubDate": "NEW 23:00"
     },
@@ -129,13 +185,6 @@
       "pubDate": "13 Mai"
     },
     {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Brest (29))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Brest-29_pa267100.html",
-      "location": "Brest",
-      "description": "",
-      "pubDate": "13 Mai"
-    },
-    {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Marseille Grand Littoral (13))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Marseille-Grand-Littoral-13_pa266888.html",
       "location": "Marseille",
@@ -192,13 +241,6 @@
       "pubDate": "13 Mai"
     },
     {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Vitrolles (13))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Vitrolles-13_pa267880.html",
-      "location": "Vitrolles",
-      "description": "",
-      "pubDate": "13 Mai"
-    },
-    {
       "title": "VERDIE VOYAGES - Responsable d'agence H/F - CDI - (Lyon 1er)",
       "link": "https://www.tourmag.com/classifieds/VERDIE-VOYAGES-Responsable-d-agence-H-F-CDI-Lyon-1er_pa268039.html",
       "location": "Lyon",
@@ -211,13 +253,6 @@
       "location": "Sélestat",
       "description": "",
       "pubDate": "12 Mai"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Tourville (76))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Tourville-76_pa266890.html",
-      "location": "Tourville",
-      "description": "",
-      "pubDate": "7 Mai"
     },
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Rennes Cesson (35))",
@@ -409,5 +444,5 @@
       "pubDate": "6 Mars"
     }
   ],
-  "scrapedAt": "2026-06-04T11:52:29.596Z"
+  "scrapedAt": "2026-06-04T14:58:13.306Z"
 }
