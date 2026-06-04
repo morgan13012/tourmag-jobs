@@ -1,7 +1,70 @@
 {
   "success": true,
-  "total": 54,
+  "total": 58,
   "offers": [
+    {
+      "title": "LE GROUPE SALAUN - Chef de projet Mice H/F - CDI  - (Nantes (44))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Chef-de-projet-Mice-H-F-CDI-Nantes-44_pa268218.html",
+      "location": "Nantes",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Chef de projet MICE H/F - CDI - (Marseille (13))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Chef-de-projet-MICE-H-F-CDI-Marseille-13_pa267970.html",
+      "location": "Marseille",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Nancy (54))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Nancy-54_pa266445.html",
+      "location": "Nancy",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Strasbourg (67))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Strasbourg-67_pa266444.html",
+      "location": "Strasbourg",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Menton (06))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Menton-06_pa267475.html",
+      "location": "Menton",
+      "description": "",
+      "pubDate": "NEW 22:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Cambrai (59))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Cambrai-59_pa267404.html",
+      "location": "Cambrai",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Blois (41))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Blois-41_pa266568.html",
+      "location": "Blois",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Mantes la Jolie (78))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Mantes-la-Jolie-78_pa266554.html",
+      "location": "Mantes la Jolie",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Responsable d'Unité Technique H/F - CDI - (Orléans (45))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Responsable-d-Unite-Technique-H-F-CDI-Orleans-45_pa266550.html",
+      "location": "Orléans",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "E-LECLERC VOYAGES - Conseiller(e)s voyages confirmé(e)s H/F - CDI - (Anet (28))",
       "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-e-s-voyages-confirme-e-s-H-F-CDI-Anet-28_pa268119.html",
@@ -157,20 +220,6 @@
       "pubDate": "7 Mai"
     },
     {
-      "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Nancy (54))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Nancy-54_pa266445.html",
-      "location": "Nancy",
-      "description": "",
-      "pubDate": "7 Mai"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Strasbourg (67))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Strasbourg-67_pa266444.html",
-      "location": "Strasbourg",
-      "description": "",
-      "pubDate": "7 Mai"
-    },
-    {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Rennes Cesson (35))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Rennes-Cesson-35_pa266437.html",
       "location": "Rennes Cesson",
@@ -181,13 +230,6 @@
       "title": "NOUVELLE CALEDONIE TOURISME - Appel d'offres de Représentation France/Europe de la Nouvelle-Calédonie en tant que destination touristique",
       "link": "https://www.tourmag.com/classifieds/NOUVELLE-CALEDONIE-TOURISME-Appel-d-offres-de-Representation-France-Europe-de-la-Nouvelle-Caledonie-en-tant-que_pa267903.html",
       "location": "",
-      "description": "",
-      "pubDate": "6 Mai"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Chef de projet MICE H/F - CDI - (Marseille (13))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Chef-de-projet-MICE-H-F-CDI-Marseille-13_pa267970.html",
-      "location": "Marseille",
       "description": "",
       "pubDate": "6 Mai"
     },
@@ -339,13 +381,6 @@
       "pubDate": "19 Mars"
     },
     {
-      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Menton (06))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Menton-06_pa267475.html",
-      "location": "Menton",
-      "description": "",
-      "pubDate": "19 Mars"
-    },
-    {
       "title": "AMAZING HOLIDAYS IN INDIA LLP - Assistant(e) production touristique et Marketing H/F - Stage - (New Delhi - Inde)",
       "link": "https://www.tourmag.com/classifieds/AMAZING-HOLIDAYS-IN-INDIA-LLP-Assistant-e-production-touristique-et-Marketing-H-F-Stage-New-Delhi-Inde_pa267594.html",
       "location": "New Delhi",
@@ -367,13 +402,6 @@
       "pubDate": "11 Mars"
     },
     {
-      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Cambrai (59))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Cambrai-59_pa267404.html",
-      "location": "Cambrai",
-      "description": "",
-      "pubDate": "9 Mars"
-    },
-    {
       "title": "VOYAGES D'EXCEPTION - Chef de production Voyages culturels haut de gamme H/F - CDI - (Paris 11e)",
       "link": "https://www.tourmag.com/classifieds/VOYAGES-D-EXCEPTION-Chef-de-production-Voyages-culturels-haut-de-gamme-H-F-CDI-Paris-11e_pa267320.html",
       "location": "Paris",
@@ -381,5 +409,5 @@
       "pubDate": "6 Mars"
     }
   ],
-  "scrapedAt": "2026-06-04T08:46:23.300Z"
+  "scrapedAt": "2026-06-04T11:52:29.596Z"
 }
