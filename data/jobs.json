@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 49,
+  "total": 50,
   "offers": [
+    {
+      "title": "LOIRE OCEAN VOYAGES - Conseiller Voyages H/F - CDI - (La Roche sur Yon (85))",
+      "link": "https://www.tourmag.com/classifieds/LOIRE-OCEAN-VOYAGES-Conseiller-Voyages-H-F-CDI-La-Roche-sur-Yon-85_pa268225.html",
+      "location": "La Roche sur Yon",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "CARREFOUR VOYAGES - 2 Conseillers voyages H/F - CDI - (Montesson (78))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-2-Conseillers-voyages-H-F-CDI-Montesson-78_pa268220.html",
@@ -346,5 +353,5 @@
       "pubDate": "11 Mars"
     }
   ],
-  "scrapedAt": "2026-06-05T08:42:17.009Z"
+  "scrapedAt": "2026-06-05T12:07:14.831Z"
 }
