@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 54,
+  "total": 53,
   "offers": [
     {
       "title": "CARREFOUR VOYAGES - 2 Conseillers voyages H/F - CDI - (Montesson (78))",
@@ -367,13 +367,6 @@
       "pubDate": "18 Mars"
     },
     {
-      "title": "AUSTRAL LAGONS - Commercial expérimenté BtoB H/F - CDI - (Région Rhône-Alpes)",
-      "link": "https://www.tourmag.com/classifieds/AUSTRAL-LAGONS-Commercial-experimente-BtoB-H-F-CDI-Region-Rhone-Alpes_pa267401.html",
-      "location": "Lyon",
-      "description": "",
-      "pubDate": "12 Mars"
-    },
-    {
       "title": "V.O.S  - Coordinateurs·trices des opérations - (Copenhague  (Danemark) ou Dubline (Irlande))",
       "link": "https://www.tourmag.com/classifieds/V-O-S-Coordinateurs·trices-des-operations-Copenhague-Danemark-ou-Dubline-Irlande_pa266769.html",
       "location": "Copenhague",
@@ -381,5 +374,5 @@
       "pubDate": "11 Mars"
     }
   ],
-  "scrapedAt": "2026-06-08T20:13:00.158Z"
+  "scrapedAt": "2026-06-08T22:25:16.990Z"
 }
