@@ -1,7 +1,28 @@
 {
   "success": true,
-  "total": 53,
+  "total": 55,
   "offers": [
+    {
+      "title": "LOIRE OCEAN VOYAGES - Conseiller Voyages H/F - CDI - (La Roche sur Yon (85))",
+      "link": "https://www.tourmag.com/classifieds/LOIRE-OCEAN-VOYAGES-Conseiller-Voyages-H-F-CDI-La-Roche-sur-Yon-85_pa268225.html",
+      "location": "La Roche sur Yon",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Aurillac (15))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Aurillac-15_pa268233.html",
+      "location": "Aurillac",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Sérignan (34))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Serignan-34_pa268232.html",
+      "location": "Sérignan",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "CARREFOUR VOYAGES - 2 Conseillers voyages H/F - CDI - (Montesson (78))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-2-Conseillers-voyages-H-F-CDI-Montesson-78_pa268220.html",
@@ -50,13 +71,6 @@
       "location": "Paris",
       "description": "",
       "pubDate": "6 Juin"
-    },
-    {
-      "title": "LOIRE OCEAN VOYAGES - Conseiller Voyages H/F - CDI - (La Roche sur Yon (85))",
-      "link": "https://www.tourmag.com/classifieds/LOIRE-OCEAN-VOYAGES-Conseiller-Voyages-H-F-CDI-La-Roche-sur-Yon-85_pa268225.html",
-      "location": "La Roche sur Yon",
-      "description": "",
-      "pubDate": "5 Juin"
     },
     {
       "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - CDI - (Noisy-le-grand (93))",
@@ -374,5 +388,5 @@
       "pubDate": "11 Mars"
     }
   ],
-  "scrapedAt": "2026-06-09T15:22:13.178Z"
+  "scrapedAt": "2026-06-09T18:03:30.837Z"
 }
