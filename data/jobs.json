@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 54,
+  "total": 52,
   "offers": [
+    {
+      "title": "E-LECLERC VOYAGES - Conseiller(e)s voyages confirmé(e)s H/F - CDI - (Anet (28))",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-e-s-voyages-confirme-e-s-H-F-CDI-Anet-28_pa268119.html",
+      "location": "Anet",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "LOIRE OCEAN VOYAGES - Conseiller Voyages H/F - CDI - (La Roche sur Yon (85))",
       "link": "https://www.tourmag.com/classifieds/LOIRE-OCEAN-VOYAGES-Conseiller-Voyages-H-F-CDI-La-Roche-sur-Yon-85_pa268225.html",
@@ -178,13 +185,6 @@
       "pubDate": "4 Juin"
     },
     {
-      "title": "E-LECLERC VOYAGES - Conseiller(e)s voyages confirmé(e)s H/F - CDI - (Anet (28))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-e-s-voyages-confirme-e-s-H-F-CDI-Anet-28_pa268119.html",
-      "location": "Anet",
-      "description": "",
-      "pubDate": "3 Juin"
-    },
-    {
       "title": "FITOUR VOYAGES - Responsable Point de Vente - CDI - (Brive-la-Gaillarde (19))",
       "link": "https://www.tourmag.com/classifieds/FITOUR-VOYAGES-Responsable-Point-de-Vente-CDI-Brive-la-Gaillarde-19_pa268202.html",
       "location": "Brive-la-Gaillarde",
@@ -325,20 +325,6 @@
       "pubDate": "2 Avril"
     },
     {
-      "title": "TURQUOISE TO - Billettiste confirmé(e) Service Transport H/F - CDD ou CDI - (Aix-en-Provence (13))",
-      "link": "https://www.tourmag.com/classifieds/TURQUOISE-TO-Billettiste-confirme-e-Service-Transport-H-F-CDD-ou-CDI-Aix-en-Provence-13_pa267474.html",
-      "location": "Aix-en-Provence",
-      "description": "",
-      "pubDate": "31 Mars"
-    },
-    {
-      "title": "DURANCE EVASION - Conseiller voyages H/F - CDI - (Châteaurenard (13))",
-      "link": "https://www.tourmag.com/classifieds/DURANCE-EVASION-Conseiller-voyages-H-F-CDI-Chateaurenard-13_pa267472.html",
-      "location": "Châteaurenard",
-      "description": "",
-      "pubDate": "30 Mars"
-    },
-    {
       "title": "CE EVASION - Technicien(ne) groupes pôle clubs F/H - CDI - (Paris, Lyon ou Rouen)",
       "link": "https://www.tourmag.com/classifieds/CE-EVASION-Technicien-ne-groupes-pole-clubs-F-H-CDI-Paris-Lyon-ou-Rouen_pa267682.html",
       "location": "Paris, Lyon ou Rouen",
@@ -360,18 +346,18 @@
       "pubDate": "19 Mars"
     },
     {
-      "title": "KUONI TUMLARE - Events Coordinator - MICE H/F - CDI - (Saint Ouen (93))",
-      "link": "https://www.tourmag.com/classifieds/KUONI-TUMLARE-Events-Coordinator-MICE-H-F-CDI-Saint-Ouen-93_pa267473.html",
-      "location": "Saint Ouen",
-      "description": "",
-      "pubDate": "19 Mars"
-    },
-    {
       "title": "AMAZING HOLIDAYS IN INDIA LLP - Assistant(e) production touristique et Marketing H/F - Stage - (New Delhi - Inde)",
       "link": "https://www.tourmag.com/classifieds/AMAZING-HOLIDAYS-IN-INDIA-LLP-Assistant-e-production-touristique-et-Marketing-H-F-Stage-New-Delhi-Inde_pa267594.html",
       "location": "New Delhi",
       "description": "",
       "pubDate": "18 Mars"
+    },
+    {
+      "title": "KUONI TUMLARE - Events Coordinator - MICE H/F - CDI - (Saint Ouen (93))",
+      "link": "https://www.tourmag.com/classifieds/KUONI-TUMLARE-Events-Coordinator-MICE-H-F-CDI-Saint-Ouen-93_pa267473.html",
+      "location": "Saint Ouen",
+      "description": "",
+      "pubDate": "19 Mars"
     },
     {
       "title": "V.O.S  - Coordinateurs·trices des opérations - (Copenhague  (Danemark) ou Dubline (Irlande))",
@@ -381,5 +367,5 @@
       "pubDate": "11 Mars"
     }
   ],
-  "scrapedAt": "2026-06-10T19:33:40.364Z"
+  "scrapedAt": "2026-06-10T22:00:52.952Z"
 }
