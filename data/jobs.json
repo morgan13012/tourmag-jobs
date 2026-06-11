@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 51,
+  "total": 49,
   "offers": [
     {
       "title": "E-LECLERC VOYAGES - Conseiller(e)s voyages confirmé(e)s H/F - CDI - (Anet (28))",
@@ -332,20 +332,6 @@
       "pubDate": "26 Mars"
     },
     {
-      "title": "CE EVASION - Technicien(ne) Forfaitistes groupes collectivités F/H - CDI - (Paris, Lyon ou Rouen)",
-      "link": "https://www.tourmag.com/classifieds/CE-EVASION-Technicien-ne-Forfaitistes-groupes-collectivites-F-H-CDI-Paris-Lyon-ou-Rouen_pa267476.html",
-      "location": "Paris, Lyon, Rouen",
-      "description": "",
-      "pubDate": "26 Mars"
-    },
-    {
-      "title": "HEWAGO - 2 Agents de réservation back-office H/F - CDI  - (Paris (75) ou Nice (06))",
-      "link": "https://www.tourmag.com/classifieds/HEWAGO-2-Agents-de-reservation-back-office-H-F-CDI-Paris-75-ou-Nice-06_pa267477.html",
-      "location": "Paris ou Nice",
-      "description": "",
-      "pubDate": "19 Mars"
-    },
-    {
       "title": "AMAZING HOLIDAYS IN INDIA LLP - Assistant(e) production touristique et Marketing H/F - Stage - (New Delhi - Inde)",
       "link": "https://www.tourmag.com/classifieds/AMAZING-HOLIDAYS-IN-INDIA-LLP-Assistant-e-production-touristique-et-Marketing-H-F-Stage-New-Delhi-Inde_pa267594.html",
       "location": "New Delhi",
@@ -360,5 +346,5 @@
       "pubDate": "11 Mars"
     }
   ],
-  "scrapedAt": "2026-06-11T20:20:12.731Z"
+  "scrapedAt": "2026-06-11T22:48:59.070Z"
 }
