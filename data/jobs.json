@@ -1,13 +1,13 @@
 {
   "success": true,
-  "total": 52,
+  "total": 51,
   "offers": [
     {
       "title": "E-LECLERC VOYAGES - Conseiller(e)s voyages confirmé(e)s H/F - CDI - (Anet (28))",
       "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-e-s-voyages-confirme-e-s-H-F-CDI-Anet-28_pa268119.html",
       "location": "Anet",
       "description": "",
-      "pubDate": "NEW 23:30"
+      "pubDate": "10 Juin"
     },
     {
       "title": "LOIRE OCEAN VOYAGES - Conseiller Voyages H/F - CDI - (La Roche sur Yon (85))",
@@ -353,13 +353,6 @@
       "pubDate": "18 Mars"
     },
     {
-      "title": "KUONI TUMLARE - Events Coordinator - MICE H/F - CDI - (Saint Ouen (93))",
-      "link": "https://www.tourmag.com/classifieds/KUONI-TUMLARE-Events-Coordinator-MICE-H-F-CDI-Saint-Ouen-93_pa267473.html",
-      "location": "Saint Ouen",
-      "description": "",
-      "pubDate": "19 Mars"
-    },
-    {
       "title": "V.O.S  - Coordinateurs·trices des opérations - (Copenhague  (Danemark) ou Dubline (Irlande))",
       "link": "https://www.tourmag.com/classifieds/V-O-S-Coordinateurs·trices-des-operations-Copenhague-Danemark-ou-Dubline-Irlande_pa266769.html",
       "location": "Copenhague",
@@ -367,5 +360,5 @@
       "pubDate": "11 Mars"
     }
   ],
-  "scrapedAt": "2026-06-10T22:00:52.952Z"
+  "scrapedAt": "2026-06-11T00:13:28.606Z"
 }
