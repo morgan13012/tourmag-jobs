@@ -1,7 +1,21 @@
 {
   "success": true,
-  "total": 49,
+  "total": 50,
   "offers": [
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Lattes (34))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Lattes-34_pa268258.html",
+      "location": "Lattes",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Vitrolles (13))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Vitrolles-13_pa267880.html",
+      "location": "Vitrolles",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
     {
       "title": "E-LECLERC VOYAGES - Conseiller(e)s voyages confirmé(e)s H/F - CDI - (Anet (28))",
       "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-e-s-voyages-confirme-e-s-H-F-CDI-Anet-28_pa268119.html",
@@ -118,13 +132,6 @@
       "title": "LE GROUPE SALAUN - Chef de projet MICE H/F - CDI - (Marseille (13))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Chef-de-projet-MICE-H-F-CDI-Marseille-13_pa267970.html",
       "location": "Marseille",
-      "description": "",
-      "pubDate": "4 Juin"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Vitrolles (13))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Vitrolles-13_pa267880.html",
-      "location": "Vitrolles",
       "description": "",
       "pubDate": "4 Juin"
     },
@@ -346,5 +353,5 @@
       "pubDate": "11 Mars"
     }
   ],
-  "scrapedAt": "2026-06-12T00:18:18.699Z"
+  "scrapedAt": "2026-06-12T08:55:58.009Z"
 }
