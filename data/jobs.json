@@ -3,6 +3,13 @@
   "total": 53,
   "offers": [
     {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Aurillac (15))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Aurillac-15_pa268233.html",
+      "location": "Aurillac",
+      "description": "",
+      "pubDate": "15 Juin"
+    },
+    {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Vénissieux (69))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Venissieux-69_pa268260.html",
       "location": "Vénissieux",
@@ -13,13 +20,6 @@
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Ville-du-bois (91))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Ville-du-bois-91_pa268259.html",
       "location": "Ville-du-bois",
-      "description": "",
-      "pubDate": "12 Juin"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Aurillac (15))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Aurillac-15_pa268233.html",
-      "location": "Aurillac",
       "description": "",
       "pubDate": "12 Juin"
     },
@@ -374,5 +374,5 @@
       "pubDate": "11 Mars"
     }
   ],
-  "scrapedAt": "2026-06-14T18:11:09.373Z"
+  "scrapedAt": "2026-06-14T20:16:15.250Z"
 }
