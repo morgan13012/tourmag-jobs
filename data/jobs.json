@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 55,
+  "total": 56,
   "offers": [
+    {
+      "title": "LE GROUPE SALAUN - Commercial(e) BtoB Secteur Nord-Est  - CDI - (Lille (59))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-BtoB-Secteur-Nord-Est-CDI-Lille-59_pa268267.html",
+      "location": "Lille",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "ASSUREVER - Chargé(e) de clientèle H/F - CDI - (Paris 15e)",
       "link": "https://www.tourmag.com/classifieds/ASSUREVER-Charge-e-de-clientele-H-F-CDI-Paris-15e_pa268262.html",
@@ -388,5 +395,5 @@
       "pubDate": "11 Mars"
     }
   ],
-  "scrapedAt": "2026-06-16T10:05:28.167Z"
+  "scrapedAt": "2026-06-16T15:51:21.062Z"
 }
