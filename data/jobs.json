@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 56,
+  "total": 57,
   "offers": [
+    {
+      "title": "HEMISPHERES VOYAGES EVENTS SPORTS - Conseiller Voyages Groupes / Individuels H/F - CDI - (Grenoble (38) ou Boulogne-Billancourt (92))",
+      "link": "https://www.tourmag.com/classifieds/HEMISPHERES-VOYAGES-EVENTS-SPORTS-Conseiller-Voyages-Groupes-Individuels-H-F-CDI-Grenoble-38-ou-Boulogne-Billancourt-92_pa268268.html",
+      "location": "Grenoble, Boulogne-Billancourt",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
     {
       "title": "LE GROUPE SALAUN - Commercial(e) BtoB Secteur Nord-Est  - CDI - (Lille (59))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-BtoB-Secteur-Nord-Est-CDI-Lille-59_pa268267.html",
@@ -395,5 +402,5 @@
       "pubDate": "11 Mars"
     }
   ],
-  "scrapedAt": "2026-06-17T09:28:02.276Z"
+  "scrapedAt": "2026-06-17T13:40:09.983Z"
 }
