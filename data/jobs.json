@@ -1,13 +1,13 @@
 {
   "success": true,
-  "total": 57,
+  "total": 56,
   "offers": [
     {
       "title": "HEMISPHERES VOYAGES EVENTS SPORTS - Conseiller Voyages Groupes / Individuels H/F - CDI - (Grenoble (38) ou Boulogne-Billancourt (92))",
       "link": "https://www.tourmag.com/classifieds/HEMISPHERES-VOYAGES-EVENTS-SPORTS-Conseiller-Voyages-Groupes-Individuels-H-F-CDI-Grenoble-38-ou-Boulogne-Billancourt-92_pa268268.html",
       "location": "Grenoble, Boulogne-Billancourt",
       "description": "",
-      "pubDate": "NEW 23:00"
+      "pubDate": "17 Juin"
     },
     {
       "title": "LE GROUPE SALAUN - Commercial(e) BtoB Secteur Nord-Est  - CDI - (Lille (59))",
@@ -388,13 +388,6 @@
       "pubDate": "26 Mars"
     },
     {
-      "title": "AMAZING HOLIDAYS IN INDIA LLP - Assistant(e) production touristique et Marketing H/F - Stage - (New Delhi - Inde)",
-      "link": "https://www.tourmag.com/classifieds/AMAZING-HOLIDAYS-IN-INDIA-LLP-Assistant-e-production-touristique-et-Marketing-H-F-Stage-New-Delhi-Inde_pa267594.html",
-      "location": "New Delhi",
-      "description": "",
-      "pubDate": "18 Mars"
-    },
-    {
       "title": "V.O.S  - Coordinateurs·trices des opérations - (Copenhague  (Danemark) ou Dubline (Irlande))",
       "link": "https://www.tourmag.com/classifieds/V-O-S-Coordinateurs·trices-des-operations-Copenhague-Danemark-ou-Dubline-Irlande_pa266769.html",
       "location": "Copenhague",
@@ -402,5 +395,5 @@
       "pubDate": "11 Mars"
     }
   ],
-  "scrapedAt": "2026-06-17T21:59:24.299Z"
+  "scrapedAt": "2026-06-17T23:45:25.902Z"
 }
