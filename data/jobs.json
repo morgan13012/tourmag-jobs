@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 57,
+  "total": 59,
   "offers": [
     {
       "title": "MSC CROISIERES ESPAGNE - Télévendeurs Conseillers Croisière Francophones F/H - CDI - (Valence)",
@@ -8,6 +8,20 @@
       "location": "Valence",
       "description": "",
       "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "LOIRE OCEAN VOYAGES - Conseiller voyages H/F - CDI - (Challans (85))",
+      "link": "https://www.tourmag.com/classifieds/LOIRE-OCEAN-VOYAGES-Conseiller-voyages-H-F-CDI-Challans-85_pa268274.html",
+      "location": "Challans",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "INTERMEDES - Chargé(e) des ventes Senior H/F - CDI - (Paris 6e)",
+      "link": "https://www.tourmag.com/classifieds/INTERMEDES-Charge-e-des-ventes-Senior-H-F-CDI-Paris-6e_pa268273.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:00"
     },
     {
       "title": "HEMISPHERES VOYAGES EVENTS SPORTS - Conseiller Voyages Groupes / Individuels H/F - CDI - (Grenoble (38) ou Boulogne-Billancourt (92))",
@@ -402,5 +416,5 @@
       "pubDate": "11 Mars"
     }
   ],
-  "scrapedAt": "2026-06-18T09:12:03.157Z"
+  "scrapedAt": "2026-06-18T12:51:23.657Z"
 }
