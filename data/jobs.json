@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 56,
+  "total": 57,
   "offers": [
+    {
+      "title": "MSC CROISIERES ESPAGNE - Télévendeurs Conseillers Croisière Francophones F/H - CDI - (Valence)",
+      "link": "https://www.tourmag.com/classifieds/MSC-CROISIERES-ESPAGNE-Televendeurs-Conseillers-Croisiere-Francophones-F-H-CDI-Valence_pa268271.html",
+      "location": "Valence",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "HEMISPHERES VOYAGES EVENTS SPORTS - Conseiller Voyages Groupes / Individuels H/F - CDI - (Grenoble (38) ou Boulogne-Billancourt (92))",
       "link": "https://www.tourmag.com/classifieds/HEMISPHERES-VOYAGES-EVENTS-SPORTS-Conseiller-Voyages-Groupes-Individuels-H-F-CDI-Grenoble-38-ou-Boulogne-Billancourt-92_pa268268.html",
@@ -395,5 +402,5 @@
       "pubDate": "11 Mars"
     }
   ],
-  "scrapedAt": "2026-06-17T23:45:25.902Z"
+  "scrapedAt": "2026-06-18T09:12:03.157Z"
 }
