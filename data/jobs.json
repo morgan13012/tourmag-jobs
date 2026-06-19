@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 61,
+  "total": 62,
   "offers": [
     {
       "title": "TIME TOURS - Technicien(ne) Groupes Back-Office confirmé(e) H/F - CDI - (Clichy (92))",
@@ -15,6 +15,13 @@
       "location": "",
       "description": "",
       "pubDate": "NEW 11:00"
+    },
+    {
+      "title": "NOMBALAIS EVASION - Alternant(e) Master Tourisme H/F - (Saint-Gilles-Croix-de-Vie (85))",
+      "link": "https://www.tourmag.com/classifieds/NOMBALAIS-EVASION-Alternant-e-Master-Tourisme-H-F-Saint-Gilles-Croix-de-Vie-85_pa268279.html",
+      "location": "Saint-Gilles-Croix-de-Vie",
+      "description": "",
+      "pubDate": "NEW 00:00"
     },
     {
       "title": "MSC CROISIERES ESPAGNE - Télévendeurs Conseillers Croisière Francophones F/H - CDI - (Valence)",
@@ -430,5 +437,5 @@
       "pubDate": "11 Mars"
     }
   ],
-  "scrapedAt": "2026-06-19T13:33:50.094Z"
+  "scrapedAt": "2026-06-19T16:31:04.719Z"
 }
