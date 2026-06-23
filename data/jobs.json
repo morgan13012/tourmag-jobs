@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 65,
+  "total": 66,
   "offers": [
     {
       "title": "CARREFOUR VOYAGES - 2 Conseillers voyages H/F - CDI  - (Tourville (76))",
@@ -8,6 +8,13 @@
       "location": "Tourville",
       "description": "",
       "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "VOYAGEURS DU MONDE - Stagiaire Service Marketing H/F  - (Paris (75)",
+      "link": "https://www.tourmag.com/classifieds/VOYAGEURS-DU-MONDE-Stagiaire-Service-Marketing-H-F-Paris-75_pa268293.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 00:00"
     },
     {
       "title": "IDEE NOMADE - Alternant(e) Tourisme – Production de Voyages Groupes (H/F) - (Alternance ou Stage) -  (Marseille (13))",
@@ -458,5 +465,5 @@
       "pubDate": "11 Mars"
     }
   ],
-  "scrapedAt": "2026-06-23T17:53:13.713Z"
+  "scrapedAt": "2026-06-23T20:02:39.842Z"
 }
