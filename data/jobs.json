@@ -1,7 +1,21 @@
 {
   "success": true,
-  "total": 64,
+  "total": 65,
   "offers": [
+    {
+      "title": "CARREFOUR VOYAGES - 2 Conseillers voyages H/F - CDI  - (Tourville (76))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-2-Conseillers-voyages-H-F-CDI-Tourville-76_pa266890.html",
+      "location": "Tourville",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "IDEE NOMADE - Alternant(e) Tourisme – Production de Voyages Groupes (H/F) - (Alternance ou Stage) -  (Marseille (13))",
+      "link": "https://www.tourmag.com/classifieds/IDEE-NOMADE-Alternant-e-Tourisme-Production-de-Voyages-Groupes-H-F-Alternance-ou-Stage-Marseille-13_pa268292.html",
+      "location": "Marseille",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "PROTOUR - Alternant(e) Tourisme - (Marseille (13))",
       "link": "https://www.tourmag.com/classifieds/PROTOUR-Alternant-e-Tourisme-Marseille-13_pa268290.html",
@@ -20,13 +34,6 @@
       "title": "FITOUR VOYAGES - Responsable Point de Vente - CDI - (Brive-la-Gaillarde (19))",
       "link": "https://www.tourmag.com/classifieds/FITOUR-VOYAGES-Responsable-Point-de-Vente-CDI-Brive-la-Gaillarde-19_pa268202.html",
       "location": "Brive-la-Gaillarde",
-      "description": "",
-      "pubDate": "22 Juin"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - 2 Conseillers voyages H/F - CDI  - (Tourville (76))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-2-Conseillers-voyages-H-F-CDI-Tourville-76_pa266890.html",
-      "location": "Tourville",
       "description": "",
       "pubDate": "22 Juin"
     },
@@ -451,5 +458,5 @@
       "pubDate": "11 Mars"
     }
   ],
-  "scrapedAt": "2026-06-23T15:46:31.196Z"
+  "scrapedAt": "2026-06-23T17:53:13.713Z"
 }
