@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 68,
+  "total": 70,
   "offers": [
     {
       "title": "OFFICE NATIONAL DU TOURISME TUNISIEN - APPEL D’OFFRES N° 20260601036 - Conception et exécution des campagnes de publicité institutionnelle du Tourisme tunisien.",
@@ -29,6 +29,20 @@
       "location": "Tourville",
       "description": "",
       "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "ELLIPSE VOYAGE - Alternants Conseillers voyages H/F - (Le Puy en Velay (43) et Béziers (34))",
+      "link": "https://www.tourmag.com/classifieds/ELLIPSE-VOYAGE-Alternants-Conseillers-voyages-H-F-Le-Puy-en-Velay-43-et-Beziers-34_pa268297.html",
+      "location": "Le Puy en Velay, Béziers",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "ELLIPSE VOYAGE - Stagiaires Conseillers voyages H/F",
+      "link": "https://www.tourmag.com/classifieds/ELLIPSE-VOYAGE-Stagiaires-Conseillers-voyages-H-F_pa268295.html",
+      "location": "Sanary, Le Beausset, Sète, Divonne les Bains, Le Puy en Velay, Béziers, Perpignan, Castanet Tolosan",
+      "description": "",
+      "pubDate": "NEW 00:00"
     },
     {
       "title": "VOYAGEURS DU MONDE - Stagiaire Service Marketing H/F  - (Paris (75)",
@@ -479,5 +493,5 @@
       "pubDate": "11 Mars"
     }
   ],
-  "scrapedAt": "2026-06-24T11:43:21.471Z"
+  "scrapedAt": "2026-06-24T14:26:48.266Z"
 }
