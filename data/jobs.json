@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 75,
+  "total": 77,
   "offers": [
     {
       "title": "OFFICE NATIONAL DU TOURISME TUNISIEN - APPEL D’OFFRES N° 20260601036 - Conception et exécution des campagnes de publicité institutionnelle du Tourisme tunisien.",
@@ -15,6 +15,20 @@
       "location": "",
       "description": "",
       "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Lyon Part Dieu (69))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Lyon-Part-Dieu-69_pa268305.html",
+      "location": "Lyon",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Ecully/Givors (69))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Ecully-Givors-69_pa268304.html",
+      "location": "Ecully, Givors",
+      "description": "",
+      "pubDate": "NEW 23:00"
     },
     {
       "title": "PERIER VOYAGES - Forfaitiste Groupes H/F – Pôle Voyages en Avion - CDI  - (Lillebonne (76))",
@@ -528,5 +542,5 @@
       "pubDate": "11 Mars"
     }
   ],
-  "scrapedAt": "2026-06-25T14:30:40.670Z"
+  "scrapedAt": "2026-06-25T17:11:04.450Z"
 }
