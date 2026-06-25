@@ -1,20 +1,55 @@
 {
   "success": true,
-  "total": 70,
+  "total": 75,
   "offers": [
-    {
-      "title": "L'OFFICE DU TOURISME DE MALTE - Chargé(e) des Réseaux Sociaux et de la Communication Digitale - (France)",
-      "link": "https://www.tourmag.com/classifieds/L-OFFICE-DU-TOURISME-DE-MALTE-Charge-e-des-Reseaux-Sociaux-et-de-la-Communication-Digitale-France_pa268263.html",
-      "location": "",
-      "description": "",
-      "pubDate": "NEW 09:00"
-    },
     {
       "title": "OFFICE NATIONAL DU TOURISME TUNISIEN - APPEL D’OFFRES N° 20260601036 - Conception et exécution des campagnes de publicité institutionnelle du Tourisme tunisien.",
       "link": "https://www.tourmag.com/classifieds/OFFICE-NATIONAL-DU-TOURISME-TUNISIEN-APPEL-D-OFFRES-N-20260601036-Conception-et-execution-des-campagnes-de-publicite_pa268276.html",
       "location": "",
       "description": "",
-      "pubDate": "24 Juin"
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "L'OFFICE DU TOURISME DE MALTE - Chargé(e) des Réseaux Sociaux et de la Communication Digitale - (France)",
+      "link": "https://www.tourmag.com/classifieds/L-OFFICE-DU-TOURISME-DE-MALTE-Charge-e-des-Reseaux-Sociaux-et-de-la-Communication-Digitale-France_pa268263.html",
+      "location": "",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "NOMAD RIDERS - Apprenti(e) conseillèr(e) voyages à cheval bilingue Anglais H/F - Alternance 12 mois - (Paris (75))",
+      "link": "https://www.tourmag.com/classifieds/NOMAD-RIDERS-Apprenti-e-conseiller-e-voyages-a-cheval-bilingue-Anglais-H-F-Alternance-12-mois-Paris-75_pa268303.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "PONANT - Stagiaire Produit Destination H/F  - Stage de 6 mois - (Marseille - 13008)",
+      "link": "https://www.tourmag.com/classifieds/PONANT-Stagiaire-Produit-Destination-H-F-Stage-de-6-mois-Marseille-13008_pa268302.html",
+      "location": "Marseille",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "PONANT - Alternant Planification Croisière H/F - (Marseille - 13008)",
+      "link": "https://www.tourmag.com/classifieds/PONANT-Alternant-Planification-Croisiere-H-F-Marseille-13008_pa268301.html",
+      "location": "Marseille",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "E.LECLERC VOYAGES - Apprenti(e) conseillèr(e) voyages H/F - Alternance - (Migennes (89))",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Apprenti-e-conseiller-e-voyages-H-F-Alternance-Migennes-89_pa268300.html",
+      "location": "Migennes",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "E.LECLERC VOYAGES - Apprenti(e) conseillèr(e) voyages H/F - Alternance - (Saint-Léonard (76))",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Apprenti-e-conseiller-e-voyages-H-F-Alternance-Saint-Leonard-76_pa268299.html",
+      "location": "Saint-Léonard",
+      "description": "",
+      "pubDate": "NEW 00:00"
     },
     {
       "title": "PERIER VOYAGES - Forfaitiste Groupes H/F – Pôle Voyages en Avion - CDI  - (Lillebonne (76))",
@@ -493,5 +528,5 @@
       "pubDate": "11 Mars"
     }
   ],
-  "scrapedAt": "2026-06-25T08:21:44.588Z"
+  "scrapedAt": "2026-06-25T11:39:14.097Z"
 }
