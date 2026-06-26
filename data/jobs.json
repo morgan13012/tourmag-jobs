@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 77,
+  "total": 76,
   "offers": [
+    {
+      "title": "AMPLITUDES - Alternant(e) Back-office H/F  - (Toulouse (31))",
+      "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Alternant-e-Back-office-H-F-Toulouse-31_pa268306.html",
+      "location": "Toulouse",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "OFFICE NATIONAL DU TOURISME TUNISIEN - APPEL D’OFFRES N° 20260601036 - Conception et exécution des campagnes de publicité institutionnelle du Tourisme tunisien.",
       "link": "https://www.tourmag.com/classifieds/OFFICE-NATIONAL-DU-TOURISME-TUNISIEN-APPEL-D-OFFRES-N-20260601036-Conception-et-execution-des-campagnes-de-publicite_pa268276.html",
@@ -353,20 +360,6 @@
       "pubDate": "4 Juin"
     },
     {
-      "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Nancy (54))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Nancy-54_pa266445.html",
-      "location": "Nancy",
-      "description": "",
-      "pubDate": "4 Juin"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Commercial(e) Groupes H/F - CDI - (Strasbourg (67))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-Groupes-H-F-CDI-Strasbourg-67_pa266444.html",
-      "location": "Strasbourg",
-      "description": "",
-      "pubDate": "4 Juin"
-    },
-    {
       "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Menton (06))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Menton-06_pa267475.html",
       "location": "Menton",
@@ -542,5 +535,5 @@
       "pubDate": "11 Mars"
     }
   ],
-  "scrapedAt": "2026-06-26T08:28:38.875Z"
+  "scrapedAt": "2026-06-26T11:43:28.694Z"
 }
