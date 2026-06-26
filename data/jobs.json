@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 79,
+  "total": 80,
   "offers": [
     {
       "title": "OFFICE NATIONAL DU TOURISME TUNISIEN - APPEL D’OFFRES N° 20260601036 - Conception et exécution des campagnes de publicité institutionnelle du Tourisme tunisien.",
@@ -78,6 +78,13 @@
       "location": "Grenoble, Boulogne-Billancourt",
       "description": "",
       "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "LA COMPAGNIE - Alternant(e) Assistant(e) Webmaster E-commerce & CRM H/F  - (Bagneux (92))",
+      "link": "https://www.tourmag.com/classifieds/LA-COMPAGNIE-Alternant-e-Assistant-e-Webmaster-E-commerce-CRM-H-F-Bagneux-92_pa268310.html",
+      "location": "Bagneux",
+      "description": "",
+      "pubDate": "NEW 00:00"
     },
     {
       "title": "CAVAL & GO - Alternant(e) Administration des ventes / Production touristique H/F - (Fontainebleau (77))",
@@ -556,5 +563,5 @@
       "pubDate": "11 Mars"
     }
   ],
-  "scrapedAt": "2026-06-26T14:22:14.651Z"
+  "scrapedAt": "2026-06-26T16:59:47.191Z"
 }
