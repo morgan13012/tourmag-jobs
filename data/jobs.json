@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 79,
+  "total": 81,
   "offers": [
+    {
+      "title": "PERIER VOYAGES - Forfaitiste Groupes H/F – Pôle Voyages en Avion - CDI  - (Lillebonne (76))",
+      "link": "https://www.tourmag.com/classifieds/PERIER-VOYAGES-Forfaitiste-Groupes-H-F-Pole-Voyages-en-Avion-CDI-Lillebonne-76_pa268291.html",
+      "location": "Lillebonne (76)",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "OFFICE NATIONAL DU TOURISME TUNISIEN - APPEL D’OFFRES N° 20260601036 - Conception et exécution des campagnes de publicité institutionnelle du Tourisme tunisien.",
       "link": "https://www.tourmag.com/classifieds/OFFICE-NATIONAL-DU-TOURISME-TUNISIEN-APPEL-D-OFFRES-N-20260601036-Conception-et-execution-des-campagnes-de-publicite_pa268276.html",
@@ -27,13 +34,6 @@
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Ecully/Givors (69))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Ecully-Givors-69_pa268304.html",
       "location": "Ecully, Givors",
-      "description": "",
-      "pubDate": "26 Juin"
-    },
-    {
-      "title": "PERIER VOYAGES - Forfaitiste Groupes H/F – Pôle Voyages en Avion - CDI  - (Lillebonne (76))",
-      "link": "https://www.tourmag.com/classifieds/PERIER-VOYAGES-Forfaitiste-Groupes-H-F-Pole-Voyages-en-Avion-CDI-Lillebonne-76_pa268291.html",
-      "location": "Lillebonne (76)",
       "description": "",
       "pubDate": "26 Juin"
     },
@@ -69,6 +69,20 @@
       "title": "HEMISPHERES VOYAGES EVENTS SPORTS - Conseiller Voyages Groupes / Individuels H/F - CDI - (Grenoble (38) ou Boulogne-Billancourt (92))",
       "link": "https://www.tourmag.com/classifieds/HEMISPHERES-VOYAGES-EVENTS-SPORTS-Conseiller-Voyages-Groupes-Individuels-H-F-CDI-Grenoble-38-ou-Boulogne-Billancourt-92_pa268268.html",
       "location": "Grenoble, Boulogne-Billancourt",
+      "description": "",
+      "pubDate": "26 Juin"
+    },
+    {
+      "title": "AIR FRANCE - Stagiaire Chargé(e) de communication et projets évènementiels F/H - Stage 6 mois - (Roissy CDG (93))",
+      "link": "https://www.tourmag.com/classifieds/AIR-FRANCE-Stagiaire-Charge-e-de-communication-et-projets-evenementiels-F-H-Stage-6-mois-Roissy-CDG-93_pa268316.html",
+      "location": "Roissy",
+      "description": "",
+      "pubDate": "26 Juin"
+    },
+    {
+      "title": "MILEADE - Chargé(e) de développement touristique H/F - Alternance 12 à 24 mois - (Brioude (43))",
+      "link": "https://www.tourmag.com/classifieds/MILEADE-Charge-e-de-developpement-touristique-H-F-Alternance-12-a-24-mois-Brioude-43_pa268314.html",
+      "location": "Brioude",
       "description": "",
       "pubDate": "26 Juin"
     },
@@ -556,5 +570,5 @@
       "pubDate": "11 Mars"
     }
   ],
-  "scrapedAt": "2026-06-29T14:02:14.889Z"
+  "scrapedAt": "2026-06-29T17:35:37.083Z"
 }
