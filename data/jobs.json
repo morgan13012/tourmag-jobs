@@ -1,18 +1,11 @@
 {
   "success": true,
-  "total": 80,
+  "total": 79,
   "offers": [
     {
       "title": "OFFICE NATIONAL DU TOURISME TUNISIEN - APPEL D’OFFRES N° 20260601036 - Conception et exécution des campagnes de publicité institutionnelle du Tourisme tunisien.",
       "link": "https://www.tourmag.com/classifieds/OFFICE-NATIONAL-DU-TOURISME-TUNISIEN-APPEL-D-OFFRES-N-20260601036-Conception-et-execution-des-campagnes-de-publicite_pa268276.html",
       "location": "",
-      "description": "",
-      "pubDate": "26 Juin"
-    },
-    {
-      "title": "MSC CROISIERES ESPAGNE - Télévendeurs Conseillers Croisière Francophones F/H - CDI - (Valence)",
-      "link": "https://www.tourmag.com/classifieds/MSC-CROISIERES-ESPAGNE-Televendeurs-Conseillers-Croisiere-Francophones-F-H-CDI-Valence_pa268271.html",
-      "location": "Valence",
       "description": "",
       "pubDate": "26 Juin"
     },
@@ -563,5 +556,5 @@
       "pubDate": "11 Mars"
     }
   ],
-  "scrapedAt": "2026-06-29T09:24:54.210Z"
+  "scrapedAt": "2026-06-29T14:02:14.889Z"
 }
