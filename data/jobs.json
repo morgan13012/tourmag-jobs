@@ -1,13 +1,13 @@
 {
   "success": true,
-  "total": 81,
+  "total": 76,
   "offers": [
     {
       "title": "PERIER VOYAGES - Forfaitiste Groupes H/F – Pôle Voyages en Avion - CDI  - (Lillebonne (76))",
       "link": "https://www.tourmag.com/classifieds/PERIER-VOYAGES-Forfaitiste-Groupes-H-F-Pole-Voyages-en-Avion-CDI-Lillebonne-76_pa268291.html",
       "location": "Lillebonne (76)",
       "description": "",
-      "pubDate": "NEW 23:30"
+      "pubDate": "29 Juin"
     },
     {
       "title": "OFFICE NATIONAL DU TOURISME TUNISIEN - APPEL D’OFFRES N° 20260601036 - Conception et exécution des campagnes de publicité institutionnelle du Tourisme tunisien.",
@@ -409,20 +409,6 @@
       "pubDate": "4 Juin"
     },
     {
-      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Blois (41))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Blois-41_pa266568.html",
-      "location": "Blois",
-      "description": "",
-      "pubDate": "4 Juin"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Mantes la Jolie (78))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Mantes-la-Jolie-78_pa266554.html",
-      "location": "Mantes la Jolie",
-      "description": "",
-      "pubDate": "4 Juin"
-    },
-    {
       "title": "LE GROUPE SALAUN - Responsable d'Unité Technique H/F - CDI - (Orléans (45))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Responsable-d-Unite-Technique-H-F-CDI-Orleans-45_pa266550.html",
       "location": "Orléans",
@@ -542,33 +528,12 @@
       "pubDate": "24 Avril"
     },
     {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Massy (91))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Massy-91_pa266414.html",
-      "location": "Massy",
-      "description": "",
-      "pubDate": "22 Avril"
-    },
-    {
-      "title": "PASSEPORT EVASION - Commercial(e) Tourisme spécialisé(e) voyages de Groupes « Sur-Mesure » - Indépendant, freelance - (France entière)",
-      "link": "https://www.tourmag.com/classifieds/PASSEPORT-EVASION-Commercial-e-Tourisme-specialise-e-voyages-de-Groupes- Sur-Mesure -Independant-freelance-France_pa266851.html",
-      "location": "",
-      "description": "",
-      "pubDate": "15 Avril"
-    },
-    {
       "title": "INTERMEDES - Gestionnaire de voyages / Relation qualité clients H/F - CDI - (Paris 10e)",
       "link": "https://www.tourmag.com/classifieds/INTERMEDES-Gestionnaire-de-voyages - Relation qualite clients-H-F-CDI-Paris-10e_pa267780.html",
       "location": "Paris",
       "description": "",
       "pubDate": "2 Avril"
-    },
-    {
-      "title": "V.O.S  - Coordinateurs·trices des opérations - (Copenhague  (Danemark) ou Dubline (Irlande))",
-      "link": "https://www.tourmag.com/classifieds/V-O-S-Coordinateurs·trices-des-operations-Copenhague-Danemark-ou-Dubline-Irlande_pa266769.html",
-      "location": "Copenhague",
-      "description": "",
-      "pubDate": "11 Mars"
     }
   ],
-  "scrapedAt": "2026-06-29T21:26:12.974Z"
+  "scrapedAt": "2026-06-29T22:55:37.892Z"
 }
