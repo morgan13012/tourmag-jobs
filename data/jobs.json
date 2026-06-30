@@ -3,18 +3,18 @@
   "total": 76,
   "offers": [
     {
+      "title": "TURQUOISE TO - Technicien Transport et Back-office H/F - CDD / CDI - (Aix-en-Provence (13))",
+      "link": "https://www.tourmag.com/classifieds/TURQUOISE-TO-Technicien-Transport-et-Back-office-H-F-CDD-CDI-Aix-en-Provence-13_pa268313.html",
+      "location": "Aix-en-Provence",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
       "title": "PERIER VOYAGES - Forfaitiste Groupes H/F – Pôle Voyages en Avion - CDI  - (Lillebonne (76))",
       "link": "https://www.tourmag.com/classifieds/PERIER-VOYAGES-Forfaitiste-Groupes-H-F-Pole-Voyages-en-Avion-CDI-Lillebonne-76_pa268291.html",
       "location": "Lillebonne (76)",
       "description": "",
       "pubDate": "29 Juin"
-    },
-    {
-      "title": "OFFICE NATIONAL DU TOURISME TUNISIEN - APPEL D’OFFRES N° 20260601036 - Conception et exécution des campagnes de publicité institutionnelle du Tourisme tunisien.",
-      "link": "https://www.tourmag.com/classifieds/OFFICE-NATIONAL-DU-TOURISME-TUNISIEN-APPEL-D-OFFRES-N-20260601036-Conception-et-execution-des-campagnes-de-publicite_pa268276.html",
-      "location": "",
-      "description": "",
-      "pubDate": "26 Juin"
     },
     {
       "title": "L'OFFICE DU TOURISME DE MALTE - Chargé(e) des Réseaux Sociaux et de la Communication Digitale - (France)",
@@ -535,5 +535,5 @@
       "pubDate": "2 Avril"
     }
   ],
-  "scrapedAt": "2026-06-30T00:03:50.845Z"
+  "scrapedAt": "2026-06-30T08:28:33.328Z"
 }
