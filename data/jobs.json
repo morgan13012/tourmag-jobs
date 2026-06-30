@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 76,
+  "total": 75,
   "offers": [
     {
       "title": "TURQUOISE TO - Technicien Transport et Back-office H/F - CDD / CDI - (Aix-en-Provence (13))",
@@ -395,13 +395,6 @@
       "pubDate": "4 Juin"
     },
     {
-      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Menton (06))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Menton-06_pa267475.html",
-      "location": "Menton",
-      "description": "",
-      "pubDate": "4 Juin"
-    },
-    {
       "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Cambrai (59))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Cambrai-59_pa267404.html",
       "location": "Cambrai",
@@ -535,5 +528,5 @@
       "pubDate": "2 Avril"
     }
   ],
-  "scrapedAt": "2026-06-30T08:28:33.328Z"
+  "scrapedAt": "2026-06-30T11:43:57.474Z"
 }
