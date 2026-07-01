@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 75,
+  "total": 76,
   "offers": [
+    {
+      "title": "NG TRAVEL - Chargé(e) de clientèle après voyage - Stage - (Paris 2e)",
+      "link": "https://www.tourmag.com/classifieds/NG-TRAVEL-Charge-e-de-clientele-apres-voyage-Stage-Paris-2e_pa268317.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "TURQUOISE TO - Technicien Transport et Back-office H/F - CDD / CDI - (Aix-en-Provence (13))",
       "link": "https://www.tourmag.com/classifieds/TURQUOISE-TO-Technicien-Transport-et-Back-office-H-F-CDD-CDI-Aix-en-Provence-13_pa268313.html",
@@ -528,5 +535,5 @@
       "pubDate": "2 Avril"
     }
   ],
-  "scrapedAt": "2026-07-01T08:48:23.557Z"
+  "scrapedAt": "2026-07-01T12:05:56.964Z"
 }
