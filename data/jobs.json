@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 73,
+  "total": 74,
   "offers": [
+    {
+      "title": "ZE CAMPING - Stagiaire Marketing et Communication H/F - (Franconville (95))",
+      "link": "https://www.tourmag.com/classifieds/ZE-CAMPING-Stagiaire-Marketing-et-Communication-H-F-Franconville-95_pa268324.html",
+      "location": "Franconville",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "CATLANTE CATAMARANS - Conseiller(e) Voyages expérimenté(e) - CDI - (Saint-Cloud (92))",
       "link": "https://www.tourmag.com/classifieds/CATLANTE-CATAMARANS-Conseiller-e-Voyages-experimente-e-CDI-Saint-Cloud-92_pa268318.html",
@@ -514,5 +521,5 @@
       "pubDate": "24 Avril"
     }
   ],
-  "scrapedAt": "2026-07-03T14:01:01.500Z"
+  "scrapedAt": "2026-07-03T16:23:00.618Z"
 }
