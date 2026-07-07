@@ -1,27 +1,174 @@
 {
   "success": true,
-  "total": 74,
+  "total": 77,
   "offers": [
-    {
-      "title": "ZE CAMPING - Stagiaire Marketing et Communication H/F - (Franconville (95))",
-      "link": "https://www.tourmag.com/classifieds/ZE-CAMPING-Stagiaire-Marketing-et-Communication-H-F-Franconville-95_pa268324.html",
-      "location": "Franconville",
-      "description": "",
-      "pubDate": "3 Juillet"
-    },
     {
       "title": "CATLANTE CATAMARANS - Conseiller(e) Voyages expérimenté(e) - CDI - (Saint-Cloud (92))",
       "link": "https://www.tourmag.com/classifieds/CATLANTE-CATAMARANS-Conseiller-e-Voyages-experimente-e-CDI-Saint-Cloud-92_pa268318.html",
       "location": "Saint-Cloud",
       "description": "",
-      "pubDate": "1 Juillet"
+      "pubDate": "NEW 23:30"
     },
     {
       "title": "TURQUOISE TO - Technicien Transport et Back-office H/F - CDD / CDI - (Aix-en-Provence (13))",
       "link": "https://www.tourmag.com/classifieds/TURQUOISE-TO-Technicien-Transport-et-Back-office-H-F-CDD-CDI-Aix-en-Provence-13_pa268313.html",
       "location": "Aix-en-Provence",
       "description": "",
-      "pubDate": "1 Juillet"
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "INTERMEDES - Chargé(e) des ventes Senior H/F - CDI - (Paris 6e)",
+      "link": "https://www.tourmag.com/classifieds/INTERMEDES-Charge-e-des-ventes-Senior-H-F-CDI-Paris-6e_pa268273.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "PERIER VOYAGES - Forfaitiste Groupes H/F – Pôle Voyages en Avion - CDI  - (Lillebonne (76))",
+      "link": "https://www.tourmag.com/classifieds/PERIER-VOYAGES-Forfaitiste-Groupes-H-F-Pole-Voyages-en-Avion-CDI-Lillebonne-76_pa268291.html",
+      "location": "Lillebonne (76)",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "E-LECLERC VOYAGES - Responsable d'agence H/F - CDI - (Pontchâteau (44))",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-H-F-CDI-Pontchateau-44_pa268283.html",
+      "location": "Pontchâteau",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "TIME TOURS - Technicien(ne) Groupes Back-Office confirmé(e) H/F - CDI - (Clichy (92))",
+      "link": "https://www.tourmag.com/classifieds/TIME-TOURS-Technicien-ne-Groupes-Back-Office-confirme-e-H-F-CDI-Clichy-92_pa268278.html",
+      "location": "Clichy",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "LOIRE OCEAN VOYAGES - Conseiller voyages H/F - CDI - (Challans (85))",
+      "link": "https://www.tourmag.com/classifieds/LOIRE-OCEAN-VOYAGES-Conseiller-voyages-H-F-CDI-Challans-85_pa268274.html",
+      "location": "Challans",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "HEMISPHERES VOYAGES EVENTS SPORTS - Conseiller Voyages Groupes / Individuels H/F - CDI - (Grenoble (38) ou Boulogne-Billancourt (92))",
+      "link": "https://www.tourmag.com/classifieds/HEMISPHERES-VOYAGES-EVENTS-SPORTS-Conseiller-Voyages-Groupes-Individuels-H-F-CDI-Grenoble-38-ou-Boulogne-Billancourt-92_pa268268.html",
+      "location": "Grenoble, Boulogne-Billancourt",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "L'OFFICE DU TOURISME DE MALTE - Chargé(e) des Réseaux Sociaux et de la Communication Digitale - (France)",
+      "link": "https://www.tourmag.com/classifieds/L-OFFICE-DU-TOURISME-DE-MALTE-Charge-e-des-Reseaux-Sociaux-et-de-la-Communication-Digitale-France_pa268263.html",
+      "location": "",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Alternant(e) Assistant(e) Direction Réseau / Support aux Directrices Régionales H/F - (Massy/Evry (91))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Alternant-e-Assistant-e-Direction-Reseau-Support-aux-Directrices-Regionales-H-F-Massy-Evry-91_pa268329.html",
+      "location": "Massy, Evry",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Alternant(e) Chargé(e) de ressources humaines H/F - (Massy/Evry (91))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Alternant-e-Charge-e-de-ressources-humaines-H-F-Massy-Evry-91_pa268328.html",
+      "location": "Massy, Evry",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Mont Saint Aignan (76))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Mont-Saint-Aignan-76_pa268327.html",
+      "location": "Mont Saint Aignan",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Ecully/Givors (69))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Ecully-Givors-69_pa268304.html",
+      "location": "Ecully, Givors",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Vénissieux (69))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Venissieux-69_pa268260.html",
+      "location": "Vénissieux",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Aurillac (15))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Aurillac-15_pa268233.html",
+      "location": "Aurillac",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Sérignan (34))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Serignan-34_pa268232.html",
+      "location": "Sérignan",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - CDI - (Noisy-le-grand (93))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Responsable-d-agence-H-F-CDI-Noisy-le-grand-93_pa268224.html",
+      "location": "Noisy-le-grand",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Angoulins (17))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Angoulins-17_pa268222.html",
+      "location": "Angoulins",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Montesson (78))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Montesson-78_pa268220.html",
+      "location": "Montesson",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Evreux (27))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Evreux-27_pa268219.html",
+      "location": "Evreux",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - CDI - (Sérignan (34))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Responsable-d-agence-H-F-CDI-Serignan-34_pa268127.html",
+      "location": "Sérignan",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Tourville (76))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Tourville-76_pa266890.html",
+      "location": "Tourville",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Villabé (91))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Villabe-91_pa266592.html",
+      "location": "Villabé",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "ZE CAMPING - Stagiaire Marketing et Communication H/F - (Franconville (95))",
+      "link": "https://www.tourmag.com/classifieds/ZE-CAMPING-Stagiaire-Marketing-et-Communication-H-F-Franconville-95_pa268324.html",
+      "location": "Franconville",
+      "description": "",
+      "pubDate": "3 Juillet"
     },
     {
       "title": "CANNES CONVENTION BUREAU - Stagiaire Assistant(e) Chef de projet H/F - (Cannes (06))",
@@ -38,65 +185,9 @@
       "pubDate": "1 Juillet"
     },
     {
-      "title": "PERIER VOYAGES - Forfaitiste Groupes H/F – Pôle Voyages en Avion - CDI  - (Lillebonne (76))",
-      "link": "https://www.tourmag.com/classifieds/PERIER-VOYAGES-Forfaitiste-Groupes-H-F-Pole-Voyages-en-Avion-CDI-Lillebonne-76_pa268291.html",
-      "location": "Lillebonne (76)",
-      "description": "",
-      "pubDate": "29 Juin"
-    },
-    {
-      "title": "L'OFFICE DU TOURISME DE MALTE - Chargé(e) des Réseaux Sociaux et de la Communication Digitale - (France)",
-      "link": "https://www.tourmag.com/classifieds/L-OFFICE-DU-TOURISME-DE-MALTE-Charge-e-des-Reseaux-Sociaux-et-de-la-Communication-Digitale-France_pa268263.html",
-      "location": "",
-      "description": "",
-      "pubDate": "26 Juin"
-    },
-    {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Lyon Part Dieu (69))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Lyon-Part-Dieu-69_pa268305.html",
       "location": "Lyon",
-      "description": "",
-      "pubDate": "26 Juin"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Ecully/Givors (69))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Ecully-Givors-69_pa268304.html",
-      "location": "Ecully, Givors",
-      "description": "",
-      "pubDate": "26 Juin"
-    },
-    {
-      "title": "E-LECLERC VOYAGES - Responsable d'agence H/F - CDI - (Pontchâteau (44))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-H-F-CDI-Pontchateau-44_pa268283.html",
-      "location": "Pontchâteau",
-      "description": "",
-      "pubDate": "26 Juin"
-    },
-    {
-      "title": "TIME TOURS - Technicien(ne) Groupes Back-Office confirmé(e) H/F - CDI - (Clichy (92))",
-      "link": "https://www.tourmag.com/classifieds/TIME-TOURS-Technicien-ne-Groupes-Back-Office-confirme-e-H-F-CDI-Clichy-92_pa268278.html",
-      "location": "Clichy",
-      "description": "",
-      "pubDate": "26 Juin"
-    },
-    {
-      "title": "LOIRE OCEAN VOYAGES - Conseiller voyages H/F - CDI - (Challans (85))",
-      "link": "https://www.tourmag.com/classifieds/LOIRE-OCEAN-VOYAGES-Conseiller-voyages-H-F-CDI-Challans-85_pa268274.html",
-      "location": "Challans",
-      "description": "",
-      "pubDate": "26 Juin"
-    },
-    {
-      "title": "INTERMEDES - Chargé(e) des ventes Senior H/F - CDI - (Paris 6e)",
-      "link": "https://www.tourmag.com/classifieds/INTERMEDES-Charge-e-des-ventes-Senior-H-F-CDI-Paris-6e_pa268273.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "26 Juin"
-    },
-    {
-      "title": "HEMISPHERES VOYAGES EVENTS SPORTS - Conseiller Voyages Groupes / Individuels H/F - CDI - (Grenoble (38) ou Boulogne-Billancourt (92))",
-      "link": "https://www.tourmag.com/classifieds/HEMISPHERES-VOYAGES-EVENTS-SPORTS-Conseiller-Voyages-Groupes-Individuels-H-F-CDI-Grenoble-38-ou-Boulogne-Billancourt-92_pa268268.html",
-      "location": "Grenoble, Boulogne-Billancourt",
       "description": "",
       "pubDate": "26 Juin"
     },
@@ -153,20 +244,6 @@
       "title": "LE GROUPE SALAUN - Commercial(e) BtoB Secteur Nord-Est  - CDI - (Lille (59))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-BtoB-Secteur-Nord-Est-CDI-Lille-59_pa268267.html",
       "location": "Lille",
-      "description": "",
-      "pubDate": "25 Juin"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Montesson (78))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Montesson-78_pa268220.html",
-      "location": "Montesson",
-      "description": "",
-      "pubDate": "25 Juin"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - 2 Conseillers voyages H/F - CDI  - (Tourville (76))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-2-Conseillers-voyages-H-F-CDI-Tourville-76_pa266890.html",
-      "location": "Tourville",
       "description": "",
       "pubDate": "25 Juin"
     },
@@ -241,20 +318,6 @@
       "pubDate": "22 Juin"
     },
     {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Villabé (91))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Villabe-91_pa266592.html",
-      "location": "Villabé",
-      "description": "",
-      "pubDate": "22 Juin"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Vénissieux (69))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Venissieux-69_pa268260.html",
-      "location": "Vénissieux",
-      "description": "",
-      "pubDate": "22 Juin"
-    },
-    {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Ville-du-bois (91))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Ville-du-bois-91_pa268259.html",
       "location": "Ville-du-bois",
@@ -269,51 +332,9 @@
       "pubDate": "22 Juin"
     },
     {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Aurillac (15))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Aurillac-15_pa268233.html",
-      "location": "Aurillac",
-      "description": "",
-      "pubDate": "22 Juin"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Sérignan (34))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Serignan-34_pa268232.html",
-      "location": "Sérignan",
-      "description": "",
-      "pubDate": "22 Juin"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - CDI - (Noisy-le-grand (93))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Responsable-d-agence-H-F-CDI-Noisy-le-grand-93_pa268224.html",
-      "location": "Noisy-le-grand",
-      "description": "",
-      "pubDate": "22 Juin"
-    },
-    {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Vannes (56))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Vannes-56_pa268223.html",
       "location": "Vannes",
-      "description": "",
-      "pubDate": "22 Juin"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Angoulins (17))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Angoulins-17_pa268222.html",
-      "location": "Angoulins",
-      "description": "",
-      "pubDate": "22 Juin"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Evreux (27))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Evreux-27_pa268219.html",
-      "location": "Evreux",
-      "description": "",
-      "pubDate": "22 Juin"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - CDI - (Sérignan (34))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Responsable-d-agence-H-F-CDI-Serignan-34_pa268127.html",
-      "location": "Sérignan",
       "description": "",
       "pubDate": "22 Juin"
     },
@@ -521,5 +542,5 @@
       "pubDate": "24 Avril"
     }
   ],
-  "scrapedAt": "2026-07-07T11:48:56.337Z"
+  "scrapedAt": "2026-07-07T14:30:42.682Z"
 }
