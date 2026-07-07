@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 77,
+  "total": 73,
   "offers": [
     {
       "title": "CATLANTE CATAMARANS - Conseiller(e) Voyages expérimenté(e) - CDI - (Saint-Cloud (92))",
@@ -185,13 +185,6 @@
       "pubDate": "1 Juillet"
     },
     {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Lyon Part Dieu (69))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Lyon-Part-Dieu-69_pa268305.html",
-      "location": "Lyon",
-      "description": "",
-      "pubDate": "26 Juin"
-    },
-    {
       "title": "AIR FRANCE - Stagiaire Chargé(e) de communication et projets évènementiels F/H - Stage 6 mois - (Roissy CDG (93))",
       "link": "https://www.tourmag.com/classifieds/AIR-FRANCE-Stagiaire-Charge-e-de-communication-et-projets-evenementiels-F-H-Stage-6-mois-Roissy-CDG-93_pa268316.html",
       "location": "Roissy",
@@ -314,27 +307,6 @@
       "title": "FITOUR VOYAGES - Responsable Point de Vente - CDI - (Brive-la-Gaillarde (19))",
       "link": "https://www.tourmag.com/classifieds/FITOUR-VOYAGES-Responsable-Point-de-Vente-CDI-Brive-la-Gaillarde-19_pa268202.html",
       "location": "Brive-la-Gaillarde",
-      "description": "",
-      "pubDate": "22 Juin"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Ville-du-bois (91))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Ville-du-bois-91_pa268259.html",
-      "location": "Ville-du-bois",
-      "description": "",
-      "pubDate": "22 Juin"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Lattes (34))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Lattes-34_pa268258.html",
-      "location": "Lattes",
-      "description": "",
-      "pubDate": "22 Juin"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Vannes (56))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Vannes-56_pa268223.html",
-      "location": "Vannes",
       "description": "",
       "pubDate": "22 Juin"
     },
@@ -542,5 +514,5 @@
       "pubDate": "24 Avril"
     }
   ],
-  "scrapedAt": "2026-07-07T17:12:47.697Z"
+  "scrapedAt": "2026-07-07T19:53:07.877Z"
 }
