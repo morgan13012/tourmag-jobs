@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 75,
+  "total": 76,
   "offers": [
+    {
+      "title": "THAÏ AIRWAYS - Compliance & Customer Relations Officer F/H - (Paris (75))",
+      "link": "https://www.tourmag.com/classifieds/THAI-AIRWAYS-Compliance-Customer-Relations-Officer-F-H-Paris-75_pa268330.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "DISCOVERY TRAINS - Stagiaire Création de Carnets de Voyage H/F - (Paris 12e)",
       "link": "https://www.tourmag.com/classifieds/DISCOVERY-TRAINS-Stagiaire-Creation-de-Carnets-de-Voyage-H-F-Paris-12e_pa268326.html",
@@ -528,5 +535,5 @@
       "pubDate": "24 Avril"
     }
   ],
-  "scrapedAt": "2026-07-08T12:20:19.337Z"
+  "scrapedAt": "2026-07-08T15:20:34.501Z"
 }
