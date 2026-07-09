@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 76,
+  "total": 75,
   "offers": [
     {
       "title": "THAÏ AIRWAYS - Compliance & Customer Relations Officer F/H - (Paris (75))",
@@ -500,13 +500,6 @@
       "pubDate": "6 Mai"
     },
     {
-      "title": "LE LAC DE VASSIVIERE recherche un opérateur pour la transformation du village vacances de Pierrefitte (87)",
-      "link": "https://www.tourmag.com/classifieds/LE-LAC-DE-VASSIVIERE-recherche-un-operateur-pour-la-transformation-du-village-vacances-de-Pierrefitte-87_pa267828.html",
-      "location": "PierreFitte",
-      "description": "",
-      "pubDate": "6 Mai"
-    },
-    {
       "title": "HEWAGO - Chef de Produit Japon/Corée H/F - CDI - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/HEWAGO-Chef-de-Produit-Japon-Coree-H-F-CDI-Paris-75_pa267960.html",
       "location": "Paris",
@@ -535,5 +528,5 @@
       "pubDate": "24 Avril"
     }
   ],
-  "scrapedAt": "2026-07-09T21:21:27.011Z"
+  "scrapedAt": "2026-07-09T23:09:36.941Z"
 }
