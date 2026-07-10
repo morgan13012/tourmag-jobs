@@ -1,13 +1,111 @@
 {
   "success": true,
-  "total": 73,
+  "total": 76,
   "offers": [
     {
       "title": "THAÏ AIRWAYS - Compliance & Customer Relations Officer F/H - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/THAI-AIRWAYS-Compliance-Customer-Relations-Officer-F-H-Paris-75_pa268330.html",
       "location": "Paris",
       "description": "",
-      "pubDate": "8 Juillet"
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "CATLANTE CATAMARANS - Conseiller(e) Voyages expérimenté(e) - CDI - (Saint-Cloud (92))",
+      "link": "https://www.tourmag.com/classifieds/CATLANTE-CATAMARANS-Conseiller-e-Voyages-experimente-e-CDI-Saint-Cloud-92_pa268318.html",
+      "location": "Saint-Cloud",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "TURQUOISE TO - Technicien Transport et Back-office H/F - CDD / CDI - (Aix-en-Provence (13))",
+      "link": "https://www.tourmag.com/classifieds/TURQUOISE-TO-Technicien-Transport-et-Back-office-H-F-CDD-CDI-Aix-en-Provence-13_pa268313.html",
+      "location": "Aix-en-Provence",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "INTERMEDES - Chargé(e) des ventes Senior H/F - CDI - (Paris 6e)",
+      "link": "https://www.tourmag.com/classifieds/INTERMEDES-Charge-e-des-ventes-Senior-H-F-CDI-Paris-6e_pa268273.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "L'OFFICE DU TOURISME DE MALTE - Chargé(e) des Réseaux Sociaux et de la Communication Digitale - (France)",
+      "link": "https://www.tourmag.com/classifieds/L-OFFICE-DU-TOURISME-DE-MALTE-Charge-e-des-Reseaux-Sociaux-et-de-la-Communication-Digitale-France_pa268263.html",
+      "location": "",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Mont Saint Aignan (76))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Mont-Saint-Aignan-76_pa268327.html",
+      "location": "Mont Saint Aignan",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "PERIER VOYAGES - Forfaitiste Groupes H/F – Pôle Voyages en Avion - CDI  - (Lillebonne (76))",
+      "link": "https://www.tourmag.com/classifieds/PERIER-VOYAGES-Forfaitiste-Groupes-H-F-Pole-Voyages-en-Avion-CDI-Lillebonne-76_pa268291.html",
+      "location": "Lillebonne (76)",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "E-LECLERC VOYAGES - Responsable d'agence H/F - CDI - (Pontchâteau (44))",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-H-F-CDI-Pontchateau-44_pa268283.html",
+      "location": "Pontchâteau",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "TIME TOURS - Technicien(ne) Groupes Back-Office confirmé(e) H/F - CDI - (Clichy (92))",
+      "link": "https://www.tourmag.com/classifieds/TIME-TOURS-Technicien-ne-Groupes-Back-Office-confirme-e-H-F-CDI-Clichy-92_pa268278.html",
+      "location": "Clichy",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "LOIRE OCEAN VOYAGES - Conseiller voyages H/F - CDI - (Challans (85))",
+      "link": "https://www.tourmag.com/classifieds/LOIRE-OCEAN-VOYAGES-Conseiller-voyages-H-F-CDI-Challans-85_pa268274.html",
+      "location": "Challans",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "HEMISPHERES VOYAGES EVENTS SPORTS - Conseiller Voyages Groupes / Individuels H/F - CDI - (Grenoble (38) ou Boulogne-Billancourt (92))",
+      "link": "https://www.tourmag.com/classifieds/HEMISPHERES-VOYAGES-EVENTS-SPORTS-Conseiller-Voyages-Groupes-Individuels-H-F-CDI-Grenoble-38-ou-Boulogne-Billancourt-92_pa268268.html",
+      "location": "Grenoble, Boulogne-Billancourt",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Commercial(e) BtoB Secteur Nord-Est  - CDI - (Lille (59))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-BtoB-Secteur-Nord-Est-CDI-Lille-59_pa268267.html",
+      "location": "Lille",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "AMPLITUDES - Stage UX/UI Designer & Assistant Marketing Digital F/H - (Toulouse (31))",
+      "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Stage-UX-UI-Designer-Assistant-Marketing-Digital-F-H-Toulouse-31_pa268333.html",
+      "location": "Toulouse",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "AMPLITUDES - Stage assistant(e) chargé(e) de production et de back office F/H - (Toulouse (31))",
+      "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Stage-assistant-e-charge-e-de-production-et-de-back-office-F-H-Toulouse-31_pa268332.html",
+      "location": "Toulouse",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "AMPLITUDES - Stage assistant(e) chargé(e) de production et de back office F/H - (Paris (75))",
+      "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Stage-assistant-e-charge-e-de-production-et-de-back-office-F-H-Paris-75_pa268331.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 00:00"
     },
     {
       "title": "DISCOVERY TRAINS - Stagiaire Création de Carnets de Voyage H/F - (Paris 12e)",
@@ -24,69 +122,6 @@
       "pubDate": "8 Juillet"
     },
     {
-      "title": "CATLANTE CATAMARANS - Conseiller(e) Voyages expérimenté(e) - CDI - (Saint-Cloud (92))",
-      "link": "https://www.tourmag.com/classifieds/CATLANTE-CATAMARANS-Conseiller-e-Voyages-experimente-e-CDI-Saint-Cloud-92_pa268318.html",
-      "location": "Saint-Cloud",
-      "description": "",
-      "pubDate": "7 Juillet"
-    },
-    {
-      "title": "TURQUOISE TO - Technicien Transport et Back-office H/F - CDD / CDI - (Aix-en-Provence (13))",
-      "link": "https://www.tourmag.com/classifieds/TURQUOISE-TO-Technicien-Transport-et-Back-office-H-F-CDD-CDI-Aix-en-Provence-13_pa268313.html",
-      "location": "Aix-en-Provence",
-      "description": "",
-      "pubDate": "7 Juillet"
-    },
-    {
-      "title": "INTERMEDES - Chargé(e) des ventes Senior H/F - CDI - (Paris 6e)",
-      "link": "https://www.tourmag.com/classifieds/INTERMEDES-Charge-e-des-ventes-Senior-H-F-CDI-Paris-6e_pa268273.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "7 Juillet"
-    },
-    {
-      "title": "PERIER VOYAGES - Forfaitiste Groupes H/F – Pôle Voyages en Avion - CDI  - (Lillebonne (76))",
-      "link": "https://www.tourmag.com/classifieds/PERIER-VOYAGES-Forfaitiste-Groupes-H-F-Pole-Voyages-en-Avion-CDI-Lillebonne-76_pa268291.html",
-      "location": "Lillebonne (76)",
-      "description": "",
-      "pubDate": "7 Juillet"
-    },
-    {
-      "title": "E-LECLERC VOYAGES - Responsable d'agence H/F - CDI - (Pontchâteau (44))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-H-F-CDI-Pontchateau-44_pa268283.html",
-      "location": "Pontchâteau",
-      "description": "",
-      "pubDate": "7 Juillet"
-    },
-    {
-      "title": "TIME TOURS - Technicien(ne) Groupes Back-Office confirmé(e) H/F - CDI - (Clichy (92))",
-      "link": "https://www.tourmag.com/classifieds/TIME-TOURS-Technicien-ne-Groupes-Back-Office-confirme-e-H-F-CDI-Clichy-92_pa268278.html",
-      "location": "Clichy",
-      "description": "",
-      "pubDate": "7 Juillet"
-    },
-    {
-      "title": "LOIRE OCEAN VOYAGES - Conseiller voyages H/F - CDI - (Challans (85))",
-      "link": "https://www.tourmag.com/classifieds/LOIRE-OCEAN-VOYAGES-Conseiller-voyages-H-F-CDI-Challans-85_pa268274.html",
-      "location": "Challans",
-      "description": "",
-      "pubDate": "7 Juillet"
-    },
-    {
-      "title": "HEMISPHERES VOYAGES EVENTS SPORTS - Conseiller Voyages Groupes / Individuels H/F - CDI - (Grenoble (38) ou Boulogne-Billancourt (92))",
-      "link": "https://www.tourmag.com/classifieds/HEMISPHERES-VOYAGES-EVENTS-SPORTS-Conseiller-Voyages-Groupes-Individuels-H-F-CDI-Grenoble-38-ou-Boulogne-Billancourt-92_pa268268.html",
-      "location": "Grenoble, Boulogne-Billancourt",
-      "description": "",
-      "pubDate": "7 Juillet"
-    },
-    {
-      "title": "L'OFFICE DU TOURISME DE MALTE - Chargé(e) des Réseaux Sociaux et de la Communication Digitale - (France)",
-      "link": "https://www.tourmag.com/classifieds/L-OFFICE-DU-TOURISME-DE-MALTE-Charge-e-des-Reseaux-Sociaux-et-de-la-Communication-Digitale-France_pa268263.html",
-      "location": "",
-      "description": "",
-      "pubDate": "7 Juillet"
-    },
-    {
       "title": "CARREFOUR VOYAGES - Alternant(e) Assistant(e) Direction Réseau / Support aux Directrices Régionales H/F - (Massy/Evry (91))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Alternant-e-Assistant-e-Direction-Reseau-Support-aux-Directrices-Regionales-H-F-Massy-Evry-91_pa268329.html",
       "location": "Massy, Evry",
@@ -97,13 +132,6 @@
       "title": "CARREFOUR VOYAGES - Alternant(e) Chargé(e) de ressources humaines H/F - (Massy/Evry (91))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Alternant-e-Charge-e-de-ressources-humaines-H-F-Massy-Evry-91_pa268328.html",
       "location": "Massy, Evry",
-      "description": "",
-      "pubDate": "7 Juillet"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Mont Saint Aignan (76))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Mont-Saint-Aignan-76_pa268327.html",
-      "location": "Mont Saint Aignan",
       "description": "",
       "pubDate": "7 Juillet"
     },
@@ -239,13 +267,6 @@
       "location": "Marseille",
       "description": "",
       "pubDate": "26 Juin"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Commercial(e) BtoB Secteur Nord-Est  - CDI - (Lille (59))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-BtoB-Secteur-Nord-Est-CDI-Lille-59_pa268267.html",
-      "location": "Lille",
-      "description": "",
-      "pubDate": "25 Juin"
     },
     {
       "title": "NOMAD RIDERS - Apprenti(e) conseillèr(e) voyages à cheval bilingue Anglais H/F - Alternance 12 mois - (Paris (75))",
@@ -514,5 +535,5 @@
       "pubDate": "24 Avril"
     }
   ],
-  "scrapedAt": "2026-07-10T16:55:04.798Z"
+  "scrapedAt": "2026-07-10T18:22:07.989Z"
 }
