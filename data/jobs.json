@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 75,
+  "total": 73,
   "offers": [
     {
       "title": "THAÏ AIRWAYS - Compliance & Customer Relations Officer F/H - (Paris (75))",
@@ -237,20 +237,6 @@
       "title": "CORSICA LINEA - Alternant(e) Analyste revenue management H/F - Apprentissage -  (Marseille (13))",
       "link": "https://www.tourmag.com/classifieds/CORSICA-LINEA-Alternant-e-Analyste-revenue-management-H-F-Apprentissage-Marseille-13_pa268308.html",
       "location": "Marseille",
-      "description": "",
-      "pubDate": "26 Juin"
-    },
-    {
-      "title": "AMPLITUDES - Stagiaires Assistant(e)s Chef(fe)s de Produit H/F - Stage de 6 mois - (Toulouse (31))",
-      "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Stagiaires-Assistant-e-s-Chef-fe-s-de-Produit-H-F-Stage-de-6-mois-Toulouse-31_pa268307.html",
-      "location": "Toulouse",
-      "description": "",
-      "pubDate": "26 Juin"
-    },
-    {
-      "title": "AMPLITUDES - Alternant(e) Back-office H/F  - (Toulouse (31))",
-      "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Alternant-e-Back-office-H-F-Toulouse-31_pa268306.html",
-      "location": "Toulouse",
       "description": "",
       "pubDate": "26 Juin"
     },
@@ -528,5 +514,5 @@
       "pubDate": "24 Avril"
     }
   ],
-  "scrapedAt": "2026-07-10T14:23:33.728Z"
+  "scrapedAt": "2026-07-10T16:55:04.798Z"
 }
