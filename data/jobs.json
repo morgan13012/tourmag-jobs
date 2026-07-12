@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 76,
+  "total": 75,
   "offers": [
     {
       "title": "THAÏ AIRWAYS - Compliance & Customer Relations Officer F/H - (Paris (75))",
@@ -48,13 +48,6 @@
       "title": "PERIER VOYAGES - Forfaitiste Groupes H/F – Pôle Voyages en Avion - CDI  - (Lillebonne (76))",
       "link": "https://www.tourmag.com/classifieds/PERIER-VOYAGES-Forfaitiste-Groupes-H-F-Pole-Voyages-en-Avion-CDI-Lillebonne-76_pa268291.html",
       "location": "Lillebonne (76)",
-      "description": "",
-      "pubDate": "10 Juillet"
-    },
-    {
-      "title": "E-LECLERC VOYAGES - Responsable d'agence H/F - CDI - (Pontchâteau (44))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-H-F-CDI-Pontchateau-44_pa268283.html",
-      "location": "Pontchâteau",
       "description": "",
       "pubDate": "10 Juillet"
     },
@@ -535,5 +528,5 @@
       "pubDate": "24 Avril"
     }
   ],
-  "scrapedAt": "2026-07-12T19:03:43.428Z"
+  "scrapedAt": "2026-07-12T20:44:22.387Z"
 }
