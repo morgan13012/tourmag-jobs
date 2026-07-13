@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 75,
+  "total": 74,
   "offers": [
     {
       "title": "THAÏ AIRWAYS - Compliance & Customer Relations Officer F/H - (Paris (75))",
@@ -41,13 +41,6 @@
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Mont Saint Aignan (76))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Mont-Saint-Aignan-76_pa268327.html",
       "location": "Mont Saint Aignan",
-      "description": "",
-      "pubDate": "10 Juillet"
-    },
-    {
-      "title": "PERIER VOYAGES - Forfaitiste Groupes H/F – Pôle Voyages en Avion - CDI  - (Lillebonne (76))",
-      "link": "https://www.tourmag.com/classifieds/PERIER-VOYAGES-Forfaitiste-Groupes-H-F-Pole-Voyages-en-Avion-CDI-Lillebonne-76_pa268291.html",
-      "location": "Lillebonne (76)",
       "description": "",
       "pubDate": "10 Juillet"
     },
@@ -528,5 +521,5 @@
       "pubDate": "24 Avril"
     }
   ],
-  "scrapedAt": "2026-07-13T08:15:22.581Z"
+  "scrapedAt": "2026-07-13T12:04:01.793Z"
 }
