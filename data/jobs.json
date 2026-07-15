@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 72,
+  "total": 71,
   "offers": [
     {
       "title": "THAÏ AIRWAYS - Compliance & Customer Relations Officer F/H - (Paris (75))",
@@ -27,13 +27,6 @@
       "title": "INTERMEDES - Chargé(e) des ventes Senior H/F - CDI - (Paris 6e)",
       "link": "https://www.tourmag.com/classifieds/INTERMEDES-Charge-e-des-ventes-Senior-H-F-CDI-Paris-6e_pa268273.html",
       "location": "Paris",
-      "description": "",
-      "pubDate": "10 Juillet"
-    },
-    {
-      "title": "L'OFFICE DU TOURISME DE MALTE - Chargé(e) des Réseaux Sociaux et de la Communication Digitale - (France)",
-      "link": "https://www.tourmag.com/classifieds/L-OFFICE-DU-TOURISME-DE-MALTE-Charge-e-des-Reseaux-Sociaux-et-de-la-Communication-Digitale-France_pa268263.html",
-      "location": "",
       "description": "",
       "pubDate": "10 Juillet"
     },
@@ -507,5 +500,5 @@
       "pubDate": "24 Avril"
     }
   ],
-  "scrapedAt": "2026-07-15T12:13:29.553Z"
+  "scrapedAt": "2026-07-15T14:49:02.259Z"
 }
