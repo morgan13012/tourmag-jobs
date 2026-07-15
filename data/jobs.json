@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 74,
+  "total": 72,
   "offers": [
     {
       "title": "THAÏ AIRWAYS - Compliance & Customer Relations Officer F/H - (Paris (75))",
@@ -388,13 +388,6 @@
       "pubDate": "8 Juin"
     },
     {
-      "title": "LE GROUPE SALAUN - Chef de projet Mice H/F - CDI  - (Nantes (44))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Chef-de-projet-Mice-H-F-CDI-Nantes-44_pa268218.html",
-      "location": "Nantes",
-      "description": "",
-      "pubDate": "6 Juin"
-    },
-    {
       "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Carhaix-Plouguer (29))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Carhaix-Plouguer-29_pa268229.html",
       "location": "Carhaix-Plouguer",
@@ -412,13 +405,6 @@
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Brest (29))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Brest-29_pa267100.html",
       "location": "Brest",
-      "description": "",
-      "pubDate": "4 Juin"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Chef de projet MICE H/F - CDI - (Marseille (13))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Chef-de-projet-MICE-H-F-CDI-Marseille-13_pa267970.html",
-      "location": "Marseille",
       "description": "",
       "pubDate": "4 Juin"
     },
@@ -521,5 +507,5 @@
       "pubDate": "24 Avril"
     }
   ],
-  "scrapedAt": "2026-07-15T07:12:51.890Z"
+  "scrapedAt": "2026-07-15T10:00:40.887Z"
 }
