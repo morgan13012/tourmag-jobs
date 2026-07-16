@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 71,
+  "total": 72,
   "offers": [
+    {
+      "title": "TRIP MY FRANCE - Travel Designer Confirmé H/F - CDI - (Arnas (69))",
+      "link": "https://www.tourmag.com/classifieds/TRIP-MY-FRANCE-Travel-Designer-Confirme-H-F-CDI-Arnas-69_pa268337.html",
+      "location": "Arnas",
+      "description": "",
+      "pubDate": "17 Juillet"
+    },
     {
       "title": "THAÏ AIRWAYS - Compliance & Customer Relations Officer F/H - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/THAI-AIRWAYS-Compliance-Customer-Relations-Officer-F-H-Paris-75_pa268330.html",
@@ -500,5 +507,5 @@
       "pubDate": "24 Avril"
     }
   ],
-  "scrapedAt": "2026-07-16T15:00:15.463Z"
+  "scrapedAt": "2026-07-16T16:25:03.910Z"
 }
