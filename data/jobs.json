@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 72,
+  "total": 71,
   "offers": [
     {
       "title": "TRIP MY FRANCE - Travel Designer Confirmé H/F - CDI - (Arnas (69))",
@@ -409,13 +409,6 @@
       "pubDate": "4 Juin"
     },
     {
-      "title": "E.LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Echirolles (38))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Echirolles-38_pa267875.html",
-      "location": "Echirolles",
-      "description": "",
-      "pubDate": "27 Mai"
-    },
-    {
       "title": "UN MONDE DE VOYAGES - Conseiller voyages polyvalent H/F - CDD/CDI - (Saint-Fargeau-Ponthierry (77))",
       "link": "https://www.tourmag.com/classifieds/UN-MONDE-DE-VOYAGES-Conseiller-voyages-polyvalent-H-F-CDD-CDI-Saint-Fargeau-Ponthierry-77_pa268134.html",
       "location": "Saint-Fargeau-Ponthierry",
@@ -507,5 +500,5 @@
       "pubDate": "24 Avril"
     }
   ],
-  "scrapedAt": "2026-07-16T20:01:37.996Z"
+  "scrapedAt": "2026-07-16T22:02:27.751Z"
 }
