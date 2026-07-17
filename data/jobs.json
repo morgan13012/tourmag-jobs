@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 71,
+  "total": 72,
   "offers": [
+    {
+      "title": "MONDE AUTHENTIQUE - Créateur(trice) de voyages confirmé(e) - CDI - (Paris 2e)",
+      "link": "https://www.tourmag.com/classifieds/MONDE-AUTHENTIQUE-Createur-trice-de-voyages-confirme-e-CDI-Paris-2e_pa268336.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "TRIP MY FRANCE - Travel Designer Confirmé H/F - CDI - (Arnas (69))",
       "link": "https://www.tourmag.com/classifieds/TRIP-MY-FRANCE-Travel-Designer-Confirme-H-F-CDI-Arnas-69_pa268337.html",
@@ -500,5 +507,5 @@
       "pubDate": "24 Avril"
     }
   ],
-  "scrapedAt": "2026-07-17T07:14:52.987Z"
+  "scrapedAt": "2026-07-17T09:55:35.358Z"
 }
