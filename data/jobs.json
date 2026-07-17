@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 72,
+  "total": 74,
   "offers": [
     {
       "title": "MONDE AUTHENTIQUE - Créateur(trice) de voyages confirmé(e) - CDI - (Paris 2e)",
@@ -15,6 +15,20 @@
       "location": "Arnas",
       "description": "",
       "pubDate": "NEW 09:00"
+    },
+    {
+      "title": "LE CHÂTEAU DE THEOULE HÔTEL & SPA  -  Stagiaire Assistant(e) Commercial(e) & Événementiel - (Théoule sur Mer (06))",
+      "link": "https://www.tourmag.com/classifieds/LE-CHATEAU-DE-THEOULE-HOTEL-SPA-Stagiaire-Assistant-e-Commercial-e-Evenementiel-Theoule-sur-Mer-06_pa268341.html",
+      "location": "Théoule sur Mer",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CATLANTE CATAMARANS - Alternant(e) marketing digital, GEO/SEO & IA - (Saint-Cloud (92))",
+      "link": "https://www.tourmag.com/classifieds/CATLANTE-CATAMARANS-Alternant-e-marketing-digital-GEO-SEO-IA-Saint-Cloud-92_pa268340.html",
+      "location": "Saint-Cloud",
+      "description": "",
+      "pubDate": "NEW 00:00"
     },
     {
       "title": "THAÏ AIRWAYS - Compliance & Customer Relations Officer F/H - (Paris (75))",
@@ -507,5 +521,5 @@
       "pubDate": "24 Avril"
     }
   ],
-  "scrapedAt": "2026-07-17T11:20:50.211Z"
+  "scrapedAt": "2026-07-17T13:24:46.798Z"
 }
