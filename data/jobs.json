@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 74,
+  "total": 75,
   "offers": [
+    {
+      "title": "OFFICE NATIONAL DU TOURISME TUNISIEN - APPEL D’OFFRES N° 20260701309 - Construction des stands de l’O.N.T.T aux salons et foires touristiques à l'Etranger pour une année 2026-2027",
+      "link": "https://www.tourmag.com/classifieds/OFFICE-NATIONAL-DU-TOURISME-TUNISIEN-APPEL-D-OFFRES-N-20260701309-Construction-des-stands-de-l-O-N-T-T-aux-salons-et_pa268339.html",
+      "location": "",
+      "description": "",
+      "pubDate": "NEW 09:00"
+    },
     {
       "title": "MONDE AUTHENTIQUE - Créateur(trice) de voyages confirmé(e) - CDI - (Paris 2e)",
       "link": "https://www.tourmag.com/classifieds/MONDE-AUTHENTIQUE-Createur-trice-de-voyages-confirme-e-CDI-Paris-2e_pa268336.html",
@@ -521,5 +528,5 @@
       "pubDate": "24 Avril"
     }
   ],
-  "scrapedAt": "2026-07-17T23:50:57.683Z"
+  "scrapedAt": "2026-07-18T06:58:54.489Z"
 }
