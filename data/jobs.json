@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 75,
+  "total": 74,
   "offers": [
     {
       "title": "OFFICE NATIONAL DU TOURISME TUNISIEN - APPEL D’OFFRES N° 20260701309 - Construction des stands de l’O.N.T.T aux salons et foires touristiques à l'Etranger pour une année 2026-2027",
@@ -444,13 +444,6 @@
       "pubDate": "26 Mai"
     },
     {
-      "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages avec bail basée à Paris 17e",
-      "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-avec-bail-basee-a-Paris-17e_pa267876.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "26 Mai"
-    },
-    {
       "title": "PROMOTION CONSEIL VACANCES - Commercial expérimenté H/F - CDI - (France entière)",
       "link": "https://www.tourmag.com/classifieds/PROMOTION-CONSEIL-VACANCES-Commercial-experimente-H-F-CDI-France-entiere_pa267540.html",
       "location": "France",
@@ -528,5 +521,5 @@
       "pubDate": "24 Avril"
     }
   ],
-  "scrapedAt": "2026-07-19T21:50:58.509Z"
+  "scrapedAt": "2026-07-19T22:50:17.855Z"
 }
