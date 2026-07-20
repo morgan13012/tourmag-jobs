@@ -1,11 +1,18 @@
 {
   "success": true,
-  "total": 74,
+  "total": 75,
   "offers": [
     {
       "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Carentan (50))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Carentan-50_pa268345.html",
       "location": "Carentan",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "INTERMEDES - Assistant(e) Commercial(e) & Technique - Stage de 6 mois - (Paris 10e)",
+      "link": "https://www.tourmag.com/classifieds/INTERMEDES-Assistant-e-Commercial-e-Technique-Stage-de-6-mois-Paris-10e_pa268344.html",
+      "location": "Paris",
       "description": "",
       "pubDate": "NEW 00:00"
     },
@@ -521,5 +528,5 @@
       "pubDate": "24 Avril"
     }
   ],
-  "scrapedAt": "2026-07-20T10:55:34.260Z"
+  "scrapedAt": "2026-07-20T13:04:49.205Z"
 }
