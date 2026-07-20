@@ -3,6 +3,13 @@
   "total": 74,
   "offers": [
     {
+      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Carentan (50))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Carentan-50_pa268345.html",
+      "location": "Carentan",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
       "title": "OFFICE NATIONAL DU TOURISME TUNISIEN - APPEL D’OFFRES N° 20260701309 - Construction des stands de l’O.N.T.T aux salons et foires touristiques à l'Etranger pour une année 2026-2027",
       "link": "https://www.tourmag.com/classifieds/OFFICE-NATIONAL-DU-TOURISME-TUNISIEN-APPEL-D-OFFRES-N-20260701309-Construction-des-stands-de-l-O-N-T-T-aux-salons-et_pa268339.html",
       "location": "",
@@ -134,13 +141,6 @@
       "location": "Paris",
       "description": "",
       "pubDate": "8 Juillet"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Alternant(e) Assistant(e) Direction Réseau / Support aux Directrices Régionales H/F - (Massy/Evry (91))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Alternant-e-Assistant-e-Direction-Reseau-Support-aux-Directrices-Regionales-H-F-Massy-Evry-91_pa268329.html",
-      "location": "Massy, Evry",
-      "description": "",
-      "pubDate": "7 Juillet"
     },
     {
       "title": "CARREFOUR VOYAGES - Alternant(e) Chargé(e) de ressources humaines H/F - (Massy/Evry (91))",
@@ -521,5 +521,5 @@
       "pubDate": "24 Avril"
     }
   ],
-  "scrapedAt": "2026-07-20T07:57:11.937Z"
+  "scrapedAt": "2026-07-20T10:55:34.260Z"
 }
