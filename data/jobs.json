@@ -1,7 +1,49 @@
 {
   "success": true,
-  "total": 75,
+  "total": 76,
   "offers": [
+    {
+      "title": "OFFICE NATIONAL DU TOURISME TUNISIEN - APPEL D’OFFRES N° 20260701309 - Construction des stands de l’O.N.T.T aux salons et foires touristiques à l'Etranger pour une année 2026-2027",
+      "link": "https://www.tourmag.com/classifieds/OFFICE-NATIONAL-DU-TOURISME-TUNISIEN-APPEL-D-OFFRES-N-20260701309-Construction-des-stands-de-l-O-N-T-T-aux-salons-et_pa268339.html",
+      "location": "",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "TRIP MY FRANCE - Travel Designer Confirmé H/F - CDI - (Arnas (69))",
+      "link": "https://www.tourmag.com/classifieds/TRIP-MY-FRANCE-Travel-Designer-Confirme-H-F-CDI-Arnas-69_pa268337.html",
+      "location": "Arnas",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "MONDE AUTHENTIQUE - Créateur(trice) de voyages confirmé(e) - CDI - (Paris 2e)",
+      "link": "https://www.tourmag.com/classifieds/MONDE-AUTHENTIQUE-Createur-trice-de-voyages-confirme-e-CDI-Paris-2e_pa268336.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "THAÏ AIRWAYS - Compliance & Customer Relations Officer F/H - (Paris (75))",
+      "link": "https://www.tourmag.com/classifieds/THAI-AIRWAYS-Compliance-Customer-Relations-Officer-F-H-Paris-75_pa268330.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "CATLANTE CATAMARANS - Conseiller(e) Voyages expérimenté(e) - CDI - (Saint-Cloud (92))",
+      "link": "https://www.tourmag.com/classifieds/CATLANTE-CATAMARANS-Conseiller-e-Voyages-experimente-e-CDI-Saint-Cloud-92_pa268318.html",
+      "location": "Saint-Cloud",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "WORKPACKERS - Alternant(e) CSM – Hospitalité, Revenue Management & Opérations - (Télétravail)",
+      "link": "https://www.tourmag.com/classifieds/WORKPACKERS-Alternant-e-CSM-Hospitalite-Revenue-Management-Operations-Teletravail_pa268346.html",
+      "location": "Télétravail",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Carentan (50))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Carentan-50_pa268345.html",
@@ -17,27 +59,6 @@
       "pubDate": "NEW 00:00"
     },
     {
-      "title": "OFFICE NATIONAL DU TOURISME TUNISIEN - APPEL D’OFFRES N° 20260701309 - Construction des stands de l’O.N.T.T aux salons et foires touristiques à l'Etranger pour une année 2026-2027",
-      "link": "https://www.tourmag.com/classifieds/OFFICE-NATIONAL-DU-TOURISME-TUNISIEN-APPEL-D-OFFRES-N-20260701309-Construction-des-stands-de-l-O-N-T-T-aux-salons-et_pa268339.html",
-      "location": "",
-      "description": "",
-      "pubDate": "18 Juillet"
-    },
-    {
-      "title": "MONDE AUTHENTIQUE - Créateur(trice) de voyages confirmé(e) - CDI - (Paris 2e)",
-      "link": "https://www.tourmag.com/classifieds/MONDE-AUTHENTIQUE-Createur-trice-de-voyages-confirme-e-CDI-Paris-2e_pa268336.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "17 Juillet"
-    },
-    {
-      "title": "TRIP MY FRANCE - Travel Designer Confirmé H/F - CDI - (Arnas (69))",
-      "link": "https://www.tourmag.com/classifieds/TRIP-MY-FRANCE-Travel-Designer-Confirme-H-F-CDI-Arnas-69_pa268337.html",
-      "location": "Arnas",
-      "description": "",
-      "pubDate": "17 Juillet"
-    },
-    {
       "title": "LE CHÂTEAU DE THEOULE HÔTEL & SPA  -  Stagiaire Assistant(e) Commercial(e) & Événementiel - (Théoule sur Mer (06))",
       "link": "https://www.tourmag.com/classifieds/LE-CHATEAU-DE-THEOULE-HOTEL-SPA-Stagiaire-Assistant-e-Commercial-e-Evenementiel-Theoule-sur-Mer-06_pa268341.html",
       "location": "Théoule sur Mer",
@@ -50,20 +71,6 @@
       "location": "Saint-Cloud",
       "description": "",
       "pubDate": "17 Juillet"
-    },
-    {
-      "title": "THAÏ AIRWAYS - Compliance & Customer Relations Officer F/H - (Paris (75))",
-      "link": "https://www.tourmag.com/classifieds/THAI-AIRWAYS-Compliance-Customer-Relations-Officer-F-H-Paris-75_pa268330.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "10 Juillet"
-    },
-    {
-      "title": "CATLANTE CATAMARANS - Conseiller(e) Voyages expérimenté(e) - CDI - (Saint-Cloud (92))",
-      "link": "https://www.tourmag.com/classifieds/CATLANTE-CATAMARANS-Conseiller-e-Voyages-experimente-e-CDI-Saint-Cloud-92_pa268318.html",
-      "location": "Saint-Cloud",
-      "description": "",
-      "pubDate": "10 Juillet"
     },
     {
       "title": "TURQUOISE TO - Technicien Transport et Back-office H/F - CDD / CDI - (Aix-en-Provence (13))",
@@ -528,5 +535,5 @@
       "pubDate": "24 Avril"
     }
   ],
-  "scrapedAt": "2026-07-20T15:48:17.210Z"
+  "scrapedAt": "2026-07-20T18:00:55.302Z"
 }
