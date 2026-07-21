@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 74,
+  "total": 73,
   "offers": [
     {
       "title": "OFFICE NATIONAL DU TOURISME TUNISIEN - APPEL D’OFFRES N° 20260701309 - Construction des stands de l’O.N.T.T aux salons et foires touristiques à l'Etranger pour une année 2026-2027",
@@ -395,13 +395,6 @@
       "pubDate": "15 Juin"
     },
     {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Vitrolles (13))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Vitrolles-13_pa267880.html",
-      "location": "Vitrolles",
-      "description": "",
-      "pubDate": "12 Juin"
-    },
-    {
       "title": "E-LECLERC VOYAGES - Conseiller(e)s voyages confirmé(e)s H/F - CDI - (Anet (28))",
       "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-e-s-voyages-confirme-e-s-H-F-CDI-Anet-28_pa268119.html",
       "location": "Anet",
@@ -521,5 +514,5 @@
       "pubDate": "1 Mai"
     }
   ],
-  "scrapedAt": "2026-07-21T21:07:08.912Z"
+  "scrapedAt": "2026-07-21T22:55:06.369Z"
 }
