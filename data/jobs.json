@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 72,
+  "total": 71,
   "offers": [
     {
       "title": "OFFICE NATIONAL DU TOURISME TUNISIEN - APPEL D’OFFRES N° 20260701309 - Construction des stands de l’O.N.T.T aux salons et foires touristiques à l'Etranger pour une année 2026-2027",
@@ -34,13 +34,6 @@
       "title": "CATLANTE CATAMARANS - Conseiller(e) Voyages expérimenté(e) - CDI - (Saint-Cloud (92))",
       "link": "https://www.tourmag.com/classifieds/CATLANTE-CATAMARANS-Conseiller-e-Voyages-experimente-e-CDI-Saint-Cloud-92_pa268318.html",
       "location": "Saint-Cloud",
-      "description": "",
-      "pubDate": "20 Juillet"
-    },
-    {
-      "title": "WORKPACKERS - Alternant(e) CSM – Hospitalité, Revenue Management & Opérations - (Télétravail)",
-      "link": "https://www.tourmag.com/classifieds/WORKPACKERS-Alternant-e-CSM-Hospitalite-Revenue-Management-Operations-Teletravail_pa268346.html",
-      "location": "Télétravail",
       "description": "",
       "pubDate": "20 Juillet"
     },
@@ -507,5 +500,5 @@
       "pubDate": "1 Mai"
     }
   ],
-  "scrapedAt": "2026-07-24T07:29:18.248Z"
+  "scrapedAt": "2026-07-24T10:14:26.058Z"
 }
