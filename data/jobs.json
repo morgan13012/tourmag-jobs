@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 76,
+  "total": 77,
   "offers": [
+    {
+      "title": "AIR TRANSAT - Responsable Marketing Marchés Internationaux H/F - CDD - (Alfortville (94))",
+      "link": "https://www.tourmag.com/classifieds/AIR-TRANSAT-Responsable-Marketing-Marches-Internationaux-H-F-CDD-Alfortville-94_pa268360.html",
+      "location": "Alfortville",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Vannes (56))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Vannes-56_pa268223.html",
@@ -535,5 +542,5 @@
       "pubDate": "1 Mai"
     }
   ],
-  "scrapedAt": "2026-07-28T17:25:07.030Z"
+  "scrapedAt": "2026-07-28T19:21:01.543Z"
 }
