@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 76,
+  "total": 74,
   "offers": [
     {
       "title": "AIR TRANSAT - Responsable Marketing Marchés Internationaux H/F - CDD - (Alfortville (94))",
@@ -519,21 +519,7 @@
       "location": "Rennes Cesson",
       "description": "",
       "pubDate": "7 Mai"
-    },
-    {
-      "title": "HEWAGO - Chef de Produit Japon/Corée H/F - CDI - (Paris (75))",
-      "link": "https://www.tourmag.com/classifieds/HEWAGO-Chef-de-Produit-Japon-Coree-H-F-CDI-Paris-75_pa267960.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "1 Mai"
-    },
-    {
-      "title": "CORREZE TOURISME - Responsable Commercial Tourisme Groupes H/F - CDI - (Tulle (19))",
-      "link": "https://www.tourmag.com/classifieds/CORREZE-TOURISME-Responsable-Commercial-Tourisme-Groupes-H-F-CDI-Tulle-19_pa267956.html",
-      "location": "Tulle",
-      "description": "",
-      "pubDate": "1 Mai"
     }
   ],
-  "scrapedAt": "2026-07-29T21:59:49.090Z"
+  "scrapedAt": "2026-07-29T23:05:53.830Z"
 }
