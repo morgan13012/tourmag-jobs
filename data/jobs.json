@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 74,
+  "total": 72,
   "offers": [
     {
       "title": "AIR TRANSAT - Responsable Marketing Marchés Internationaux H/F - CDD - (Alfortville (94))",
@@ -472,13 +472,6 @@
       "pubDate": "6 Juin"
     },
     {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Brest (29))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Brest-29_pa267100.html",
-      "location": "Brest",
-      "description": "",
-      "pubDate": "4 Juin"
-    },
-    {
       "title": "UN MONDE DE VOYAGES - Conseiller voyages polyvalent H/F - CDD/CDI - (Saint-Fargeau-Ponthierry (77))",
       "link": "https://www.tourmag.com/classifieds/UN-MONDE-DE-VOYAGES-Conseiller-voyages-polyvalent-H-F-CDD-CDI-Saint-Fargeau-Ponthierry-77_pa268134.html",
       "location": "Saint-Fargeau-Ponthierry",
@@ -512,14 +505,7 @@
       "location": "Sélestat",
       "description": "",
       "pubDate": "12 Mai"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Rennes Cesson (35))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Rennes-Cesson-35_pa266437.html",
-      "location": "Rennes Cesson",
-      "description": "",
-      "pubDate": "7 Mai"
     }
   ],
-  "scrapedAt": "2026-07-30T21:07:56.608Z"
+  "scrapedAt": "2026-07-30T23:05:13.110Z"
 }
