@@ -3,6 +3,13 @@
   "total": 72,
   "offers": [
     {
+      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Carhaix-Plouguer (29))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Carhaix-Plouguer-29_pa268229.html",
+      "location": "Carhaix-Plouguer",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
       "title": "AIR TRANSAT - Responsable Marketing Marchés Internationaux H/F - CDD - (Alfortville (94))",
       "link": "https://www.tourmag.com/classifieds/AIR-TRANSAT-Responsable-Marketing-Marches-Internationaux-H-F-CDD-Alfortville-94_pa268360.html",
       "location": "Alfortville",
@@ -458,13 +465,6 @@
       "pubDate": "8 Juin"
     },
     {
-      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Carhaix-Plouguer (29))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Carhaix-Plouguer-29_pa268229.html",
-      "location": "Carhaix-Plouguer",
-      "description": "",
-      "pubDate": "6 Juin"
-    },
-    {
       "title": "LE GROUPE SALAUN - Commercial Groupes H/F - CDI  - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-Groupes-H-F-CDI-Paris-75_pa268228.html",
       "location": "Paris",
@@ -507,5 +507,5 @@
       "pubDate": "12 Mai"
     }
   ],
-  "scrapedAt": "2026-07-31T17:27:09.806Z"
+  "scrapedAt": "2026-07-31T19:22:12.483Z"
 }
