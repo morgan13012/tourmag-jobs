@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 72,
+  "total": 73,
   "offers": [
+    {
+      "title": "CHAUDERON VOYAGES - Forfaitiste Voyages Scolaires Expérimenté(e) - CDD - (Télétravail)",
+      "link": "https://www.tourmag.com/classifieds/CHAUDERON-VOYAGES-Forfaitiste-Voyages-Scolaires-Experimente-e-CDD-Teletravail_pa268365.html",
+      "location": "Télétravail",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Carhaix-Plouguer (29))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Carhaix-Plouguer-29_pa268229.html",
@@ -507,5 +514,5 @@
       "pubDate": "12 Mai"
     }
   ],
-  "scrapedAt": "2026-08-03T12:20:57.966Z"
+  "scrapedAt": "2026-08-03T15:41:17.364Z"
 }
