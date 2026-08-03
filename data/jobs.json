@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 73,
+  "total": 72,
   "offers": [
     {
       "title": "CHAUDERON VOYAGES - Forfaitiste Voyages Scolaires Expérimenté(e) - CDD - (Télétravail)",
@@ -505,14 +505,7 @@
       "location": "Lyon",
       "description": "",
       "pubDate": "12 Mai"
-    },
-    {
-      "title": "E-LECLERC VOYAGES - Conseiller(e)s voyages H/F - CDI - (Sélestat (67))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-e-s-voyages-H-F-CDI-Selestat-67_pa267962.html",
-      "location": "Sélestat",
-      "description": "",
-      "pubDate": "12 Mai"
     }
   ],
-  "scrapedAt": "2026-08-03T21:00:12.649Z"
+  "scrapedAt": "2026-08-03T22:13:25.236Z"
 }
