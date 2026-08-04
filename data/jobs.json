@@ -1,7 +1,35 @@
 {
   "success": true,
-  "total": 72,
+  "total": 74,
   "offers": [
+    {
+      "title": "E-LECLERC VOYAGES - Responsable d'agence H/F - CDI - (Granville (50))",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-H-F-CDI-Granville-50_pa268368.html",
+      "location": "Granville",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "CE EVASION - Technicien(ne) Forfaitistes groupes collectivités F/H - CDI - (Paris ou Rouen)",
+      "link": "https://www.tourmag.com/classifieds/CE-EVASION-Technicien-ne-Forfaitistes-groupes-collectivites-F-H-CDI-Paris-ou-Rouen_pa268367.html",
+      "location": "Paris, Rouen",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Alternant(e) Chargé(e) de ressources humaines H/F - (Massy/Evry (91))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Alternant-e-Charge-e-de-ressources-humaines-H-F-Massy-Evry-91_pa268328.html",
+      "location": "Massy, Evry",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Vannes (56))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Vannes-56_pa268223.html",
+      "location": "Vannes",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "CHAUDERON VOYAGES - Forfaitiste Voyages Scolaires Expérimenté(e) - CDD - (Télétravail)",
       "link": "https://www.tourmag.com/classifieds/CHAUDERON-VOYAGES-Forfaitiste-Voyages-Scolaires-Experimente-e-CDD-Teletravail_pa268365.html",
@@ -24,23 +52,9 @@
       "pubDate": "28 Juillet"
     },
     {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Vannes (56))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Vannes-56_pa268223.html",
-      "location": "Vannes",
-      "description": "",
-      "pubDate": "28 Juillet"
-    },
-    {
       "title": "TRIP MY FRANCE - Travel Designer Confirmé H/F - CDI - (Arnas (69))",
       "link": "https://www.tourmag.com/classifieds/TRIP-MY-FRANCE-Travel-Designer-Confirme-H-F-CDI-Arnas-69_pa268337.html",
       "location": "Arnas",
-      "description": "",
-      "pubDate": "28 Juillet"
-    },
-    {
-      "title": "MONDE AUTHENTIQUE - Créateur(trice) de voyages confirmé(e) - CDI - (Paris 2e)",
-      "link": "https://www.tourmag.com/classifieds/MONDE-AUTHENTIQUE-Createur-trice-de-voyages-confirme-e-CDI-Paris-2e_pa268336.html",
-      "location": "Paris",
       "description": "",
       "pubDate": "28 Juillet"
     },
@@ -507,5 +521,5 @@
       "pubDate": "12 Mai"
     }
   ],
-  "scrapedAt": "2026-08-04T13:00:40.899Z"
+  "scrapedAt": "2026-08-04T16:10:18.224Z"
 }
