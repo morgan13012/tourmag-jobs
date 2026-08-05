@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 74,
+  "total": 75,
   "offers": [
+    {
+      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Nancy (54))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Nancy-54_pa268370.html",
+      "location": "Nancy",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "E-LECLERC VOYAGES - Responsable d'agence H/F - CDI - (Granville (50))",
       "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-H-F-CDI-Granville-50_pa268368.html",
@@ -521,5 +528,5 @@
       "pubDate": "12 Mai"
     }
   ],
-  "scrapedAt": "2026-08-05T15:11:34.583Z"
+  "scrapedAt": "2026-08-05T17:27:28.385Z"
 }
