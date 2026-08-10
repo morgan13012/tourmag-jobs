@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 81,
+  "total": 82,
   "offers": [
+    {
+      "title": "NG TRAVEL - Assistant(e) Production - CDI - (Paris 2e)",
+      "link": "https://www.tourmag.com/classifieds/NG-TRAVEL-Assistant-e-Production-CDI-Paris-2e_pa268375.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "CARREFOUR VOYAGES - Alternant(e) Chargé(e) de ressources humaines H/F - (Massy/Evry (91))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Alternant-e-Charge-e-de-ressources-humaines-H-F-Massy-Evry-91_pa268328.html",
@@ -570,5 +577,5 @@
       "pubDate": "12 Mai"
     }
   ],
-  "scrapedAt": "2026-08-10T14:56:06.284Z"
+  "scrapedAt": "2026-08-10T15:59:31.463Z"
 }
