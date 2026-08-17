@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 79,
+  "total": 78,
   "offers": [
     {
       "title": "NG TRAVEL - Assistant(e) Production - CDI - (Paris 2e)",
@@ -507,13 +507,6 @@
       "pubDate": "15 Juin"
     },
     {
-      "title": "E-LECLERC VOYAGES - Conseiller(e)s voyages confirmé(e)s H/F - CDI - (Anet (28))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Conseiller-e-s-voyages-confirme-e-s-H-F-CDI-Anet-28_pa268119.html",
-      "location": "Anet",
-      "description": "",
-      "pubDate": "10 Juin"
-    },
-    {
       "title": "LOIRE OCEAN VOYAGES - Conseiller Voyages H/F - CDI - (La Roche sur Yon (85))",
       "link": "https://www.tourmag.com/classifieds/LOIRE-OCEAN-VOYAGES-Conseiller-Voyages-H-F-CDI-La-Roche-sur-Yon-85_pa268225.html",
       "location": "La Roche sur Yon",
@@ -556,5 +549,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-08-17T21:23:54.581Z"
+  "scrapedAt": "2026-08-17T22:21:58.882Z"
 }
