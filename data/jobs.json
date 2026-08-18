@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 78,
+  "total": 77,
   "offers": [
     {
       "title": "NG TRAVEL - Assistant(e) Production - CDI - (Paris 2e)",
@@ -339,13 +339,6 @@
       "pubDate": "7 Juillet"
     },
     {
-      "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - CDI - (Sérignan (34))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Responsable-d-agence-H-F-CDI-Serignan-34_pa268127.html",
-      "location": "Sérignan",
-      "description": "",
-      "pubDate": "7 Juillet"
-    },
-    {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Villabé (91))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Villabe-91_pa266592.html",
       "location": "Villabé",
@@ -549,5 +542,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-08-18T21:21:43.149Z"
+  "scrapedAt": "2026-08-18T22:20:43.606Z"
 }
