@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 77,
+  "total": 78,
   "offers": [
+    {
+      "title": "VACANCES BLEUES - Commercial(e) Voyages en Groupe freelance H/F - (Télétravail)",
+      "link": "https://www.tourmag.com/classifieds/VACANCES-BLEUES-Commercial-e-Voyages-en-Groupe-freelance-H-F-Teletravail_pa268348.html",
+      "location": "Télétravail",
+      "description": "",
+      "pubDate": "20 Août"
+    },
     {
       "title": "NG TRAVEL - Assistant(e) Production - CDI - (Paris 2e)",
       "link": "https://www.tourmag.com/classifieds/NG-TRAVEL-Assistant-e-Production-CDI-Paris-2e_pa268375.html",
@@ -542,5 +549,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-08-19T18:32:22.618Z"
+  "scrapedAt": "2026-08-19T19:22:50.773Z"
 }
