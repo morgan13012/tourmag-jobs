@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 78,
+  "total": 77,
   "offers": [
     {
       "title": "VACANCES BLEUES - Commercial(e) Voyages en Groupe freelance H/F - (Télétravail)",
@@ -535,13 +535,6 @@
       "pubDate": "6 Juin"
     },
     {
-      "title": "UN MONDE DE VOYAGES - Conseiller voyages polyvalent H/F - CDD/CDI - (Saint-Fargeau-Ponthierry (77))",
-      "link": "https://www.tourmag.com/classifieds/UN-MONDE-DE-VOYAGES-Conseiller-voyages-polyvalent-H-F-CDD-CDI-Saint-Fargeau-Ponthierry-77_pa268134.html",
-      "location": "Saint-Fargeau-Ponthierry",
-      "description": "",
-      "pubDate": "26 Mai"
-    },
-    {
       "title": "PROMOTION CONSEIL VACANCES - Commercial expérimenté H/F - CDI - (France entière)",
       "link": "https://www.tourmag.com/classifieds/PROMOTION-CONSEIL-VACANCES-Commercial-experimente-H-F-CDI-France-entiere_pa267540.html",
       "location": "France",
@@ -549,5 +542,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-08-21T21:21:46.080Z"
+  "scrapedAt": "2026-08-21T22:22:14.232Z"
 }
