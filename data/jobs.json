@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 77,
+  "total": 78,
   "offers": [
+    {
+      "title": "TABBAGH TRAVEL SERVICE - Commercial(e) Voyage Loisirs Groupes H/F - (Paris 17e)",
+      "link": "https://www.tourmag.com/classifieds/TABBAGH-TRAVEL-SERVICE-Commercial-e-Voyage-Loisirs-Groupes-H-F-Paris-17e_pa268397.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "VACANCES BLEUES - Commercial(e) Voyages en Groupe freelance H/F - (Télétravail)",
       "link": "https://www.tourmag.com/classifieds/VACANCES-BLEUES-Commercial-e-Voyages-en-Groupe-freelance-H-F-Teletravail_pa268348.html",
@@ -542,5 +549,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-08-24T15:36:46.898Z"
+  "scrapedAt": "2026-08-24T16:34:50.810Z"
 }
