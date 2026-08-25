@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 78,
+  "total": 79,
   "offers": [
+    {
+      "title": "PRIVILEGES VOYAGES - Expert(e) en Voyages de Luxe sur-mesure - CDI - (Paris 8e)",
+      "link": "https://www.tourmag.com/classifieds/PRIVILEGES-VOYAGES-Expert-e-en-Voyages-de-Luxe-sur-mesure-CDI-Paris-8e_pa268398.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "26 Août"
+    },
     {
       "title": "TABBAGH TRAVEL SERVICE - Commercial(e) Voyage Loisirs Groupes H/F - (Paris 17e)",
       "link": "https://www.tourmag.com/classifieds/TABBAGH-TRAVEL-SERVICE-Commercial-e-Voyage-Loisirs-Groupes-H-F-Paris-17e_pa268397.html",
@@ -549,5 +556,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-08-25T14:42:20.058Z"
+  "scrapedAt": "2026-08-25T15:39:41.424Z"
 }
