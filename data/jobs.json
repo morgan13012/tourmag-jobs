@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 81,
+  "total": 80,
   "offers": [
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Evreux (27))",
@@ -381,13 +381,6 @@
       "pubDate": "7 Juillet"
     },
     {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Villabé (91))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Villabe-91_pa266592.html",
-      "location": "Villabé",
-      "description": "",
-      "pubDate": "7 Juillet"
-    },
-    {
       "title": "ZE CAMPING - Stagiaire Marketing et Communication H/F - (Franconville (95))",
       "link": "https://www.tourmag.com/classifieds/ZE-CAMPING-Stagiaire-Marketing-et-Communication-H-F-Franconville-95_pa268324.html",
       "location": "Franconville",
@@ -570,5 +563,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-08-30T19:02:47.675Z"
+  "scrapedAt": "2026-08-30T22:24:18.892Z"
 }
