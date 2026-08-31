@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 80,
+  "total": 81,
   "offers": [
+    {
+      "title": "GASTON SACAZE DMC - Mandataire Responsable commercial Europe H/F - (France, région parisienne de préférence)",
+      "link": "https://www.tourmag.com/classifieds/GASTON-SACAZE-DMC-Mandataire-Responsable-commercial-Europe-H-F-France-region-parisienne-de-preference_pa268364.html",
+      "location": "Région Parisienne",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Evreux (27))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Evreux-27_pa268403.html",
@@ -563,5 +570,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-08-31T01:05:15.054Z"
+  "scrapedAt": "2026-08-31T11:21:12.286Z"
 }
