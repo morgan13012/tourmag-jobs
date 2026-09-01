@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 79,
+  "total": 77,
   "offers": [
+    {
+      "title": "LE GROUPE SALAUN - Forfaitiste Groupes H/F - CDI - (Nantes (44))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Forfaitiste-Groupes-H-F-CDI-Nantes-44_pa268406.html",
+      "location": "Nantes",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "GASTON SACAZE DMC - Mandataire Responsable commercial Europe H/F - (France, région parisienne de préférence)",
       "link": "https://www.tourmag.com/classifieds/GASTON-SACAZE-DMC-Mandataire-Responsable-commercial-Europe-H-F-France-region-parisienne-de-preference_pa268364.html",
@@ -178,13 +185,6 @@
       "pubDate": "4 Août"
     },
     {
-      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Carhaix-Plouguer (29))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Carhaix-Plouguer-29_pa268229.html",
-      "location": "Carhaix-Plouguer",
-      "description": "",
-      "pubDate": "31 Juillet"
-    },
-    {
       "title": "TRIP MY FRANCE - Travel Designer Confirmé H/F - CDI - (Arnas (69))",
       "link": "https://www.tourmag.com/classifieds/TRIP-MY-FRANCE-Travel-Designer-Confirme-H-F-CDI-Arnas-69_pa268337.html",
       "location": "Arnas",
@@ -223,13 +223,6 @@
       "title": "OFFICE NATIONAL DU TOURISME TUNISIEN - APPEL D’OFFRES N° 20260701309 - Construction des stands de l’O.N.T.T aux salons et foires touristiques à l'Etranger pour une année 2026-2027",
       "link": "https://www.tourmag.com/classifieds/OFFICE-NATIONAL-DU-TOURISME-TUNISIEN-APPEL-D-OFFRES-N-20260701309-Construction-des-stands-de-l-O-N-T-T-aux-salons-et_pa268339.html",
       "location": "",
-      "description": "",
-      "pubDate": "20 Juillet"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Carentan (50))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Carentan-50_pa268345.html",
-      "location": "Carentan",
       "description": "",
       "pubDate": "20 Juillet"
     },
@@ -286,13 +279,6 @@
       "title": "HEMISPHERES VOYAGES EVENTS SPORTS - Conseiller Voyages Groupes / Individuels H/F - CDI - (Grenoble (38) ou Boulogne-Billancourt (92))",
       "link": "https://www.tourmag.com/classifieds/HEMISPHERES-VOYAGES-EVENTS-SPORTS-Conseiller-Voyages-Groupes-Individuels-H-F-CDI-Grenoble-38-ou-Boulogne-Billancourt-92_pa268268.html",
       "location": "Grenoble, Boulogne-Billancourt",
-      "description": "",
-      "pubDate": "10 Juillet"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Commercial(e) BtoB Secteur Nord-Est  - CDI - (Lille (59))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-e-BtoB-Secteur-Nord-Est-CDI-Lille-59_pa268267.html",
-      "location": "Lille",
       "description": "",
       "pubDate": "10 Juillet"
     },
@@ -556,5 +542,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-01T14:31:10.867Z"
+  "scrapedAt": "2026-09-01T18:09:06.655Z"
 }
