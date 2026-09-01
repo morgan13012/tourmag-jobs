@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 81,
+  "total": 79,
   "offers": [
     {
       "title": "GASTON SACAZE DMC - Mandataire Responsable commercial Europe H/F - (France, région parisienne de préférence)",
@@ -178,25 +178,11 @@
       "pubDate": "4 Août"
     },
     {
-      "title": "CHAUDERON VOYAGES - Forfaitiste Voyages Scolaires Expérimenté(e) - CDD - (Télétravail)",
-      "link": "https://www.tourmag.com/classifieds/CHAUDERON-VOYAGES-Forfaitiste-Voyages-Scolaires-Experimente-e-CDD-Teletravail_pa268365.html",
-      "location": "Télétravail",
-      "description": "",
-      "pubDate": "3 Août"
-    },
-    {
       "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI - (Carhaix-Plouguer (29))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Carhaix-Plouguer-29_pa268229.html",
       "location": "Carhaix-Plouguer",
       "description": "",
       "pubDate": "31 Juillet"
-    },
-    {
-      "title": "AIR TRANSAT - Responsable Marketing Marchés Internationaux H/F - CDD - (Alfortville (94))",
-      "link": "https://www.tourmag.com/classifieds/AIR-TRANSAT-Responsable-Marketing-Marches-Internationaux-H-F-CDD-Alfortville-94_pa268360.html",
-      "location": "Alfortville",
-      "description": "",
-      "pubDate": "28 Juillet"
     },
     {
       "title": "TRIP MY FRANCE - Travel Designer Confirmé H/F - CDI - (Arnas (69))",
@@ -570,5 +556,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-01T09:45:05.827Z"
+  "scrapedAt": "2026-09-01T14:31:10.867Z"
 }
