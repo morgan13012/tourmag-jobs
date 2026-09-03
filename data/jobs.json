@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 77,
+  "total": 69,
   "offers": [
     {
       "title": "LE GROUPE SALAUN - Forfaitiste Groupes H/F - CDI - (Nantes (44))",
@@ -150,27 +150,6 @@
       "pubDate": "10 Août"
     },
     {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Nantes Beaulieu (44))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Nantes-Beaulieu-44_pa268374.html",
-      "location": "Nantes",
-      "description": "",
-      "pubDate": "6 Août"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Chalon en Champagne (51))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Chalon-en-Champagne-51_pa268371.html",
-      "location": "Chalon en Champagne",
-      "description": "",
-      "pubDate": "6 Août"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD - (Pontault-Combault (77))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Pontault-Combault-77_pa268357.html",
-      "location": "Pontault-Combault",
-      "description": "",
-      "pubDate": "6 Août"
-    },
-    {
       "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Nancy (54))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Nancy-54_pa268370.html",
       "location": "Nancy",
@@ -316,41 +295,6 @@
       "location": "Paris",
       "description": "",
       "pubDate": "8 Juillet"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Ecully/Givors (69))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Ecully-Givors-69_pa268304.html",
-      "location": "Ecully, Givors",
-      "description": "",
-      "pubDate": "7 Juillet"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Aurillac (15))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Aurillac-15_pa268233.html",
-      "location": "Aurillac",
-      "description": "",
-      "pubDate": "7 Juillet"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Sérignan (34))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Serignan-34_pa268232.html",
-      "location": "Sérignan",
-      "description": "",
-      "pubDate": "7 Juillet"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Angoulins (17))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Angoulins-17_pa268222.html",
-      "location": "Angoulins",
-      "description": "",
-      "pubDate": "7 Juillet"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Montesson (78))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Montesson-78_pa268220.html",
-      "location": "Montesson",
-      "description": "",
-      "pubDate": "7 Juillet"
     },
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD  - (Evreux (27))",
@@ -542,5 +486,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-02T23:52:05.811Z"
+  "scrapedAt": "2026-09-03T09:27:30.829Z"
 }
