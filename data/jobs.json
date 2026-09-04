@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 69,
+  "total": 70,
   "offers": [
+    {
+      "title": "LVE TRAVEL - Responsable Service Technique / Production Groupes H/F - CDD - (Le Teich (33))",
+      "link": "https://www.tourmag.com/classifieds/LVE-TRAVEL-Responsable-Service-Technique-Production-Groupes-H-F-CDD-Le-Teich-33_pa268409.html",
+      "location": "Le Teich",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD - (Besançon (25))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Besancon-25_pa268410.html",
@@ -486,5 +493,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-04T09:26:53.125Z"
+  "scrapedAt": "2026-09-04T14:00:22.878Z"
 }
