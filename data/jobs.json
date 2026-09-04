@@ -1,13 +1,13 @@
 {
   "success": true,
-  "total": 70,
+  "total": 69,
   "offers": [
     {
       "title": "LVE TRAVEL - Responsable Service Technique / Production Groupes H/F - CDD - (Le Teich (33))",
       "link": "https://www.tourmag.com/classifieds/LVE-TRAVEL-Responsable-Service-Technique-Production-Groupes-H-F-CDD-Le-Teich-33_pa268409.html",
       "location": "Le Teich",
       "description": "",
-      "pubDate": "NEW 23:30"
+      "pubDate": "4 Septembre"
     },
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD - (Besançon (25))",
@@ -458,13 +458,6 @@
       "pubDate": "15 Juin"
     },
     {
-      "title": "LOIRE OCEAN VOYAGES - Conseiller Voyages H/F - CDI - (La Roche sur Yon (85))",
-      "link": "https://www.tourmag.com/classifieds/LOIRE-OCEAN-VOYAGES-Conseiller-Voyages-H-F-CDI-La-Roche-sur-Yon-85_pa268225.html",
-      "location": "La Roche sur Yon",
-      "description": "",
-      "pubDate": "9 Juin"
-    },
-    {
       "title": "CLIMATS DU MONDE - Gestionnaire Transport H/F - CDI - (Marseille (13))",
       "link": "https://www.tourmag.com/classifieds/CLIMATS-DU-MONDE-Gestionnaire-Transport-H-F-CDI-Marseille-13_pa268231.html",
       "location": "Marseille",
@@ -493,5 +486,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-04T21:14:15.286Z"
+  "scrapedAt": "2026-09-04T23:43:36.489Z"
 }
