@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 69,
+  "total": 68,
   "offers": [
     {
       "title": "LVE TRAVEL - Responsable Service Technique / Production Groupes H/F - CDD - (Le Teich (33))",
@@ -472,13 +472,6 @@
       "pubDate": "8 Juin"
     },
     {
-      "title": "LE GROUPE SALAUN - Commercial Groupes H/F - CDI  - (Paris (75))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-Groupes-H-F-CDI-Paris-75_pa268228.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "6 Juin"
-    },
-    {
       "title": "PROMOTION CONSEIL VACANCES - Commercial expérimenté H/F - CDI - (France entière)",
       "link": "https://www.tourmag.com/classifieds/PROMOTION-CONSEIL-VACANCES-Commercial-experimente-H-F-CDI-France-entiere_pa267540.html",
       "location": "France",
@@ -486,5 +479,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-05T21:58:48.488Z"
+  "scrapedAt": "2026-09-05T23:45:51.797Z"
 }
