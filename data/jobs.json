@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 68,
+  "total": 66,
   "offers": [
     {
       "title": "LVE TRAVEL - Responsable Service Technique / Production Groupes H/F - CDD - (Le Teich (33))",
@@ -458,20 +458,6 @@
       "pubDate": "15 Juin"
     },
     {
-      "title": "CLIMATS DU MONDE - Gestionnaire Transport H/F - CDI - (Marseille (13))",
-      "link": "https://www.tourmag.com/classifieds/CLIMATS-DU-MONDE-Gestionnaire-Transport-H-F-CDI-Marseille-13_pa268231.html",
-      "location": "Marseille",
-      "description": "",
-      "pubDate": "8 Juin"
-    },
-    {
-      "title": "SEZAME DES VOYAGES - Responsable d'agence de voyages H/F - CDI  - (Marseille (13))",
-      "link": "https://www.tourmag.com/classifieds/SEZAME-DES-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Marseille-13_pa268230.html",
-      "location": "Marseille",
-      "description": "",
-      "pubDate": "8 Juin"
-    },
-    {
       "title": "PROMOTION CONSEIL VACANCES - Commercial expérimenté H/F - CDI - (France entière)",
       "link": "https://www.tourmag.com/classifieds/PROMOTION-CONSEIL-VACANCES-Commercial-experimente-H-F-CDI-France-entiere_pa267540.html",
       "location": "France",
@@ -479,5 +465,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-07T19:35:49.438Z"
+  "scrapedAt": "2026-09-07T22:30:30.571Z"
 }
