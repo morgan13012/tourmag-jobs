@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 66,
+  "total": 67,
   "offers": [
+    {
+      "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages avec bail basée à Paris 17e",
+      "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-avec-bail-basee-a-Paris-17e_pa268417.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "9 Septembre"
+    },
     {
       "title": "LVE TRAVEL - Responsable Service Technique / Production Groupes H/F - CDD - (Le Teich (33))",
       "link": "https://www.tourmag.com/classifieds/LVE-TRAVEL-Responsable-Service-Technique-Production-Groupes-H-F-CDD-Le-Teich-33_pa268409.html",
@@ -465,5 +472,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-08T18:19:24.522Z"
+  "scrapedAt": "2026-09-08T21:34:36.983Z"
 }
