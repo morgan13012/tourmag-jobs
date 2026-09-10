@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 67,
+  "total": 68,
   "offers": [
+    {
+      "title": "REFLETS D'AILLEURS - Forfaitiste Groupes Europe et Ameriques H/F - CDD - (Vincennes (94) ou Wasquehal (59))",
+      "link": "https://www.tourmag.com/classifieds/REFLETS-D-AILLEURS-Forfaitiste-Groupes-Europe-et-Ameriques-H-F-CDD-Vincennes-94-ou-Wasquehal-59_pa268421.html",
+      "location": "Vincennes, Wasquehal",
+      "description": "",
+      "pubDate": "11 Septembre"
+    },
     {
       "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages avec bail basée à Paris 17e",
       "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-avec-bail-basee-a-Paris-17e_pa268417.html",
@@ -472,5 +479,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-10T14:03:48.216Z"
+  "scrapedAt": "2026-09-10T18:06:20.167Z"
 }
