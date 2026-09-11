@@ -1,27 +1,27 @@
 {
   "success": true,
-  "total": 69,
+  "total": 67,
   "offers": [
     {
       "title": "ULTRAMARINA - Conseiller Voyage spécialiste de la Plongée sous-marine H/F - CDI - (Paris 9e)",
       "link": "https://www.tourmag.com/classifieds/ULTRAMARINA-Conseiller-Voyage-specialiste-de-la-Plongee-sous-marine-H-F-CDI-Paris-9e_pa268423.html",
       "location": "Paris",
       "description": "",
-      "pubDate": "NEW 23:30"
+      "pubDate": "11 Septembre"
     },
     {
       "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages avec bail basée à Paris 17e",
       "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-avec-bail-basee-a-Paris-17e_pa268417.html",
       "location": "Paris",
       "description": "",
-      "pubDate": "NEW 23:30"
+      "pubDate": "11 Septembre"
     },
     {
       "title": "REFLETS D'AILLEURS - Forfaitiste Groupes Europe et Ameriques H/F - CDD - (Vincennes (94) ou Wasquehal (59))",
       "link": "https://www.tourmag.com/classifieds/REFLETS-D-AILLEURS-Forfaitiste-Groupes-Europe-et-Ameriques-H-F-CDD-Vincennes-94-ou-Wasquehal-59_pa268421.html",
       "location": "Vincennes, Wasquehal",
       "description": "",
-      "pubDate": "NEW 09:00"
+      "pubDate": "11 Septembre"
     },
     {
       "title": "LVE TRAVEL - Responsable Service Technique / Production Groupes H/F - CDD - (Le Teich (33))",
@@ -465,20 +465,6 @@
       "pubDate": "19 Juin"
     },
     {
-      "title": "ASSUREVER - Chargé(e) de clientèle H/F - CDI - (Paris 15e)",
-      "link": "https://www.tourmag.com/classifieds/ASSUREVER-Charge-e-de-clientele-H-F-CDI-Paris-15e_pa268262.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "15 Juin"
-    },
-    {
-      "title": "ASSUREVER - Responsable commercial(e) H/F - CDI  - (Secteur Sud-Rhône Alpes)",
-      "link": "https://www.tourmag.com/classifieds/ASSUREVER-Responsable-commercial-e-H-F-CDI-Secteur-Sud-Rhone-Alpes_pa268261.html",
-      "location": "Secteur Sud-Rhône Alpes",
-      "description": "",
-      "pubDate": "15 Juin"
-    },
-    {
       "title": "PROMOTION CONSEIL VACANCES - Commercial expérimenté H/F - CDI - (France entière)",
       "link": "https://www.tourmag.com/classifieds/PROMOTION-CONSEIL-VACANCES-Commercial-experimente-H-F-CDI-France-entiere_pa267540.html",
       "location": "France",
@@ -486,5 +472,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-11T21:32:43.769Z"
+  "scrapedAt": "2026-09-11T23:52:40.693Z"
 }
