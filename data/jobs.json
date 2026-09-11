@@ -1,20 +1,27 @@
 {
   "success": true,
-  "total": 68,
+  "total": 69,
   "offers": [
     {
-      "title": "REFLETS D'AILLEURS - Forfaitiste Groupes Europe et Ameriques H/F - CDD - (Vincennes (94) ou Wasquehal (59))",
-      "link": "https://www.tourmag.com/classifieds/REFLETS-D-AILLEURS-Forfaitiste-Groupes-Europe-et-Ameriques-H-F-CDD-Vincennes-94-ou-Wasquehal-59_pa268421.html",
-      "location": "Vincennes, Wasquehal",
+      "title": "ULTRAMARINA - Conseiller Voyage spécialiste de la Plongée sous-marine H/F - CDI - (Paris 9e)",
+      "link": "https://www.tourmag.com/classifieds/ULTRAMARINA-Conseiller-Voyage-specialiste-de-la-Plongee-sous-marine-H-F-CDI-Paris-9e_pa268423.html",
+      "location": "Paris",
       "description": "",
-      "pubDate": "NEW 09:00"
+      "pubDate": "NEW 23:30"
     },
     {
       "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages avec bail basée à Paris 17e",
       "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-avec-bail-basee-a-Paris-17e_pa268417.html",
       "location": "Paris",
       "description": "",
-      "pubDate": "9 Septembre"
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "REFLETS D'AILLEURS - Forfaitiste Groupes Europe et Ameriques H/F - CDD - (Vincennes (94) ou Wasquehal (59))",
+      "link": "https://www.tourmag.com/classifieds/REFLETS-D-AILLEURS-Forfaitiste-Groupes-Europe-et-Ameriques-H-F-CDD-Vincennes-94-ou-Wasquehal-59_pa268421.html",
+      "location": "Vincennes, Wasquehal",
+      "description": "",
+      "pubDate": "NEW 09:00"
     },
     {
       "title": "LVE TRAVEL - Responsable Service Technique / Production Groupes H/F - CDD - (Le Teich (33))",
@@ -479,5 +486,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-11T09:21:35.442Z"
+  "scrapedAt": "2026-09-11T14:03:29.131Z"
 }
