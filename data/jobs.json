@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 67,
+  "total": 68,
   "offers": [
+    {
+      "title": "LE GROUPE SALAUN - Commercial Groupes H/F - CDI - (Paris (75) et Région Parisienne)",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-Groupes-H-F-CDI-Paris-75-et-Region-Parisienne_pa268425.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "ULTRAMARINA - Conseiller Voyage spécialiste de la Plongée sous-marine H/F - CDI - (Paris 9e)",
       "link": "https://www.tourmag.com/classifieds/ULTRAMARINA-Conseiller-Voyage-specialiste-de-la-Plongee-sous-marine-H-F-CDI-Paris-9e_pa268423.html",
@@ -472,5 +479,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-14T00:44:31.014Z"
+  "scrapedAt": "2026-09-14T10:19:52.615Z"
 }
