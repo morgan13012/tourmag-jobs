@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 68,
+  "total": 67,
   "offers": [
     {
       "title": "LE GROUPE SALAUN - Commercial Groupes H/F - CDI - (Paris (75) et Région Parisienne)",
@@ -297,13 +297,6 @@
       "pubDate": "10 Juillet"
     },
     {
-      "title": "HEMISPHERES VOYAGES EVENTS SPORTS - Conseiller Voyages Groupes / Individuels H/F - CDI - (Grenoble (38) ou Boulogne-Billancourt (92))",
-      "link": "https://www.tourmag.com/classifieds/HEMISPHERES-VOYAGES-EVENTS-SPORTS-Conseiller-Voyages-Groupes-Individuels-H-F-CDI-Grenoble-38-ou-Boulogne-Billancourt-92_pa268268.html",
-      "location": "Grenoble, Boulogne-Billancourt",
-      "description": "",
-      "pubDate": "10 Juillet"
-    },
-    {
       "title": "AMPLITUDES - Stage UX/UI Designer & Assistant Marketing Digital F/H - (Toulouse (31))",
       "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Stage-UX-UI-Designer-Assistant-Marketing-Digital-F-H-Toulouse-31_pa268333.html",
       "location": "Toulouse",
@@ -479,5 +472,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-15T21:55:07.586Z"
+  "scrapedAt": "2026-09-15T23:58:20.287Z"
 }
