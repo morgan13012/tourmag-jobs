@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 67,
+  "total": 66,
   "offers": [
     {
       "title": "LE GROUPE SALAUN - Commercial Groupes H/F - CDI - (Paris (75) et Région Parisienne)",
@@ -276,13 +276,6 @@
       "pubDate": "10 Juillet"
     },
     {
-      "title": "INTERMEDES - Chargé(e) des ventes Senior H/F - CDI - (Paris 6e)",
-      "link": "https://www.tourmag.com/classifieds/INTERMEDES-Charge-e-des-ventes-Senior-H-F-CDI-Paris-6e_pa268273.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "10 Juillet"
-    },
-    {
       "title": "TIME TOURS - Technicien(ne) Groupes Back-Office confirmé(e) H/F - CDI - (Clichy (92))",
       "link": "https://www.tourmag.com/classifieds/TIME-TOURS-Technicien-ne-Groupes-Back-Office-confirme-e-H-F-CDI-Clichy-92_pa268278.html",
       "location": "Clichy",
@@ -472,5 +465,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-16T21:52:52.366Z"
+  "scrapedAt": "2026-09-17T00:06:06.894Z"
 }
