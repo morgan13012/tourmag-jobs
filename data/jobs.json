@@ -3,6 +3,13 @@
   "total": 65,
   "offers": [
     {
+      "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages avec bail basée à Paris 17e",
+      "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-avec-bail-basee-a-Paris-17e_pa268417.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
       "title": "INTERMEDES - Chargé(e) des ventes Senior H/F - CDI - (Paris 6e)",
       "link": "https://www.tourmag.com/classifieds/INTERMEDES-Charge-e-des-ventes-Senior-H-F-CDI-Paris-6e_pa268429.html",
       "location": "Paris",
@@ -19,13 +26,6 @@
     {
       "title": "ULTRAMARINA - Conseiller Voyage spécialiste de la Plongée sous-marine H/F - CDI - (Paris 9e)",
       "link": "https://www.tourmag.com/classifieds/ULTRAMARINA-Conseiller-Voyage-specialiste-de-la-Plongee-sous-marine-H-F-CDI-Paris-9e_pa268423.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "11 Septembre"
-    },
-    {
-      "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages avec bail basée à Paris 17e",
-      "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-avec-bail-basee-a-Paris-17e_pa268417.html",
       "location": "Paris",
       "description": "",
       "pubDate": "11 Septembre"
@@ -458,5 +458,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-18T09:23:03.284Z"
+  "scrapedAt": "2026-09-18T14:06:18.129Z"
 }
