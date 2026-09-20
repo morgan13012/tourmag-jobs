@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 63,
+  "total": 64,
   "offers": [
+    {
+      "title": "ARTS & VIE - Commercial(e) Groupes H/F - CDI - (Paris 15e)",
+      "link": "https://www.tourmag.com/classifieds/ARTS-VIE-Commercial-e-Groupes-H-F-CDI-Paris-15e_pa268431.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "21 Septembre"
+    },
     {
       "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages avec bail basée à Paris 17e",
       "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-avec-bail-basee-a-Paris-17e_pa268417.html",
@@ -444,5 +451,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-20T17:20:42.760Z"
+  "scrapedAt": "2026-09-20T20:21:23.225Z"
 }
