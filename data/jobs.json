@@ -1,27 +1,27 @@
 {
   "success": true,
-  "total": 65,
+  "total": 64,
   "offers": [
     {
       "title": "FUN & FLY - Conseiller.ère forfaitiste voyages glisse Kitesurf/Wingfoil/Windsurf H/F - CDI - (Toulouse (31))",
       "link": "https://www.tourmag.com/classifieds/FUN-FLY-Conseiller-ere-forfaitiste-voyages-glisse-Kitesurf-Wingfoil-Windsurf-H-F-CDI-Toulouse-31_pa268433.html",
       "location": "Toulouse",
       "description": "",
-      "pubDate": "NEW 23:30"
+      "pubDate": "21 Septembre"
     },
     {
       "title": "ARTS & VIE - Commercial(e) Groupes H/F - CDI - (Paris 15e)",
       "link": "https://www.tourmag.com/classifieds/ARTS-VIE-Commercial-e-Groupes-H-F-CDI-Paris-15e_pa268431.html",
       "location": "Paris",
       "description": "",
-      "pubDate": "NEW 23:30"
+      "pubDate": "21 Septembre"
     },
     {
       "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages avec bail basée à Paris 17e",
       "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-avec-bail-basee-a-Paris-17e_pa268417.html",
       "location": "Paris",
       "description": "",
-      "pubDate": "NEW 23:30"
+      "pubDate": "21 Septembre"
     },
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Evreux (27))",
@@ -444,13 +444,6 @@
       "pubDate": "23 Juin"
     },
     {
-      "title": "VOYAGE SAUVAGE - Chargé(e) de Marketing & Tourisme Sauvage - Stage - (Rocbaron (83))",
-      "link": "https://www.tourmag.com/classifieds/VOYAGE-SAUVAGE-Charge-e-de-Marketing-Tourisme-Sauvage-Stage-Rocbaron-83_pa268282.html",
-      "location": "Rocbaron",
-      "description": "",
-      "pubDate": "22 Juin"
-    },
-    {
       "title": "PROMOTION CONSEIL VACANCES - Commercial expérimenté H/F - CDI - (France entière)",
       "link": "https://www.tourmag.com/classifieds/PROMOTION-CONSEIL-VACANCES-Commercial-experimente-H-F-CDI-France-entiere_pa267540.html",
       "location": "France",
@@ -458,5 +451,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-21T20:47:09.486Z"
+  "scrapedAt": "2026-09-21T23:49:17.226Z"
 }
