@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 64,
+  "total": 65,
   "offers": [
+    {
+      "title": "FUN & FLY - Conseiller.ère forfaitiste voyages glisse Kitesurf/Wingfoil/Windsurf H/F - CDI - (Toulouse (31))",
+      "link": "https://www.tourmag.com/classifieds/FUN-FLY-Conseiller-ere-forfaitiste-voyages-glisse-Kitesurf-Wingfoil-Windsurf-H-F-CDI-Toulouse-31_pa268433.html",
+      "location": "Toulouse",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "ARTS & VIE - Commercial(e) Groupes H/F - CDI - (Paris 15e)",
       "link": "https://www.tourmag.com/classifieds/ARTS-VIE-Commercial-e-Groupes-H-F-CDI-Paris-15e_pa268431.html",
@@ -451,5 +458,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-21T10:24:25.642Z"
+  "scrapedAt": "2026-09-21T16:47:13.931Z"
 }
