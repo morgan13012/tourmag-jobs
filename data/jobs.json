@@ -1,13 +1,13 @@
 {
   "success": true,
-  "total": 65,
+  "total": 63,
   "offers": [
     {
       "title": "TIME TOURS - Technicien(ne) Groupes Back Office confirmé(e) H/F - CDI - (Clichy (92))",
       "link": "https://www.tourmag.com/classifieds/TIME-TOURS-Technicien-ne-Groupes-Back-Office-confirme-e-H-F-CDI-Clichy-92_pa268435.html",
       "location": "Clichy",
       "description": "",
-      "pubDate": "NEW 23:00"
+      "pubDate": "22 Septembre"
     },
     {
       "title": "FUN & FLY - Conseiller.ère forfaitiste voyages glisse Kitesurf/Wingfoil/Windsurf H/F - CDI - (Toulouse (31))",
@@ -437,20 +437,6 @@
       "pubDate": "24 Juin"
     },
     {
-      "title": "VOYAGEURS DU MONDE - Stagiaire Service Marketing H/F  - (Paris (75)",
-      "link": "https://www.tourmag.com/classifieds/VOYAGEURS-DU-MONDE-Stagiaire-Service-Marketing-H-F-Paris-75_pa268293.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "23 Juin"
-    },
-    {
-      "title": "IDEE NOMADE - Alternant(e) Tourisme – Production de Voyages Groupes (H/F) - (Alternance ou Stage) -  (Marseille (13))",
-      "link": "https://www.tourmag.com/classifieds/IDEE-NOMADE-Alternant-e-Tourisme-Production-de-Voyages-Groupes-H-F-Alternance-ou-Stage-Marseille-13_pa268292.html",
-      "location": "Marseille",
-      "description": "",
-      "pubDate": "23 Juin"
-    },
-    {
       "title": "PROMOTION CONSEIL VACANCES - Commercial expérimenté H/F - CDI - (France entière)",
       "link": "https://www.tourmag.com/classifieds/PROMOTION-CONSEIL-VACANCES-Commercial-experimente-H-F-CDI-France-entiere_pa267540.html",
       "location": "France",
@@ -458,5 +444,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-22T21:46:26.508Z"
+  "scrapedAt": "2026-09-22T23:59:39.815Z"
 }
