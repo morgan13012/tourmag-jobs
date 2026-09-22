@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 64,
+  "total": 65,
   "offers": [
+    {
+      "title": "TIME TOURS - Technicien(ne) Groupes Back Office confirmé(e) H/F - CDI - (Clichy (92))",
+      "link": "https://www.tourmag.com/classifieds/TIME-TOURS-Technicien-ne-Groupes-Back-Office-confirme-e-H-F-CDI-Clichy-92_pa268435.html",
+      "location": "Clichy",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
     {
       "title": "FUN & FLY - Conseiller.ère forfaitiste voyages glisse Kitesurf/Wingfoil/Windsurf H/F - CDI - (Toulouse (31))",
       "link": "https://www.tourmag.com/classifieds/FUN-FLY-Conseiller-ere-forfaitiste-voyages-glisse-Kitesurf-Wingfoil-Windsurf-H-F-CDI-Toulouse-31_pa268433.html",
@@ -451,5 +458,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-22T09:37:52.541Z"
+  "scrapedAt": "2026-09-22T14:20:31.777Z"
 }
