@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 63,
+  "total": 61,
   "offers": [
     {
       "title": "TIME TOURS - Technicien(ne) Groupes Back Office confirmé(e) H/F - CDI - (Clichy (92))",
@@ -423,20 +423,6 @@
       "pubDate": "25 Juin"
     },
     {
-      "title": "ELLIPSE VOYAGE - Alternants Conseillers voyages H/F - (Le Puy en Velay (43) et Béziers (34))",
-      "link": "https://www.tourmag.com/classifieds/ELLIPSE-VOYAGE-Alternants-Conseillers-voyages-H-F-Le-Puy-en-Velay-43-et-Beziers-34_pa268297.html",
-      "location": "Le Puy en Velay, Béziers",
-      "description": "",
-      "pubDate": "24 Juin"
-    },
-    {
-      "title": "ELLIPSE VOYAGE - Stagiaires Conseillers voyages H/F",
-      "link": "https://www.tourmag.com/classifieds/ELLIPSE-VOYAGE-Stagiaires-Conseillers-voyages-H-F_pa268295.html",
-      "location": "Sanary, Le Beausset, Sète, Divonne les Bains, Le Puy en Velay, Béziers, Perpignan, Castanet Tolosan",
-      "description": "",
-      "pubDate": "24 Juin"
-    },
-    {
       "title": "PROMOTION CONSEIL VACANCES - Commercial expérimenté H/F - CDI - (France entière)",
       "link": "https://www.tourmag.com/classifieds/PROMOTION-CONSEIL-VACANCES-Commercial-experimente-H-F-CDI-France-entiere_pa267540.html",
       "location": "France",
@@ -444,5 +430,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-23T18:51:20.272Z"
+  "scrapedAt": "2026-09-23T22:04:28.890Z"
 }
