@@ -1,7 +1,21 @@
 {
   "success": true,
-  "total": 61,
+  "total": 62,
   "offers": [
+    {
+      "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages avec bail basée à Paris 17e",
+      "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-avec-bail-basee-a-Paris-17e_pa268417.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "IMAGINE TRAVEL - Chargé(e) de Développement & Support Commercial - CDI - (Près d'Aix-en-Porvence (13))",
+      "link": "https://www.tourmag.com/classifieds/IMAGINE-TRAVEL-Charge-e-de-Developpement-Support-Commercial-CDI-Pres-d-Aix-en-Porvence-13_pa268443.html",
+      "location": "Aix-en-Provence",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
     {
       "title": "TIME TOURS - Technicien(ne) Groupes Back Office confirmé(e) H/F - CDI - (Clichy (92))",
       "link": "https://www.tourmag.com/classifieds/TIME-TOURS-Technicien-ne-Groupes-Back-Office-confirme-e-H-F-CDI-Clichy-92_pa268435.html",
@@ -19,13 +33,6 @@
     {
       "title": "ARTS & VIE - Commercial(e) Groupes H/F - CDI - (Paris 15e)",
       "link": "https://www.tourmag.com/classifieds/ARTS-VIE-Commercial-e-Groupes-H-F-CDI-Paris-15e_pa268431.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "21 Septembre"
-    },
-    {
-      "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages avec bail basée à Paris 17e",
-      "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-avec-bail-basee-a-Paris-17e_pa268417.html",
       "location": "Paris",
       "description": "",
       "pubDate": "21 Septembre"
@@ -430,5 +437,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-24T01:05:49.007Z"
+  "scrapedAt": "2026-09-24T09:42:27.325Z"
 }
