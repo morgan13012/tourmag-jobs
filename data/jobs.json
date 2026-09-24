@@ -1,13 +1,27 @@
 {
   "success": true,
-  "total": 62,
+  "total": 64,
   "offers": [
+    {
+      "title": "L'AGENCE EXUMA BUSINESS TRAVEL - Conseillèr(e) voyages d'affaires/Billettiste Senior H/F (VIP & Luxury) - CDI - (Paris 8e)",
+      "link": "https://www.tourmag.com/classifieds/L-AGENCE-EXUMA-BUSINESS-TRAVEL-Conseiller-e-voyages-d-affaires-Billettiste-Senior-H-F-VIP-Luxury-CDI-Paris-8e_pa268445.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages avec bail basée à Paris 17e",
       "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-avec-bail-basee-a-Paris-17e_pa268417.html",
       "location": "Paris",
       "description": "",
       "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "MONDELIOS - Responsable d'agence de voyages H/F - CDI - (Versailles (78))",
+      "link": "https://www.tourmag.com/classifieds/MONDELIOS-Responsable-d-agence-de-voyages-H-F-CDI-Versailles-78_pa268444.html",
+      "location": "Versailles",
+      "description": "",
+      "pubDate": "NEW 23:00"
     },
     {
       "title": "IMAGINE TRAVEL - Chargé(e) de Développement & Support Commercial - CDI - (Près d'Aix-en-Porvence (13))",
@@ -437,5 +451,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-24T09:42:27.325Z"
+  "scrapedAt": "2026-09-24T14:37:53.758Z"
 }
