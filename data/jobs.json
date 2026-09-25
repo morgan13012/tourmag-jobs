@@ -1,34 +1,34 @@
 {
   "success": true,
-  "total": 64,
+  "total": 59,
   "offers": [
     {
       "title": "L'AGENCE EXUMA BUSINESS TRAVEL - Conseillèr(e) voyages d'affaires/Billettiste Senior H/F (VIP & Luxury) - CDI - (Paris 8e)",
       "link": "https://www.tourmag.com/classifieds/L-AGENCE-EXUMA-BUSINESS-TRAVEL-Conseiller-e-voyages-d-affaires-Billettiste-Senior-H-F-VIP-Luxury-CDI-Paris-8e_pa268445.html",
       "location": "Paris",
       "description": "",
-      "pubDate": "NEW 23:30"
+      "pubDate": "24 Septembre"
     },
     {
       "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages avec bail basée à Paris 17e",
       "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-avec-bail-basee-a-Paris-17e_pa268417.html",
       "location": "Paris",
       "description": "",
-      "pubDate": "NEW 23:30"
+      "pubDate": "24 Septembre"
     },
     {
       "title": "MONDELIOS - Responsable d'agence de voyages H/F - CDI - (Versailles (78))",
       "link": "https://www.tourmag.com/classifieds/MONDELIOS-Responsable-d-agence-de-voyages-H-F-CDI-Versailles-78_pa268444.html",
       "location": "Versailles",
       "description": "",
-      "pubDate": "NEW 23:00"
+      "pubDate": "24 Septembre"
     },
     {
       "title": "IMAGINE TRAVEL - Chargé(e) de Développement & Support Commercial - CDI - (Près d'Aix-en-Porvence (13))",
       "link": "https://www.tourmag.com/classifieds/IMAGINE-TRAVEL-Charge-e-de-Developpement-Support-Commercial-CDI-Pres-d-Aix-en-Porvence-13_pa268443.html",
       "location": "Aix-en-Provence",
       "description": "",
-      "pubDate": "NEW 23:00"
+      "pubDate": "24 Septembre"
     },
     {
       "title": "TIME TOURS - Technicien(ne) Groupes Back Office confirmé(e) H/F - CDI - (Clichy (92))",
@@ -409,41 +409,6 @@
       "pubDate": "26 Juin"
     },
     {
-      "title": "NOMAD RIDERS - Apprenti(e) conseillèr(e) voyages à cheval bilingue Anglais H/F - Alternance 12 mois - (Paris (75))",
-      "link": "https://www.tourmag.com/classifieds/NOMAD-RIDERS-Apprenti-e-conseiller-e-voyages-a-cheval-bilingue-Anglais-H-F-Alternance-12-mois-Paris-75_pa268303.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "25 Juin"
-    },
-    {
-      "title": "PONANT - Stagiaire Produit Destination H/F  - Stage de 6 mois - (Marseille - 13008)",
-      "link": "https://www.tourmag.com/classifieds/PONANT-Stagiaire-Produit-Destination-H-F-Stage-de-6-mois-Marseille-13008_pa268302.html",
-      "location": "Marseille",
-      "description": "",
-      "pubDate": "25 Juin"
-    },
-    {
-      "title": "PONANT - Alternant Planification Croisière H/F - (Marseille - 13008)",
-      "link": "https://www.tourmag.com/classifieds/PONANT-Alternant-Planification-Croisiere-H-F-Marseille-13008_pa268301.html",
-      "location": "Marseille",
-      "description": "",
-      "pubDate": "25 Juin"
-    },
-    {
-      "title": "E.LECLERC VOYAGES - Apprenti(e) conseillèr(e) voyages H/F - Alternance - (Migennes (89))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Apprenti-e-conseiller-e-voyages-H-F-Alternance-Migennes-89_pa268300.html",
-      "location": "Migennes",
-      "description": "",
-      "pubDate": "25 Juin"
-    },
-    {
-      "title": "E.LECLERC VOYAGES - Apprenti(e) conseillèr(e) voyages H/F - Alternance - (Saint-Léonard (76))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Apprenti-e-conseiller-e-voyages-H-F-Alternance-Saint-Leonard-76_pa268299.html",
-      "location": "Saint-Léonard",
-      "description": "",
-      "pubDate": "25 Juin"
-    },
-    {
       "title": "PROMOTION CONSEIL VACANCES - Commercial expérimenté H/F - CDI - (France entière)",
       "link": "https://www.tourmag.com/classifieds/PROMOTION-CONSEIL-VACANCES-Commercial-experimente-H-F-CDI-France-entiere_pa267540.html",
       "location": "France",
@@ -451,5 +416,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-24T21:58:19.433Z"
+  "scrapedAt": "2026-09-25T00:24:36.812Z"
 }
