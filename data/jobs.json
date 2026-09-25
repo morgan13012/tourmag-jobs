@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 59,
+  "total": 56,
   "offers": [
     {
       "title": "L'AGENCE EXUMA BUSINESS TRAVEL - Conseillèr(e) voyages d'affaires/Billettiste Senior H/F (VIP & Luxury) - CDI - (Paris 8e)",
@@ -388,27 +388,6 @@
       "pubDate": "26 Juin"
     },
     {
-      "title": "LA COMPAGNIE - Alternant(e) Assistant(e) Webmaster E-commerce & CRM H/F  - (Bagneux (92))",
-      "link": "https://www.tourmag.com/classifieds/LA-COMPAGNIE-Alternant-e-Assistant-e-Webmaster-E-commerce-CRM-H-F-Bagneux-92_pa268310.html",
-      "location": "Bagneux",
-      "description": "",
-      "pubDate": "26 Juin"
-    },
-    {
-      "title": "CAVAL & GO - Alternant(e) Administration des ventes / Production touristique H/F - (Fontainebleau (77))",
-      "link": "https://www.tourmag.com/classifieds/CAVAL-GO-Alternant-e-Administration-des-ventes-Production-touristique-H-F-Fontainebleau-77_pa268309.html",
-      "location": "Fontainebleau",
-      "description": "",
-      "pubDate": "26 Juin"
-    },
-    {
-      "title": "CORSICA LINEA - Alternant(e) Analyste revenue management H/F - Apprentissage -  (Marseille (13))",
-      "link": "https://www.tourmag.com/classifieds/CORSICA-LINEA-Alternant-e-Analyste-revenue-management-H-F-Apprentissage-Marseille-13_pa268308.html",
-      "location": "Marseille",
-      "description": "",
-      "pubDate": "26 Juin"
-    },
-    {
       "title": "PROMOTION CONSEIL VACANCES - Commercial expérimenté H/F - CDI - (France entière)",
       "link": "https://www.tourmag.com/classifieds/PROMOTION-CONSEIL-VACANCES-Commercial-experimente-H-F-CDI-France-entiere_pa267540.html",
       "location": "France",
@@ -416,5 +395,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-25T19:49:57.542Z"
+  "scrapedAt": "2026-09-25T23:05:25.315Z"
 }
