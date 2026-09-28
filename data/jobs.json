@@ -1,7 +1,28 @@
 {
   "success": true,
-  "total": 56,
+  "total": 59,
   "offers": [
+    {
+      "title": "AMPLITUDES - Technico-commercial(e) Tourisme Groupes H/F - CDI - (Toulouse (31))",
+      "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Technico-commercial-e-Tourisme-Groupes-H-F-CDI-Toulouse-31_pa268451.html",
+      "location": "Toulouse",
+      "description": "",
+      "pubDate": "29 Septembre"
+    },
+    {
+      "title": "AMPLITUDES - Conseiller voyages H/F - CDI - (Paris 2e près d'Opéra)",
+      "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Conseiller-voyages-H-F-CDI-Paris-2e-pres-d-Opera_pa268450.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "29 Septembre"
+    },
+    {
+      "title": "AMPLITUDES - Conseiller(e) Voyages spécialiste Iles (Océan Indien Caraïbes Polynésie) - CDI - (Bordeaux (33))",
+      "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Conseiller-e-Voyages-specialiste-Iles-Ocean-Indien-Caraibes-Polynesie-CDI-Bordeaux-33_pa268449.html",
+      "location": "Bordeaux",
+      "description": "",
+      "pubDate": "29 Septembre"
+    },
     {
       "title": "L'AGENCE EXUMA BUSINESS TRAVEL - Conseillèr(e) voyages d'affaires/Billettiste Senior H/F (VIP & Luxury) - CDI - (Paris 8e)",
       "link": "https://www.tourmag.com/classifieds/L-AGENCE-EXUMA-BUSINESS-TRAVEL-Conseiller-e-voyages-d-affaires-Billettiste-Senior-H-F-VIP-Luxury-CDI-Paris-8e_pa268445.html",
@@ -395,5 +416,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-28T11:26:36.725Z"
+  "scrapedAt": "2026-09-28T19:16:13.597Z"
 }
