@@ -1,27 +1,27 @@
 {
   "success": true,
-  "total": 59,
+  "total": 56,
   "offers": [
     {
       "title": "AMPLITUDES - Technico-commercial(e) Tourisme Groupes H/F - CDI - (Toulouse (31))",
       "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Technico-commercial-e-Tourisme-Groupes-H-F-CDI-Toulouse-31_pa268451.html",
       "location": "Toulouse",
       "description": "",
-      "pubDate": "29 Septembre"
+      "pubDate": "NEW 09:00"
     },
     {
       "title": "AMPLITUDES - Conseiller voyages H/F - CDI - (Paris 2e près d'Opéra)",
       "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Conseiller-voyages-H-F-CDI-Paris-2e-pres-d-Opera_pa268450.html",
       "location": "Paris",
       "description": "",
-      "pubDate": "29 Septembre"
+      "pubDate": "NEW 09:00"
     },
     {
       "title": "AMPLITUDES - Conseiller(e) Voyages spécialiste Iles (Océan Indien Caraïbes Polynésie) - CDI - (Bordeaux (33))",
       "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Conseiller-e-Voyages-specialiste-Iles-Ocean-Indien-Caraibes-Polynesie-CDI-Bordeaux-33_pa268449.html",
       "location": "Bordeaux",
       "description": "",
-      "pubDate": "29 Septembre"
+      "pubDate": "NEW 09:00"
     },
     {
       "title": "L'AGENCE EXUMA BUSINESS TRAVEL - Conseillèr(e) voyages d'affaires/Billettiste Senior H/F (VIP & Luxury) - CDI - (Paris 8e)",
@@ -332,13 +332,6 @@
       "pubDate": "17 Juillet"
     },
     {
-      "title": "TURQUOISE TO - Technicien Transport et Back-office H/F - CDD / CDI - (Aix-en-Provence (13))",
-      "link": "https://www.tourmag.com/classifieds/TURQUOISE-TO-Technicien-Transport-et-Back-office-H-F-CDD-CDI-Aix-en-Provence-13_pa268313.html",
-      "location": "Aix-en-Provence",
-      "description": "",
-      "pubDate": "10 Juillet"
-    },
-    {
       "title": "AMPLITUDES - Stage UX/UI Designer & Assistant Marketing Digital F/H - (Toulouse (31))",
       "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Stage-UX-UI-Designer-Assistant-Marketing-Digital-F-H-Toulouse-31_pa268333.html",
       "location": "Toulouse",
@@ -395,20 +388,6 @@
       "pubDate": "1 Juillet"
     },
     {
-      "title": "AIR FRANCE - Stagiaire Chargé(e) de communication et projets évènementiels F/H - Stage 6 mois - (Roissy CDG (93))",
-      "link": "https://www.tourmag.com/classifieds/AIR-FRANCE-Stagiaire-Charge-e-de-communication-et-projets-evenementiels-F-H-Stage-6-mois-Roissy-CDG-93_pa268316.html",
-      "location": "Roissy",
-      "description": "",
-      "pubDate": "26 Juin"
-    },
-    {
-      "title": "MILEADE - Chargé(e) de développement touristique H/F - Alternance 12 à 24 mois - (Brioude (43))",
-      "link": "https://www.tourmag.com/classifieds/MILEADE-Charge-e-de-developpement-touristique-H-F-Alternance-12-a-24-mois-Brioude-43_pa268314.html",
-      "location": "Brioude",
-      "description": "",
-      "pubDate": "26 Juin"
-    },
-    {
       "title": "PROMOTION CONSEIL VACANCES - Commercial expérimenté H/F - CDI - (France entière)",
       "link": "https://www.tourmag.com/classifieds/PROMOTION-CONSEIL-VACANCES-Commercial-experimente-H-F-CDI-France-entiere_pa267540.html",
       "location": "France",
@@ -416,5 +395,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-28T19:16:13.597Z"
+  "scrapedAt": "2026-09-29T00:11:38.305Z"
 }
