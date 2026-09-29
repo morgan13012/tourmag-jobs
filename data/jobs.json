@@ -3,6 +3,13 @@
   "total": 56,
   "offers": [
     {
+      "title": "LVE TRAVEL - Technicien Groupes H/F - CDD - (Le Teich (33))",
+      "link": "https://www.tourmag.com/classifieds/LVE-TRAVEL-Technicien-Groupes-H-F-CDD-Le-Teich-33_pa268409.html",
+      "location": "Le Teich",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
       "title": "AMPLITUDES - Technico-commercial(e) Tourisme Groupes H/F - CDI - (Toulouse (31))",
       "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Technico-commercial-e-Tourisme-Groupes-H-F-CDI-Toulouse-31_pa268451.html",
       "location": "Toulouse",
@@ -162,13 +169,6 @@
       "location": "Vincennes, Wasquehal",
       "description": "",
       "pubDate": "11 Septembre"
-    },
-    {
-      "title": "LVE TRAVEL - Responsable Service Technique / Production Groupes H/F - CDD - (Le Teich (33))",
-      "link": "https://www.tourmag.com/classifieds/LVE-TRAVEL-Responsable-Service-Technique-Production-Groupes-H-F-CDD-Le-Teich-33_pa268409.html",
-      "location": "Le Teich",
-      "description": "",
-      "pubDate": "8 Septembre"
     },
     {
       "title": "NOMBALAIS EVASION - Conseiller voyages expérimenté H/F - CDI -  (Les Herbiers (85))",
@@ -395,5 +395,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-29T11:06:38.363Z"
+  "scrapedAt": "2026-09-29T17:40:40.121Z"
 }
