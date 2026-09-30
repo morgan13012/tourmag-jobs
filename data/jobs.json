@@ -1,34 +1,34 @@
 {
   "success": true,
-  "total": 56,
+  "total": 54,
   "offers": [
     {
       "title": "LVE TRAVEL - Technicien Groupes H/F - CDD - (Le Teich (33))",
       "link": "https://www.tourmag.com/classifieds/LVE-TRAVEL-Technicien-Groupes-H-F-CDD-Le-Teich-33_pa268409.html",
       "location": "Le Teich",
       "description": "",
-      "pubDate": "NEW 23:30"
+      "pubDate": "29 Septembre"
     },
     {
       "title": "AMPLITUDES - Technico-commercial(e) Tourisme Groupes H/F - CDI - (Toulouse (31))",
       "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Technico-commercial-e-Tourisme-Groupes-H-F-CDI-Toulouse-31_pa268451.html",
       "location": "Toulouse",
       "description": "",
-      "pubDate": "NEW 09:00"
+      "pubDate": "29 Septembre"
     },
     {
       "title": "AMPLITUDES - Conseiller voyages H/F - CDI - (Paris 2e près d'Opéra)",
       "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Conseiller-voyages-H-F-CDI-Paris-2e-pres-d-Opera_pa268450.html",
       "location": "Paris",
       "description": "",
-      "pubDate": "NEW 09:00"
+      "pubDate": "29 Septembre"
     },
     {
       "title": "AMPLITUDES - Conseiller(e) Voyages spécialiste Iles (Océan Indien Caraïbes Polynésie) - CDI - (Bordeaux (33))",
       "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Conseiller-e-Voyages-specialiste-Iles-Ocean-Indien-Caraibes-Polynesie-CDI-Bordeaux-33_pa268449.html",
       "location": "Bordeaux",
       "description": "",
-      "pubDate": "NEW 09:00"
+      "pubDate": "29 Septembre"
     },
     {
       "title": "L'AGENCE EXUMA BUSINESS TRAVEL - Conseillèr(e) voyages d'affaires/Billettiste Senior H/F (VIP & Luxury) - CDI - (Paris 8e)",
@@ -297,13 +297,6 @@
       "pubDate": "28 Juillet"
     },
     {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Tourville (76))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Tourville-76_pa266890.html",
-      "location": "Tourville",
-      "description": "",
-      "pubDate": "28 Juillet"
-    },
-    {
       "title": "OFFICE NATIONAL DU TOURISME TUNISIEN - APPEL D’OFFRES N° 20260701309 - Construction des stands de l’O.N.T.T aux salons et foires touristiques à l'Etranger pour une année 2026-2027",
       "link": "https://www.tourmag.com/classifieds/OFFICE-NATIONAL-DU-TOURISME-TUNISIEN-APPEL-D-OFFRES-N-20260701309-Construction-des-stands-de-l-O-N-T-T-aux-salons-et_pa268339.html",
       "location": "",
@@ -381,13 +374,6 @@
       "pubDate": "1 Juillet"
     },
     {
-      "title": "NG TRAVEL - Chargé(e) de clientèle après voyage - Stage - (Paris 2e)",
-      "link": "https://www.tourmag.com/classifieds/NG-TRAVEL-Charge-e-de-clientele-apres-voyage-Stage-Paris-2e_pa268317.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "1 Juillet"
-    },
-    {
       "title": "PROMOTION CONSEIL VACANCES - Commercial expérimenté H/F - CDI - (France entière)",
       "link": "https://www.tourmag.com/classifieds/PROMOTION-CONSEIL-VACANCES-Commercial-experimente-H-F-CDI-France-entiere_pa267540.html",
       "location": "France",
@@ -395,5 +381,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-29T21:53:55.370Z"
+  "scrapedAt": "2026-09-30T01:05:02.955Z"
 }
