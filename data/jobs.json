@@ -1,13 +1,13 @@
 {
   "success": true,
-  "total": 55,
+  "total": 53,
   "offers": [
     {
       "title": "LES CARNETS DE MAGELLAN - Conseiller Voyages – Spécialiste d’une destination H/F - CDI - (Vannes (56))",
       "link": "https://www.tourmag.com/classifieds/LES-CARNETS-DE-MAGELLAN-Conseiller-Voyages-Specialiste-d-une-destination-H-F-CDI-Vannes-56_pa268453.html",
       "location": "Vannes",
       "description": "",
-      "pubDate": "1 Octobre"
+      "pubDate": "NEW 09:00"
     },
     {
       "title": "LVE TRAVEL - Technicien Groupes H/F - CDD - (Le Teich (33))",
@@ -290,13 +290,6 @@
       "pubDate": "28 Juillet"
     },
     {
-      "title": "CATLANTE CATAMARANS - Conseiller(e) Voyages expérimenté(e) - CDI - (Saint-Cloud (92))",
-      "link": "https://www.tourmag.com/classifieds/CATLANTE-CATAMARANS-Conseiller-e-Voyages-experimente-e-CDI-Saint-Cloud-92_pa268318.html",
-      "location": "Saint-Cloud",
-      "description": "",
-      "pubDate": "28 Juillet"
-    },
-    {
       "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - CDI - (Noisy-le-grand (93))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Responsable-d-agence-H-F-CDI-Noisy-le-grand-93_pa268224.html",
       "location": "Noisy-le-grand",
@@ -374,13 +367,6 @@
       "pubDate": "3 Juillet"
     },
     {
-      "title": "CANNES CONVENTION BUREAU - Stagiaire Assistant(e) Chef de projet H/F - (Cannes (06))",
-      "link": "https://www.tourmag.com/classifieds/CANNES-CONVENTION-BUREAU-Stagiaire-Assistant-e-Chef-de-projet-H-F-Cannes-06_pa268319.html",
-      "location": "Cannes",
-      "description": "",
-      "pubDate": "1 Juillet"
-    },
-    {
       "title": "PROMOTION CONSEIL VACANCES - Commercial expérimenté H/F - CDI - (France entière)",
       "link": "https://www.tourmag.com/classifieds/PROMOTION-CONSEIL-VACANCES-Commercial-experimente-H-F-CDI-France-entiere_pa267540.html",
       "location": "France",
@@ -388,5 +374,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-09-30T21:12:29.674Z"
+  "scrapedAt": "2026-10-01T01:03:59.591Z"
 }
