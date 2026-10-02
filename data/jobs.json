@@ -1,11 +1,32 @@
 {
   "success": true,
-  "total": 50,
+  "total": 49,
   "offers": [
+    {
+      "title": "FUN & FLY - Conseiller.ère forfaitiste voyages glisse Kitesurf/Wingfoil/Windsurf H/F - CDI - (Toulouse (31))",
+      "link": "https://www.tourmag.com/classifieds/FUN-FLY-Conseiller-ere-forfaitiste-voyages-glisse-Kitesurf-Wingfoil-Windsurf-H-F-CDI-Toulouse-31_pa268433.html",
+      "location": "Toulouse",
+      "description": "",
+      "pubDate": "4 Octobre"
+    },
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Barentin/Mont Saint Aignan (76))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Barentin-Mont-Saint-Aignan-76_pa268457.html",
       "location": "Barentin, Mont Saint Aignan",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "LES CARNETS DE MAGELLAN - Conseiller Voyages – Spécialiste d’une destination H/F - CDI - (Vannes (56))",
+      "link": "https://www.tourmag.com/classifieds/LES-CARNETS-DE-MAGELLAN-Conseiller-Voyages-Specialiste-d-une-destination-H-F-CDI-Vannes-56_pa268453.html",
+      "location": "Vannes",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "L'AGENCE EXUMA BUSINESS TRAVEL - Conseillèr(e) voyages d'affaires/Billettiste Senior H/F (VIP & Luxury) - CDI - (Paris 8e)",
+      "link": "https://www.tourmag.com/classifieds/L-AGENCE-EXUMA-BUSINESS-TRAVEL-Conseiller-e-voyages-d-affaires-Billettiste-Senior-H-F-VIP-Luxury-CDI-Paris-8e_pa268445.html",
+      "location": "Paris",
       "description": "",
       "pubDate": "NEW 23:30"
     },
@@ -94,13 +115,6 @@
       "pubDate": "NEW 00:00"
     },
     {
-      "title": "LES CARNETS DE MAGELLAN - Conseiller Voyages – Spécialiste d’une destination H/F - CDI - (Vannes (56))",
-      "link": "https://www.tourmag.com/classifieds/LES-CARNETS-DE-MAGELLAN-Conseiller-Voyages-Specialiste-d-une-destination-H-F-CDI-Vannes-56_pa268453.html",
-      "location": "Vannes",
-      "description": "",
-      "pubDate": "1 Octobre"
-    },
-    {
       "title": "LVE TRAVEL - Technicien Groupes H/F - CDD - (Le Teich (33))",
       "link": "https://www.tourmag.com/classifieds/LVE-TRAVEL-Technicien-Groupes-H-F-CDD-Le-Teich-33_pa268409.html",
       "location": "Le Teich",
@@ -129,13 +143,6 @@
       "pubDate": "29 Septembre"
     },
     {
-      "title": "L'AGENCE EXUMA BUSINESS TRAVEL - Conseillèr(e) voyages d'affaires/Billettiste Senior H/F (VIP & Luxury) - CDI - (Paris 8e)",
-      "link": "https://www.tourmag.com/classifieds/L-AGENCE-EXUMA-BUSINESS-TRAVEL-Conseiller-e-voyages-d-affaires-Billettiste-Senior-H-F-VIP-Luxury-CDI-Paris-8e_pa268445.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "24 Septembre"
-    },
-    {
       "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages avec bail basée à Paris 17e",
       "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-avec-bail-basee-a-Paris-17e_pa268417.html",
       "location": "Paris",
@@ -162,13 +169,6 @@
       "location": "Clichy",
       "description": "",
       "pubDate": "22 Septembre"
-    },
-    {
-      "title": "FUN & FLY - Conseiller.ère forfaitiste voyages glisse Kitesurf/Wingfoil/Windsurf H/F - CDI - (Toulouse (31))",
-      "link": "https://www.tourmag.com/classifieds/FUN-FLY-Conseiller-ere-forfaitiste-voyages-glisse-Kitesurf-Wingfoil-Windsurf-H-F-CDI-Toulouse-31_pa268433.html",
-      "location": "Toulouse",
-      "description": "",
-      "pubDate": "21 Septembre"
     },
     {
       "title": "ARTS & VIE - Commercial(e) Groupes H/F - CDI - (Paris 15e)",
@@ -218,13 +218,6 @@
       "location": "Paris",
       "description": "",
       "pubDate": "8 Septembre"
-    },
-    {
-      "title": "LE GROUPE SALAUN - Forfaitiste Groupes H/F - CDI - (Nantes (44))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Forfaitiste-Groupes-H-F-CDI-Nantes-44_pa268406.html",
-      "location": "Nantes",
-      "description": "",
-      "pubDate": "1 Septembre"
     },
     {
       "title": "GASTON SACAZE DMC - Mandataire Responsable commercial Europe H/F - (France, région parisienne de préférence)",
@@ -353,5 +346,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-02T10:53:38.686Z"
+  "scrapedAt": "2026-10-02T16:29:28.205Z"
 }
