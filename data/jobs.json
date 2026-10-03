@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 48,
+  "total": 49,
   "offers": [
+    {
+      "title": "E-LECLERC VOYAGES - Responsable d'agence H/F - CDI - (Montayral (47))",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-H-F-CDI-Montayral-47_pa268462.html",
+      "location": "Montayral",
+      "description": "",
+      "pubDate": "5 Octobre"
+    },
     {
       "title": "FUN & FLY - Conseiller.ère forfaitiste voyages glisse Kitesurf/Wingfoil/Windsurf H/F - CDI - (Toulouse (31))",
       "link": "https://www.tourmag.com/classifieds/FUN-FLY-Conseiller-ere-forfaitiste-voyages-glisse-Kitesurf-Wingfoil-Windsurf-H-F-CDI-Toulouse-31_pa268433.html",
@@ -339,5 +346,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-03T15:02:54.950Z"
+  "scrapedAt": "2026-10-03T19:00:12.670Z"
 }
