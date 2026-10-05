@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 49,
+  "total": 50,
   "offers": [
+    {
+      "title": "LE GROUPE LE VACON - Directeur commercial Tour-opérateur H/F - CDI - (France entière)",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-LE-VACON-Directeur-commercial-Tour-operateur-H-F-CDI-France-entiere_pa268463.html",
+      "location": "",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
     {
       "title": "E-LECLERC VOYAGES - Responsable d'agence H/F - CDI - (Montayral (47))",
       "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-H-F-CDI-Montayral-47_pa268462.html",
@@ -346,5 +353,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-05T12:02:27.101Z"
+  "scrapedAt": "2026-10-05T21:03:20.538Z"
 }
