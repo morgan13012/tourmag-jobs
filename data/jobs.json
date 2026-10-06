@@ -1,7 +1,21 @@
 {
   "success": true,
-  "total": 52,
+  "total": 54,
   "offers": [
+    {
+      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Carhaix-Plouguer (29))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Carhaix-Plouguer-29_pa268468.html",
+      "location": "Carhaix-Plouguer",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "DOUBLE SENS - Responsable de Production H/F - CDI - (Grenoble (38))",
+      "link": "https://www.tourmag.com/classifieds/DOUBLE-SENS-Responsable-de-Production-H-F-CDI-Grenoble-38_pa268466.html",
+      "location": "Grenoble",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "VOYAGES PLUS - Commerciaux Groupes H/F - CDI - (Ile de France et Province)",
       "link": "https://www.tourmag.com/classifieds/VOYAGES-PLUS-Commerciaux-Groupes-H-F-CDI-Ile-de-France-et-Province_pa268465.html",
@@ -367,5 +381,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-06T11:48:09.200Z"
+  "scrapedAt": "2026-10-06T17:57:50.441Z"
 }
