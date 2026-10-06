@@ -1,7 +1,21 @@
 {
   "success": true,
-  "total": 50,
+  "total": 52,
   "offers": [
+    {
+      "title": "VOYAGES PLUS - Commerciaux Groupes H/F - CDI - (Ile de France et Province)",
+      "link": "https://www.tourmag.com/classifieds/VOYAGES-PLUS-Commerciaux-Groupes-H-F-CDI-Ile-de-France-et-Province_pa268465.html",
+      "location": "Ile de France, Province",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "VOYAGES PLUS - Technicien Billetiste Groupes H/F - CDI - (Ile de France)",
+      "link": "https://www.tourmag.com/classifieds/VOYAGES-PLUS-Technicien-Billetiste-Groupes-H-F-CDI-Ile-de-France_pa268464.html",
+      "location": "Ile de France",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "LE GROUPE LE VACON - Directeur commercial Tour-opérateur H/F - CDI - (France entière)",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-LE-VACON-Directeur-commercial-Tour-operateur-H-F-CDI-France-entiere_pa268463.html",
@@ -353,5 +367,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-06T01:42:09.494Z"
+  "scrapedAt": "2026-10-06T11:48:09.200Z"
 }
