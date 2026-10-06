@@ -1,34 +1,34 @@
 {
   "success": true,
-  "total": 54,
+  "total": 52,
   "offers": [
     {
       "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Carhaix-Plouguer (29))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Carhaix-Plouguer-29_pa268468.html",
       "location": "Carhaix-Plouguer",
       "description": "",
-      "pubDate": "NEW 23:30"
+      "pubDate": "6 Octobre"
     },
     {
       "title": "DOUBLE SENS - Responsable de Production H/F - CDI - (Grenoble (38))",
       "link": "https://www.tourmag.com/classifieds/DOUBLE-SENS-Responsable-de-Production-H-F-CDI-Grenoble-38_pa268466.html",
       "location": "Grenoble",
       "description": "",
-      "pubDate": "NEW 23:30"
+      "pubDate": "6 Octobre"
     },
     {
       "title": "VOYAGES PLUS - Commerciaux Groupes H/F - CDI - (Ile de France et Province)",
       "link": "https://www.tourmag.com/classifieds/VOYAGES-PLUS-Commerciaux-Groupes-H-F-CDI-Ile-de-France-et-Province_pa268465.html",
       "location": "Ile de France, Province",
       "description": "",
-      "pubDate": "NEW 23:30"
+      "pubDate": "6 Octobre"
     },
     {
       "title": "VOYAGES PLUS - Technicien Billetiste Groupes H/F - CDI - (Ile de France)",
       "link": "https://www.tourmag.com/classifieds/VOYAGES-PLUS-Technicien-Billetiste-Groupes-H-F-CDI-Ile-de-France_pa268464.html",
       "location": "Ile de France",
       "description": "",
-      "pubDate": "NEW 23:30"
+      "pubDate": "6 Octobre"
     },
     {
       "title": "LE GROUPE LE VACON - Directeur commercial Tour-opérateur H/F - CDI - (France entière)",
@@ -360,20 +360,6 @@
       "pubDate": "10 Juillet"
     },
     {
-      "title": "DISCOVERY TRAINS - Stagiaire Création de Carnets de Voyage H/F - (Paris 12e)",
-      "link": "https://www.tourmag.com/classifieds/DISCOVERY-TRAINS-Stagiaire-Creation-de-Carnets-de-Voyage-H-F-Paris-12e_pa268326.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "8 Juillet"
-    },
-    {
-      "title": "DISCOVERY TRAINS - Stagiaire Community Management & Réseaux Sociaux H/F - (Paris 12e)",
-      "link": "https://www.tourmag.com/classifieds/DISCOVERY-TRAINS-Stagiaire-Community-Management-Reseaux-Sociaux-H-F-Paris-12e_pa268325.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "8 Juillet"
-    },
-    {
       "title": "PROMOTION CONSEIL VACANCES - Commercial expérimenté H/F - CDI - (France entière)",
       "link": "https://www.tourmag.com/classifieds/PROMOTION-CONSEIL-VACANCES-Commercial-experimente-H-F-CDI-France-entiere_pa267540.html",
       "location": "France",
@@ -381,5 +367,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-06T17:57:50.441Z"
+  "scrapedAt": "2026-10-06T22:32:56.413Z"
 }
