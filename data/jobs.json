@@ -1,7 +1,28 @@
 {
   "success": true,
-  "total": 52,
+  "total": 54,
   "offers": [
+    {
+      "title": "TIME TOURS - Technicien(ne) Groupes Back Office confirmé(e) H/F - CDI - (Clichy (92))",
+      "link": "https://www.tourmag.com/classifieds/TIME-TOURS-Technicien-ne-Groupes-Back-Office-confirme-e-H-F-CDI-Clichy-92_pa268435.html",
+      "location": "Clichy",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Rennes (35))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Rennes-35_pa268470.html",
+      "location": "Rennes",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI  - (Amiens (80))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Amiens-80_pa268469.html",
+      "location": "Amiens",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Carhaix-Plouguer (29))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Carhaix-Plouguer-29_pa268468.html",
@@ -206,13 +227,6 @@
       "pubDate": "24 Septembre"
     },
     {
-      "title": "TIME TOURS - Technicien(ne) Groupes Back Office confirmé(e) H/F - CDI - (Clichy (92))",
-      "link": "https://www.tourmag.com/classifieds/TIME-TOURS-Technicien-ne-Groupes-Back-Office-confirme-e-H-F-CDI-Clichy-92_pa268435.html",
-      "location": "Clichy",
-      "description": "",
-      "pubDate": "22 Septembre"
-    },
-    {
       "title": "ARTS & VIE - Commercial(e) Groupes H/F - CDI - (Paris 15e)",
       "link": "https://www.tourmag.com/classifieds/ARTS-VIE-Commercial-e-Groupes-H-F-CDI-Paris-15e_pa268431.html",
       "location": "Paris",
@@ -367,5 +381,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-07T02:06:01.732Z"
+  "scrapedAt": "2026-10-07T11:31:18.742Z"
 }
