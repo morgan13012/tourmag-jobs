@@ -1,7 +1,28 @@
 {
   "success": true,
-  "total": 54,
+  "total": 55,
   "offers": [
+    {
+      "title": "DOUBLE SENS - Conseiller(e) voyages H/F - CDI - (Grenoble (38))",
+      "link": "https://www.tourmag.com/classifieds/DOUBLE-SENS-Conseiller-e-voyages-H-F-CDI-Grenoble-38_pa268467.html",
+      "location": "Grenoble",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "DOUBLE SENS - Responsable de Production H/F - CDI - (Grenoble (38))",
+      "link": "https://www.tourmag.com/classifieds/DOUBLE-SENS-Responsable-de-Production-H-F-CDI-Grenoble-38_pa268466.html",
+      "location": "Grenoble",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "LE GROUPE LE VACON - Directeur commercial Tour-opérateur H/F - CDI - (France entière)",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-LE-VACON-Directeur-commercial-Tour-operateur-H-F-CDI-France-entiere_pa268463.html",
+      "location": "",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "TIME TOURS - Technicien(ne) Groupes Back Office confirmé(e) H/F - CDI - (Clichy (92))",
       "link": "https://www.tourmag.com/classifieds/TIME-TOURS-Technicien-ne-Groupes-Back-Office-confirme-e-H-F-CDI-Clichy-92_pa268435.html",
@@ -31,13 +52,6 @@
       "pubDate": "6 Octobre"
     },
     {
-      "title": "DOUBLE SENS - Responsable de Production H/F - CDI - (Grenoble (38))",
-      "link": "https://www.tourmag.com/classifieds/DOUBLE-SENS-Responsable-de-Production-H-F-CDI-Grenoble-38_pa268466.html",
-      "location": "Grenoble",
-      "description": "",
-      "pubDate": "6 Octobre"
-    },
-    {
       "title": "VOYAGES PLUS - Commerciaux Groupes H/F - CDI - (Ile de France et Province)",
       "link": "https://www.tourmag.com/classifieds/VOYAGES-PLUS-Commerciaux-Groupes-H-F-CDI-Ile-de-France-et-Province_pa268465.html",
       "location": "Ile de France, Province",
@@ -50,13 +64,6 @@
       "location": "Ile de France",
       "description": "",
       "pubDate": "6 Octobre"
-    },
-    {
-      "title": "LE GROUPE LE VACON - Directeur commercial Tour-opérateur H/F - CDI - (France entière)",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-LE-VACON-Directeur-commercial-Tour-operateur-H-F-CDI-France-entiere_pa268463.html",
-      "location": "",
-      "description": "",
-      "pubDate": "5 Octobre"
     },
     {
       "title": "E-LECLERC VOYAGES - Responsable d'agence H/F - CDI - (Montayral (47))",
@@ -381,5 +388,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-07T11:31:18.742Z"
+  "scrapedAt": "2026-10-07T18:27:27.568Z"
 }
