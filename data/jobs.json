@@ -1,48 +1,48 @@
 {
   "success": true,
-  "total": 55,
+  "total": 54,
   "offers": [
     {
       "title": "DOUBLE SENS - Conseiller(e) voyages H/F - CDI - (Grenoble (38))",
       "link": "https://www.tourmag.com/classifieds/DOUBLE-SENS-Conseiller-e-voyages-H-F-CDI-Grenoble-38_pa268467.html",
       "location": "Grenoble",
       "description": "",
-      "pubDate": "NEW 23:30"
+      "pubDate": "7 Octobre"
     },
     {
       "title": "DOUBLE SENS - Responsable de Production H/F - CDI - (Grenoble (38))",
       "link": "https://www.tourmag.com/classifieds/DOUBLE-SENS-Responsable-de-Production-H-F-CDI-Grenoble-38_pa268466.html",
       "location": "Grenoble",
       "description": "",
-      "pubDate": "NEW 23:30"
+      "pubDate": "7 Octobre"
     },
     {
       "title": "LE GROUPE LE VACON - Directeur commercial Tour-opérateur H/F - CDI - (France entière)",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-LE-VACON-Directeur-commercial-Tour-operateur-H-F-CDI-France-entiere_pa268463.html",
       "location": "",
       "description": "",
-      "pubDate": "NEW 23:30"
+      "pubDate": "7 Octobre"
     },
     {
       "title": "TIME TOURS - Technicien(ne) Groupes Back Office confirmé(e) H/F - CDI - (Clichy (92))",
       "link": "https://www.tourmag.com/classifieds/TIME-TOURS-Technicien-ne-Groupes-Back-Office-confirme-e-H-F-CDI-Clichy-92_pa268435.html",
       "location": "Clichy",
       "description": "",
-      "pubDate": "NEW 23:00"
+      "pubDate": "7 Octobre"
     },
     {
       "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Rennes (35))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Rennes-35_pa268470.html",
       "location": "Rennes",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "7 Octobre"
     },
     {
       "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI  - (Amiens (80))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Amiens-80_pa268469.html",
       "location": "Amiens",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "7 Octobre"
     },
     {
       "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Carhaix-Plouguer (29))",
@@ -325,13 +325,6 @@
       "pubDate": "28 Juillet"
     },
     {
-      "title": "THAÏ AIRWAYS - Compliance & Customer Relations Officer F/H - (Paris (75))",
-      "link": "https://www.tourmag.com/classifieds/THAI-AIRWAYS-Compliance-Customer-Relations-Officer-F-H-Paris-75_pa268330.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "28 Juillet"
-    },
-    {
       "title": "OFFICE NATIONAL DU TOURISME TUNISIEN - APPEL D’OFFRES N° 20260701309 - Construction des stands de l’O.N.T.T aux salons et foires touristiques à l'Etranger pour une année 2026-2027",
       "link": "https://www.tourmag.com/classifieds/OFFICE-NATIONAL-DU-TOURISME-TUNISIEN-APPEL-D-OFFRES-N-20260701309-Construction-des-stands-de-l-O-N-T-T-aux-salons-et_pa268339.html",
       "location": "",
@@ -388,5 +381,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-07T18:27:27.568Z"
+  "scrapedAt": "2026-10-07T23:26:29.890Z"
 }
