@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 54,
+  "total": 53,
   "offers": [
     {
       "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI  - (Mantes-la-Jolie (78))",
@@ -153,13 +153,6 @@
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (La Ciotat (13))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-La-Ciotat-13_pa268456.html",
       "location": "La Ciotat",
-      "description": "",
-      "pubDate": "2 Octobre"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD - (Vitrolles (13))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Vitrolles-13_pa268455.html",
-      "location": "Vitrolles",
       "description": "",
       "pubDate": "2 Octobre"
     },
@@ -381,5 +374,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-08T11:46:48.925Z"
+  "scrapedAt": "2026-10-08T18:26:53.167Z"
 }
