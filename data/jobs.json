@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 52,
+  "total": 50,
   "offers": [
+    {
+      "title": "VISAGES DU MONDE - Conseillers voyages expérimentés H/F - CDI - (Brest (29) / Pau (64) / Mayenne (53))",
+      "link": "https://www.tourmag.com/classifieds/VISAGES-DU-MONDE-Conseillers-voyages-experimentes-H-F-CDI-Brest-29-Pau-64-Mayenne-53_pa268474.html",
+      "location": "Brest, Pau, Mayenne",
+      "description": "",
+      "pubDate": "12 Octobre"
+    },
     {
       "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI  - (Mantes-la-Jolie (78))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-experimente-H-F-CDI-Mantes-la-Jolie-78_pa268472.html",
@@ -339,27 +346,6 @@
       "pubDate": "17 Juillet"
     },
     {
-      "title": "AMPLITUDES - Stage UX/UI Designer & Assistant Marketing Digital F/H - (Toulouse (31))",
-      "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Stage-UX-UI-Designer-Assistant-Marketing-Digital-F-H-Toulouse-31_pa268333.html",
-      "location": "Toulouse",
-      "description": "",
-      "pubDate": "10 Juillet"
-    },
-    {
-      "title": "AMPLITUDES - Stage assistant(e) chargé(e) de production et de back office F/H - (Toulouse (31))",
-      "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Stage-assistant-e-charge-e-de-production-et-de-back-office-F-H-Toulouse-31_pa268332.html",
-      "location": "Toulouse",
-      "description": "",
-      "pubDate": "10 Juillet"
-    },
-    {
-      "title": "AMPLITUDES - Stage assistant(e) chargé(e) de production et de back office F/H - (Paris (75))",
-      "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Stage-assistant-e-charge-e-de-production-et-de-back-office-F-H-Paris-75_pa268331.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "10 Juillet"
-    },
-    {
       "title": "PROMOTION CONSEIL VACANCES - Commercial expérimenté H/F - CDI - (France entière)",
       "link": "https://www.tourmag.com/classifieds/PROMOTION-CONSEIL-VACANCES-Commercial-experimente-H-F-CDI-France-entiere_pa267540.html",
       "location": "France",
@@ -367,5 +353,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-09T17:59:00.932Z"
+  "scrapedAt": "2026-10-09T22:32:37.282Z"
 }
