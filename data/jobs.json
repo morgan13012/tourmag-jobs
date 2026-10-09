@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 53,
+  "total": 52,
   "offers": [
     {
       "title": "LE GROUPE SALAUN - Conseiller voyages expérimenté H/F - CDI  - (Mantes-la-Jolie (78))",
@@ -38,8 +38,8 @@
       "pubDate": "7 Octobre"
     },
     {
-      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDI - (Rennes (35))",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDI-Rennes-35_pa268470.html",
+      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDD - (Rennes (35))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDD-Rennes-35_pa268470.html",
       "location": "Rennes",
       "description": "",
       "pubDate": "7 Octobre"
@@ -248,13 +248,6 @@
       "pubDate": "17 Septembre"
     },
     {
-      "title": "LE GROUPE SALAUN - Commercial Groupes H/F - CDI - (Paris (75) et Région Parisienne)",
-      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Commercial-Groupes-H-F-CDI-Paris-75-et-Region-Parisienne_pa268425.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "14 Septembre"
-    },
-    {
       "title": "ULTRAMARINA - Conseiller Voyage spécialiste de la Plongée sous-marine H/F - CDI - (Paris 9e)",
       "link": "https://www.tourmag.com/classifieds/ULTRAMARINA-Conseiller-Voyage-specialiste-de-la-Plongee-sous-marine-H-F-CDI-Paris-9e_pa268423.html",
       "location": "Paris",
@@ -374,5 +367,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-08T23:37:56.441Z"
+  "scrapedAt": "2026-10-09T11:39:13.017Z"
 }
