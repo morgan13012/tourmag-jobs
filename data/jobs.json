@@ -3,6 +3,13 @@
   "total": 50,
   "offers": [
     {
+      "title": "SOLEA - Forfaitiste Afrique australe & Sénégal H/F - CDI - (Paris 11e)",
+      "link": "https://www.tourmag.com/classifieds/SOLEA-Forfaitiste-Afrique-australe-Senegal-H-F-CDI-Paris-11e_pa268475.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
       "title": "VISAGES DU MONDE - Conseillers voyages expérimentés H/F - CDI - (Brest (29) / Pau (64) / Mayenne (53))",
       "link": "https://www.tourmag.com/classifieds/VISAGES-DU-MONDE-Conseillers-voyages-experimentes-H-F-CDI-Brest-29-Pau-64-Mayenne-53_pa268474.html",
       "location": "Brest, Pau, Mayenne",
@@ -325,13 +332,6 @@
       "pubDate": "20 Juillet"
     },
     {
-      "title": "INTERMEDES - Assistant(e) Commercial(e) & Technique - Stage de 6 mois - (Paris 10e)",
-      "link": "https://www.tourmag.com/classifieds/INTERMEDES-Assistant-e-Commercial-e-Technique-Stage-de-6-mois-Paris-10e_pa268344.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "20 Juillet"
-    },
-    {
       "title": "LE CHÂTEAU DE THEOULE HÔTEL & SPA  -  Stagiaire Assistant(e) Commercial(e) & Événementiel - (Théoule sur Mer (06))",
       "link": "https://www.tourmag.com/classifieds/LE-CHATEAU-DE-THEOULE-HOTEL-SPA-Stagiaire-Assistant-e-Commercial-e-Evenementiel-Theoule-sur-Mer-06_pa268341.html",
       "location": "Théoule sur Mer",
@@ -353,5 +353,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-12T12:45:22.564Z"
+  "scrapedAt": "2026-10-12T21:33:35.256Z"
 }
