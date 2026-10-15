@@ -1,7 +1,49 @@
 {
   "success": true,
-  "total": 54,
+  "total": 60,
   "offers": [
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - Alternance - (Evry (91))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-Alternance-Evry-91_pa268487.html",
+      "location": "Evry",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - Alternance - (Gonesse (95))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-Alternance-Gonesse-95_pa268485.html",
+      "location": "Gonesse",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - CDI - (Evry (91))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Responsable-d-agence-H-F-CDI-Evry-91_pa268484.html",
+      "location": "Evry",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - CDI - (Gonesse (95))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Responsable-d-agence-H-F-CDI-Gonesse-95_pa268483.html",
+      "location": "Gonesse",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Evry (91))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Evry-91_pa268482.html",
+      "location": "Evry",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Gonesse (95))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Gonesse-95_pa268481.html",
+      "location": "Gonesse",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "TUI STORE - Conseillèr(e) voyages H/F - CDI - (Plan de Campagne - Cabriès (13))",
       "link": "https://www.tourmag.com/classifieds/TUI-STORE-Conseiller-e-voyages-H-F-CDI-Plan-de-Campagne-Cabries-13_pa268480.html",
@@ -381,5 +423,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-15T09:36:36.153Z"
+  "scrapedAt": "2026-10-15T14:40:10.799Z"
 }
