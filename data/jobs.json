@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 59,
+  "total": 58,
   "offers": [
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - Alternance - (Evry (91))",
@@ -269,13 +269,6 @@
       "pubDate": "2 Octobre"
     },
     {
-      "title": "LVE TRAVEL - Technicien Groupes H/F - CDD - (Le Teich (33))",
-      "link": "https://www.tourmag.com/classifieds/LVE-TRAVEL-Technicien-Groupes-H-F-CDD-Le-Teich-33_pa268409.html",
-      "location": "Le Teich",
-      "description": "",
-      "pubDate": "29 Septembre"
-    },
-    {
       "title": "AMPLITUDES - Technico-commercial(e) Tourisme Groupes H/F - CDI - (Toulouse (31))",
       "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Technico-commercial-e-Tourisme-Groupes-H-F-CDI-Toulouse-31_pa268451.html",
       "location": "Toulouse",
@@ -416,5 +409,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-16T09:29:46.120Z"
+  "scrapedAt": "2026-10-16T14:32:24.922Z"
 }
