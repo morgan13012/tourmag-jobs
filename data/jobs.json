@@ -1,48 +1,48 @@
 {
   "success": true,
-  "total": 60,
+  "total": 59,
   "offers": [
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - Alternance - (Evry (91))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-Alternance-Evry-91_pa268487.html",
       "location": "Evry",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "15 Octobre"
     },
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - Alternance - (Gonesse (95))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-Alternance-Gonesse-95_pa268485.html",
       "location": "Gonesse",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "15 Octobre"
     },
     {
       "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - CDI - (Evry (91))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Responsable-d-agence-H-F-CDI-Evry-91_pa268484.html",
       "location": "Evry",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "15 Octobre"
     },
     {
       "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - CDI - (Gonesse (95))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Responsable-d-agence-H-F-CDI-Gonesse-95_pa268483.html",
       "location": "Gonesse",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "15 Octobre"
     },
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Evry (91))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Evry-91_pa268482.html",
       "location": "Evry",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "15 Octobre"
     },
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Gonesse (95))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Gonesse-95_pa268481.html",
       "location": "Gonesse",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "15 Octobre"
     },
     {
       "title": "TUI STORE - Conseillèr(e) voyages H/F - CDI - (Plan de Campagne - Cabriès (13))",
@@ -388,13 +388,6 @@
       "pubDate": "4 Août"
     },
     {
-      "title": "TRIP MY FRANCE - Travel Designer Confirmé H/F - CDI - (Arnas (69))",
-      "link": "https://www.tourmag.com/classifieds/TRIP-MY-FRANCE-Travel-Designer-Confirme-H-F-CDI-Arnas-69_pa268337.html",
-      "location": "Arnas",
-      "description": "",
-      "pubDate": "28 Juillet"
-    },
-    {
       "title": "OFFICE NATIONAL DU TOURISME TUNISIEN - APPEL D’OFFRES N° 20260701309 - Construction des stands de l’O.N.T.T aux salons et foires touristiques à l'Etranger pour une année 2026-2027",
       "link": "https://www.tourmag.com/classifieds/OFFICE-NATIONAL-DU-TOURISME-TUNISIEN-APPEL-D-OFFRES-N-20260701309-Construction-des-stands-de-l-O-N-T-T-aux-salons-et_pa268339.html",
       "location": "",
@@ -423,5 +416,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-15T21:56:15.992Z"
+  "scrapedAt": "2026-10-16T00:06:44.285Z"
 }
