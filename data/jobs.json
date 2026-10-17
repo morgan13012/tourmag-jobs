@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 58,
+  "total": 55,
   "offers": [
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - Alternance - (Evry (91))",
@@ -381,27 +381,6 @@
       "pubDate": "4 Août"
     },
     {
-      "title": "OFFICE NATIONAL DU TOURISME TUNISIEN - APPEL D’OFFRES N° 20260701309 - Construction des stands de l’O.N.T.T aux salons et foires touristiques à l'Etranger pour une année 2026-2027",
-      "link": "https://www.tourmag.com/classifieds/OFFICE-NATIONAL-DU-TOURISME-TUNISIEN-APPEL-D-OFFRES-N-20260701309-Construction-des-stands-de-l-O-N-T-T-aux-salons-et_pa268339.html",
-      "location": "",
-      "description": "",
-      "pubDate": "20 Juillet"
-    },
-    {
-      "title": "LE CHÂTEAU DE THEOULE HÔTEL & SPA  -  Stagiaire Assistant(e) Commercial(e) & Événementiel - (Théoule sur Mer (06))",
-      "link": "https://www.tourmag.com/classifieds/LE-CHATEAU-DE-THEOULE-HOTEL-SPA-Stagiaire-Assistant-e-Commercial-e-Evenementiel-Theoule-sur-Mer-06_pa268341.html",
-      "location": "Théoule sur Mer",
-      "description": "",
-      "pubDate": "17 Juillet"
-    },
-    {
-      "title": "CATLANTE CATAMARANS - Alternant(e) marketing digital, GEO/SEO & IA - (Saint-Cloud (92))",
-      "link": "https://www.tourmag.com/classifieds/CATLANTE-CATAMARANS-Alternant-e-marketing-digital-GEO-SEO-IA-Saint-Cloud-92_pa268340.html",
-      "location": "Saint-Cloud",
-      "description": "",
-      "pubDate": "17 Juillet"
-    },
-    {
       "title": "PROMOTION CONSEIL VACANCES - Commercial expérimenté H/F - CDI - (France entière)",
       "link": "https://www.tourmag.com/classifieds/PROMOTION-CONSEIL-VACANCES-Commercial-experimente-H-F-CDI-France-entiere_pa267540.html",
       "location": "France",
@@ -409,5 +388,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-16T21:54:43.946Z"
+  "scrapedAt": "2026-10-17T00:09:05.295Z"
 }
