@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 55,
+  "total": 56,
   "offers": [
+    {
+      "title": "AQUAREV - Conseiller voyages H/F - CDI - (Paris 1er)",
+      "link": "https://www.tourmag.com/classifieds/AQUAREV-Conseiller-voyages-H-F-CDI-Paris-1er_pa268491.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
     {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - Alternance - (Evry (91))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-Alternance-Evry-91_pa268487.html",
@@ -388,5 +395,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-19T10:30:33.757Z"
+  "scrapedAt": "2026-10-19T17:19:39.621Z"
 }
