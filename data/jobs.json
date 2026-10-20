@@ -1,7 +1,35 @@
 {
   "success": true,
-  "total": 56,
+  "total": 60,
   "offers": [
+    {
+      "title": "LE GROUPE SALAUN - Animateur/Coordinateur de Réseau Secteur Sud-Est H/F - CDI - (Marseille (13001))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Animateur-Coordinateur-de-Reseau-Secteur-Sud-Est-H-F-CDI-Marseille-13001_pa268497.html",
+      "location": "Marseille",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Animateur/Coordinateur de Réseau Secteur Sud-Est H/F - CDI - (Montpellier (34))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Animateur-Coordinateur-de-Reseau-Secteur-Sud-Est-H-F-CDI-Montpellier-34_pa268496.html",
+      "location": "Montpellier",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Animateur/Coordinateur de Réseau Secteur Sud-Est H/F - CDI - (Nice (06))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Animateur-Coordinateur-de-Reseau-Secteur-Sud-Est-H-F-CDI-Nice-06_pa268493.html",
+      "location": "Nice",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Conseiller voyages H/F - CDD - (Nîmes (30))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Conseiller-voyages-H-F-CDD-Nimes-30_pa268492.html",
+      "location": "Nîmes",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "AQUAREV - Conseiller voyages H/F - CDI - (Paris 1er)",
       "link": "https://www.tourmag.com/classifieds/AQUAREV-Conseiller-voyages-H-F-CDI-Paris-1er_pa268491.html",
@@ -395,5 +423,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-20T01:35:11.383Z"
+  "scrapedAt": "2026-10-20T09:48:24.768Z"
 }
