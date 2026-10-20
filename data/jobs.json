@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 60,
+  "total": 61,
   "offers": [
+    {
+      "title": "LE GROUPE SALAUN - Forfaitiste Groupes H/F - CDI - (Pont-de-Buis-lès-Quimerch (29))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Forfaitiste-Groupes-H-F-CDI-Pont-de-Buis-les-Quimerch-29_pa268500.html",
+      "location": "Pont-de-Buis-lès-Quimerch",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "LE GROUPE SALAUN - Animateur/Coordinateur de Réseau Secteur Sud-Est H/F - CDI - (Marseille (13001))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Animateur-Coordinateur-de-Reseau-Secteur-Sud-Est-H-F-CDI-Marseille-13001_pa268497.html",
@@ -423,5 +430,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-20T14:40:35.585Z"
+  "scrapedAt": "2026-10-20T18:54:34.181Z"
 }
