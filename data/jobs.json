@@ -3,6 +3,13 @@
   "total": 61,
   "offers": [
     {
+      "title": "HRS - Assistant(e) Customer Experience Manager, Crew & Workforce Solutions (H/F/X) - Alternance - (Paris (75))",
+      "link": "https://www.tourmag.com/classifieds/HRS-Assistant-e-Customer-Experience-Manager-Crew-Workforce-Solutions-H-F-X-Alternance-Paris-75_pa268505.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
       "title": "LE GROUPE SALAUN - Forfaitiste Groupes H/F - CDI - (Pont-de-Buis-lès-Quimerch (29))",
       "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Forfaitiste-Groupes-H-F-CDI-Pont-de-Buis-les-Quimerch-29_pa268500.html",
       "location": "Pont-de-Buis-lès-Quimerch",
@@ -339,13 +346,6 @@
       "pubDate": "24 Septembre"
     },
     {
-      "title": "MONDELIOS - Responsable d'agence de voyages H/F - CDI - (Versailles (78))",
-      "link": "https://www.tourmag.com/classifieds/MONDELIOS-Responsable-d-agence-de-voyages-H-F-CDI-Versailles-78_pa268444.html",
-      "location": "Versailles",
-      "description": "",
-      "pubDate": "24 Septembre"
-    },
-    {
       "title": "IMAGINE TRAVEL - Chargé(e) de Développement & Support Commercial - CDI - (Près d'Aix-en-Porvence (13))",
       "link": "https://www.tourmag.com/classifieds/IMAGINE-TRAVEL-Charge-e-de-Developpement-Support-Commercial-CDI-Pres-d-Aix-en-Porvence-13_pa268443.html",
       "location": "Aix-en-Provence",
@@ -430,5 +430,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-21T09:49:21.346Z"
+  "scrapedAt": "2026-10-21T14:51:22.199Z"
 }
