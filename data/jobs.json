@@ -1,10 +1,31 @@
 {
   "success": true,
-  "total": 61,
+  "total": 65,
   "offers": [
+    {
+      "title": "MONDE AUTHENTIQUE - Créateur(trice) de voyages confirmé(e) - CDI - (Paris 2e)",
+      "link": "https://www.tourmag.com/classifieds/MONDE-AUTHENTIQUE-Createur-trice-de-voyages-confirme-e-CDI-Paris-2e_pa268336.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
+      "title": "NG TRAVEL - Commercial(e) – Agent(e) de réservation H/F - CDD - (Paris (75))",
+      "link": "https://www.tourmag.com/classifieds/NG-TRAVEL-Commercial-e-Agent-e-de-reservation-H-F-CDD-Paris-75_pa268506.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "HRS - Assistant(e) Customer Experience Manager, Crew & Workforce Solutions (H/F/X) - Alternance - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/HRS-Assistant-e-Customer-Experience-Manager-Crew-Workforce-Solutions-H-F-X-Alternance-Paris-75_pa268505.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "NG TRAVEL - Assistant(e) de production / Gestionnaire de destination H/F - CDI - (Paris 2e)",
+      "link": "https://www.tourmag.com/classifieds/NG-TRAVEL-Assistant-e-de-production-Gestionnaire-de-destination-H-F-CDI-Paris-2e_pa268504.html",
       "location": "Paris",
       "description": "",
       "pubDate": "NEW 00:00"
@@ -346,6 +367,13 @@
       "pubDate": "24 Septembre"
     },
     {
+      "title": "MONDELIOS - Responsable d'agence de voyages H/F - CDI - (Versailles (78))",
+      "link": "https://www.tourmag.com/classifieds/MONDELIOS-Responsable-d-agence-de-voyages-H-F-CDI-Versailles-78_pa268444.html",
+      "location": "Versailles",
+      "description": "",
+      "pubDate": "24 Septembre"
+    },
+    {
       "title": "IMAGINE TRAVEL - Chargé(e) de Développement & Support Commercial - CDI - (Près d'Aix-en-Porvence (13))",
       "link": "https://www.tourmag.com/classifieds/IMAGINE-TRAVEL-Charge-e-de-Developpement-Support-Commercial-CDI-Pres-d-Aix-en-Porvence-13_pa268443.html",
       "location": "Aix-en-Provence",
@@ -430,5 +458,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-21T14:51:22.199Z"
+  "scrapedAt": "2026-10-21T19:06:14.500Z"
 }
