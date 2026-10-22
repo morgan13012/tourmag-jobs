@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 66,
+  "total": 65,
   "offers": [
     {
       "title": "INTERMEDES - Chef de produit Outdoor – Randonnée culturelle H/F - CDI - (Paris 10e)",
@@ -416,13 +416,6 @@
       "pubDate": "11 Septembre"
     },
     {
-      "title": "NOMBALAIS EVASION - Conseiller voyages expérimenté H/F - CDI -  (Les Herbiers (85))",
-      "link": "https://www.tourmag.com/classifieds/NOMBALAIS-EVASION-Conseiller-voyages-experimente-H-F-CDI-Les-Herbiers-85_pa268402.html",
-      "location": "Les Herbiers",
-      "description": "",
-      "pubDate": "8 Septembre"
-    },
-    {
       "title": "PRIVILEGES VOYAGES - Expert(e) en Voyages de Luxe sur-mesure - CDI - (Paris 8e)",
       "link": "https://www.tourmag.com/classifieds/PRIVILEGES-VOYAGES-Expert-e-en-Voyages-de-Luxe-sur-mesure-CDI-Paris-8e_pa268398.html",
       "location": "Paris",
@@ -465,5 +458,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-22T09:50:10.061Z"
+  "scrapedAt": "2026-10-22T14:52:05.113Z"
 }
