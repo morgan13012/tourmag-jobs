@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 65,
+  "total": 66,
   "offers": [
+    {
+      "title": "NOMBALAIS EVASION - Chargé(e) de développement commercial Voyages de Groupe H/F - CDI - (La Rochelle (17))",
+      "link": "https://www.tourmag.com/classifieds/NOMBALAIS-EVASION-Charge-e-de-developpement-commercial-Voyages-de-Groupe-H-F-CDI-La-Rochelle-17_pa268507.html",
+      "location": "La Rochelle",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "INTERMEDES - Chef de produit Outdoor – Randonnée culturelle H/F - CDI - (Paris 10e)",
       "link": "https://www.tourmag.com/classifieds/INTERMEDES-Chef-de-produit-Outdoor-Randonnee-culturelle-H-F-CDI-Paris-10e_pa268454.html",
@@ -458,5 +465,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-22T14:52:05.113Z"
+  "scrapedAt": "2026-10-22T19:02:39.620Z"
 }
