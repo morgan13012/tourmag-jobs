@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 65,
+  "total": 66,
   "offers": [
+    {
+      "title": "INTERMEDES - Chef de produit Outdoor – Randonnée culturelle H/F - CDI - (Paris 10e)",
+      "link": "https://www.tourmag.com/classifieds/INTERMEDES-Chef-de-produit-Outdoor-Randonnee-culturelle-H-F-CDI-Paris-10e_pa268454.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
     {
       "title": "MONDE AUTHENTIQUE - Créateur(trice) de voyages confirmé(e) - CDI - (Paris 2e)",
       "link": "https://www.tourmag.com/classifieds/MONDE-AUTHENTIQUE-Createur-trice-de-voyages-confirme-e-CDI-Paris-2e_pa268336.html",
@@ -458,5 +465,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-21T23:01:02.191Z"
+  "scrapedAt": "2026-10-22T09:50:10.061Z"
 }
