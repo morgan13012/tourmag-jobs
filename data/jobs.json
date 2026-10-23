@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 66,
+  "total": 60,
   "offers": [
+    {
+      "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages basée dans l'Aveyron (12)",
+      "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-basee-dans-l-Aveyron-12_pa268508.html",
+      "location": "",
+      "description": "",
+      "pubDate": "26 Octobre"
+    },
     {
       "title": "NOMBALAIS EVASION - Chargé(e) de développement commercial Voyages de Groupe H/F - CDI - (La Rochelle (17))",
       "link": "https://www.tourmag.com/classifieds/NOMBALAIS-EVASION-Charge-e-de-developpement-commercial-Voyages-de-Groupe-H-F-CDI-La-Rochelle-17_pa268507.html",
@@ -414,56 +421,7 @@
       "location": "Paris",
       "description": "",
       "pubDate": "11 Septembre"
-    },
-    {
-      "title": "REFLETS D'AILLEURS - Forfaitiste Groupes Europe et Ameriques H/F - CDD - (Vincennes (94) ou Wasquehal (59))",
-      "link": "https://www.tourmag.com/classifieds/REFLETS-D-AILLEURS-Forfaitiste-Groupes-Europe-et-Ameriques-H-F-CDD-Vincennes-94-ou-Wasquehal-59_pa268421.html",
-      "location": "Vincennes, Wasquehal",
-      "description": "",
-      "pubDate": "11 Septembre"
-    },
-    {
-      "title": "PRIVILEGES VOYAGES - Expert(e) en Voyages de Luxe sur-mesure - CDI - (Paris 8e)",
-      "link": "https://www.tourmag.com/classifieds/PRIVILEGES-VOYAGES-Expert-e-en-Voyages-de-Luxe-sur-mesure-CDI-Paris-8e_pa268398.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "8 Septembre"
-    },
-    {
-      "title": "GASTON SACAZE DMC - Mandataire Responsable commercial Europe H/F - (France, région parisienne de préférence)",
-      "link": "https://www.tourmag.com/classifieds/GASTON-SACAZE-DMC-Mandataire-Responsable-commercial-Europe-H-F-France-region-parisienne-de-preference_pa268364.html",
-      "location": "Région Parisienne",
-      "description": "",
-      "pubDate": "31 Août"
-    },
-    {
-      "title": "TABBAGH TRAVEL SERVICE - Commercial(e) Voyage Loisirs Groupes H/F - (Paris 17e)",
-      "link": "https://www.tourmag.com/classifieds/TABBAGH-TRAVEL-SERVICE-Commercial-e-Voyage-Loisirs-Groupes-H-F-Paris-17e_pa268397.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "24 Août"
-    },
-    {
-      "title": "NG TRAVEL - Assistant(e) Production - CDI - (Paris 2e)",
-      "link": "https://www.tourmag.com/classifieds/NG-TRAVEL-Assistant-e-Production-CDI-Paris-2e_pa268375.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "10 Août"
-    },
-    {
-      "title": "E-LECLERC VOYAGES - Responsable d'agence H/F - CDI - (Granville (50))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-H-F-CDI-Granville-50_pa268368.html",
-      "location": "Granville",
-      "description": "",
-      "pubDate": "4 Août"
-    },
-    {
-      "title": "PROMOTION CONSEIL VACANCES - Commercial expérimenté H/F - CDI - (France entière)",
-      "link": "https://www.tourmag.com/classifieds/PROMOTION-CONSEIL-VACANCES-Commercial-experimente-H-F-CDI-France-entiere_pa267540.html",
-      "location": "France",
-      "description": "",
-      "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-23T14:40:09.912Z"
+  "scrapedAt": "2026-10-23T18:53:10.665Z"
 }
