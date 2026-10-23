@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 60,
+  "total": 40,
   "offers": [
     {
       "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages basée dans l'Aveyron (12)",
@@ -8,6 +8,20 @@
       "location": "",
       "description": "",
       "pubDate": "26 Octobre"
+    },
+    {
+      "title": "SAFARIS A LA CARTE - Chef de produit Safaris H/F - CDI - (Nantes (44))",
+      "link": "https://www.tourmag.com/classifieds/SAFARIS-A-LA-CARTE-Chef-de-produit-Safaris-H-F-CDI-Nantes-44_pa268510.html",
+      "location": "Nantes",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "ULTRAMARINA - Conseiller/Conseillère Voyages spécialisé(e) Safaris Animaliers et/ou Australie – Nouvelle-Zélande - CDI - (Nantes (44))",
+      "link": "https://www.tourmag.com/classifieds/ULTRAMARINA-Conseiller-Conseillere-Voyages-specialise-e-Safaris-Animaliers-et-ou-Australie-Nouvelle-Zelande-CDI-Nantes_pa268509.html",
+      "location": "Nantes",
+      "description": "",
+      "pubDate": "NEW 00:00"
     },
     {
       "title": "NOMBALAIS EVASION - Chargé(e) de développement commercial Voyages de Groupe H/F - CDI - (La Rochelle (17))",
@@ -267,161 +281,7 @@
       "location": "Barentin, Mont Saint Aignan",
       "description": "",
       "pubDate": "2 Octobre"
-    },
-    {
-      "title": "LES CARNETS DE MAGELLAN - Conseiller Voyages – Spécialiste d’une destination H/F - CDI - (Vannes (56))",
-      "link": "https://www.tourmag.com/classifieds/LES-CARNETS-DE-MAGELLAN-Conseiller-Voyages-Specialiste-d-une-destination-H-F-CDI-Vannes-56_pa268453.html",
-      "location": "Vannes",
-      "description": "",
-      "pubDate": "2 Octobre"
-    },
-    {
-      "title": "L'AGENCE EXUMA BUSINESS TRAVEL - Conseillèr(e) voyages d'affaires/Billettiste Senior H/F (VIP & Luxury) - CDI - (Paris 8e)",
-      "link": "https://www.tourmag.com/classifieds/L-AGENCE-EXUMA-BUSINESS-TRAVEL-Conseiller-e-voyages-d-affaires-Billettiste-Senior-H-F-VIP-Luxury-CDI-Paris-8e_pa268445.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "2 Octobre"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Evreux (27))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Evreux-27_pa268403.html",
-      "location": "Evreux",
-      "description": "",
-      "pubDate": "2 Octobre"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Claye-Souilly (77))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Claye-Souilly-77_pa268458.html",
-      "location": "Claye-Souilly",
-      "description": "",
-      "pubDate": "2 Octobre"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - CDI - (Euralille (59))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Responsable-d-agence-H-F-CDI-Euralille-59_pa267957.html",
-      "location": "Euralille",
-      "description": "",
-      "pubDate": "2 Octobre"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - ( (Vaulx en Velin (69))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Vaulx-en-Velin-69_pa268461.html",
-      "location": "Vaulx en Velin",
-      "description": "",
-      "pubDate": "2 Octobre"
-    },
-    {
-      "title": "CARREFOUR VOYAGES  - Conseiller voyages H/F - CDD - (St Egrève (38))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-St-Egreve-38_pa268460.html",
-      "location": "St Egrève",
-      "description": "",
-      "pubDate": "2 Octobre"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - (Villabé (91))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-Villabe-91_pa268459.html",
-      "location": "Villabé",
-      "description": "",
-      "pubDate": "2 Octobre"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (La Ciotat (13))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-La-Ciotat-13_pa268456.html",
-      "location": "La Ciotat",
-      "description": "",
-      "pubDate": "2 Octobre"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDD - (Pontault-Combault (77))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDD-Pontault-Combault-77_pa268357.html",
-      "location": "Pontault-Combault",
-      "description": "",
-      "pubDate": "2 Octobre"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - CDI - (Antibes (06))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Responsable-d-agence-H-F-CDI-Antibes-06_pa268356.html",
-      "location": "Antibes",
-      "description": "",
-      "pubDate": "2 Octobre"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Ecully/Givors (69))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Ecully-Givors-69_pa268304.html",
-      "location": "Ecully, Givors",
-      "description": "",
-      "pubDate": "2 Octobre"
-    },
-    {
-      "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI  - (Toulouse Purpan (31))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Toulouse-Purpan-31_pa266282.html",
-      "location": "Toulouse",
-      "description": "",
-      "pubDate": "2 Octobre"
-    },
-    {
-      "title": "AMPLITUDES - Technico-commercial(e) Tourisme Groupes H/F - CDI - (Toulouse (31))",
-      "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Technico-commercial-e-Tourisme-Groupes-H-F-CDI-Toulouse-31_pa268451.html",
-      "location": "Toulouse",
-      "description": "",
-      "pubDate": "29 Septembre"
-    },
-    {
-      "title": "AMPLITUDES - Conseiller voyages H/F - CDI - (Paris 2e près d'Opéra)",
-      "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Conseiller-voyages-H-F-CDI-Paris-2e-pres-d-Opera_pa268450.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "29 Septembre"
-    },
-    {
-      "title": "AMPLITUDES - Conseiller(e) Voyages spécialiste Iles (Océan Indien Caraïbes Polynésie) - CDI - (Bordeaux (33))",
-      "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Conseiller-e-Voyages-specialiste-Iles-Ocean-Indien-Caraibes-Polynesie-CDI-Bordeaux-33_pa268449.html",
-      "location": "Bordeaux",
-      "description": "",
-      "pubDate": "29 Septembre"
-    },
-    {
-      "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages avec bail basée à Paris 17e",
-      "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-avec-bail-basee-a-Paris-17e_pa268417.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "24 Septembre"
-    },
-    {
-      "title": "MONDELIOS - Responsable d'agence de voyages H/F - CDI - (Versailles (78))",
-      "link": "https://www.tourmag.com/classifieds/MONDELIOS-Responsable-d-agence-de-voyages-H-F-CDI-Versailles-78_pa268444.html",
-      "location": "Versailles",
-      "description": "",
-      "pubDate": "24 Septembre"
-    },
-    {
-      "title": "IMAGINE TRAVEL - Chargé(e) de Développement & Support Commercial - CDI - (Près d'Aix-en-Porvence (13))",
-      "link": "https://www.tourmag.com/classifieds/IMAGINE-TRAVEL-Charge-e-de-Developpement-Support-Commercial-CDI-Pres-d-Aix-en-Porvence-13_pa268443.html",
-      "location": "Aix-en-Provence",
-      "description": "",
-      "pubDate": "24 Septembre"
-    },
-    {
-      "title": "ARTS & VIE - Commercial(e) Groupes H/F - CDI - (Paris 15e)",
-      "link": "https://www.tourmag.com/classifieds/ARTS-VIE-Commercial-e-Groupes-H-F-CDI-Paris-15e_pa268431.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "21 Septembre"
-    },
-    {
-      "title": "INTERMEDES - Chargé(e) des ventes Senior H/F - CDI - (Paris 6e)",
-      "link": "https://www.tourmag.com/classifieds/INTERMEDES-Charge-e-des-ventes-Senior-H-F-CDI-Paris-6e_pa268429.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "17 Septembre"
-    },
-    {
-      "title": "ULTRAMARINA - Conseiller Voyage spécialiste de la Plongée sous-marine H/F - CDI - (Paris 9e)",
-      "link": "https://www.tourmag.com/classifieds/ULTRAMARINA-Conseiller-Voyage-specialiste-de-la-Plongee-sous-marine-H-F-CDI-Paris-9e_pa268423.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "11 Septembre"
     }
   ],
-  "scrapedAt": "2026-10-23T18:53:10.665Z"
+  "scrapedAt": "2026-10-23T21:50:23.024Z"
 }
