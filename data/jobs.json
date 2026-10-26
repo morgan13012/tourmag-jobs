@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 69,
+  "total": 70,
   "offers": [
     {
       "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages basée dans l'Aveyron (12)",
@@ -8,6 +8,13 @@
       "location": "",
       "description": "",
       "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "LE GROUPE SALAUN - Forfaitiste Groupes H/F - CDI - (Quimper (29))",
+      "link": "https://www.tourmag.com/classifieds/LE-GROUPE-SALAUN-Forfaitiste-Groupes-H-F-CDI-Quimper-29_pa268513.html",
+      "location": "Quimper",
+      "description": "",
+      "pubDate": "NEW 00:00"
     },
     {
       "title": "SAFARIS A LA CARTE - Chef de produit Safaris H/F - CDI - (Nantes (44))",
@@ -486,5 +493,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-26T10:45:43.695Z"
+  "scrapedAt": "2026-10-26T17:07:17.801Z"
 }
