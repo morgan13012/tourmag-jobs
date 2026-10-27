@@ -1,7 +1,21 @@
 {
   "success": true,
-  "total": 70,
+  "total": 72,
   "offers": [
+    {
+      "title": "MSC CROISIERES ESPAGNE - Chargé de Développement Commercial / Outbound Sales Representative F/H - CDI - (Valence (Espagne))",
+      "link": "https://www.tourmag.com/classifieds/MSC-CROISIERES-ESPAGNE-Charge-de-Developpement-Commercial -Outbound-Sales-Representative-F-H-CDI-Valence-Espagne_pa268512.html",
+      "location": "Valence",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "MSC CROISIERES ESPAGNE - Conseiller Commercial Sédentaire / Inbound Sales Representative F/H - CDI - (Valence en Espagne)",
+      "link": "https://www.tourmag.com/classifieds/MSC-CROISIERES-ESPAGNE-Conseiller-Commercial-Sedentaire -Inbound-Sales-Representative-F-H-CDI-Valence-en-Espagne_pa268511.html",
+      "location": "Valence",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
     {
       "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages basée dans l'Aveyron (12)",
       "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-basee-dans-l-Aveyron-12_pa268508.html",
@@ -493,5 +507,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-27T10:11:59.201Z"
+  "scrapedAt": "2026-10-27T16:11:24.603Z"
 }
