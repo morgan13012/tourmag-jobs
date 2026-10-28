@@ -1,20 +1,20 @@
 {
   "success": true,
-  "total": 72,
+  "total": 71,
   "offers": [
     {
       "title": "MSC CROISIERES ESPAGNE - Chargé de Développement Commercial / Outbound Sales Representative F/H - CDI - (Valence (Espagne))",
       "link": "https://www.tourmag.com/classifieds/MSC-CROISIERES-ESPAGNE-Charge-de-Developpement-Commercial -Outbound-Sales-Representative-F-H-CDI-Valence-Espagne_pa268512.html",
       "location": "Valence",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "27 Octobre"
     },
     {
       "title": "MSC CROISIERES ESPAGNE - Conseiller Commercial Sédentaire / Inbound Sales Representative F/H - CDI - (Valence en Espagne)",
       "link": "https://www.tourmag.com/classifieds/MSC-CROISIERES-ESPAGNE-Conseiller-Commercial-Sedentaire -Inbound-Sales-Representative-F-H-CDI-Valence-en-Espagne_pa268511.html",
       "location": "Valence",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "27 Octobre"
     },
     {
       "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages basée dans l'Aveyron (12)",
@@ -374,13 +374,6 @@
       "pubDate": "2 Octobre"
     },
     {
-      "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - CDI - (Antibes (06))",
-      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Responsable-d-agence-H-F-CDI-Antibes-06_pa268356.html",
-      "location": "Antibes",
-      "description": "",
-      "pubDate": "2 Octobre"
-    },
-    {
       "title": "CARREFOUR VOYAGES - Conseiller voyages H/F - CDI - (Ecully/Givors (69))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Conseiller-voyages-H-F-CDI-Ecully-Givors-69_pa268304.html",
       "location": "Ecully, Givors",
@@ -507,5 +500,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-27T21:06:45.715Z"
+  "scrapedAt": "2026-10-28T00:58:02.021Z"
 }
