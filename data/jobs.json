@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 71,
+  "total": 70,
   "offers": [
     {
       "title": "NG TRAVEL - Assistant(e) de production H/F - CDI - (Paris 2e)",
@@ -465,13 +465,6 @@
       "pubDate": "8 Septembre"
     },
     {
-      "title": "GASTON SACAZE DMC - Mandataire Responsable commercial Europe H/F - (France, région parisienne de préférence)",
-      "link": "https://www.tourmag.com/classifieds/GASTON-SACAZE-DMC-Mandataire-Responsable-commercial-Europe-H-F-France-region-parisienne-de-preference_pa268364.html",
-      "location": "Région Parisienne",
-      "description": "",
-      "pubDate": "31 Août"
-    },
-    {
       "title": "TABBAGH TRAVEL SERVICE - Commercial(e) Voyage Loisirs Groupes H/F - (Paris 17e)",
       "link": "https://www.tourmag.com/classifieds/TABBAGH-TRAVEL-SERVICE-Commercial-e-Voyage-Loisirs-Groupes-H-F-Paris-17e_pa268397.html",
       "location": "Paris",
@@ -500,5 +493,5 @@
       "pubDate": "26 Mai"
     }
   ],
-  "scrapedAt": "2026-10-29T18:02:41.940Z"
+  "scrapedAt": "2026-10-29T23:05:16.111Z"
 }
