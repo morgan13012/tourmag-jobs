@@ -3,6 +3,13 @@
   "total": 64,
   "offers": [
     {
+      "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages basée dans l'Aveyron (12)",
+      "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-basee-dans-l-Aveyron-12_pa268508.html",
+      "location": "",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
       "title": "CARREFOUR VOYAGES - Responsable d'agence H/F - CDI - (Belle Epine (94))",
       "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-Responsable-d-agence-H-F-CDI-Belle-Epine-94_pa268514.html",
       "location": "Thiais Belle Epine",
@@ -106,13 +113,6 @@
       "location": "Valence",
       "description": "",
       "pubDate": "27 Octobre"
-    },
-    {
-      "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages basée dans l'Aveyron (12)",
-      "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-basee-dans-l-Aveyron-12_pa268508.html",
-      "location": "",
-      "description": "",
-      "pubDate": "26 Octobre"
     },
     {
       "title": "LE GROUPE SALAUN - Forfaitiste Groupes H/F - CDI - (Quimper (29))",
@@ -451,5 +451,5 @@
       "pubDate": "4 Août"
     }
   ],
-  "scrapedAt": "2026-11-02T01:16:34.241Z"
+  "scrapedAt": "2026-11-02T13:05:56.800Z"
 }
