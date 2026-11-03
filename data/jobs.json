@@ -1,7 +1,21 @@
 {
   "success": true,
-  "total": 64,
+  "total": 66,
   "offers": [
+    {
+      "title": "GROUPE SALAÜN (SN AGENCES) - Conseiller voyages H/F - CDD - (Guingamp (22))",
+      "link": "https://www.tourmag.com/classifieds/GROUPE-SALAUN-SN-AGENCES-Conseiller-voyages-H-F-CDD-Guingamp-22_pa268520.html",
+      "location": "Guingamp 22 Guingamp",
+      "description": "",
+      "pubDate": "NEW 12:31"
+    },
+    {
+      "title": "GROUPE SALAÜN (SN AGENCES) - Conseiller voyages H/F - CDD - (Paimpol (22))",
+      "link": "https://www.tourmag.com/classifieds/GROUPE-SALAUN-SN-AGENCES-Conseiller-voyages-H-F-CDD-Paimpol-22_pa268519.html",
+      "location": "Paimpol 22 Paimpol",
+      "description": "",
+      "pubDate": "NEW 12:30"
+    },
     {
       "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages basée dans l'Aveyron (12)",
       "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-basee-dans-l-Aveyron-12_pa268508.html",
@@ -451,5 +465,5 @@
       "pubDate": "4 Août"
     }
   ],
-  "scrapedAt": "2026-11-03T03:50:03.861Z"
+  "scrapedAt": "2026-11-03T12:37:01.828Z"
 }
