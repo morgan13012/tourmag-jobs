@@ -1,17 +1,24 @@
 {
   "success": true,
-  "total": 66,
+  "total": 67,
   "offers": [
     {
-      "title": "GROUPE SALAÜN (SN AGENCES) - Conseiller voyages H/F - CDD - (Guingamp (22))",
-      "link": "https://www.tourmag.com/classifieds/GROUPE-SALAUN-SN-AGENCES-Conseiller-voyages-H-F-CDD-Guingamp-22_pa268520.html",
+      "title": "E-LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Strasbourg (67))",
+      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-de-voyages-H-F-CDI-Strasbourg-67_pa268521.html",
+      "location": "Strasbourg",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "GROUPE SALAÜN - Conseiller voyages H/F - CDD - (Guingamp (22))",
+      "link": "https://www.tourmag.com/classifieds/GROUPE-SALAUN-Conseiller-voyages-H-F-CDD-Guingamp-22_pa268520.html",
       "location": "Guingamp 22 Guingamp",
       "description": "",
       "pubDate": "NEW 12:31"
     },
     {
-      "title": "GROUPE SALAÜN (SN AGENCES) - Conseiller voyages H/F - CDD - (Paimpol (22))",
-      "link": "https://www.tourmag.com/classifieds/GROUPE-SALAUN-SN-AGENCES-Conseiller-voyages-H-F-CDD-Paimpol-22_pa268519.html",
+      "title": "GROUPE SALAÜN - Conseiller voyages H/F - CDD - (Paimpol (22))",
+      "link": "https://www.tourmag.com/classifieds/GROUPE-SALAUN-Conseiller-voyages-H-F-CDD-Paimpol-22_pa268519.html",
       "location": "Paimpol 22 Paimpol",
       "description": "",
       "pubDate": "NEW 12:30"
@@ -465,5 +472,5 @@
       "pubDate": "4 Août"
     }
   ],
-  "scrapedAt": "2026-11-03T12:37:01.828Z"
+  "scrapedAt": "2026-11-03T19:57:21.751Z"
 }
