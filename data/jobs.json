@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 67,
+  "total": 66,
   "offers": [
     {
       "title": "E-LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Strasbourg (67))",
@@ -463,14 +463,7 @@
       "location": "Paris",
       "description": "",
       "pubDate": "10 Août"
-    },
-    {
-      "title": "E-LECLERC VOYAGES - Responsable d'agence H/F - CDI - (Granville (50))",
-      "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-H-F-CDI-Granville-50_pa268368.html",
-      "location": "Granville",
-      "description": "",
-      "pubDate": "4 Août"
     }
   ],
-  "scrapedAt": "2026-11-03T19:57:21.751Z"
+  "scrapedAt": "2026-11-04T00:29:05.278Z"
 }
