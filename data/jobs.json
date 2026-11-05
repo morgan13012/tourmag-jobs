@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 69,
+  "total": 68,
   "offers": [
     {
       "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages basée dans l'Aveyron (12)",
@@ -190,13 +190,6 @@
       "location": "Paris",
       "description": "",
       "pubDate": "22 Octobre"
-    },
-    {
-      "title": "MONDE AUTHENTIQUE - Créateur(trice) de voyages confirmé(e) - CDI - (Paris 2e)",
-      "link": "https://www.tourmag.com/classifieds/MONDE-AUTHENTIQUE-Createur-trice-de-voyages-confirme-e-CDI-Paris-2e_pa268336.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "21 Octobre"
     },
     {
       "title": "NG TRAVEL - Commercial(e) – Agent(e) de réservation H/F - CDD - (Paris (75))",
@@ -486,5 +479,5 @@
       "pubDate": "10 Août"
     }
   ],
-  "scrapedAt": "2026-11-05T01:17:33.246Z"
+  "scrapedAt": "2026-11-05T12:55:57.129Z"
 }
