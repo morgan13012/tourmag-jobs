@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 68,
+  "total": 67,
   "offers": [
     {
       "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages basée dans l'Aveyron (12)",
@@ -388,13 +388,6 @@
       "pubDate": "2 Octobre"
     },
     {
-      "title": "AMPLITUDES - Technico-commercial(e) Tourisme Groupes H/F - CDI - (Toulouse (31))",
-      "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Technico-commercial-e-Tourisme-Groupes-H-F-CDI-Toulouse-31_pa268451.html",
-      "location": "Toulouse",
-      "description": "",
-      "pubDate": "29 Septembre"
-    },
-    {
       "title": "AMPLITUDES - Conseiller voyages H/F - CDI - (Paris 2e près d'Opéra)",
       "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Conseiller-voyages-H-F-CDI-Paris-2e-pres-d-Opera_pa268450.html",
       "location": "Paris",
@@ -479,5 +472,5 @@
       "pubDate": "10 Août"
     }
   ],
-  "scrapedAt": "2026-11-06T12:42:51.419Z"
+  "scrapedAt": "2026-11-06T19:50:44.064Z"
 }
