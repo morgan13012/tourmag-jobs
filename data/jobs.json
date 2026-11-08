@@ -1,7 +1,28 @@
 {
   "success": true,
-  "total": 67,
+  "total": 68,
   "offers": [
+    {
+      "title": "AMPLITUDES - Conseiller(e) Voyages spécialiste Afrique - CDI - (Paris (75))",
+      "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Conseiller-e-Voyages-specialiste-Afrique-CDI-Paris-75_pa268529.html",
+      "location": "Paris",
+      "description": "",
+      "pubDate": "6 Novembre"
+    },
+    {
+      "title": "AMPLITUDES - Conseiller voyages expert Business Travel H/F - CDI - (Toulouse (31))",
+      "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Conseiller-voyages-expert-Business-Travel-H-F-CDI-Toulouse-31_pa268528.html",
+      "location": "Toulouse",
+      "description": "",
+      "pubDate": "6 Novembre"
+    },
+    {
+      "title": "AMPLITUDES - Technico-commercial(e) Tourisme Groupes H/F - CDI - (Toulouse (31))",
+      "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Technico-commercial-e-Tourisme-Groupes-H-F-CDI-Toulouse-31_pa268527.html",
+      "location": "Toulouse",
+      "description": "",
+      "pubDate": "6 Novembre"
+    },
     {
       "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages basée dans l'Aveyron (12)",
       "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-basee-dans-l-Aveyron-12_pa268508.html",
@@ -388,20 +409,6 @@
       "pubDate": "2 Octobre"
     },
     {
-      "title": "AMPLITUDES - Conseiller voyages H/F - CDI - (Paris 2e près d'Opéra)",
-      "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Conseiller-voyages-H-F-CDI-Paris-2e-pres-d-Opera_pa268450.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "29 Septembre"
-    },
-    {
-      "title": "AMPLITUDES - Conseiller(e) Voyages spécialiste Iles (Océan Indien Caraïbes Polynésie) - CDI - (Bordeaux (33))",
-      "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Conseiller-e-Voyages-specialiste-Iles-Ocean-Indien-Caraibes-Polynesie-CDI-Bordeaux-33_pa268449.html",
-      "location": "Bordeaux",
-      "description": "",
-      "pubDate": "29 Septembre"
-    },
-    {
       "title": "A VENDRE CAUSE DEPART A LA RETRAITE - Agence de voyages avec bail basée à Paris 17e",
       "link": "https://www.tourmag.com/classifieds/A-VENDRE-CAUSE-DEPART-A-LA-RETRAITE-Agence-de-voyages-avec-bail-basee-a-Paris-17e_pa268417.html",
       "location": "Paris",
@@ -472,5 +479,5 @@
       "pubDate": "10 Août"
     }
   ],
-  "scrapedAt": "2026-11-08T17:37:44.930Z"
+  "scrapedAt": "2026-11-08T21:41:42.458Z"
 }
