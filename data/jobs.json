@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 68,
+  "total": 67,
   "offers": [
     {
       "title": "AMPLITUDES - Conseiller(e) Voyages spécialiste Afrique - CDI - (Paris (75))",
@@ -470,14 +470,7 @@
       "location": "Paris",
       "description": "",
       "pubDate": "24 Août"
-    },
-    {
-      "title": "NG TRAVEL - Assistant(e) Production - CDI - (Paris 2e)",
-      "link": "https://www.tourmag.com/classifieds/NG-TRAVEL-Assistant-e-Production-CDI-Paris-2e_pa268375.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "10 Août"
     }
   ],
-  "scrapedAt": "2026-11-09T13:37:12.429Z"
+  "scrapedAt": "2026-11-09T23:16:17.637Z"
 }
