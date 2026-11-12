@@ -3,6 +3,20 @@
   "total": 67,
   "offers": [
     {
+      "title": "VOYAGES PLUS - Technicien Billetiste Groupes H/F - CDI - (Ile de France)",
+      "link": "https://www.tourmag.com/classifieds/VOYAGES-PLUS-Technicien-Billetiste-Groupes-H-F-CDI-Ile-de-France_pa268464.html",
+      "location": "Ile de France",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "VOYAGES PLUS - Commerciaux Groupes H/F - CDI - (Ile de France et Est de la France)",
+      "link": "https://www.tourmag.com/classifieds/VOYAGES-PLUS-Commerciaux-Groupes-H-F-CDI-Ile-de-France-et-Est-de-la-France_pa268530.html",
+      "location": "",
+      "description": "",
+      "pubDate": "NEW 23:00"
+    },
+    {
       "title": "AMPLITUDES - Conseiller(e) Voyages spécialiste Afrique - CDI - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Conseiller-e-Voyages-specialiste-Afrique-CDI-Paris-75_pa268529.html",
       "location": "Paris",
@@ -367,20 +381,6 @@
       "pubDate": "6 Octobre"
     },
     {
-      "title": "VOYAGES PLUS - Commerciaux Groupes H/F - CDI - (Ile de France et Province)",
-      "link": "https://www.tourmag.com/classifieds/VOYAGES-PLUS-Commerciaux-Groupes-H-F-CDI-Ile-de-France-et-Province_pa268465.html",
-      "location": "Ile de France, Province",
-      "description": "",
-      "pubDate": "6 Octobre"
-    },
-    {
-      "title": "VOYAGES PLUS - Technicien Billetiste Groupes H/F - CDI - (Ile de France)",
-      "link": "https://www.tourmag.com/classifieds/VOYAGES-PLUS-Technicien-Billetiste-Groupes-H-F-CDI-Ile-de-France_pa268464.html",
-      "location": "Ile de France",
-      "description": "",
-      "pubDate": "6 Octobre"
-    },
-    {
       "title": "E-LECLERC VOYAGES - Responsable d'agence H/F - CDI - (Montayral (47))",
       "link": "https://www.tourmag.com/classifieds/E-LECLERC-VOYAGES-Responsable-d-agence-H-F-CDI-Montayral-47_pa268462.html",
       "location": "Montayral",
@@ -472,5 +472,5 @@
       "pubDate": "24 Août"
     }
   ],
-  "scrapedAt": "2026-11-12T01:52:19.940Z"
+  "scrapedAt": "2026-11-12T13:31:26.529Z"
 }
