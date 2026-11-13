@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 69,
+  "total": 71,
   "offers": [
     {
       "title": "FITOUR TRAVEL - Chef de produit H/F - CDI - (Brive-la-Gaillarde puis Malemort-en-Corrèze  (19))",
@@ -8,6 +8,20 @@
       "location": "Brive-la-Gaillarde 19 Brive-la-Gaillarde, Malemort-en-Corrèze",
       "description": "",
       "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "REFLETS D'AILLEURS - Assistant(e) Technique Groupes / Back-Office Tourisme - Stage - (Vincennes (94))",
+      "link": "https://www.tourmag.com/classifieds/REFLETS-D-AILLEURS-Assistant-e-Technique-Groupes-Back-Office-Tourisme-Stage-Vincennes-94_pa268535.html",
+      "location": "Vincennes 94 Vincennes",
+      "description": "",
+      "pubDate": "NEW 17:12"
+    },
+    {
+      "title": "COMPTOIR DES VOYAGES - Technicien Back-Office Voyage H/F - Stage - (Paris 5e (75))",
+      "link": "https://www.tourmag.com/classifieds/COMPTOIR-DES-VOYAGES-Technicien-Back-Office-Voyage-H-F-Stage-Paris-5e-75_pa268534.html",
+      "location": "Paris 5e  Paris",
+      "description": "",
+      "pubDate": "NEW 16:41"
     },
     {
       "title": "VOYAGE PRIVÉ - Business Developer Hôtels – 6 mois Master 2 (H/F) - Stage - (Aix-en-Provence (13))",
@@ -486,5 +500,5 @@
       "pubDate": "24 Août"
     }
   ],
-  "scrapedAt": "2026-11-13T12:51:42.438Z"
+  "scrapedAt": "2026-11-13T20:19:07.816Z"
 }
