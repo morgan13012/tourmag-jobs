@@ -1,10 +1,24 @@
 {
   "success": true,
-  "total": 67,
+  "total": 69,
   "offers": [
     {
-      "title": "VOYAGES PLUS - Technicien Billetiste Groupes H/F - CDI - (Ile de France)",
-      "link": "https://www.tourmag.com/classifieds/VOYAGES-PLUS-Technicien-Billetiste-Groupes-H-F-CDI-Ile-de-France_pa268464.html",
+      "title": "FITOUR TRAVEL - Chef de produit H/F - CDI - (Brive-la-Gaillarde puis Malemort-en-Corrèze  (19))",
+      "link": "https://www.tourmag.com/classifieds/FITOUR-TRAVEL-Chef-de-produit-H-F-CDI-Brive-la-Gaillarde-puis-Malemort-en-Correze-19_pa268532.html",
+      "location": "Brive-la-Gaillarde 19 Brive-la-Gaillarde, Malemort-en-Corrèze",
+      "description": "",
+      "pubDate": "NEW 23:30"
+    },
+    {
+      "title": "VOYAGE PRIVÉ - Business Developer Hôtels – 6 mois Master 2 (H/F) - Stage - (Aix-en-Provence (13))",
+      "link": "https://www.tourmag.com/classifieds/VOYAGE-PRIVE-Business-Developer-Hotels-6-mois-Master-2-H-F-Stage-Aix-en-Provence-13_pa268533.html",
+      "location": "Aix-en-Provence 13 Aix-en-Provence",
+      "description": "",
+      "pubDate": "NEW 00:00"
+    },
+    {
+      "title": "VOYAGES PLUS - Technicien Billettiste Groupes H/F - CDI - (Ile de France)",
+      "link": "https://www.tourmag.com/classifieds/VOYAGES-PLUS-Technicien-Billettiste-Groupes-H-F-CDI-Ile-de-France_pa268464.html",
       "location": "Ile de France",
       "description": "",
       "pubDate": "12 Novembre"
@@ -472,5 +486,5 @@
       "pubDate": "24 Août"
     }
   ],
-  "scrapedAt": "2026-11-13T02:23:03.651Z"
+  "scrapedAt": "2026-11-13T12:51:42.438Z"
 }
