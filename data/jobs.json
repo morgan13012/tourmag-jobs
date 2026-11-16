@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 71,
+  "total": 72,
   "offers": [
+    {
+      "title": "NOMADE AVENTURE - Assistant·e Community Manager H/F - Stage - (Paris (75))",
+      "link": "https://www.tourmag.com/classifieds/NOMADE-AVENTURE-Assistant·e-Community-Manager-H-F-Stage-Paris-75_pa268536.html",
+      "location": "Paris  Paris",
+      "description": "",
+      "pubDate": "NEW 12:15"
+    },
     {
       "title": "FITOUR TRAVEL - Chef de produit H/F - CDI - (Brive-la-Gaillarde puis Malemort-en-Corrèze  (19))",
       "link": "https://www.tourmag.com/classifieds/FITOUR-TRAVEL-Chef-de-produit-H-F-CDI-Brive-la-Gaillarde-puis-Malemort-en-Correze-19_pa268532.html",
@@ -500,5 +507,5 @@
       "pubDate": "24 Août"
     }
   ],
-  "scrapedAt": "2026-11-15T23:44:49.424Z"
+  "scrapedAt": "2026-11-16T13:21:30.614Z"
 }
