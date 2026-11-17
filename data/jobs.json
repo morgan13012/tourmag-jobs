@@ -1,76 +1,83 @@
 {
   "success": true,
-  "total": 72,
+  "total": 73,
   "offers": [
+    {
+      "title": "DECATHLON TRAVEL - Chargé.e de développement Partenariats/Business Developer - Stage - (Annecy)",
+      "link": "https://www.tourmag.com/classifieds/DECATHLON-TRAVEL-Charge-e-de-developpement-Partenariats-Business-Developer-Stage-Annecy_pa268538.html",
+      "location": "Annecy 74000 Annecy",
+      "description": "",
+      "pubDate": "NEW 14:09"
+    },
     {
       "title": "FITOUR TRAVEL - Chef de produit H/F - CDI - (Brive-la-Gaillarde puis Malemort-en-Corrèze  (19))",
       "link": "https://www.tourmag.com/classifieds/FITOUR-TRAVEL-Chef-de-produit-H-F-CDI-Brive-la-Gaillarde-puis-Malemort-en-Correze-19_pa268532.html",
-      "location": "Brive-la-Gaillarde 19 Brive-la-Gaillarde, Malemort-en-Corrèze",
+      "location": "Brive-la-Gaillarde 19100 Brive-la-Gaillarde, Malemort-en-Corrèze",
       "description": "",
-      "pubDate": "NEW 23:30"
+      "pubDate": "16 Novembre"
     },
     {
       "title": "VOYAGES PLUS - Commerciaux Groupes H/F - CDI - (Ile de France et Est de la France)",
       "link": "https://www.tourmag.com/classifieds/VOYAGES-PLUS-Commerciaux-Groupes-H-F-CDI-Ile-de-France-et-Est-de-la-France_pa268530.html",
       "location": "",
       "description": "",
-      "pubDate": "NEW 23:00"
+      "pubDate": "16 Novembre"
     },
     {
       "title": "VOYAGES PLUS - Technicien Billettiste Groupes H/F - CDI - (Ile de France)",
       "link": "https://www.tourmag.com/classifieds/VOYAGES-PLUS-Technicien-Billettiste-Groupes-H-F-CDI-Ile-de-France_pa268464.html",
       "location": "Ile de France",
       "description": "",
-      "pubDate": "NEW 23:00"
+      "pubDate": "16 Novembre"
     },
     {
       "title": "NOMADE AVENTURE - Assistant·e Community Manager H/F - Stage - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/NOMADE-AVENTURE-Assistant·e-Community-Manager-H-F-Stage-Paris-75_pa268536.html",
-      "location": "Paris  Paris",
+      "location": "Paris 75011 Paris",
       "description": "",
-      "pubDate": "NEW 12:15"
+      "pubDate": "16 Novembre"
     },
     {
       "title": "AMPLITUDES - Conseiller(e) Voyages spécialiste Afrique - CDI - (Paris (75))",
       "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Conseiller-e-Voyages-specialiste-Afrique-CDI-Paris-75_pa268529.html",
-      "location": "Paris",
+      "location": "75002 Paris",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "16 Novembre"
     },
     {
       "title": "AMPLITUDES - Conseiller voyages expert Business Travel H/F - CDI - (Toulouse (31))",
       "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Conseiller-voyages-expert-Business-Travel-H-F-CDI-Toulouse-31_pa268528.html",
-      "location": "Toulouse",
+      "location": "31000 Toulouse",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "16 Novembre"
     },
     {
       "title": "AMPLITUDES - Technico-commercial(e) Tourisme Groupes H/F - CDI - (Toulouse (31))",
       "link": "https://www.tourmag.com/classifieds/AMPLITUDES-Technico-commercial-e-Tourisme-Groupes-H-F-CDI-Toulouse-31_pa268527.html",
       "location": "Toulouse",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "16 Novembre"
     },
     {
       "title": "ACTION-SEJOURS - Directeur(trice) d’exploitation des séjours et voyages pour enfants et adolescents H/F - CDI - (Paris 14e (Montparnasse))",
       "link": "https://www.tourmag.com/classifieds/ACTION-SEJOURS-Directeur-trice-d-exploitation-des-sejours-et-voyages-pour-enfants-et-adolescents-H-F-CDI-Paris-14e_pa268524.html",
       "location": "Paris",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "16 Novembre"
     },
     {
       "title": "VERDIE VOYAGES - Responsable d'agence H/F - CDI - (Montpellier (34))",
       "link": "https://www.tourmag.com/classifieds/VERDIE-VOYAGES-Responsable-d-agence-H-F-CDI-Montpellier-34_pa268523.html",
       "location": "Montpellier",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "16 Novembre"
     },
     {
       "title": "VERDIE VOYAGES - Conseiller voyages H/F - CDI - (Cahors (46))",
       "link": "https://www.tourmag.com/classifieds/VERDIE-VOYAGES-Conseiller-voyages-H-F-CDI-Cahors-46_pa268522.html",
       "location": "Cahors",
       "description": "",
-      "pubDate": "NEW 00:00"
+      "pubDate": "16 Novembre"
     },
     {
       "title": "E-LECLERC VOYAGES - Responsable d'agence de voyages H/F - CDI - (Strasbourg (67))",
@@ -82,21 +89,21 @@
     {
       "title": "REFLETS D'AILLEURS - Assistant(e) Technique Groupes / Back-Office Tourisme - Stage - (Vincennes (94))",
       "link": "https://www.tourmag.com/classifieds/REFLETS-D-AILLEURS-Assistant-e-Technique-Groupes-Back-Office-Tourisme-Stage-Vincennes-94_pa268535.html",
-      "location": "Vincennes 94 Vincennes",
+      "location": "Vincennes 94304 Vincennes",
       "description": "",
       "pubDate": "13 Novembre"
     },
     {
       "title": "COMPTOIR DES VOYAGES - Technicien Back-Office Voyage H/F - Stage - (Paris 5e (75))",
       "link": "https://www.tourmag.com/classifieds/COMPTOIR-DES-VOYAGES-Technicien-Back-Office-Voyage-H-F-Stage-Paris-5e-75_pa268534.html",
-      "location": "Paris 5e  Paris",
+      "location": "Paris 5e 75005 Paris",
       "description": "",
       "pubDate": "13 Novembre"
     },
     {
       "title": "VOYAGE PRIVÉ - Business Developer Hôtels – 6 mois Master 2 (H/F) - Stage - (Aix-en-Provence (13))",
       "link": "https://www.tourmag.com/classifieds/VOYAGE-PRIVE-Business-Developer-Hotels-6-mois-Master-2-H-F-Stage-Aix-en-Provence-13_pa268533.html",
-      "location": "Aix-en-Provence 13 Aix-en-Provence",
+      "location": "Aix-en-Provence 13090 Aix-en-Provence",
       "description": "",
       "pubDate": "13 Novembre"
     },
@@ -507,5 +514,5 @@
       "pubDate": "24 Août"
     }
   ],
-  "scrapedAt": "2026-11-16T23:11:49.873Z"
+  "scrapedAt": "2026-11-17T14:06:37.527Z"
 }
