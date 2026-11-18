@@ -1,7 +1,28 @@
 {
   "success": true,
-  "total": 71,
+  "total": 74,
   "offers": [
+    {
+      "title": "NAUTIL - Responsable d'agence à Lille - CDI - (Marcq-en-Barœul (59))",
+      "link": "https://www.tourmag.com/classifieds/NAUTIL-Responsable-d-agence-a-Lille-CDI-Marcq-en-Baroeul-59_pa268541.html",
+      "location": "Marcq-en-Barœul 59700 Marcq-en-Barœul",
+      "description": "",
+      "pubDate": "19 Novembre"
+    },
+    {
+      "title": "NAUTIL - Chef(fe) de Produit Océan Indien - CDI - (Paris 17e)",
+      "link": "https://www.tourmag.com/classifieds/NAUTIL-Chef-fe-de-Produit-Ocean-Indien-CDI-Paris-17e_pa268540.html",
+      "location": "Paris 75017 Paris",
+      "description": "",
+      "pubDate": "19 Novembre"
+    },
+    {
+      "title": "NAUTIL - Conseiller(ère) Voyage – Spécialiste Amérique latine (Costa Rica, Mexique) - CDI - (Paris 17e, Bordeaux ou Lille)",
+      "link": "https://www.tourmag.com/classifieds/NAUTIL-Conseiller-ere-Voyage-Specialiste-Amerique-latine-Costa-Rica-Mexique-CDI-Paris-17e-Bordeaux-ou-Lille_pa268539.html",
+      "location": "Paris  Paris, Bordeaux, Lille",
+      "description": "",
+      "pubDate": "19 Novembre"
+    },
     {
       "title": "DECATHLON TRAVEL - Chargé.e de développement Partenariats/Business Developer - Stage - (Annecy)",
       "link": "https://www.tourmag.com/classifieds/DECATHLON-TRAVEL-Charge-e-de-developpement-Partenariats-Business-Developer-Stage-Annecy_pa268538.html",
@@ -500,5 +521,5 @@
       "pubDate": "24 Août"
     }
   ],
-  "scrapedAt": "2026-11-18T13:39:42.659Z"
+  "scrapedAt": "2026-11-18T21:42:11.766Z"
 }
