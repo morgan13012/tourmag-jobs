@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 74,
+  "total": 75,
   "offers": [
+    {
+      "title": "BELLE ALLURE - Assistant(e) production & opérations voyages vélo et randonnée - Stage - (Meylan (38))",
+      "link": "https://www.tourmag.com/classifieds/BELLE-ALLURE-Assistant-e-production-operations-voyages-velo-et-randonnee-Stage-Meylan-38_pa268542.html",
+      "location": "Meylan 38240 Meylan, Foix",
+      "description": "",
+      "pubDate": "NEW 10:02"
+    },
     {
       "title": "NAUTIL - Responsable d'agence à Lille - CDI - (Marcq-en-Barœul (59))",
       "link": "https://www.tourmag.com/classifieds/NAUTIL-Responsable-d-agence-a-Lille-CDI-Marcq-en-Baroeul-59_pa268541.html",
@@ -521,5 +528,5 @@
       "pubDate": "24 Août"
     }
   ],
-  "scrapedAt": "2026-11-19T02:56:10.384Z"
+  "scrapedAt": "2026-11-19T14:07:06.063Z"
 }
