@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 75,
+  "total": 74,
   "offers": [
     {
       "title": "BELLE ALLURE - Assistant(e) production & opérations voyages vélo et randonnée - Stage - (Meylan (38))",
@@ -519,14 +519,7 @@
       "location": "Paris",
       "description": "",
       "pubDate": "8 Septembre"
-    },
-    {
-      "title": "TABBAGH TRAVEL SERVICE - Commercial(e) Voyage Loisirs Groupes H/F - (Paris 17e)",
-      "link": "https://www.tourmag.com/classifieds/TABBAGH-TRAVEL-SERVICE-Commercial-e-Voyage-Loisirs-Groupes-H-F-Paris-17e_pa268397.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "24 Août"
     }
   ],
-  "scrapedAt": "2026-11-20T21:40:29.143Z"
+  "scrapedAt": "2026-11-21T02:58:28.155Z"
 }
