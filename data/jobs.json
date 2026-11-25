@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 74,
+  "total": 73,
   "offers": [
     {
       "title": "BELLE ALLURE - Assistant(e) production & opérations voyages vélo et randonnée - Stage - (Meylan (38))",
@@ -512,14 +512,7 @@
       "location": "Vincennes, Wasquehal",
       "description": "",
       "pubDate": "11 Septembre"
-    },
-    {
-      "title": "PRIVILEGES VOYAGES - Expert(e) en Voyages de Luxe sur-mesure - CDI - (Paris 8e)",
-      "link": "https://www.tourmag.com/classifieds/PRIVILEGES-VOYAGES-Expert-e-en-Voyages-de-Luxe-sur-mesure-CDI-Paris-8e_pa268398.html",
-      "location": "Paris",
-      "description": "",
-      "pubDate": "8 Septembre"
     }
   ],
-  "scrapedAt": "2026-11-24T15:31:34.548Z"
+  "scrapedAt": "2026-11-25T00:21:14.966Z"
 }
