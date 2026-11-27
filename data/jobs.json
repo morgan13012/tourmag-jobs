@@ -1,7 +1,14 @@
 {
   "success": true,
-  "total": 67,
+  "total": 68,
   "offers": [
+    {
+      "title": "CARREFOUR VOYAGES - 2 Conseiller(e)s voyages H/F - CDI - (Strasbourg (67))",
+      "link": "https://www.tourmag.com/classifieds/CARREFOUR-VOYAGES-2-Conseiller-e-s-voyages-H-F-CDI-Strasbourg-67_pa268546.html",
+      "location": "67000 Strasbourg",
+      "description": "",
+      "pubDate": "27 Novembre"
+    },
     {
       "title": "CATLANTE CATAMARANS - Conseiller(e) Voyages expérimenté(e) - CDI - (Saint-Cloud (92))",
       "link": "https://www.tourmag.com/classifieds/CATLANTE-CATAMARANS-Conseiller-e-Voyages-experimente-e-CDI-Saint-Cloud-92_pa268545.html",
@@ -472,5 +479,5 @@
       "pubDate": "11 Septembre"
     }
   ],
-  "scrapedAt": "2026-11-27T14:42:18.646Z"
+  "scrapedAt": "2026-11-27T23:13:51.479Z"
 }
